@@ -1,7 +1,9 @@
-import { Controller, Get, Query } from '@nestjs/common';
+import { Controller, Get } from '@nestjs/common';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
 import { SkipAuth } from '../../common/decorators/skip-auth.decorator';
-import { GetGreetingParamsDto } from './dto/get-greeting-params.dto';
+import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
+import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto';
+import { GreetingResponseDto } from './dto/greeting-response.dto';
 import { GreetingService } from './greeting.service';
 
 @ApiTags('greeting')
@@ -10,9 +12,23 @@ export class GreetingController {
   constructor(private readonly greetingService: GreetingService) {}
 
   @SkipAuth()
-  @ApiOkResponse({ schema: { example: { message: 'Hello, World!' } } })
+  @ApiOkResponse({ type: GreetingResponseDto })
   @Get()
-  getGreeting(@Query() params: GetGreetingParamsDto) {
-    return this.greetingService.getGreeting(params);
+  getGreeting(): GreetingResponseDto {
+    return this.greetingService.getGreeting();
+  }
+
+  @SkipAuth()
+  @ApiOkResponse({ type: GreetingMessageResponseDto })
+  @Get('message')
+  getMessage(): GreetingMessageResponseDto {
+    return this.greetingService.getMessage();
+  }
+
+  @SkipAuth()
+  @ApiOkResponse({ type: GreetingImageResponseDto })
+  @Get('image')
+  getImage(): GreetingImageResponseDto {
+    return this.greetingService.getImage();
   }
 }
