@@ -1,39 +1,61 @@
 import { Injectable } from '@nestjs/common';
-
-const MOCK_MESSAGES = [
-  'Îți doresc o zi minunată, plină de căldură, bucurie și tot ce te face să zâmbești.',
-  'La mulți ani! Fie ca fiecare zi să îți aducă liniște, iubire și momente de neuitat.',
-  'Gândurile mele bune sunt cu tine. Să ai parte de fericire și sănătate din plin!',
-  'Îți trimit cele mai calde urări și sper că ziua ta este la fel de frumoasă ca tine.',
-  'Să îți fie viața plină de culoare, râsete și oameni care te prețuiesc cu adevărat.',
-  'Cu drag îți urez tot ce e mai bun — sănătate, bucurie și vise împlinite!',
-  'Fie ca această zi să fie începutul celor mai frumoase momente din viața ta.',
-];
-
-const MOCK_IMAGE_URLS = [
-  'https://picsum.photos/seed/coffee/800/1200',
-  'https://picsum.photos/seed/cat/800/1200',
-  'https://picsum.photos/seed/eagle/800/1200',
-];
+import {
+  GreetingContext,
+  GreetingContextService,
+} from '../../providers/greeting-context/greeting-context.service';
+import {
+  OCCASION_IMAGE_URLS,
+  OCCASION_MESSAGES,
+  SEASON_TIME_IMAGE_URLS,
+  SEASON_TIME_MESSAGES,
+} from './greeting.constants';
 
 function pickRandom<T>(arr: T[]): T {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
+function pickImage(context: GreetingContext): string {
+  if (context.occasion) {
+    const occasionPool = OCCASION_IMAGE_URLS[context.occasion];
+    if (occasionPool) return pickRandom(occasionPool);
+  }
+  return pickRandom(SEASON_TIME_IMAGE_URLS[context.season][context.timeOfDay]);
+}
+
+function buildMessage(context: GreetingContext): string {
+  const seasonTimeMessage = pickRandom(
+    SEASON_TIME_MESSAGES[context.season][context.timeOfDay],
+  );
+  if (!context.occasion) return seasonTimeMessage;
+
+  const occasionPool = OCCASION_MESSAGES[context.occasion];
+  if (!occasionPool) return seasonTimeMessage;
+
+  const occasionMessage = pickRandom(occasionPool);
+  return `${occasionMessage} ${seasonTimeMessage}`;
+}
+
 @Injectable()
 export class GreetingService {
+  constructor(
+    private readonly greetingContextService: GreetingContextService,
+  ) {}
+
   getGreeting(): { message: string; imageUrl: string } {
+    const context = this.greetingContextService.getContext();
     return {
-      message: pickRandom(MOCK_MESSAGES),
-      imageUrl: pickRandom(MOCK_IMAGE_URLS),
+      message: buildMessage(context),
+      imageUrl: pickImage(context),
     };
   }
 
   getMessage(): { message: string } {
-    return { message: pickRandom(MOCK_MESSAGES) };
+    const context = this.greetingContextService.getContext();
+    return { message: buildMessage(context) };
   }
 
   getImage(): { imageUrl: string } {
-    return { imageUrl: pickRandom(MOCK_IMAGE_URLS) };
+    const context = this.greetingContextService.getContext();
+    return { imageUrl: pickImage(context) };
   }
 }
