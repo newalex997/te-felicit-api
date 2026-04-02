@@ -17,7 +17,7 @@ function pickRandom<T>(arr: T[]): T {
 function pickImage(context: GreetingContext): string {
   if (context.occasion) {
     const occasionPool = OCCASION_IMAGE_URLS[context.occasion];
-    if (occasionPool) return pickRandom(occasionPool);
+    if (occasionPool) return pickRandom(occasionPool[context.timeOfDay]);
   }
   return pickRandom(SEASON_TIME_IMAGE_URLS[context.season][context.timeOfDay]);
 }
@@ -43,6 +43,7 @@ export class GreetingService {
 
   getGreeting(): { message: string; imageUrl: string } {
     const context = this.greetingContextService.getContext();
+
     return {
       message: buildMessage(context),
       imageUrl: pickImage(context),
@@ -56,6 +57,7 @@ export class GreetingService {
 
   getImage(): { imageUrl: string } {
     const context = this.greetingContextService.getContext();
+
     return { imageUrl: pickImage(context) };
   }
 }

@@ -136,6 +136,7 @@ export class GreetingContextService {
     if (fixed) return fixed[2];
 
     const easter = this.orthodoxEasterGregorian(year);
+
     if (
       easter.month === month &&
       (easter.day === day || easter.day + 1 === day)
