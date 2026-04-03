@@ -6,7 +6,7 @@ import {
 } from '../../providers/greeting-context/greeting-context.service';
 import {
   OCCASION_IMAGE_URLS,
-  SEASON_TIME_IMAGE_URLS,
+  MONTH_TIME_IMAGE_URLS,
 } from './greeting.constants';
 
 function pickRandom<T>(arr: T[]): T {
@@ -18,7 +18,7 @@ function pickImage(context: GreetingContext): string {
     const occasionPool = OCCASION_IMAGE_URLS[context.occasion];
     if (occasionPool) return pickRandom(occasionPool[context.timeOfDay]);
   }
-  return pickRandom(SEASON_TIME_IMAGE_URLS[context.season][context.timeOfDay]);
+  return pickRandom(MONTH_TIME_IMAGE_URLS[context.month][context.timeOfDay]);
 }
 
 @Injectable()
@@ -61,6 +61,9 @@ export class GreetingService {
 
   getImage(): { imageUrl: string } {
     const context = this.greetingContextService.getContext();
-    return { imageUrl: pickImage(context) };
+    const imageUrl = pickImage(context);
+
+    console.log(`Selected image URL: ${imageUrl} for context:`, context);
+    return { imageUrl };
   }
 }

@@ -2,10 +2,24 @@ import { Injectable } from '@nestjs/common';
 
 export type TimeOfDay = 'morning' | 'afternoon' | 'evening' | 'night';
 export type Season = 'spring' | 'summer' | 'autumn' | 'winter';
+export type Month =
+  | 'january'
+  | 'february'
+  | 'march'
+  | 'april'
+  | 'may'
+  | 'june'
+  | 'july'
+  | 'august'
+  | 'september'
+  | 'october'
+  | 'november'
+  | 'december';
 
 export interface GreetingContext {
   timeOfDay: TimeOfDay;
   season: Season;
+  month: Month;
   occasion: string | null;
   occasionName: string | null;
   timezone: string;
@@ -53,6 +67,7 @@ export class GreetingContextService {
     return {
       timeOfDay: this.getTimeOfDay(local.hour),
       season: this.getSeason(local.month, local.day),
+      month: this.getMonth(local.month),
       occasion: occasion ?? null,
       occasionName: occasion ? OCCASION_NAMES[occasion] : null,
       timezone: resolvedTimezone,
@@ -125,6 +140,24 @@ export class GreetingContextService {
     )
       return 'autumn';
     return 'winter';
+  }
+
+  private getMonth(month: number): Month {
+    const months: Month[] = [
+      'january',
+      'february',
+      'march',
+      'april',
+      'may',
+      'june',
+      'july',
+      'august',
+      'september',
+      'october',
+      'november',
+      'december',
+    ];
+    return months[month - 1];
   }
 
   private detectOccasion(
