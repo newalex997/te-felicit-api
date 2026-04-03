@@ -1,0 +1,133 @@
+{
+  "season": {
+    "spring": {
+      "morning": [
+        "Bonjour ! Le parfum des fleurs de printemps vous souhaite une journée pleine d'énergie et de joie.",
+        "Bonjour ! Le printemps vous accueille avec de l'air frais et un doux soleil — passez une merveilleuse journée !",
+        "Bonjour ! Laissez la brise printanière vous apporter optimisme et vitalité pour la journée à venir."
+      ],
+      "afternoon": [
+        "Bonjour ! Le soleil de printemps accompagne votre après-midi de chaleur et de lumière.",
+        "Bonjour ! Laissez la brise printanière et les couleurs fleuries vous apporter de la joie cet après-midi.",
+        "Bonjour ! Le printemps montre toute sa splendeur — nous espérons que votre journée est tout aussi belle."
+      ],
+      "evening": [
+        "Bonsoir ! Le printemps a déployé ses couleurs aujourd'hui — une soirée agréable et paisible !",
+        "Bonsoir ! La soirée printanière vous apporte la tranquillité et le doux parfum des fleurs.",
+        "Bonsoir ! Que cette soirée de printemps vous apporte paix et sérénité."
+      ],
+      "night": [
+        "Bonne nuit ! Laissez le calme de la nuit printanière vous porter vers de beaux rêves.",
+        "Bonne nuit ! La nuit de printemps est douce — un repos béni et de doux rêves !",
+        "Bonne nuit ! Le chant des grillons de printemps vous souhaite un sommeil calme et reposant."
+      ]
+    },
+    "summer": {
+      "morning": [
+        "Bonjour ! Une journée d'été ensoleillée vous attend — profitez de chaque instant !",
+        "Bonjour ! Les rayons chauds du soleil d'été illuminent votre journée d'énergie et de bonne humeur.",
+        "Bonjour ! L'été vous offre une longue journée ensoleillée — savourez-la avec joie !"
+      ],
+      "afternoon": [
+        "Bonjour ! Nous espérons que vous profitez de cet après-midi chaud et ensoleillé d'été.",
+        "Bonjour ! La chaleur estivale apporte avec elle joies et beaux souvenirs — passez une belle journée !",
+        "Bonjour ! L'été bat son plein — nous espérons que cet après-midi ne vous apporte que des moments agréables."
+      ],
+      "evening": [
+        "Bonsoir ! Le coucher de soleil d'été peint le ciel de couleurs de feu — une soirée magique !",
+        "Bonsoir ! La fraîcheur de la soirée d'été est la bienvenue après une journée ensoleillée !",
+        "Bonsoir ! Les soirées d'été sont pleines de magie et de calme — savourez chaque moment."
+      ],
+      "night": [
+        "Bonne nuit ! La nuit d'été, avec ses étoiles brillantes, vous souhaite de doux rêves.",
+        "Bonne nuit ! Laissez la brise chaude de l'été vous apporter un sommeil calme et reposant.",
+        "Bonne nuit ! Sous le ciel étoilé de l'été, nous vous souhaitons un repos complet et de beaux rêves."
+      ]
+    },
+    "autumn": {
+      "morning": [
+        "Bonjour ! L'automne peint votre journée dans des tons d'or et de rouille — une matinée magnifique !",
+        "Bonjour ! L'air frais de l'automne vous apporte de l'énergie pour une journée productive et belle.",
+        "Bonjour ! L'automne a déroulé son tapis de feuilles dorées — une journée productive et joyeuse !"
+      ],
+      "afternoon": [
+        "Bonjour ! Les couleurs de l'automne rendent cet après-midi vraiment spécial et mémorable.",
+        "Bonjour ! Une promenade parmi les feuilles dorées de l'automne peut vous apporter beaucoup de joie aujourd'hui.",
+        "Bonjour ! L'automne habille le monde de couleurs chaudes — nous espérons que votre journée est tout aussi colorée."
+      ],
+      "evening": [
+        "Bonsoir ! L'automne apporte des soirées calmes et contemplatives — passez une belle soirée !",
+        "Bonsoir ! Que la soirée automnale vous apporte confort et paix intérieure.",
+        "Bonsoir ! Une soirée d'automne avec une tasse chaude et des moments précieux — exactement ce qu'il faut."
+      ],
+      "night": [
+        "Bonne nuit ! Les nuits fraîches d'automne sont parfaites pour un sommeil reposant — dormez bien !",
+        "Bonne nuit ! Laissez-vous bercer par la quiétude de la nuit automnale vers de beaux rêves.",
+        "Bonne nuit ! L'automne apporte des nuits longues et paisibles — un repos béni !"
+      ]
+    },
+    "winter": {
+      "morning": [
+        "Bonjour ! L'hiver a revêtu son manteau blanc — nous vous souhaitons une boisson chaude et une belle journée !",
+        "Bonjour ! Le froid de l'hiver ne peut pas geler la chaleur avec laquelle nous vous souhaitons une merveilleuse journée !",
+        "Bonjour ! Les cristaux de glace hivernaux brillent — une journée lumineuse et joyeuse !"
+      ],
+      "afternoon": [
+        "Bonjour ! Que la lumière du jour d'hiver vous apporte joie et chaleur du cœur.",
+        "Bonjour ! Nous vous souhaitons un après-midi d'hiver confortable, plein de chaleur et de moments précieux.",
+        "Bonjour ! L'hiver apporte avec lui une quiétude et une beauté particulières — bon après-midi !"
+      ],
+      "evening": [
+        "Bonsoir ! Une soirée d'hiver est parfaite pour des moments chaleureux avec vos proches.",
+        "Bonsoir ! Le feu et la tranquillité d'une soirée d'hiver vous souhaitent une soirée inoubliable.",
+        "Bonsoir ! Que cette soirée d'hiver vous apporte chaleur, bonne humeur et sérénité."
+      ],
+      "night": [
+        "Bonne nuit ! Les longues nuits d'hiver sont parfaites pour un repos profond — faites de beaux rêves !",
+        "Bonne nuit ! L'hiver couvre tout de silence — de beaux rêves et un repos béni !",
+        "Bonne nuit ! Sous la couverture blanche de l'hiver, nous vous souhaitons un sommeil paisible et des rêves chaleureux."
+      ]
+    }
+  },
+  "occasion": {
+    "new_year": [
+      "Bonne Année ! Que la nouvelle année vous apporte santé, bonheur et accomplissements.",
+      "Bonne Année ! Une nouvelle année, de nouveaux espoirs et de nouvelles joies !"
+    ],
+    "union_day": [
+      "Joyeux Jour de l'Union ! Vive la Roumanie unie !",
+      "Célébrons ensemble le Jour de l'Union avec fierté et gratitude."
+    ],
+    "easter": [
+      "Le Christ est ressuscité ! Nous vous souhaitons une sainte fête de Pâques pleine de lumière et de joie.",
+      "Joyeuses Pâques ! Que la résurrection apporte paix et joie dans votre foyer."
+    ],
+    "labour_day": [
+      "Bonne Fête du Travail ! Nous vous souhaitons une journée de repos et de détente bien méritée.",
+      "Bon 1er Mai ! Que votre travail soit toujours récompensé et apprécié."
+    ],
+    "childrens_day": [
+      "Bonne Journée de l'Enfance ! Préservons tous la pureté et la joie de l'enfance.",
+      "Nous vous souhaitons un 1er juin spécial ! Que la joie de l'enfance demeure toujours dans votre cœur."
+    ],
+    "assumption": [
+      "Joyeuse Assomption ! Paix et bénédictions dans votre foyer.",
+      "Nous vous souhaitons une sainte journée de l'Assomption, pleine de gratitude et de foi."
+    ],
+    "saint_andrew": [
+      "Bonne Saint-André, protecteur de la Roumanie !",
+      "Bonne fête à tous ceux qui portent le prénom André !"
+    ],
+    "national_day": [
+      "Joyeuse Fête Nationale de la Roumanie ! Vive la Roumanie !",
+      "Bon 1er Décembre ! Célébrons avec fierté la fête nationale de notre pays."
+    ],
+    "saint_nicholas": [
+      "Bonne Saint-Nicolas ! Que Saint Nicolas ne vous apporte que de merveilleux cadeaux."
+    ],
+    "christmas": [
+      "Joyeux Noël ! Que la naissance du Sauveur apporte paix et lumière dans votre âme.",
+      "Joyeuses Fêtes ! Passez de merveilleux moments avec vos proches, pleins de chaleur et de joie."
+    ]
+  }
+}

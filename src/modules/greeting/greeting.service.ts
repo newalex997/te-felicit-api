@@ -1,13 +1,12 @@
 import { Injectable } from '@nestjs/common';
+import { I18nService } from 'nestjs-i18n';
 import {
   GreetingContext,
   GreetingContextService,
 } from '../../providers/greeting-context/greeting-context.service';
 import {
   OCCASION_IMAGE_URLS,
-  OCCASION_MESSAGES,
   SEASON_TIME_IMAGE_URLS,
-  SEASON_TIME_MESSAGES,
 } from './greeting.constants';
 
 function pickRandom<T>(arr: T[]): T {
@@ -22,42 +21,46 @@ function pickImage(context: GreetingContext): string {
   return pickRandom(SEASON_TIME_IMAGE_URLS[context.season][context.timeOfDay]);
 }
 
-function buildMessage(context: GreetingContext): string {
-  const seasonTimeMessage = pickRandom(
-    SEASON_TIME_MESSAGES[context.season][context.timeOfDay],
-  );
-  if (!context.occasion) return seasonTimeMessage;
-
-  const occasionPool = OCCASION_MESSAGES[context.occasion];
-  if (!occasionPool) return seasonTimeMessage;
-
-  const occasionMessage = pickRandom(occasionPool);
-  return `${occasionMessage} ${seasonTimeMessage}`;
-}
-
 @Injectable()
 export class GreetingService {
   constructor(
     private readonly greetingContextService: GreetingContextService,
+    private readonly i18n: I18nService,
   ) {}
 
-  getGreeting(): { message: string; imageUrl: string } {
-    const context = this.greetingContextService.getContext();
+  private buildMessage(context: GreetingContext, lang: string): string {
+    const seasonMessages: string[] = this.i18n.t(
+      `greeting.season.${context.season}.${context.timeOfDay}`,
+      { lang },
+    );
+    const seasonTimeMessage = pickRandom(seasonMessages);
 
+    if (!context.occasion) return seasonTimeMessage;
+
+    const occasionMessages: string[] | null = this.i18n.t(
+      `greeting.occasion.${context.occasion}`,
+      { lang },
+    );
+    if (!occasionMessages?.length) return seasonTimeMessage;
+
+    return `${pickRandom(occasionMessages)} ${seasonTimeMessage}`;
+  }
+
+  getGreeting(lang: string): { message: string; imageUrl: string } {
+    const context = this.greetingContextService.getContext();
     return {
-      message: buildMessage(context),
+      message: this.buildMessage(context, lang),
       imageUrl: pickImage(context),
     };
   }
 
-  getMessage(): { message: string } {
+  getMessage(lang: string): { message: string } {
     const context = this.greetingContextService.getContext();
-    return { message: buildMessage(context) };
+    return { message: this.buildMessage(context, lang) };
   }
 
   getImage(): { imageUrl: string } {
     const context = this.greetingContextService.getContext();
-
     return { imageUrl: pickImage(context) };
   }
 }

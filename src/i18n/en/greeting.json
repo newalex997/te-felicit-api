@@ -1,0 +1,133 @@
+{
+  "season": {
+    "spring": {
+      "morning": [
+        "Good morning! The scent of spring flowers wishes you a day full of energy and joy.",
+        "Good morning! Spring greets you with fresh air and gentle sunshine — have a wonderful day!",
+        "Good morning! Let the spring breeze bring you optimism and vitality for the day ahead."
+      ],
+      "afternoon": [
+        "Good afternoon! The spring sun accompanies your afternoon with warmth and light.",
+        "Good afternoon! Let the spring breeze and blooming colors bring you joy this afternoon.",
+        "Good afternoon! Spring is showing its splendor — we hope your day is just as beautiful."
+      ],
+      "evening": [
+        "Good evening! Spring has spread its colors today — have a pleasant and peaceful evening!",
+        "Good evening! The spring evening brings tranquility and the sweet scent of flowers.",
+        "Good evening! May this spring evening bring you peace and contentment."
+      ],
+      "night": [
+        "Good night! Let the stillness of the spring night carry you toward beautiful dreams.",
+        "Good night! The spring night is gentle — blessed rest and sweet dreams!",
+        "Good night! The song of spring crickets wishes you a calm and restful sleep."
+      ]
+    },
+    "summer": {
+      "morning": [
+        "Good morning! A sunny summer day awaits you — enjoy every moment!",
+        "Good morning! The warm rays of the summer sun light up your day with energy and good spirits.",
+        "Good morning! Summer gives you a long, sunny day — make the most of it with joy!"
+      ],
+      "afternoon": [
+        "Good afternoon! We hope you're enjoying this warm and sunny summer afternoon.",
+        "Good afternoon! The summer warmth brings joys and beautiful memories — have a lovely day!",
+        "Good afternoon! Summer is in full swing — we hope this afternoon brings you only pleasant moments."
+      ],
+      "evening": [
+        "Good evening! The summer sunset paints the sky in fiery colors — a magical evening!",
+        "Good evening! The coolness of the summer evening is welcome after a sunny day — enjoy!",
+        "Good evening! Summer evenings are full of magic and calm — savor every moment."
+      ],
+      "night": [
+        "Good night! The summer night, with its shining stars, wishes you pleasant dreams.",
+        "Good night! Let the warm summer breeze bring you calm and restful sleep.",
+        "Good night! Under the starry summer sky, we wish you full rest and beautiful dreams."
+      ]
+    },
+    "autumn": {
+      "morning": [
+        "Good morning! Autumn paints your day in shades of gold and rust — a wonderful morning!",
+        "Good morning! The crisp autumn air brings energy for a productive and beautiful day.",
+        "Good morning! Autumn has rolled out its golden carpet of leaves — a fruitful and joyful day!"
+      ],
+      "afternoon": [
+        "Good afternoon! Autumn's colors make this afternoon truly special and memorable.",
+        "Good afternoon! A walk among autumn's golden leaves can bring much joy today.",
+        "Good afternoon! Autumn dresses the world in warm colors — we hope your day is just as colorful."
+      ],
+      "evening": [
+        "Good evening! Autumn brings quiet, contemplative evenings — have a pleasant one!",
+        "Good evening! May the autumn evening bring you comfort and peace of mind.",
+        "Good evening! An autumn evening with a warm cup and cherished moments — just right."
+      ],
+      "night": [
+        "Good night! Cool autumn nights are perfect for restful sleep — sleep well!",
+        "Good night! Let the stillness of the autumn night carry you to beautiful, restful dreams.",
+        "Good night! Autumn brings long, peaceful nights — blessed rest!"
+      ]
+    },
+    "winter": {
+      "morning": [
+        "Good morning! Winter has put on its white mantle — we wish you a warm drink and a beautiful day!",
+        "Good morning! Winter's cold cannot freeze the warmth with which we wish you a wonderful day!",
+        "Good morning! Winter's ice crystals are shining — a bright and joyful day!"
+      ],
+      "afternoon": [
+        "Good afternoon! May the winter daylight bring you joy and warmth of heart.",
+        "Good afternoon! We wish you a cozy winter afternoon, full of warmth and cherished moments.",
+        "Good afternoon! Winter brings its own stillness and beauty — a pleasant afternoon!"
+      ],
+      "evening": [
+        "Good evening! A winter evening is perfect for warm moments with loved ones.",
+        "Good evening! The glow and stillness of a winter evening wishes you an unforgettable night.",
+        "Good evening! May this winter evening bring you warmth, good cheer, and tranquility."
+      ],
+      "night": [
+        "Good night! Long winter nights are perfect for deep rest — sleep tight!",
+        "Good night! Winter covers everything in silence — beautiful dreams and blessed rest!",
+        "Good night! Under winter's white blanket, we wish you peaceful sleep and warm dreams."
+      ]
+    }
+  },
+  "occasion": {
+    "new_year": [
+      "Happy New Year! May the new year bring you health, happiness, and fulfillment.",
+      "Happy New Year! A new year, new hopes, and new joys!"
+    ],
+    "union_day": [
+      "Happy Union Day! Long live united Romania!",
+      "Let us celebrate Union Day together with pride and gratitude."
+    ],
+    "easter": [
+      "Christ is Risen! We wish you a Holy Easter full of light and joy.",
+      "Happy Easter! May the resurrection bring peace and joy to your home."
+    ],
+    "labour_day": [
+      "Happy Labour Day! We wish you a well-deserved day of rest and relaxation.",
+      "Happy 1st of May! May your work always be rewarded and appreciated."
+    ],
+    "childrens_day": [
+      "Happy Children's Day! May we all preserve the purity and joy of childhood.",
+      "We wish you a special day on the 1st of June! May the joy of childhood always live in your heart."
+    ],
+    "assumption": [
+      "Happy Assumption Day! Peace and blessings to your home.",
+      "We wish you a holy Assumption Day, full of gratitude and faith."
+    ],
+    "saint_andrew": [
+      "Happy Saint Andrew's Day, protector of Romania!",
+      "Happy name day to all who bear the name Andrew!"
+    ],
+    "national_day": [
+      "Happy National Day of Romania! Long live Romania!",
+      "Happy 1st of December! Let us proudly celebrate our country's national day."
+    ],
+    "saint_nicholas": [
+      "Happy Saint Nicholas Day! May Saint Nick bring you only wonderful gifts."
+    ],
+    "christmas": [
+      "Merry Christmas! May the birth of the Savior bring peace and light to your soul.",
+      "Happy Holidays! May you spend time with loved ones full of warmth and joy."
+    ]
+  }
+}

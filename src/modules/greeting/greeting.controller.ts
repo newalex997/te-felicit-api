@@ -1,5 +1,6 @@
 import { Controller, Get } from '@nestjs/common';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
+import { I18nLang } from 'nestjs-i18n';
 import { SkipAuth } from '../../common/decorators/skip-auth.decorator';
 import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
 import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto';
@@ -14,15 +15,15 @@ export class GreetingController {
   @SkipAuth()
   @ApiOkResponse({ type: GreetingResponseDto })
   @Get()
-  getGreeting(): GreetingResponseDto {
-    return this.greetingService.getGreeting();
+  getGreeting(@I18nLang() lang: string): GreetingResponseDto {
+    return this.greetingService.getGreeting(lang);
   }
 
   @SkipAuth()
   @ApiOkResponse({ type: GreetingMessageResponseDto })
   @Get('message')
-  getMessage(): GreetingMessageResponseDto {
-    return this.greetingService.getMessage();
+  getMessage(@I18nLang() lang: string): GreetingMessageResponseDto {
+    return this.greetingService.getMessage(lang);
   }
 
   @SkipAuth()

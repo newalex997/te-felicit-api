@@ -1,7 +1,0 @@
-{
-  "auth": {
-    "invalidCredentials": "Invalid email or password",
-    "tokenExpired": "Session expired, please sign in again",
-    "unauthorized": "Unauthorized"
-  }
-}

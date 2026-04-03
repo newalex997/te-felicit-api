@@ -1,0 +1,133 @@
+{
+  "season": {
+    "spring": {
+      "morning": [
+        "Buongiorno! Il profumo dei fiori primaverili ti augura una giornata piena di energia e gioia.",
+        "Buongiorno! La primavera ti accoglie con aria fresca e sole dolce — una meravigliosa giornata!",
+        "Buongiorno! Lascia che la brezza primaverile ti porti ottimismo e vitalità per la giornata."
+      ],
+      "afternoon": [
+        "Buon pomeriggio! Il sole di primavera accompagna il tuo pomeriggio con calore e luce.",
+        "Buon pomeriggio! Lascia che la brezza primaverile e i colori in fiore ti portino gioia questo pomeriggio.",
+        "Buon pomeriggio! La primavera mostra il suo splendore — speriamo che la tua giornata sia altrettanto bella."
+      ],
+      "evening": [
+        "Buonasera! La primavera ha spiegato i suoi colori oggi — una serata piacevole e tranquilla!",
+        "Buonasera! La serata primaverile ti porta tranquillità e il dolce profumo dei fiori.",
+        "Buonasera! Che questa serata primaverile ti porti pace e serenità."
+      ],
+      "night": [
+        "Buonanotte! Lascia che la quiete della notte primaverile ti porti verso bei sogni.",
+        "Buonanotte! La notte di primavera è dolce — riposo benedetto e sogni piacevoli!",
+        "Buonanotte! Il canto dei grilli primaverili ti augura un sonno calmo e riposante."
+      ]
+    },
+    "summer": {
+      "morning": [
+        "Buongiorno! Ti aspetta una soleggiata giornata estiva — goditi ogni momento!",
+        "Buongiorno! I caldi raggi del sole estivo illuminano la tua giornata con energia e buon umore.",
+        "Buongiorno! L'estate ti offre una lunga giornata soleggiata — vivila con gioia!"
+      ],
+      "afternoon": [
+        "Buon pomeriggio! Speriamo che tu stia godendo questo caldo e soleggiato pomeriggio estivo.",
+        "Buon pomeriggio! Il calore estivo porta con sé gioie e bei ricordi — una bella giornata!",
+        "Buon pomeriggio! L'estate è nel pieno — speriamo che questo pomeriggio ti porti solo momenti piacevoli."
+      ],
+      "evening": [
+        "Buonasera! Il tramonto estivo dipinge il cielo di colori di fuoco — una serata magica!",
+        "Buonasera! La frescura della serata estiva è benvenuta dopo una giornata soleggiata!",
+        "Buonasera! Le serate estive sono piene di magia e calma — goditi ogni momento."
+      ],
+      "night": [
+        "Buonanotte! La notte estiva, con le sue stelle brillanti, ti augura sogni piacevoli.",
+        "Buonanotte! Lascia che la calda brezza estiva ti porti un sonno calmo e riposante.",
+        "Buonanotte! Sotto il cielo stellato dell'estate, ti auguriamo riposo completo e bei sogni."
+      ]
+    },
+    "autumn": {
+      "morning": [
+        "Buongiorno! L'autunno dipinge la tua giornata in tonalità d'oro e ruggine — una mattina meravigliosa!",
+        "Buongiorno! L'aria fresca autunnale ti porta energia per una giornata produttiva e bella.",
+        "Buongiorno! L'autunno ha steso il suo tappeto di foglie dorate — una giornata proficua e gioiosa!"
+      ],
+      "afternoon": [
+        "Buon pomeriggio! I colori dell'autunno rendono questo pomeriggio davvero speciale e memorabile.",
+        "Buon pomeriggio! Una passeggiata tra le foglie dorate dell'autunno può portarti molta gioia oggi.",
+        "Buon pomeriggio! L'autunno veste il mondo di colori caldi — speriamo che anche la tua giornata sia altrettanto colorata."
+      ],
+      "evening": [
+        "Buonasera! L'autunno porta serate tranquille e contemplative — una piacevole serata!",
+        "Buonasera! Che la serata autunnale ti porti conforto e pace interiore.",
+        "Buonasera! Una serata autunnale con una tazza calda e momenti cari — proprio quello che ci vuole."
+      ],
+      "night": [
+        "Buonanotte! Le fresche notti autunnali sono perfette per un sonno riposante — dormi bene!",
+        "Buonanotte! Lasciati cullare dalla quiete della notte autunnale verso bei sogni.",
+        "Buonanotte! L'autunno porta notti lunghe e tranquille — riposo benedetto!"
+      ]
+    },
+    "winter": {
+      "morning": [
+        "Buongiorno! L'inverno ha indossato il suo mantello bianco — ti auguriamo una bevanda calda e una bella giornata!",
+        "Buongiorno! Il freddo invernale non può congelare il calore con cui ti auguriamo una meravigliosa giornata!",
+        "Buongiorno! I cristalli di ghiaccio invernali brillano — una giornata luminosa e piena di gioia!"
+      ],
+      "afternoon": [
+        "Buon pomeriggio! Che la luce del giorno invernale ti porti gioia e calore del cuore.",
+        "Buon pomeriggio! Ti auguriamo un pomeriggio invernale confortevole, pieno di calore e momenti cari.",
+        "Buon pomeriggio! L'inverno porta con sé una quiete e una bellezza particolari — un piacevole pomeriggio!"
+      ],
+      "evening": [
+        "Buonasera! Una serata invernale è perfetta per momenti caldi con i propri cari.",
+        "Buonasera! Il fuoco e la quiete di una serata invernale ti augurano una serata indimenticabile.",
+        "Buonasera! Che questa serata invernale ti porti calore, allegria e tranquillità."
+      ],
+      "night": [
+        "Buonanotte! Le lunghe notti invernali sono perfette per un riposo profondo — sogni d'oro!",
+        "Buonanotte! L'inverno copre tutto di silenzio — bei sogni e riposo benedetto!",
+        "Buonanotte! Sotto la coperta bianca dell'inverno, ti auguriamo un sonno tranquillo e sogni caldi."
+      ]
+    }
+  },
+  "occasion": {
+    "new_year": [
+      "Buon Anno! Che il nuovo anno ti porti salute, felicità e realizzazioni.",
+      "Buon Anno! Un nuovo anno, nuove speranze e nuove gioie!"
+    ],
+    "union_day": [
+      "Buon Giorno dell'Unione! Viva la Romania unita!",
+      "Celebriamo insieme il Giorno dell'Unione con orgoglio e gratitudine."
+    ],
+    "easter": [
+      "Cristo è Risorto! Ti auguriamo una Santa Pasqua piena di luce e gioia.",
+      "Buona Pasqua! Che la resurrezione porti pace e gioia nella tua casa."
+    ],
+    "labour_day": [
+      "Buona Festa del Lavoro! Ti auguriamo una giornata di riposo e relax ben meritata.",
+      "Buon 1° Maggio! Che il tuo lavoro sia sempre ricompensato e apprezzato."
+    ],
+    "childrens_day": [
+      "Buona Festa dei Bambini! Preserviamo tutti la purezza e la gioia dell'infanzia.",
+      "Ti auguriamo un 1° giugno speciale! Che la gioia dell'infanzia rimanga sempre nel tuo cuore."
+    ],
+    "assumption": [
+      "Buona Festa dell'Assunzione! Pace e benedizioni nella tua casa.",
+      "Ti auguriamo una santa giornata dell'Assunzione, piena di gratitudine e fede."
+    ],
+    "saint_andrew": [
+      "Buona Festa di Sant'Andrea, patrono della Romania!",
+      "Auguri a tutti coloro che portano il nome Andrea!"
+    ],
+    "national_day": [
+      "Buona Festa Nazionale della Romania! Viva la Romania!",
+      "Buon 1° Dicembre! Celebriamo con orgoglio la festa nazionale del nostro paese."
+    ],
+    "saint_nicholas": [
+      "Buona Festa di San Nicola! Che San Nicola ti porti solo meravigliosi doni."
+    ],
+    "christmas": [
+      "Buon Natale! Che la nascita del Salvatore porti pace e luce nella tua anima.",
+      "Buone Feste! Trascorri momenti pieni di calore e gioia con i tuoi cari."
+    ]
+  }
+}
