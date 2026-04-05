@@ -1,6 +1,7 @@
-import { ApiProperty } from '@nestjs/swagger';
+import { PickType } from '@nestjs/swagger';
+import { GreetingResponseDto } from './greeting-response.dto';
 
-export class GreetingMessageResponseDto {
-  @ApiProperty({ example: 'Îți doresc o zi minunată!' })
-  message: string;
-}
+export class GreetingMessageResponseDto extends PickType(GreetingResponseDto, [
+  'message',
+  'slogan',
+]) {}

@@ -8,6 +8,9 @@ import {
   OCCASION_IMAGE_URLS,
   MONTH_TIME_IMAGE_URLS,
 } from './greeting.constants';
+import { GreetingResponseDto } from './dto/greeting-response.dto';
+import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto';
+import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
 
 function pickRandom<T>(arr: T[]): T {
   return arr[Math.floor(Math.random() * arr.length)];
@@ -39,7 +42,7 @@ export class GreetingService {
   private buildGreeting(
     context: GreetingContext,
     lang: string,
-  ): { message: string; slogan: string | null } {
+  ): GreetingMessageResponseDto {
     const wk = weekKey(context.weekOfYear);
     const weekMessages = this.t(
       `greeting.weeks.${wk}.${context.timeOfDay}.messages`,
@@ -70,28 +73,31 @@ export class GreetingService {
     const allSlogans = [...weekSlogans, ...holidaySlogans];
 
     return {
-      message: allMessages.length ? pickRandom(allMessages) : '',
-      slogan: allSlogans.length ? pickRandom(allSlogans) : null,
+      message: pickRandom(allMessages),
+      slogan: pickRandom(allSlogans),
     };
   }
 
-  getGreeting(lang: string): {
-    message: string;
-    slogan: string | null;
-    imageUrl: string;
-  } {
+  getGreeting(lang: string): GreetingResponseDto {
     const context = this.greetingContextService.getContext();
     const { message, slogan } = this.buildGreeting(context, lang);
-    return { message, slogan, imageUrl: pickImage(context) };
+
+    return {
+      message,
+      slogan,
+      imageUrl: pickImage(context),
+    };
   }
 
-  getMessage(lang: string): { message: string; slogan: string | null } {
+  getMessage(lang: string): GreetingMessageResponseDto {
     const context = this.greetingContextService.getContext();
+
     return this.buildGreeting(context, lang);
   }
 
-  getImage(): { imageUrl: string } {
+  getImage(): GreetingImageResponseDto {
     const context = this.greetingContextService.getContext();
+
     return { imageUrl: pickImage(context) };
   }
 }

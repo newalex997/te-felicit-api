@@ -1,6 +1,6 @@
-import { ApiProperty } from '@nestjs/swagger';
+import { PickType } from '@nestjs/swagger';
+import { GreetingResponseDto } from './greeting-response.dto';
 
-export class GreetingImageResponseDto {
-  @ApiProperty({ example: 'https://picsum.photos/seed/coffee/800/1200' })
-  imageUrl: string;
-}
+export class GreetingImageResponseDto extends PickType(GreetingResponseDto, [
+  'imageUrl',
+]) {}
