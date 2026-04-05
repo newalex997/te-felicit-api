@@ -23,6 +23,8 @@ export interface GreetingContext {
   occasion: string | null;
   occasionName: string | null;
   timezone: string;
+  weekOfYear: number;
+  weekPeriod: string;
 }
 
 const DEFAULT_TIMEZONE = 'Europe/Bucharest';
@@ -64,6 +66,8 @@ export class GreetingContextService {
 
     const occasion = this.detectOccasion(local.year, local.month, local.day);
 
+    const weekOfYear = this.getWeekOfYear(local.year, local.month, local.day);
+
     return {
       timeOfDay: this.getTimeOfDay(local.hour),
       season: this.getSeason(local.month, local.day),
@@ -71,6 +75,8 @@ export class GreetingContextService {
       occasion: occasion ?? null,
       occasionName: occasion ? OCCASION_NAMES[occasion] : null,
       timezone: resolvedTimezone,
+      weekOfYear,
+      weekPeriod: this.getWeekPeriod(weekOfYear),
     };
   }
 
@@ -178,6 +184,32 @@ export class GreetingContextService {
     }
 
     return null;
+  }
+
+  private getWeekOfYear(year: number, month: number, day: number): number {
+    const date = new Date(Date.UTC(year, month - 1, day));
+    const dayOfWeek = date.getUTCDay() || 7;
+    date.setUTCDate(date.getUTCDate() + 4 - dayOfWeek);
+    const yearStart = new Date(Date.UTC(date.getUTCFullYear(), 0, 1));
+    return Math.ceil(
+      ((date.getTime() - yearStart.getTime()) / 86400000 + 1) / 7,
+    );
+  }
+
+  private getWeekPeriod(week: number): string {
+    if (week <= 2) return 'sfantul_ion';
+    if (week <= 6) return 'miezul_iernii';
+    if (week <= 9) return 'dragobete_martishor';
+    if (week <= 12) return 'primavara_timpurie';
+    if (week <= 15) return 'paste_florii';
+    if (week <= 21) return 'primavara_tarzie';
+    if (week <= 25) return 'vara_devreme';
+    if (week <= 31) return 'vara_deplina';
+    if (week <= 35) return 'sfanta_maria';
+    if (week <= 39) return 'toamna_devreme';
+    if (week <= 43) return 'toamna_bogata';
+    if (week <= 48) return 'toamna_tarzie';
+    return 'advent';
   }
 
   /**

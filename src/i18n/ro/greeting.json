@@ -1,133 +1,2074 @@
 {
-  "season": {
-    "spring": {
-      "morning": [
-        "Bună dimineața! Parfumul florilor de primăvară îți urează o zi plină de energie și bucurie.",
-        "Bună dimineața! Primăvara te întâmpină cu aer proaspăt și soare blând — zi minunată!",
-        "Bună dimineața! Lasă briza de primăvară să îți aducă optimism și vitalitate pentru ziua ce urmează."
-      ],
-      "afternoon": [
-        "Bună ziua! Soarele de primăvară îți însoțește după-amiaza cu căldură și lumină.",
-        "Bună ziua! Lasă briza primăvăratică și culorile înfloririi să îți aducă bucurie în această după-amiază.",
-        "Bună ziua! Primăvara își arată splendoarea — sperăm că ziua ta este la fel de frumoasă."
-      ],
-      "evening": [
-        "Bună seara! Primăvara și-a desfășurat culorile astăzi — seară plăcută și liniștită!",
-        "Bună seara! Seara de primăvară îți aduce liniște și mirosul dulce al florilor.",
-        "Bună seara! Fie ca seara aceasta de primăvară să îți aducă pace și mulțumire sufletească."
-      ],
-      "night": [
-        "Noapte bună! Lasă liniștea nopții de primăvară să te poarte spre vise frumoase.",
-        "Noapte bună! Noaptea de primăvară este blândă — odihnă binecuvântată și vise plăcute!",
-        "Noapte bună! Cântecul greierilor de primăvară îți urează un somn liniștit și odihnitor."
-      ]
+  "weeks": {
+    "week_01": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Noul an a adus cu el speranțe proaspete și un început plin de lumină — zi binecuvântată!",
+          "Boboteaza sfințește apele și sufletele — o dimineață de iarnă curată și senină.",
+          "Primele zile ale anului sunt ca o pagină albă — scrie-le cu grijă și bucurie!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Iarna lui Sfântul Ion aduce răcoare și liniște — după-amiază tihnită și binecuvântată.",
+          "Noul an e tânăr și plin de promisiuni — o după-amiază bună pentru planuri și vise.",
+          "Fie ca zilele acestui an să fie pline de bucurii și împliniri — după-amiază plăcută!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Serile de iarnă ale lui Sfântul Ion sunt lungi și liniștite — seară caldă alături de cei dragi.",
+          "Noul an a început — fie ca fiecare seară să te găsească cu sufletul împăcat.",
+          "Iarna sfântă a Bobotezei aduce pace și binecuvântare — seară liniștită!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Sub cerul rece al lui Ianuarie, visele sunt calde și pline de nădejde — somn ușor!",
+          "Nopțile lungi de iarnă ale noului an sunt perfecte pentru odihnă adâncă.",
+          "Sfântul Ion veghează asupra nopții de iarnă — somn liniștit și binecuvântat!"
+        ]
+      }
     },
-    "summer": {
-      "morning": [
-        "Bună dimineața! O zi de vară însorită te așteaptă — bucură-te de fiecare clipă!",
-        "Bună dimineața! Razele calde ale soarelui de vară îți luminează ziua cu energie și voie bună.",
-        "Bună dimineața! Vara îți oferă o zi lungă și însorită — folosește-o cu bucurie!"
-      ],
-      "afternoon": [
-        "Bună ziua! Sperăm că te bucuri de această după-amiază caldă și însorită de vară.",
-        "Bună ziua! Căldura verii aduce cu ea bucurii și amintiri frumoase — zi plăcută!",
-        "Bună ziua! Vara este în toi — sperăm că după-amiaza aceasta îți aduce numai momente plăcute."
-      ],
-      "evening": [
-        "Bună seara! Apusul de vară îți pictează cerul în culori de foc — seară magică!",
-        "Bună seara! Răcoarea serii de vară este binevenită după o zi însorită — seară plăcută!",
-        "Bună seara! Serile de vară sunt pline de magie și liniște — bucură-te de fiecare moment."
-      ],
-      "night": [
-        "Noapte bună! Noaptea de vară, cu stelele ei strălucitoare, îți urează vise plăcute.",
-        "Noapte bună! Lasă briza caldă de vară să îți aducă somn liniștit și odihnitor.",
-        "Noapte bună! Sub cerul înstelat al verii, îți dorim odihnă deplină și vise frumoase."
-      ]
+    "week_02": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Noul an a adus cu el speranțe proaspete și un început plin de lumină — zi binecuvântată!",
+          "Boboteaza sfințește apele și sufletele — o dimineață de iarnă curată și senină.",
+          "Primele zile ale anului sunt ca o pagină albă — scrie-le cu grijă și bucurie!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Iarna lui Sfântul Ion aduce răcoare și liniște — după-amiază tihnită și binecuvântată.",
+          "Noul an e tânăr și plin de promisiuni — o după-amiază bună pentru planuri și vise.",
+          "Fie ca zilele acestui an să fie pline de bucurii și împliniri — după-amiază plăcută!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Serile de iarnă ale lui Sfântul Ion sunt lungi și liniștite — seară caldă alături de cei dragi.",
+          "Noul an a început — fie ca fiecare seară să te găsească cu sufletul împăcat.",
+          "Iarna sfântă a Bobotezei aduce pace și binecuvântare — seară liniștită!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani!", "An Nou cu bine!", "Bucurie în noul an!"],
+        "messages": [
+          "Sub cerul rece al lui Ianuarie, visele sunt calde și pline de nădejde — somn ușor!",
+          "Nopțile lungi de iarnă ale noului an sunt perfecte pentru odihnă adâncă.",
+          "Sfântul Ion veghează asupra nopții de iarnă — somn liniștit și binecuvântat!"
+        ]
+      }
     },
-    "autumn": {
-      "morning": [
-        "Bună dimineața! Toamna îți pictează ziua în culori de aur și rugină — dimineață minunată!",
-        "Bună dimineața! Aerul proaspăt de toamnă îți aduce energie pentru o zi productivă și frumoasă.",
-        "Bună dimineața! Toamna și-a desfășurat covorul de frunze aurii — zi cu spor și bucurie!"
-      ],
-      "afternoon": [
-        "Bună ziua! Culorile toamnei fac această după-amiază cu totul specială și memorabilă.",
-        "Bună ziua! O plimbare printre frunzele aurii de toamnă îți poate aduce multă bucurie astăzi.",
-        "Bună ziua! Toamna îmbracă lumea în culori calde — sperăm că și ziua ta este la fel de colorată."
-      ],
-      "evening": [
-        "Bună seara! Toamna aduce seri liniștite și contemplative — seară plăcută!",
-        "Bună seara! Fie ca seara de toamnă să îți aducă confort și pace sufletească.",
-        "Bună seara! O seară de toamnă cu o ceașcă caldă și momente dragi — exact ce trebuie."
-      ],
-      "night": [
-        "Noapte bună! Nopțile răcoroase de toamnă sunt perfecte pentru un somn odihnitor — noapte bună!",
-        "Noapte bună! Lasă-te legănat de liniștea nopții de toamnă spre vise frumoase și odihnitoare.",
-        "Noapte bună! Toamna aduce nopți lungi și liniștite — odihnă binecuvântată!"
-      ]
+    "week_03": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Gerul de Gerar nu poate răci căldura cu care îți dorim o zi frumoasă!",
+          "Îngheț și zăpadă afară, dar în casă e cald și bine — dimineață plăcută!",
+          "Ursul a ieșit la lumină de Stretenie — poate că primăvara nu mai e departe!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Soarele de iarnă strălucește scurt și puternic — bucură-te de fiecare rază!",
+          "La Stretenie vedem câtă iarnă mai avem — după-amiază de iarnă adevărată!",
+          "Zăpada curată de Februarie acoperă câmpiile — după-amiază tihnită!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Serile de Gerar sunt lungi, perfecte pentru poveștile de lângă sobă.",
+          "Frigul iernii adevărate îți amintește că primăvara va fi cu atât mai dulce.",
+          "O seară de iarnă cu flori de gheață pe ferestre și căldură înăuntru — seară minunată!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Ger și stele pe cerul nopții de iarnă — somn cald și vise frumoase!",
+          "Nopțile de Gerar sunt lungi și liniștite — odihnă adâncă și binecuvântată!",
+          "Sub plapuma de zăpadă a iernii, pământul se odihnește — și tu odihnește-te bine!"
+        ]
+      }
     },
-    "winter": {
-      "morning": [
-        "Bună dimineața! Iarna și-a pus mantia albă — un ceai cald și o zi frumoasă îți dorim!",
-        "Bună dimineața! Frigul iernii nu poate înghița căldura cu care îți dorim o zi minunată!",
-        "Bună dimineața! Cristalele de gheață ale iernii strălucesc — zi luminoasă și plină de bucurie!"
-      ],
-      "afternoon": [
-        "Bună ziua! Fie ca lumina zilei de iarnă să îți aducă bucurie și căldură sufletească.",
-        "Bună ziua! Îți dorim o după-amiază de iarnă confortabilă, plină de căldură și momente dragi.",
-        "Bună ziua! Iarna aduce cu ea liniște și frumusețe aparte — după-amiază plăcută!"
-      ],
-      "evening": [
-        "Bună seara! Seara de iarnă este perfectă pentru momente calde alături de cei dragi.",
-        "Bună seara! Focul și liniștea unei seri de iarnă îți urează o seară de neuitat.",
-        "Bună seara! Fie ca seara aceasta de iarnă să îți aducă căldură, voie bună și tihnă."
-      ],
-      "night": [
-        "Noapte bună! Nopțile lungi de iarnă sunt perfecte pentru odihnă adâncă — somn ușor!",
-        "Noapte bună! Iarna acoperă totul în liniște — vise frumoase și odihnă binecuvântată!",
-        "Noapte bună! Sub plapuma albă a iernii, îți dorim un somn liniștit și vise calde."
-      ]
+    "week_04": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Gerul de Gerar nu poate răci căldura cu care îți dorim o zi frumoasă!",
+          "Îngheț și zăpadă afară, dar în casă e cald și bine — dimineață plăcută!",
+          "Ursul a ieșit la lumină de Stretenie — poate că primăvara nu mai e departe!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Soarele de iarnă strălucește scurt și puternic — bucură-te de fiecare rază!",
+          "La Stretenie vedem câtă iarnă mai avem — după-amiază de iarnă adevărată!",
+          "Zăpada curată de Februarie acoperă câmpiile — după-amiază tihnită!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Serile de Gerar sunt lungi, perfecte pentru poveștile de lângă sobă.",
+          "Frigul iernii adevărate îți amintește că primăvara va fi cu atât mai dulce.",
+          "O seară de iarnă cu flori de gheață pe ferestre și căldură înăuntru — seară minunată!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Ger și stele pe cerul nopții de iarnă — somn cald și vise frumoase!",
+          "Nopțile de Gerar sunt lungi și liniștite — odihnă adâncă și binecuvântată!",
+          "Sub plapuma de zăpadă a iernii, pământul se odihnește — și tu odihnește-te bine!"
+        ]
+      }
+    },
+    "week_05": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Gerul de Gerar nu poate răci căldura cu care îți dorim o zi frumoasă!",
+          "Îngheț și zăpadă afară, dar în casă e cald și bine — dimineață plăcută!",
+          "Ursul a ieșit la lumină de Stretenie — poate că primăvara nu mai e departe!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Soarele de iarnă strălucește scurt și puternic — bucură-te de fiecare rază!",
+          "La Stretenie vedem câtă iarnă mai avem — după-amiază de iarnă adevărată!",
+          "Zăpada curată de Februarie acoperă câmpiile — după-amiază tihnită!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Serile de Gerar sunt lungi, perfecte pentru poveștile de lângă sobă.",
+          "Frigul iernii adevărate îți amintește că primăvara va fi cu atât mai dulce.",
+          "O seară de iarnă cu flori de gheață pe ferestre și căldură înăuntru — seară minunată!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Ger și stele pe cerul nopții de iarnă — somn cald și vise frumoase!",
+          "Nopțile de Gerar sunt lungi și liniștite — odihnă adâncă și binecuvântată!",
+          "Sub plapuma de zăpadă a iernii, pământul se odihnește — și tu odihnește-te bine!"
+        ]
+      }
+    },
+    "week_06": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Gerul de Gerar nu poate răci căldura cu care îți dorim o zi frumoasă!",
+          "Îngheț și zăpadă afară, dar în casă e cald și bine — dimineață plăcută!",
+          "Ursul a ieșit la lumină de Stretenie — poate că primăvara nu mai e departe!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Soarele de iarnă strălucește scurt și puternic — bucură-te de fiecare rază!",
+          "La Stretenie vedem câtă iarnă mai avem — după-amiază de iarnă adevărată!",
+          "Zăpada curată de Februarie acoperă câmpiile — după-amiază tihnită!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Serile de Gerar sunt lungi, perfecte pentru poveștile de lângă sobă.",
+          "Frigul iernii adevărate îți amintește că primăvara va fi cu atât mai dulce.",
+          "O seară de iarnă cu flori de gheață pe ferestre și căldură înăuntru — seară minunată!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Ger și stele pe cerul nopții de iarnă — somn cald și vise frumoase!",
+          "Nopțile de Gerar sunt lungi și liniștite — odihnă adâncă și binecuvântată!",
+          "Sub plapuma de zăpadă a iernii, pământul se odihnește — și tu odihnește-te bine!"
+        ]
+      }
+    },
+    "week_07": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Gerul de Gerar nu poate răci căldura cu care îți dorim o zi frumoasă!",
+          "Îngheț și zăpadă afară, dar în casă e cald și bine — dimineață plăcută!",
+          "Ursul a ieșit la lumină de Stretenie — poate că primăvara nu mai e departe!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Soarele de iarnă strălucește scurt și puternic — bucură-te de fiecare rază!",
+          "La Stretenie vedem câtă iarnă mai avem — după-amiază de iarnă adevărată!",
+          "Zăpada curată de Februarie acoperă câmpiile — după-amiază tihnită!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Serile de Gerar sunt lungi, perfecte pentru poveștile de lângă sobă.",
+          "Frigul iernii adevărate îți amintește că primăvara va fi cu atât mai dulce.",
+          "O seară de iarnă cu flori de gheață pe ferestre și căldură înăuntru — seară minunată!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Iarnă grea, primăvară bună!", "Căldură la inimi, chiar dacă-i ger afară!"],
+        "messages": [
+          "Ger și stele pe cerul nopții de iarnă — somn cald și vise frumoase!",
+          "Nopțile de Gerar sunt lungi și liniștite — odihnă adâncă și binecuvântată!",
+          "Sub plapuma de zăpadă a iernii, pământul se odihnește — și tu odihnește-te bine!"
+        ]
+      }
+    },
+    "week_08": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața, cu flori de mărțișor!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!", "Primăvara bate la ușă!"],
+        "messages": [
+          "Dragobetele, sărbătoarea iubirii românești, îți urează o zi plină de dragoste și bucurie.",
+          "Mărțișorul aduce cu el primele semne ale primăverii — o dimineață nouă și înflorită!",
+          "Alb și roșu, iarnă și primăvară — Mărțișorul leagă sufletele de speranță."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!", "Primăvara bate la ușă!"],
+        "messages": [
+          "De Dragobete, dragostea românească prinde aripi — după-amiază cu inima caldă!",
+          "Mărțișorul prins la piept îți aduce sănătate și noroc toată primăvara.",
+          "Primele ghiocei și Mărțișorul la piept — primăvara bate la ușă!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!", "Primăvara bate la ușă!"],
+        "messages": [
+          "O seară de Dragobete e plină de romantism și tradiții românești — seară fermecată!",
+          "Mărțișorul de la piept strălucește în lumina serii — seară dulce și plină de speranță.",
+          "Sfârșitul lui Februarie aduce primele sufluri de primăvară — seară minunată!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!"],
+        "messages": [
+          "Noaptea de Dragobete e blândă și plină de iubire — vise romantice și frumoase!",
+          "Mărțișorul a adus norocul cu el — somn liniștit și noapte bineventată!",
+          "Alb și roșu în noapte — iarna cedează locul primăverii, pas cu pas."
+        ]
+      }
+    },
+    "week_09": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața, cu flori de mărțișor!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!", "Primăvara bate la ușă!"],
+        "messages": [
+          "Dragobetele, sărbătoarea iubirii românești, îți urează o zi plină de dragoste și bucurie.",
+          "Mărțișorul aduce cu el primele semne ale primăverii — o dimineață nouă și înflorită!",
+          "Alb și roșu, iarnă și primăvară — Mărțișorul leagă sufletele de speranță."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!", "Primăvara bate la ușă!"],
+        "messages": [
+          "De Dragobete, dragostea românească prinde aripi — după-amiază cu inima caldă!",
+          "Mărțișorul prins la piept îți aduce sănătate și noroc toată primăvara.",
+          "Primele ghiocei și Mărțișorul la piept — primăvara bate la ușă!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!", "Primăvara bate la ușă!"],
+        "messages": [
+          "O seară de Dragobete e plină de romantism și tradiții românești — seară fermecată!",
+          "Mărțișorul de la piept strălucește în lumina serii — seară dulce și plină de speranță.",
+          "Sfârșitul lui Februarie aduce primele sufluri de primăvară — seară minunată!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La mulți ani de Dragobete!", "Mărțișor cu bucurie!", "Dragoste și primăvară!"],
+        "messages": [
+          "Noaptea de Dragobete e blândă și plină de iubire — vise romantice și frumoase!",
+          "Mărțișorul a adus norocul cu el — somn liniștit și noapte bineventată!",
+          "Alb și roșu în noapte — iarna cedează locul primăverii, pas cu pas."
+        ]
+      }
+    },
+    "week_10": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Mucenicii aduc cu ei mirosul de primăvară și tradiția colăceilor însiropați.",
+          "Primăvara timidă se trezește — ghiocei, boare caldă și speranțe noi.",
+          "Câmpurile încep să înverzească — o dimineață de Martie plină de promisiuni!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "De Sfinții 40 de Mucenici, gospodinele frământă colăcei — tradiție dulce și aromată.",
+          "Soarele de Mărțișor se ridică tot mai sus — după-amiaza prinde viață și culoare.",
+          "Primăvara timpurie aduce bucurii simple: un ciripit de pasăre, un fir de iarbă verde."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Serile se mai lungesc — semn bun că primăvara și-a intrat în drepturi.",
+          "Mirosul pământului dezghețat îți anunță că natura se trezește la viață.",
+          "O seară de Martie — mai răcoroasă, dar plină de nădejde și lumină."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Primăvara a sosit!", "Muguri și speranță!"],
+        "messages": [
+          "Nopțile de Mărțișor sunt încă răcoroase, dar stelele strălucesc de primăvară.",
+          "Primăvara adoarme și ea — mâine va fi și mai frumoasă.",
+          "Mucenicii veghează — somn sfânt și vise de primăvară!"
+        ]
+      }
+    },
+    "week_11": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Mucenicii aduc cu ei mirosul de primăvară și tradiția colăceilor însiropați.",
+          "Primăvara timidă se trezește — ghiocei, boare caldă și speranțe noi.",
+          "Câmpurile încep să înverzească — o dimineață de Martie plină de promisiuni!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "De Sfinții 40 de Mucenici, gospodinele frământă colăcei — tradiție dulce și aromată.",
+          "Soarele de Mărțișor se ridică tot mai sus — după-amiaza prinde viață și culoare.",
+          "Primăvara timpurie aduce bucurii simple: un ciripit de pasăre, un fir de iarbă verde."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Serile se mai lungesc — semn bun că primăvara și-a intrat în drepturi.",
+          "Mirosul pământului dezghețat îți anunță că natura se trezește la viață.",
+          "O seară de Martie — mai răcoroasă, dar plină de nădejde și lumină."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Primăvara a sosit!", "Muguri și speranță!"],
+        "messages": [
+          "Nopțile de Mărțișor sunt încă răcoroase, dar stelele strălucesc de primăvară.",
+          "Primăvara adoarme și ea — mâine va fi și mai frumoasă.",
+          "Mucenicii veghează — somn sfânt și vise de primăvară!"
+        ]
+      }
+    },
+    "week_12": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Mucenicii aduc cu ei mirosul de primăvară și tradiția colăceilor însiropați.",
+          "Primăvara timidă se trezește — ghiocei, boare caldă și speranțe noi.",
+          "Câmpurile încep să înverzească — o dimineață de Martie plină de promisiuni!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "De Sfinții 40 de Mucenici, gospodinele frământă colăcei — tradiție dulce și aromată.",
+          "Soarele de Mărțișor se ridică tot mai sus — după-amiaza prinde viață și culoare.",
+          "Primăvara timpurie aduce bucurii simple: un ciripit de pasăre, un fir de iarbă verde."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Serile se mai lungesc — semn bun că primăvara și-a intrat în drepturi.",
+          "Mirosul pământului dezghețat îți anunță că natura se trezește la viață.",
+          "O seară de Martie — mai răcoroasă, dar plină de nădejde și lumină."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Primăvara a sosit!", "Muguri și speranță!"],
+        "messages": [
+          "Nopțile de Mărțișor sunt încă răcoroase, dar stelele strălucesc de primăvară.",
+          "Primăvara adoarme și ea — mâine va fi și mai frumoasă.",
+          "Mucenicii veghează — somn sfânt și vise de primăvară!"
+        ]
+      }
+    },
+    "week_13": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Mucenicii aduc cu ei mirosul de primăvară și tradiția colăceilor însiropați.",
+          "Primăvara timidă se trezește — ghiocei, boare caldă și speranțe noi.",
+          "Câmpurile încep să înverzească — o dimineață de Martie plină de promisiuni!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "De Sfinții 40 de Mucenici, gospodinele frământă colăcei — tradiție dulce și aromată.",
+          "Soarele de Mărțișor se ridică tot mai sus — după-amiaza prinde viață și culoare.",
+          "Primăvara timpurie aduce bucurii simple: un ciripit de pasăre, un fir de iarbă verde."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Primăvara a sosit!", "Muguri și speranță!", "Zi cu spor!"],
+        "messages": [
+          "Serile se mai lungesc — semn bun că primăvara și-a intrat în drepturi.",
+          "Mirosul pământului dezghețat îți anunță că natura se trezește la viață.",
+          "O seară de Martie — mai răcoroasă, dar plină de nădejde și lumină."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Primăvara a sosit!", "Muguri și speranță!"],
+        "messages": [
+          "Nopțile de Mărțișor sunt încă răcoroase, dar stelele strălucesc de primăvară.",
+          "Primăvara adoarme și ea — mâine va fi și mai frumoasă.",
+          "Mucenicii veghează — somn sfânt și vise de primăvară!"
+        ]
+      }
+    },
+    "week_14": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de primăvară!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Floriile umple bisericile cu ramuri de salcie — o dimineață sfântă și liniștită.",
+          "Primăvara sfântă a Paștelui aduce lumină și reînnoire — dimineață binecuvântată!",
+          "Ouăle încondeiate și mirosul de cozonac — Paștele ne cheamă la bucurie și credință."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "De Florii, copiii duc ramuri de salcie la biserică — tradiție vie și frumoasă.",
+          "Primăvara Paștelui înflorește — lumina și speranța vin odată cu Învierea.",
+          "Pregătirile de Paști umplu casele de mirosuri sfinte și activitate plăcută."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Slujba de Florii lasă în urmă o pace sufletească aparte — seară binecuvântată.",
+          "Lumânările de Paști pâlpâie în seara sfântă — seară de lumină și credință.",
+          "Seara din Săptămâna Patimilor e plină de reculegere și gând curat."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Clopotele de Paști răsună în noapte — somn plin de pace și binecuvântare.",
+          "Să te odihnești binecuvântat în noaptea acestei primăveri sfinte.",
+          "Lumina pascală veghează — somn liniștit și vise curate."
+        ]
+      }
+    },
+    "week_15": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de primăvară!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Floriile umple bisericile cu ramuri de salcie — o dimineață sfântă și liniștită.",
+          "Primăvara sfântă a Paștelui aduce lumină și reînnoire — dimineață binecuvântată!",
+          "Ouăle încondeiate și mirosul de cozonac — Paștele ne cheamă la bucurie și credință."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "De Florii, copiii duc ramuri de salcie la biserică — tradiție vie și frumoasă.",
+          "Primăvara Paștelui înflorește — lumina și speranța vin odată cu Învierea.",
+          "Pregătirile de Paști umplu casele de mirosuri sfinte și activitate plăcută."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Slujba de Florii lasă în urmă o pace sufletească aparte — seară binecuvântată.",
+          "Lumânările de Paști pâlpâie în seara sfântă — seară de lumină și credință.",
+          "Seara din Săptămâna Patimilor e plină de reculegere și gând curat."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Clopotele de Paști răsună în noapte — somn plin de pace și binecuvântare.",
+          "Să te odihnești binecuvântat în noaptea acestei primăveri sfinte.",
+          "Lumina pascală veghează — somn liniștit și vise curate."
+        ]
+      }
+    },
+    "week_16": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de primăvară!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Floriile umple bisericile cu ramuri de salcie — o dimineață sfântă și liniștită.",
+          "Primăvara sfântă a Paștelui aduce lumină și reînnoire — dimineață binecuvântată!",
+          "Ouăle încondeiate și mirosul de cozonac — Paștele ne cheamă la bucurie și credință."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "De Florii, copiii duc ramuri de salcie la biserică — tradiție vie și frumoasă.",
+          "Primăvara Paștelui înflorește — lumina și speranța vin odată cu Învierea.",
+          "Pregătirile de Paști umplu casele de mirosuri sfinte și activitate plăcută."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Slujba de Florii lasă în urmă o pace sufletească aparte — seară binecuvântată.",
+          "Lumânările de Paști pâlpâie în seara sfântă — seară de lumină și credință.",
+          "Seara din Săptămâna Patimilor e plină de reculegere și gând curat."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Clopotele de Paști răsună în noapte — somn plin de pace și binecuvântare.",
+          "Să te odihnești binecuvântat în noaptea acestei primăveri sfinte.",
+          "Lumina pascală veghează — somn liniștit și vise curate."
+        ]
+      }
+    },
+    "week_17": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de primăvară!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Floriile umple bisericile cu ramuri de salcie — o dimineață sfântă și liniștită.",
+          "Primăvara sfântă a Paștelui aduce lumină și reînnoire — dimineață binecuvântată!",
+          "Ouăle încondeiate și mirosul de cozonac — Paștele ne cheamă la bucurie și credință."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "De Florii, copiii duc ramuri de salcie la biserică — tradiție vie și frumoasă.",
+          "Primăvara Paștelui înflorește — lumina și speranța vin odată cu Învierea.",
+          "Pregătirile de Paști umplu casele de mirosuri sfinte și activitate plăcută."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Slujba de Florii lasă în urmă o pace sufletească aparte — seară binecuvântată.",
+          "Lumânările de Paști pâlpâie în seara sfântă — seară de lumină și credință.",
+          "Seara din Săptămâna Patimilor e plină de reculegere și gând curat."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Florii binecuvântate!", "Lumină și Înviere!", "Paște cu pace în suflet!"],
+        "messages": [
+          "Clopotele de Paști răsună în noapte — somn plin de pace și binecuvântare.",
+          "Să te odihnești binecuvântat în noaptea acestei primăveri sfinte.",
+          "Lumina pascală veghează — somn liniștit și vise curate."
+        ]
+      }
+    },
+    "week_18": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Primăvara e în plină splendoare — mirosul liliacului și zumzetul albinelor te întâmpină.",
+          "Florile de câmp și mierea florilor de tei — o dimineață de mai fără seamăn!",
+          "Înălțarea Domnului aduce cu ea lumina primăverii depline — zi sfântă și luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua cu flori!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Florile de câmp și mireasma teilor îți însoțesc frumos această după-amiază de mai.",
+          "1 Mai e ziua ieșitului la iarbă verde — picnic, voie bună și soare blând.",
+          "Primăvara târzie îți oferă zile lungi și calde — bucură-te de fiecare clipă!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Serile de mai sunt fermecate — greierii, florile și aerul cald îți urează seară bună.",
+          "Apusul de primăvară colorează cerul în tonuri calde — seară magnifică!",
+          "Fie ca seara aceasta de primăvară să te găsească odihnindu-te bucuros."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "1 Mai Fericit!", "Primăvara e a noastră!"],
+        "messages": [
+          "Nopțile de mai sunt scurte și blânde — somn ușor și vise înflorite!",
+          "Greierul cântă de primăvară — noapte liniștită și plăcută.",
+          "Primăvara îți oferă nopți senine și blânde — odihnă binecuvântată!"
+        ]
+      }
+    },
+    "week_19": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Primăvara e în plină splendoare — mirosul liliacului și zumzetul albinelor te întâmpină.",
+          "Florile de câmp și mierea florilor de tei — o dimineață de mai fără seamăn!",
+          "Înălțarea Domnului aduce cu ea lumina primăverii depline — zi sfântă și luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua cu flori!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Florile de câmp și mireasma teilor îți însoțesc frumos această după-amiază de mai.",
+          "1 Mai e ziua ieșitului la iarbă verde — picnic, voie bună și soare blând.",
+          "Primăvara târzie îți oferă zile lungi și calde — bucură-te de fiecare clipă!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Serile de mai sunt fermecate — greierii, florile și aerul cald îți urează seară bună.",
+          "Apusul de primăvară colorează cerul în tonuri calde — seară magnifică!",
+          "Fie ca seara aceasta de primăvară să te găsească odihnindu-te bucuros."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "1 Mai Fericit!", "Primăvara e a noastră!"],
+        "messages": [
+          "Nopțile de mai sunt scurte și blânde — somn ușor și vise înflorite!",
+          "Greierul cântă de primăvară — noapte liniștită și plăcută.",
+          "Primăvara îți oferă nopți senine și blânde — odihnă binecuvântată!"
+        ]
+      }
+    },
+    "week_20": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Primăvara e în plină splendoare — mirosul liliacului și zumzetul albinelor te întâmpină.",
+          "Florile de câmp și mierea florilor de tei — o dimineață de mai fără seamăn!",
+          "Înălțarea Domnului aduce cu ea lumina primăverii depline — zi sfântă și luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua cu flori!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Florile de câmp și mireasma teilor îți însoțesc frumos această după-amiază de mai.",
+          "1 Mai e ziua ieșitului la iarbă verde — picnic, voie bună și soare blând.",
+          "Primăvara târzie îți oferă zile lungi și calde — bucură-te de fiecare clipă!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Serile de mai sunt fermecate — greierii, florile și aerul cald îți urează seară bună.",
+          "Apusul de primăvară colorează cerul în tonuri calde — seară magnifică!",
+          "Fie ca seara aceasta de primăvară să te găsească odihnindu-te bucuros."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "1 Mai Fericit!", "Primăvara e a noastră!"],
+        "messages": [
+          "Nopțile de mai sunt scurte și blânde — somn ușor și vise înflorite!",
+          "Greierul cântă de primăvară — noapte liniștită și plăcută.",
+          "Primăvara îți oferă nopți senine și blânde — odihnă binecuvântată!"
+        ]
+      }
+    },
+    "week_21": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Primăvara e în plină splendoare — mirosul liliacului și zumzetul albinelor te întâmpină.",
+          "Florile de câmp și mierea florilor de tei — o dimineață de mai fără seamăn!",
+          "Înălțarea Domnului aduce cu ea lumina primăverii depline — zi sfântă și luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua cu flori!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Florile de câmp și mireasma teilor îți însoțesc frumos această după-amiază de mai.",
+          "1 Mai e ziua ieșitului la iarbă verde — picnic, voie bună și soare blând.",
+          "Primăvara târzie îți oferă zile lungi și calde — bucură-te de fiecare clipă!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "1 Mai Fericit!", "Primăvara e a noastră!", "Zi minunată de mai!"],
+        "messages": [
+          "Serile de mai sunt fermecate — greierii, florile și aerul cald îți urează seară bună.",
+          "Apusul de primăvară colorează cerul în tonuri calde — seară magnifică!",
+          "Fie ca seara aceasta de primăvară să te găsească odihnindu-te bucuros."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "1 Mai Fericit!", "Primăvara e a noastră!"],
+        "messages": [
+          "Nopțile de mai sunt scurte și blânde — somn ușor și vise înflorite!",
+          "Greierul cântă de primăvară — noapte liniștită și plăcută.",
+          "Primăvara îți oferă nopți senine și blânde — odihnă binecuvântată!"
+        ]
+      }
+    },
+    "week_22": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Soarele de vară se ridică devreme — o dimineață caldă și luminoasă te așteaptă!",
+          "De 1 Iunie, copilul din noi se trezește odată cu vara — zi cu bucurie și joacă!",
+          "Sânzienele au împodobit câmpurile cu flori galbene — un început de vară magic!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Căldura de Sânziene aduce miros de ierburi și flori — după-amiază de vară deplină.",
+          "Vara a sosit cu toată strălucirea ei — o zi de vară adevărată, caldă și luminoasă.",
+          "De Drăgaică, fetele împletesc cununi de flori — o tradiție veche și frumoasă."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de vară!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Serile de Sânziene sunt fermecate — legendele spun că plantele au puteri tămăduitoare.",
+          "Vara devreme aduce seri calde și lungi — seară plăcută în aerul proaspăt!",
+          "Apusul de Iunie colorează cerul în portocaliu și roz — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Noaptea de Sânziene e magică și plină de mister — somn ușor și vise frumoase!",
+          "Vara scurtează nopțile și le umple de stele — noapte senină și plăcută.",
+          "Sânzienele veghează în noapte — somn liniștit și binecuvântat!"
+        ]
+      }
+    },
+    "week_23": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Soarele de vară se ridică devreme — o dimineață caldă și luminoasă te așteaptă!",
+          "De 1 Iunie, copilul din noi se trezește odată cu vara — zi cu bucurie și joacă!",
+          "Sânzienele au împodobit câmpurile cu flori galbene — un început de vară magic!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Căldura de Sânziene aduce miros de ierburi și flori — după-amiază de vară deplină.",
+          "Vara a sosit cu toată strălucirea ei — o zi de vară adevărată, caldă și luminoasă.",
+          "De Drăgaică, fetele împletesc cununi de flori — o tradiție veche și frumoasă."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de vară!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Serile de Sânziene sunt fermecate — legendele spun că plantele au puteri tămăduitoare.",
+          "Vara devreme aduce seri calde și lungi — seară plăcută în aerul proaspăt!",
+          "Apusul de Iunie colorează cerul în portocaliu și roz — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Noaptea de Sânziene e magică și plină de mister — somn ușor și vise frumoase!",
+          "Vara scurtează nopțile și le umple de stele — noapte senină și plăcută.",
+          "Sânzienele veghează în noapte — somn liniștit și binecuvântat!"
+        ]
+      }
+    },
+    "week_24": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Soarele de vară se ridică devreme — o dimineață caldă și luminoasă te așteaptă!",
+          "De 1 Iunie, copilul din noi se trezește odată cu vara — zi cu bucurie și joacă!",
+          "Sânzienele au împodobit câmpurile cu flori galbene — un început de vară magic!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Căldura de Sânziene aduce miros de ierburi și flori — după-amiază de vară deplină.",
+          "Vara a sosit cu toată strălucirea ei — o zi de vară adevărată, caldă și luminoasă.",
+          "De Drăgaică, fetele împletesc cununi de flori — o tradiție veche și frumoasă."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de vară!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Serile de Sânziene sunt fermecate — legendele spun că plantele au puteri tămăduitoare.",
+          "Vara devreme aduce seri calde și lungi — seară plăcută în aerul proaspăt!",
+          "Apusul de Iunie colorează cerul în portocaliu și roz — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Noaptea de Sânziene e magică și plină de mister — somn ușor și vise frumoase!",
+          "Vara scurtează nopțile și le umple de stele — noapte senină și plăcută.",
+          "Sânzienele veghează în noapte — somn liniștit și binecuvântat!"
+        ]
+      }
+    },
+    "week_25": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Soarele de vară se ridică devreme — o dimineață caldă și luminoasă te așteaptă!",
+          "De 1 Iunie, copilul din noi se trezește odată cu vara — zi cu bucurie și joacă!",
+          "Sânzienele au împodobit câmpurile cu flori galbene — un început de vară magic!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Căldura de Sânziene aduce miros de ierburi și flori — după-amiază de vară deplină.",
+          "Vara a sosit cu toată strălucirea ei — o zi de vară adevărată, caldă și luminoasă.",
+          "De Drăgaică, fetele împletesc cununi de flori — o tradiție veche și frumoasă."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de vară!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Serile de Sânziene sunt fermecate — legendele spun că plantele au puteri tămăduitoare.",
+          "Vara devreme aduce seri calde și lungi — seară plăcută în aerul proaspăt!",
+          "Apusul de Iunie colorează cerul în portocaliu și roz — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Noaptea de Sânziene e magică și plină de mister — somn ușor și vise frumoase!",
+          "Vara scurtează nopțile și le umple de stele — noapte senină și plăcută.",
+          "Sânzienele veghează în noapte — somn liniștit și binecuvântat!"
+        ]
+      }
+    },
+    "week_26": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Soarele de vară se ridică devreme — o dimineață caldă și luminoasă te așteaptă!",
+          "De 1 Iunie, copilul din noi se trezește odată cu vara — zi cu bucurie și joacă!",
+          "Sânzienele au împodobit câmpurile cu flori galbene — un început de vară magic!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Vara a sosit!", "Sânziene cu noroc!", "1 Iunie Fericit!"],
+        "messages": [
+          "Căldura de Sânziene aduce miros de ierburi și flori — după-amiază de vară deplină.",
+          "Vara a sosit cu toată strălucirea ei — o zi de vară adevărată, caldă și luminoasă.",
+          "De Drăgaică, fetele împletesc cununi de flori — o tradiție veche și frumoasă."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de vară!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Serile de Sânziene sunt fermecate — legendele spun că plantele au puteri tămăduitoare.",
+          "Vara devreme aduce seri calde și lungi — seară plăcută în aerul proaspăt!",
+          "Apusul de Iunie colorează cerul în portocaliu și roz — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vara a sosit!", "Sânziene cu noroc!"],
+        "messages": [
+          "Noaptea de Sânziene e magică și plină de mister — somn ușor și vise frumoase!",
+          "Vara scurtează nopțile și le umple de stele — noapte senină și plăcută.",
+          "Sânzienele veghează în noapte — somn liniștit și binecuvântat!"
+        ]
+      }
+    },
+    "week_27": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Vara e în toi — soarele răsare devreme și îți aduce o zi lungă și caldă!",
+          "De Sfântul Ilie, tunetele curăță aerul — dimineață proaspătă și plină de energie.",
+          "Cireșele, caisele și pepenii — vara deplină aduce daruri bogate ale pământului."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de vară!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Căldura verii de amiază îți aduce poftă de umbră, apă rece și timp liber.",
+          "Sfântul Ilie colindă cerul cu carul de foc — respectă natura și bucură-te de zi.",
+          "Vara în toi înseamnă zile lungi, soare generos și amintiri de neuitat."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Serile de vară deplină sunt răcoroase și pline de muzică și voie bună.",
+          "Apusul de Iulie este spectaculos — bucură-te de fiecare culoare a cerului.",
+          "O seară de vară cu prieteni și povești — ce mai poți dori?"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vară cu bucurie!", "Soare și belșug!"],
+        "messages": [
+          "Noaptea de vară e scurtă și caldă — somn ușor sub cerul înstelat.",
+          "Licuricii dansează în grădini — noapte fermecată și plăcută.",
+          "Vara te îmbie la odihnă sub stele — noapte senină și liniștită!"
+        ]
+      }
+    },
+    "week_28": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Vara e în toi — soarele răsare devreme și îți aduce o zi lungă și caldă!",
+          "De Sfântul Ilie, tunetele curăță aerul — dimineață proaspătă și plină de energie.",
+          "Cireșele, caisele și pepenii — vara deplină aduce daruri bogate ale pământului."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de vară!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Căldura verii de amiază îți aduce poftă de umbră, apă rece și timp liber.",
+          "Sfântul Ilie colindă cerul cu carul de foc — respectă natura și bucură-te de zi.",
+          "Vara în toi înseamnă zile lungi, soare generos și amintiri de neuitat."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Serile de vară deplină sunt răcoroase și pline de muzică și voie bună.",
+          "Apusul de Iulie este spectaculos — bucură-te de fiecare culoare a cerului.",
+          "O seară de vară cu prieteni și povești — ce mai poți dori?"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vară cu bucurie!", "Soare și belșug!"],
+        "messages": [
+          "Noaptea de vară e scurtă și caldă — somn ușor sub cerul înstelat.",
+          "Licuricii dansează în grădini — noapte fermecată și plăcută.",
+          "Vara te îmbie la odihnă sub stele — noapte senină și liniștită!"
+        ]
+      }
+    },
+    "week_29": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Vara e în toi — soarele răsare devreme și îți aduce o zi lungă și caldă!",
+          "De Sfântul Ilie, tunetele curăță aerul — dimineață proaspătă și plină de energie.",
+          "Cireșele, caisele și pepenii — vara deplină aduce daruri bogate ale pământului."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de vară!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Căldura verii de amiază îți aduce poftă de umbră, apă rece și timp liber.",
+          "Sfântul Ilie colindă cerul cu carul de foc — respectă natura și bucură-te de zi.",
+          "Vara în toi înseamnă zile lungi, soare generos și amintiri de neuitat."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Serile de vară deplină sunt răcoroase și pline de muzică și voie bună.",
+          "Apusul de Iulie este spectaculos — bucură-te de fiecare culoare a cerului.",
+          "O seară de vară cu prieteni și povești — ce mai poți dori?"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vară cu bucurie!", "Soare și belșug!"],
+        "messages": [
+          "Noaptea de vară e scurtă și caldă — somn ușor sub cerul înstelat.",
+          "Licuricii dansează în grădini — noapte fermecată și plăcută.",
+          "Vara te îmbie la odihnă sub stele — noapte senină și liniștită!"
+        ]
+      }
+    },
+    "week_30": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Vara e în toi — soarele răsare devreme și îți aduce o zi lungă și caldă!",
+          "De Sfântul Ilie, tunetele curăță aerul — dimineață proaspătă și plină de energie.",
+          "Cireșele, caisele și pepenii — vara deplină aduce daruri bogate ale pământului."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de vară!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Căldura verii de amiază îți aduce poftă de umbră, apă rece și timp liber.",
+          "Sfântul Ilie colindă cerul cu carul de foc — respectă natura și bucură-te de zi.",
+          "Vara în toi înseamnă zile lungi, soare generos și amintiri de neuitat."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Serile de vară deplină sunt răcoroase și pline de muzică și voie bună.",
+          "Apusul de Iulie este spectaculos — bucură-te de fiecare culoare a cerului.",
+          "O seară de vară cu prieteni și povești — ce mai poți dori?"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vară cu bucurie!", "Soare și belșug!"],
+        "messages": [
+          "Noaptea de vară e scurtă și caldă — somn ușor sub cerul înstelat.",
+          "Licuricii dansează în grădini — noapte fermecată și plăcută.",
+          "Vara te îmbie la odihnă sub stele — noapte senină și liniștită!"
+        ]
+      }
+    },
+    "week_31": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Vara e în toi — soarele răsare devreme și îți aduce o zi lungă și caldă!",
+          "De Sfântul Ilie, tunetele curăță aerul — dimineață proaspătă și plină de energie.",
+          "Cireșele, caisele și pepenii — vara deplină aduce daruri bogate ale pământului."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de vară!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Căldura verii de amiază îți aduce poftă de umbră, apă rece și timp liber.",
+          "Sfântul Ilie colindă cerul cu carul de foc — respectă natura și bucură-te de zi.",
+          "Vara în toi înseamnă zile lungi, soare generos și amintiri de neuitat."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Vară cu bucurie!", "Soare și belșug!", "Sănătate și voie bună!"],
+        "messages": [
+          "Serile de vară deplină sunt răcoroase și pline de muzică și voie bună.",
+          "Apusul de Iulie este spectaculos — bucură-te de fiecare culoare a cerului.",
+          "O seară de vară cu prieteni și povești — ce mai poți dori?"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Vară cu bucurie!", "Soare și belșug!"],
+        "messages": [
+          "Noaptea de vară e scurtă și caldă — somn ușor sub cerul înstelat.",
+          "Licuricii dansează în grădini — noapte fermecată și plăcută.",
+          "Vara te îmbie la odihnă sub stele — noapte senină și liniștită!"
+        ]
+      }
+    },
+    "week_32": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Sfânta Maria Mare sfințește roadele verii — o dimineață de recunoștință și credință.",
+          "Vara se pregătește să cedeze locul toamnei — dimineți mai răcoroase, dar la fel de frumoase.",
+          "Recolta de August aduce belșug și mulțumire — zi cu spor și binecuvântare!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua cu belșug!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Sfânta Maria aduce cu ea mirosul de busuioc sfințit și liniștea rugăciunii.",
+          "Floarea-soarelui și porumbul sunt în toi — o după-amiază de vară târzie și bogată.",
+          "Roadele pământului sunt la cules — o zi de belșug și recunoștință față de natură."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Seara de Sfânta Maria e liniștită și sfântă — seară de reculegere și mulțumire.",
+          "Vara târzie aduce seri aurii și răcoroase — o seară perfectă.",
+          "Apusul de August pictează cerul în aur și portocaliu — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Sfântă Marie cu har!", "Recoltă bogată!"],
+        "messages": [
+          "Maica Domnului veghează — somn sfânt și odihnitor în această noapte de vară.",
+          "Nopțile de August sunt calde și pline de stele căzătoare — exprimă o dorință!",
+          "Vara se scurge lin spre toamnă — odihnă bineventată și vise frumoase!"
+        ]
+      }
+    },
+    "week_33": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Sfânta Maria Mare sfințește roadele verii — o dimineață de recunoștință și credință.",
+          "Vara se pregătește să cedeze locul toamnei — dimineți mai răcoroase, dar la fel de frumoase.",
+          "Recolta de August aduce belșug și mulțumire — zi cu spor și binecuvântare!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua cu belșug!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Sfânta Maria aduce cu ea mirosul de busuioc sfințit și liniștea rugăciunii.",
+          "Floarea-soarelui și porumbul sunt în toi — o după-amiază de vară târzie și bogată.",
+          "Roadele pământului sunt la cules — o zi de belșug și recunoștință față de natură."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Seara de Sfânta Maria e liniștită și sfântă — seară de reculegere și mulțumire.",
+          "Vara târzie aduce seri aurii și răcoroase — o seară perfectă.",
+          "Apusul de August pictează cerul în aur și portocaliu — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Sfântă Marie cu har!", "Recoltă bogată!"],
+        "messages": [
+          "Maica Domnului veghează — somn sfânt și odihnitor în această noapte de vară.",
+          "Nopțile de August sunt calde și pline de stele căzătoare — exprimă o dorință!",
+          "Vara se scurge lin spre toamnă — odihnă bineventată și vise frumoase!"
+        ]
+      }
+    },
+    "week_34": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Sfânta Maria Mare sfințește roadele verii — o dimineață de recunoștință și credință.",
+          "Vara se pregătește să cedeze locul toamnei — dimineți mai răcoroase, dar la fel de frumoase.",
+          "Recolta de August aduce belșug și mulțumire — zi cu spor și binecuvântare!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua cu belșug!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Sfânta Maria aduce cu ea mirosul de busuioc sfințit și liniștea rugăciunii.",
+          "Floarea-soarelui și porumbul sunt în toi — o după-amiază de vară târzie și bogată.",
+          "Roadele pământului sunt la cules — o zi de belșug și recunoștință față de natură."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Sfântă Marie cu har!", "Recoltă bogată!", "Vară cu har și mulțumire!"],
+        "messages": [
+          "Seara de Sfânta Maria e liniștită și sfântă — seară de reculegere și mulțumire.",
+          "Vara târzie aduce seri aurii și răcoroase — o seară perfectă.",
+          "Apusul de August pictează cerul în aur și portocaliu — seară magnifică!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Sfântă Marie cu har!", "Recoltă bogată!"],
+        "messages": [
+          "Maica Domnului veghează — somn sfânt și odihnitor în această noapte de vară.",
+          "Nopțile de August sunt calde și pline de stele căzătoare — exprimă o dorință!",
+          "Vara se scurge lin spre toamnă — odihnă bineventată și vise frumoase!"
+        ]
+      }
+    },
+    "week_35": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Toamna bate la ușă cu mirosul de must și frunze aurite — o dimineață minunată!",
+          "Ceața de dimineață a lui Septembrie se ridică ușor, lăsând în urmă aer curat și proaspăt.",
+          "Înălțarea Sfintei Cruci aduce cu ea rugăciune și recunoștință — dimineață sfântă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Via se coace, merele roșesc — toamna devreme este anotimpul darurilor pământului.",
+          "Septembrie aduce zile mai scurte, dar la fel de frumoase — bucură-te de fiecare rază.",
+          "Culesul viei aduce oamenii împreună — o după-amiază de toamnă cu voie bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de toamnă!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Serile de Septembrie se răcoresc plăcut — o seară perfectă pentru ceai cald și gânduri limpezi.",
+          "Apusul de toamnă timpurie e un tablou viu de culori — seară frumoasă!",
+          "Toamna devreme aduce seri liniștite și romantice — seară plăcută alături de cei dragi."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Nopțile de Septembrie sunt lungi și limpezi — stele frumoase și somn odihnitor.",
+          "Toamna aduce nopți mai lungi — odihnă bineventată și vise aurii!",
+          "Sub cerul de toamnă timpurie, să te odihnești bine și să visezi frumos."
+        ]
+      }
+    },
+    "week_36": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Toamna bate la ușă cu mirosul de must și frunze aurite — o dimineață minunată!",
+          "Ceața de dimineață a lui Septembrie se ridică ușor, lăsând în urmă aer curat și proaspăt.",
+          "Înălțarea Sfintei Cruci aduce cu ea rugăciune și recunoștință — dimineață sfântă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Via se coace, merele roșesc — toamna devreme este anotimpul darurilor pământului.",
+          "Septembrie aduce zile mai scurte, dar la fel de frumoase — bucură-te de fiecare rază.",
+          "Culesul viei aduce oamenii împreună — o după-amiază de toamnă cu voie bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de toamnă!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Serile de Septembrie se răcoresc plăcut — o seară perfectă pentru ceai cald și gânduri limpezi.",
+          "Apusul de toamnă timpurie e un tablou viu de culori — seară frumoasă!",
+          "Toamna devreme aduce seri liniștite și romantice — seară plăcută alături de cei dragi."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Nopțile de Septembrie sunt lungi și limpezi — stele frumoase și somn odihnitor.",
+          "Toamna aduce nopți mai lungi — odihnă bineventată și vise aurii!",
+          "Sub cerul de toamnă timpurie, să te odihnești bine și să visezi frumos."
+        ]
+      }
+    },
+    "week_37": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Toamna bate la ușă cu mirosul de must și frunze aurite — o dimineață minunată!",
+          "Ceața de dimineață a lui Septembrie se ridică ușor, lăsând în urmă aer curat și proaspăt.",
+          "Înălțarea Sfintei Cruci aduce cu ea rugăciune și recunoștință — dimineață sfântă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Via se coace, merele roșesc — toamna devreme este anotimpul darurilor pământului.",
+          "Septembrie aduce zile mai scurte, dar la fel de frumoase — bucură-te de fiecare rază.",
+          "Culesul viei aduce oamenii împreună — o după-amiază de toamnă cu voie bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de toamnă!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Serile de Septembrie se răcoresc plăcut — o seară perfectă pentru ceai cald și gânduri limpezi.",
+          "Apusul de toamnă timpurie e un tablou viu de culori — seară frumoasă!",
+          "Toamna devreme aduce seri liniștite și romantice — seară plăcută alături de cei dragi."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Nopțile de Septembrie sunt lungi și limpezi — stele frumoase și somn odihnitor.",
+          "Toamna aduce nopți mai lungi — odihnă bineventată și vise aurii!",
+          "Sub cerul de toamnă timpurie, să te odihnești bine și să visezi frumos."
+        ]
+      }
+    },
+    "week_38": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Toamna bate la ușă cu mirosul de must și frunze aurite — o dimineață minunată!",
+          "Ceața de dimineață a lui Septembrie se ridică ușor, lăsând în urmă aer curat și proaspăt.",
+          "Înălțarea Sfintei Cruci aduce cu ea rugăciune și recunoștință — dimineață sfântă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Via se coace, merele roșesc — toamna devreme este anotimpul darurilor pământului.",
+          "Septembrie aduce zile mai scurte, dar la fel de frumoase — bucură-te de fiecare rază.",
+          "Culesul viei aduce oamenii împreună — o după-amiază de toamnă cu voie bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de toamnă!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Serile de Septembrie se răcoresc plăcut — o seară perfectă pentru ceai cald și gânduri limpezi.",
+          "Apusul de toamnă timpurie e un tablou viu de culori — seară frumoasă!",
+          "Toamna devreme aduce seri liniștite și romantice — seară plăcută alături de cei dragi."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Nopțile de Septembrie sunt lungi și limpezi — stele frumoase și somn odihnitor.",
+          "Toamna aduce nopți mai lungi — odihnă bineventată și vise aurii!",
+          "Sub cerul de toamnă timpurie, să te odihnești bine și să visezi frumos."
+        ]
+      }
+    },
+    "week_39": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Toamna bate la ușă cu mirosul de must și frunze aurite — o dimineață minunată!",
+          "Ceața de dimineață a lui Septembrie se ridică ușor, lăsând în urmă aer curat și proaspăt.",
+          "Înălțarea Sfintei Cruci aduce cu ea rugăciune și recunoștință — dimineață sfântă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Toamna a sosit!", "Belșug și recoltă!", "Via se coace, inima cântă!"],
+        "messages": [
+          "Via se coace, merele roșesc — toamna devreme este anotimpul darurilor pământului.",
+          "Septembrie aduce zile mai scurte, dar la fel de frumoase — bucură-te de fiecare rază.",
+          "Culesul viei aduce oamenii împreună — o după-amiază de toamnă cu voie bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara de toamnă!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Serile de Septembrie se răcoresc plăcut — o seară perfectă pentru ceai cald și gânduri limpezi.",
+          "Apusul de toamnă timpurie e un tablou viu de culori — seară frumoasă!",
+          "Toamna devreme aduce seri liniștite și romantice — seară plăcută alături de cei dragi."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamna a sosit!", "Belșug și recoltă!"],
+        "messages": [
+          "Nopțile de Septembrie sunt lungi și limpezi — stele frumoase și somn odihnitor.",
+          "Toamna aduce nopți mai lungi — odihnă bineventată și vise aurii!",
+          "Sub cerul de toamnă timpurie, să te odihnești bine și să visezi frumos."
+        ]
+      }
+    },
+    "week_40": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Pădurile s-au îmbrăcat în aur și rugină — o dimineață de toamnă ca un tablou.",
+          "Vinul nou a început să fermenteze — toamna bogată îți urează o zi cu spor!",
+          "Sfântul Dumitru aduce cu el frigul cel dintâi — dimineață răcoroasă, dar frumoasă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de toamnă!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Frunzele roșii și galbene pictează un peisaj de toamnă superb — plimbare plăcută!",
+          "Toamna bogată aduce must proaspăt și mere coapte — după-amiază cu miresme de toamnă.",
+          "De Sfântul Dumitru, oile coboară de la munte — tradiție vie a satului românesc."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Serile de Octombrie sunt crisp și colorate — o seară perfectă pentru o plimbare prin frunze.",
+          "Toamna bogată aduce seri calde în casă, cu mirosul de mere coapte și scorțișoară.",
+          "Apusul de toamnă e fascinant — cerul portocaliu deasupra pădurilor aurii."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!"],
+        "messages": [
+          "Nopțile de Octombrie sunt mai lungi — timp pentru odihnă adâncă și vise colorate.",
+          "Toamna bogată se odihnește odată cu tine — noapte bineventată!",
+          "Sfântul Dumitru veghează — somn liniștit în noaptea de toamnă."
+        ]
+      }
+    },
+    "week_41": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Pădurile s-au îmbrăcat în aur și rugină — o dimineață de toamnă ca un tablou.",
+          "Vinul nou a început să fermenteze — toamna bogată îți urează o zi cu spor!",
+          "Sfântul Dumitru aduce cu el frigul cel dintâi — dimineață răcoroasă, dar frumoasă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de toamnă!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Frunzele roșii și galbene pictează un peisaj de toamnă superb — plimbare plăcută!",
+          "Toamna bogată aduce must proaspăt și mere coapte — după-amiază cu miresme de toamnă.",
+          "De Sfântul Dumitru, oile coboară de la munte — tradiție vie a satului românesc."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Serile de Octombrie sunt crisp și colorate — o seară perfectă pentru o plimbare prin frunze.",
+          "Toamna bogată aduce seri calde în casă, cu mirosul de mere coapte și scorțișoară.",
+          "Apusul de toamnă e fascinant — cerul portocaliu deasupra pădurilor aurii."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!"],
+        "messages": [
+          "Nopțile de Octombrie sunt mai lungi — timp pentru odihnă adâncă și vise colorate.",
+          "Toamna bogată se odihnește odată cu tine — noapte bineventată!",
+          "Sfântul Dumitru veghează — somn liniștit în noaptea de toamnă."
+        ]
+      }
+    },
+    "week_42": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Pădurile s-au îmbrăcat în aur și rugină — o dimineață de toamnă ca un tablou.",
+          "Vinul nou a început să fermenteze — toamna bogată îți urează o zi cu spor!",
+          "Sfântul Dumitru aduce cu el frigul cel dintâi — dimineață răcoroasă, dar frumoasă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de toamnă!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Frunzele roșii și galbene pictează un peisaj de toamnă superb — plimbare plăcută!",
+          "Toamna bogată aduce must proaspăt și mere coapte — după-amiază cu miresme de toamnă.",
+          "De Sfântul Dumitru, oile coboară de la munte — tradiție vie a satului românesc."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Serile de Octombrie sunt crisp și colorate — o seară perfectă pentru o plimbare prin frunze.",
+          "Toamna bogată aduce seri calde în casă, cu mirosul de mere coapte și scorțișoară.",
+          "Apusul de toamnă e fascinant — cerul portocaliu deasupra pădurilor aurii."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!"],
+        "messages": [
+          "Nopțile de Octombrie sunt mai lungi — timp pentru odihnă adâncă și vise colorate.",
+          "Toamna bogată se odihnește odată cu tine — noapte bineventată!",
+          "Sfântul Dumitru veghează — somn liniștit în noaptea de toamnă."
+        ]
+      }
+    },
+    "week_43": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Pădurile s-au îmbrăcat în aur și rugină — o dimineață de toamnă ca un tablou.",
+          "Vinul nou a început să fermenteze — toamna bogată îți urează o zi cu spor!",
+          "Sfântul Dumitru aduce cu el frigul cel dintâi — dimineață răcoroasă, dar frumoasă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de toamnă!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Frunzele roșii și galbene pictează un peisaj de toamnă superb — plimbare plăcută!",
+          "Toamna bogată aduce must proaspăt și mere coapte — după-amiază cu miresme de toamnă.",
+          "De Sfântul Dumitru, oile coboară de la munte — tradiție vie a satului românesc."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Serile de Octombrie sunt crisp și colorate — o seară perfectă pentru o plimbare prin frunze.",
+          "Toamna bogată aduce seri calde în casă, cu mirosul de mere coapte și scorțișoară.",
+          "Apusul de toamnă e fascinant — cerul portocaliu deasupra pădurilor aurii."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!"],
+        "messages": [
+          "Nopțile de Octombrie sunt mai lungi — timp pentru odihnă adâncă și vise colorate.",
+          "Toamna bogată se odihnește odată cu tine — noapte bineventată!",
+          "Sfântul Dumitru veghează — somn liniștit în noaptea de toamnă."
+        ]
+      }
+    },
+    "week_44": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Pădurile s-au îmbrăcat în aur și rugină — o dimineață de toamnă ca un tablou.",
+          "Vinul nou a început să fermenteze — toamna bogată îți urează o zi cu spor!",
+          "Sfântul Dumitru aduce cu el frigul cel dintâi — dimineață răcoroasă, dar frumoasă."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Bună ziua de toamnă!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Frunzele roșii și galbene pictează un peisaj de toamnă superb — plimbare plăcută!",
+          "Toamna bogată aduce must proaspăt și mere coapte — după-amiază cu miresme de toamnă.",
+          "De Sfântul Dumitru, oile coboară de la munte — tradiție vie a satului românesc."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!", "Frunze aurii și gânduri bune!"],
+        "messages": [
+          "Serile de Octombrie sunt crisp și colorate — o seară perfectă pentru o plimbare prin frunze.",
+          "Toamna bogată aduce seri calde în casă, cu mirosul de mere coapte și scorțișoară.",
+          "Apusul de toamnă e fascinant — cerul portocaliu deasupra pădurilor aurii."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Toamnă bogată cu bucurie!", "Vin nou și sănătate!"],
+        "messages": [
+          "Nopțile de Octombrie sunt mai lungi — timp pentru odihnă adâncă și vise colorate.",
+          "Toamna bogată se odihnește odată cu tine — noapte bineventată!",
+          "Sfântul Dumitru veghează — somn liniștit în noaptea de toamnă."
+        ]
+      }
+    },
+    "week_45": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Bruma de dimineață a lui Brumar acoperă câmpiile — toamna târzie e în toi.",
+          "Sfântul Mihail și Gavril veghează asupra noastră — dimineață cu rugăciune și recunoștință.",
+          "Frunzele au căzut, cerul e gri, dar sufletul poate fi plin de lumină."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Noiembrie gri și rece te invită înăuntru, la căldura casei și a celor dragi.",
+          "Toamna târzie aduce liniște și reculegere — după-amiază tihnită și bineventată.",
+          "Zilele se scurtează, dar lumina din suflet nu se stinge — după-amiază bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara cu gânduri bune!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Serile de Noiembrie sunt lungi și contemplative — seară bună cu o carte și o ceașcă caldă.",
+          "Toamna târzie ne cheamă la casă — seară caldă și liniștită alături de familie.",
+          "Sfântul Andrei, ocrotitorul României, veghează în această seară de toamnă târzie."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Nopțile lungi de Brumar sunt perfecte pentru odihnă adâncă — somn liniștit!",
+          "Sfântul Andrei apără de rele — noapte liniștită și binecuvântată.",
+          "Toamna târzie cedează locul iernii — visează frumos la zăpada ce va veni."
+        ]
+      }
+    },
+    "week_46": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Bruma de dimineață a lui Brumar acoperă câmpiile — toamna târzie e în toi.",
+          "Sfântul Mihail și Gavril veghează asupra noastră — dimineață cu rugăciune și recunoștință.",
+          "Frunzele au căzut, cerul e gri, dar sufletul poate fi plin de lumină."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Noiembrie gri și rece te invită înăuntru, la căldura casei și a celor dragi.",
+          "Toamna târzie aduce liniște și reculegere — după-amiază tihnită și bineventată.",
+          "Zilele se scurtează, dar lumina din suflet nu se stinge — după-amiază bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara cu gânduri bune!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Serile de Noiembrie sunt lungi și contemplative — seară bună cu o carte și o ceașcă caldă.",
+          "Toamna târzie ne cheamă la casă — seară caldă și liniștită alături de familie.",
+          "Sfântul Andrei, ocrotitorul României, veghează în această seară de toamnă târzie."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Nopțile lungi de Brumar sunt perfecte pentru odihnă adâncă — somn liniștit!",
+          "Sfântul Andrei apără de rele — noapte liniștită și binecuvântată.",
+          "Toamna târzie cedează locul iernii — visează frumos la zăpada ce va veni."
+        ]
+      }
+    },
+    "week_47": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Bruma de dimineață a lui Brumar acoperă câmpiile — toamna târzie e în toi.",
+          "Sfântul Mihail și Gavril veghează asupra noastră — dimineață cu rugăciune și recunoștință.",
+          "Frunzele au căzut, cerul e gri, dar sufletul poate fi plin de lumină."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Noiembrie gri și rece te invită înăuntru, la căldura casei și a celor dragi.",
+          "Toamna târzie aduce liniște și reculegere — după-amiază tihnită și bineventată.",
+          "Zilele se scurtează, dar lumina din suflet nu se stinge — după-amiază bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara cu gânduri bune!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Serile de Noiembrie sunt lungi și contemplative — seară bună cu o carte și o ceașcă caldă.",
+          "Toamna târzie ne cheamă la casă — seară caldă și liniștită alături de familie.",
+          "Sfântul Andrei, ocrotitorul României, veghează în această seară de toamnă târzie."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Nopțile lungi de Brumar sunt perfecte pentru odihnă adâncă — somn liniștit!",
+          "Sfântul Andrei apără de rele — noapte liniștită și binecuvântată.",
+          "Toamna târzie cedează locul iernii — visează frumos la zăpada ce va veni."
+        ]
+      }
+    },
+    "week_48": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Bruma de dimineață a lui Brumar acoperă câmpiile — toamna târzie e în toi.",
+          "Sfântul Mihail și Gavril veghează asupra noastră — dimineață cu rugăciune și recunoștință.",
+          "Frunzele au căzut, cerul e gri, dar sufletul poate fi plin de lumină."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Noiembrie gri și rece te invită înăuntru, la căldura casei și a celor dragi.",
+          "Toamna târzie aduce liniște și reculegere — după-amiază tihnită și bineventată.",
+          "Zilele se scurtează, dar lumina din suflet nu se stinge — după-amiază bună!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara cu gânduri bune!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Serile de Noiembrie sunt lungi și contemplative — seară bună cu o carte și o ceașcă caldă.",
+          "Toamna târzie ne cheamă la casă — seară caldă și liniștită alături de familie.",
+          "Sfântul Andrei, ocrotitorul României, veghează în această seară de toamnă târzie."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani de Sfântul Andrei!", "Toamnă cu pace sufletească!", "Sfântul Andrei să ne ocrotească!"],
+        "messages": [
+          "Nopțile lungi de Brumar sunt perfecte pentru odihnă adâncă — somn liniștit!",
+          "Sfântul Andrei apără de rele — noapte liniștită și binecuvântată.",
+          "Toamna târzie cedează locul iernii — visează frumos la zăpada ce va veni."
+        ]
+      }
+    },
+    "week_49": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de iarnă!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Postul Crăciunului aduce reculegere și pregătire — dimineață sfântă de Advent.",
+          "Sfântul Nicolae a trecut pe la cizmuliță — dimineață cu zâmbet și bucurie pentru cei mici!",
+          "Iarna a sosit cu toată strălucirea ei — un ceai cald și o dimineață luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Pregătirile de Crăciun umplu casele de mirosuri minunate — de cozonac, portocale și brad.",
+          "Postul de iarnă e timpul cugetului și al rânduielii — după-amiază cu pace și rost.",
+          "Zăpada Adventului acoperă lumea în alb pur — o după-amiază de basm!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara, cu lumânări de Crăciun!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Luminile de Crăciun se aprind în ferestre — seară caldă și plină de magie.",
+          "Colindătorii se pregătesc — seara de Advent aduce speranță și bucurie.",
+          "Focul din vatră și colindele în gând — o seară de iarnă cu suflet românesc."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Noaptea de Advent e sfântă și tăcută — somn bineventat cu vise de Crăciun.",
+          "Steaua de Crăciun strălucește în noapte — somn liniștit și vise sfinte.",
+          "Iarna Adventului aduce pace și liniște — odihnă adâncă și vise frumoase!"
+        ]
+      }
+    },
+    "week_50": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de iarnă!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Postul Crăciunului aduce reculegere și pregătire — dimineață sfântă de Advent.",
+          "Sfântul Nicolae a trecut pe la cizmuliță — dimineață cu zâmbet și bucurie pentru cei mici!",
+          "Iarna a sosit cu toată strălucirea ei — un ceai cald și o dimineață luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Pregătirile de Crăciun umplu casele de mirosuri minunate — de cozonac, portocale și brad.",
+          "Postul de iarnă e timpul cugetului și al rânduielii — după-amiază cu pace și rost.",
+          "Zăpada Adventului acoperă lumea în alb pur — o după-amiază de basm!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara, cu lumânări de Crăciun!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Luminile de Crăciun se aprind în ferestre — seară caldă și plină de magie.",
+          "Colindătorii se pregătesc — seara de Advent aduce speranță și bucurie.",
+          "Focul din vatră și colindele în gând — o seară de iarnă cu suflet românesc."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Noaptea de Advent e sfântă și tăcută — somn bineventat cu vise de Crăciun.",
+          "Steaua de Crăciun strălucește în noapte — somn liniștit și vise sfinte.",
+          "Iarna Adventului aduce pace și liniște — odihnă adâncă și vise frumoase!"
+        ]
+      }
+    },
+    "week_51": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de iarnă!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Postul Crăciunului aduce reculegere și pregătire — dimineață sfântă de Advent.",
+          "Sfântul Nicolae a trecut pe la cizmuliță — dimineață cu zâmbet și bucurie pentru cei mici!",
+          "Iarna a sosit cu toată strălucirea ei — un ceai cald și o dimineață luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Pregătirile de Crăciun umplu casele de mirosuri minunate — de cozonac, portocale și brad.",
+          "Postul de iarnă e timpul cugetului și al rânduielii — după-amiază cu pace și rost.",
+          "Zăpada Adventului acoperă lumea în alb pur — o după-amiază de basm!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara, cu lumânări de Crăciun!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Luminile de Crăciun se aprind în ferestre — seară caldă și plină de magie.",
+          "Colindătorii se pregătesc — seara de Advent aduce speranță și bucurie.",
+          "Focul din vatră și colindele în gând — o seară de iarnă cu suflet românesc."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Noaptea de Advent e sfântă și tăcută — somn bineventat cu vise de Crăciun.",
+          "Steaua de Crăciun strălucește în noapte — somn liniștit și vise sfinte.",
+          "Iarna Adventului aduce pace și liniște — odihnă adâncă și vise frumoase!"
+        ]
+      }
+    },
+    "week_52": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Bună dimineața de iarnă!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Postul Crăciunului aduce reculegere și pregătire — dimineață sfântă de Advent.",
+          "Sfântul Nicolae a trecut pe la cizmuliță — dimineață cu zâmbet și bucurie pentru cei mici!",
+          "Iarna a sosit cu toată strălucirea ei — un ceai cald și o dimineață luminoasă!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Pregătirile de Crăciun umplu casele de mirosuri minunate — de cozonac, portocale și brad.",
+          "Postul de iarnă e timpul cugetului și al rânduielii — după-amiază cu pace și rost.",
+          "Zăpada Adventului acoperă lumea în alb pur — o după-amiază de basm!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Bună seara, cu lumânări de Crăciun!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Luminile de Crăciun se aprind în ferestre — seară caldă și plină de magie.",
+          "Colindătorii se pregătesc — seara de Advent aduce speranță și bucurie.",
+          "Focul din vatră și colindele în gând — o seară de iarnă cu suflet românesc."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Advent cu lumină!", "Colinde și bucurie!", "La Mulți Ani de Sfântul Nicolae!"],
+        "messages": [
+          "Noaptea de Advent e sfântă și tăcută — somn bineventat cu vise de Crăciun.",
+          "Steaua de Crăciun strălucește în noapte — somn liniștit și vise sfinte.",
+          "Iarna Adventului aduce pace și liniște — odihnă adâncă și vise frumoase!"
+        ]
+      }
     }
   },
-  "occasion": {
-    "new_year": [
-      "La Mulți Ani! Fie ca noul an să îți aducă sănătate, fericire și împliniri.",
-      "La Mulți Ani! Un nou an, noi speranțe și noi bucurii!"
-    ],
-    "union_day": [
-      "La Mulți Ani de Ziua Unirii Principatelor! Trăiască România unită!",
-      "Să celebrăm împreună Ziua Unirii cu mândrie și recunoștință."
-    ],
-    "easter": [
-      "Hristos a Înviat! Îți dorim o Sfântă Sărbătoare de Paști plină de lumină și bucurie.",
-      "La Mulți Ani de Sfintele Paști! Fie ca învierea să aducă pace și bucurie în casa ta."
-    ],
-    "labour_day": [
-      "La Mulți Ani de 1 Mai! Îți dorim o zi binemeritată de odihnă și relaxare.",
-      "1 Mai Fericit! Fie ca munca ta să fie mereu răsplătită și apreciată."
-    ],
-    "childrens_day": [
-      "La Mulți Ani de Ziua Copilului! Să păstrăm cu toții puritatea și bucuria copilăriei.",
-      "Îți urăm o zi specială de 1 Iunie! Fie ca bucuria copilăriei să rămână mereu în sufletul tău."
-    ],
-    "assumption": [
-      "La Mulți Ani de Sfânta Maria Mare! Pace și binecuvântare în casa ta.",
-      "Îți urăm o zi sfântă de Adormirea Maicii Domnului, plină de recunoștință și credință."
-    ],
-    "saint_andrew": [
-      "La Mulți Ani de Sfântul Andrei, ocrotitorul României!",
-      "La Mulți Ani tuturor celor ce poartă numele Andrei!"
-    ],
-    "national_day": [
-      "La Mulți Ani de Ziua Națională a României! Trăiască România!",
-      "1 Decembrie Fericit! Să celebrăm cu mândrie ziua națională a țării noastre."
-    ],
-    "saint_nicholas": [
-      "La Mulți Ani de Sfântul Nicolae! Fie ca Moș Nicolae să îți aducă numai daruri frumoase."
-    ],
-    "christmas": [
-      "Crăciun Fericit! Fie ca Nașterea Mântuitorului să aducă pace și lumină în sufletul tău.",
-      "Sărbători Fericite! Să petreci alături de cei dragi momente pline de căldură și bucurie."
-    ]
+  "holidays": {
+    "new_year": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani!", "An Nou Fericit!"],
+        "messages": [
+          "Fie ca noul an să îți aducă sănătate, fericire și împliniri.",
+          "Un nou an, noi speranțe și noi bucurii!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani!", "An Nou Fericit!"],
+        "messages": [
+          "Fie ca noul an să îți aducă sănătate, fericire și împliniri.",
+          "Un nou an, noi speranțe și noi bucurii!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La Mulți Ani!", "An Nou Fericit!"],
+        "messages": [
+          "Fie ca noul an să îți aducă sănătate, fericire și împliniri.",
+          "Un nou an, noi speranțe și noi bucurii!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani!", "An Nou Fericit!"],
+        "messages": [
+          "Fie ca noul an să îți aducă sănătate, fericire și împliniri.",
+          "Un nou an, noi speranțe și noi bucurii!"
+        ]
+      }
+    },
+    "union_day": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Trăiască România!", "La Mulți Ani de Ziua Unirii!"],
+        "messages": [
+          "Trăiască România unită, astăzi și întotdeauna!",
+          "Să celebrăm împreună Ziua Unirii Principatelor cu mândrie și recunoștință."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Trăiască România!", "La Mulți Ani de Ziua Unirii!"],
+        "messages": [
+          "Trăiască România unită, astăzi și întotdeauna!",
+          "Să celebrăm împreună Ziua Unirii Principatelor cu mândrie și recunoștință."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Trăiască România!", "La Mulți Ani de Ziua Unirii!"],
+        "messages": [
+          "Trăiască România unită, astăzi și întotdeauna!",
+          "Să celebrăm împreună Ziua Unirii Principatelor cu mândrie și recunoștință."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Trăiască România!", "La Mulți Ani de Ziua Unirii!"],
+        "messages": [
+          "Trăiască România unită, astăzi și întotdeauna!",
+          "Să celebrăm împreună Ziua Unirii Principatelor cu mândrie și recunoștință."
+        ]
+      }
+    },
+    "easter": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Paște fericit!", "Hristos a Înviat!", "Paște binecuvântat!"],
+        "messages": [
+          "Fie ca Învierea să aducă pace și bucurie în casa ta.",
+          "Sfintele Paști îți aduc lumină și speranță reînnoită."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Paște fericit!", "Hristos a Înviat!", "Paște binecuvântat!"],
+        "messages": [
+          "Fie ca Învierea să aducă pace și bucurie în casa ta.",
+          "Sfintele Paști îți aduc lumină și speranță reînnoită."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Paște fericit!", "Hristos a Înviat!", "Paște binecuvântat!"],
+        "messages": [
+          "Fie ca Învierea să aducă pace și bucurie în casa ta.",
+          "Sfintele Paști îți aduc lumină și speranță reînnoită."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Paște fericit!", "Hristos a Înviat!", "Paște binecuvântat!"],
+        "messages": [
+          "Fie ca Învierea să aducă pace și bucurie în casa ta.",
+          "Sfintele Paști îți aduc lumină și speranță reînnoită."
+        ]
+      }
+    },
+    "labour_day": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "1 Mai Fericit!", "La Mulți Ani de 1 Mai!"],
+        "messages": [
+          "O zi binemeritată de odihnă și relaxare — fie ca munca ta să fie mereu apreciată.",
+          "1 Mai aduce cu el primăvara în toi și bucuria unui răgaz binemeritat."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "1 Mai Fericit!", "La Mulți Ani de 1 Mai!"],
+        "messages": [
+          "O zi binemeritată de odihnă și relaxare — fie ca munca ta să fie mereu apreciată.",
+          "1 Mai aduce cu el primăvara în toi și bucuria unui răgaz binemeritat."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "1 Mai Fericit!", "La Mulți Ani de 1 Mai!"],
+        "messages": [
+          "O zi binemeritată de odihnă și relaxare — fie ca munca ta să fie mereu apreciată.",
+          "1 Mai aduce cu el primăvara în toi și bucuria unui răgaz binemeritat."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "1 Mai Fericit!", "La Mulți Ani de 1 Mai!"],
+        "messages": [
+          "O zi binemeritată de odihnă și relaxare — fie ca munca ta să fie mereu apreciată.",
+          "1 Mai aduce cu el primăvara în toi și bucuria unui răgaz binemeritat."
+        ]
+      }
+    },
+    "childrens_day": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "1 Iunie Fericit!", "Ziua Copilului Fericit!"],
+        "messages": [
+          "Să păstrăm cu toții puritatea și bucuria copilăriei.",
+          "Fie ca bucuria copilăriei să rămână mereu în sufletul tău."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "1 Iunie Fericit!", "Ziua Copilului Fericit!"],
+        "messages": [
+          "Să păstrăm cu toții puritatea și bucuria copilăriei.",
+          "Fie ca bucuria copilăriei să rămână mereu în sufletul tău."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "1 Iunie Fericit!", "Ziua Copilului Fericit!"],
+        "messages": [
+          "Să păstrăm cu toții puritatea și bucuria copilăriei.",
+          "Fie ca bucuria copilăriei să rămână mereu în sufletul tău."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "1 Iunie Fericit!", "Ziua Copilului Fericit!"],
+        "messages": [
+          "Să păstrăm cu toții puritatea și bucuria copilăriei.",
+          "Fie ca bucuria copilăriei să rămână mereu în sufletul tău."
+        ]
+      }
+    },
+    "assumption": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani de Sfânta Maria!", "Sfântă sărbătoare!"],
+        "messages": [
+          "Pace și binecuvântare în casa ta de Adormirea Maicii Domnului.",
+          "O zi sfântă, plină de recunoștință și credință."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani de Sfânta Maria!", "Sfântă sărbătoare!"],
+        "messages": [
+          "Pace și binecuvântare în casa ta de Adormirea Maicii Domnului.",
+          "O zi sfântă, plină de recunoștință și credință."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La Mulți Ani de Sfânta Maria!", "Sfântă sărbătoare!"],
+        "messages": [
+          "Pace și binecuvântare în casa ta de Adormirea Maicii Domnului.",
+          "O zi sfântă, plină de recunoștință și credință."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani de Sfânta Maria!", "Sfântă sărbătoare!"],
+        "messages": [
+          "Pace și binecuvântare în casa ta de Adormirea Maicii Domnului.",
+          "O zi sfântă, plină de recunoștință și credință."
+        ]
+      }
+    },
+    "saint_andrew": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani de Sfântul Andrei!", "Sfântul Andrei te ocrotească!"],
+        "messages": [
+          "Sfântul Andrei, ocrotitorul României, veghează asupra noastră.",
+          "La mulți ani tuturor celor ce poartă cu mândrie numele Andrei!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani de Sfântul Andrei!", "Sfântul Andrei te ocrotească!"],
+        "messages": [
+          "Sfântul Andrei, ocrotitorul României, veghează asupra noastră.",
+          "La mulți ani tuturor celor ce poartă cu mândrie numele Andrei!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La Mulți Ani de Sfântul Andrei!", "Sfântul Andrei te ocrotească!"],
+        "messages": [
+          "Sfântul Andrei, ocrotitorul României, veghează asupra noastră.",
+          "La mulți ani tuturor celor ce poartă cu mândrie numele Andrei!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani de Sfântul Andrei!", "Sfântul Andrei te ocrotească!"],
+        "messages": [
+          "Sfântul Andrei, ocrotitorul României, veghează asupra noastră.",
+          "La mulți ani tuturor celor ce poartă cu mândrie numele Andrei!"
+        ]
+      }
+    },
+    "national_day": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani!", "1 Decembrie Fericit!", "Trăiască România!"],
+        "messages": [
+          "Să celebrăm cu mândrie ziua națională a țării noastre.",
+          "Trăiască România unită și puternică — astăzi și totdeauna!"
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani!", "1 Decembrie Fericit!", "Trăiască România!"],
+        "messages": [
+          "Să celebrăm cu mândrie ziua națională a țării noastre.",
+          "Trăiască România unită și puternică — astăzi și totdeauna!"
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La Mulți Ani!", "1 Decembrie Fericit!", "Trăiască România!"],
+        "messages": [
+          "Să celebrăm cu mândrie ziua națională a țării noastre.",
+          "Trăiască România unită și puternică — astăzi și totdeauna!"
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani!", "1 Decembrie Fericit!", "Trăiască România!"],
+        "messages": [
+          "Să celebrăm cu mândrie ziua națională a țării noastre.",
+          "Trăiască România unită și puternică — astăzi și totdeauna!"
+        ]
+      }
+    },
+    "saint_nicholas": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "La Mulți Ani de Sfântul Nicolae!", "Sfântul Nicolae să te binecuvânteze!"],
+        "messages": [
+          "Fie ca Moș Nicolae să îți aducă numai daruri frumoase în cizmuliță.",
+          "Sfântul Nicolae aduce bucurie și generozitate — o zi de fericire și recunoștință."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "La Mulți Ani de Sfântul Nicolae!", "Sfântul Nicolae să te binecuvânteze!"],
+        "messages": [
+          "Fie ca Moș Nicolae să îți aducă numai daruri frumoase în cizmuliță.",
+          "Sfântul Nicolae aduce bucurie și generozitate — o zi de fericire și recunoștință."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "La Mulți Ani de Sfântul Nicolae!", "Sfântul Nicolae să te binecuvânteze!"],
+        "messages": [
+          "Fie ca Moș Nicolae să îți aducă numai daruri frumoase în cizmuliță.",
+          "Sfântul Nicolae aduce bucurie și generozitate — o zi de fericire și recunoștință."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "La Mulți Ani de Sfântul Nicolae!", "Sfântul Nicolae să te binecuvânteze!"],
+        "messages": [
+          "Fie ca Moș Nicolae să îți aducă numai daruri frumoase în cizmuliță.",
+          "Sfântul Nicolae aduce bucurie și generozitate — o zi de fericire și recunoștință."
+        ]
+      }
+    },
+    "christmas": {
+      "morning": {
+        "slogans": ["Bună dimineața!", "Crăciun Fericit!", "Sărbători Fericite!", "Crăciun binecuvântat!"],
+        "messages": [
+          "Fie ca Nașterea Mântuitorului să aducă pace și lumină în sufletul tău.",
+          "Să petreci alături de cei dragi momente pline de căldură și bucurie."
+        ]
+      },
+      "afternoon": {
+        "slogans": ["Bună ziua!", "Crăciun Fericit!", "Sărbători Fericite!", "Crăciun binecuvântat!"],
+        "messages": [
+          "Fie ca Nașterea Mântuitorului să aducă pace și lumină în sufletul tău.",
+          "Să petreci alături de cei dragi momente pline de căldură și bucurie."
+        ]
+      },
+      "evening": {
+        "slogans": ["Bună seara!", "Crăciun Fericit!", "Sărbători Fericite!", "Crăciun binecuvântat!"],
+        "messages": [
+          "Fie ca Nașterea Mântuitorului să aducă pace și lumină în sufletul tău.",
+          "Să petreci alături de cei dragi momente pline de căldură și bucurie."
+        ]
+      },
+      "night": {
+        "slogans": ["Noapte bună!", "Crăciun Fericit!", "Sărbători Fericite!", "Crăciun binecuvântat!"],
+        "messages": [
+          "Fie ca Nașterea Mântuitorului să aducă pace și lumină în sufletul tău.",
+          "Să petreci alături de cei dragi momente pline de căldură și bucurie."
+        ]
+      }
+    }
   }
 }

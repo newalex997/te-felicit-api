@@ -10,7 +10,7 @@ import {
 @Module({
   imports: [
     i18n.forRoot({
-      fallbackLanguage: 'en',
+      fallbackLanguage: 'ro',
       loaderOptions: {
         path: path.join(__dirname, '../../i18n/'),
         includeSubdirs: true,

@@ -21,6 +21,10 @@ function pickImage(context: GreetingContext): string {
   return pickRandom(MONTH_TIME_IMAGE_URLS[context.month][context.timeOfDay]);
 }
 
+function weekKey(weekOfYear: number): string {
+  return `week_${String(weekOfYear).padStart(2, '0')}`;
+}
+
 @Injectable()
 export class GreetingService {
   constructor(
@@ -28,42 +32,66 @@ export class GreetingService {
     private readonly i18n: I18nService,
   ) {}
 
-  private buildMessage(context: GreetingContext, lang: string): string {
-    const seasonMessages: string[] = this.i18n.t(
-      `greeting.season.${context.season}.${context.timeOfDay}`,
-      { lang },
-    );
-    const seasonTimeMessage = pickRandom(seasonMessages);
-
-    if (!context.occasion) return seasonTimeMessage;
-
-    const occasionMessages: string[] | null = this.i18n.t(
-      `greeting.occasion.${context.occasion}`,
-      { lang },
-    );
-    if (!occasionMessages?.length) return seasonTimeMessage;
-
-    return `${pickRandom(occasionMessages)} ${seasonTimeMessage}`;
+  private t(key: string, lang: string): string[] {
+    return this.i18n.t(key, { lang }) ?? [];
   }
 
-  getGreeting(lang: string): { message: string; imageUrl: string } {
-    const context = this.greetingContextService.getContext();
+  private buildGreeting(
+    context: GreetingContext,
+    lang: string,
+  ): { message: string; slogan: string | null } {
+    const wk = weekKey(context.weekOfYear);
+    const weekMessages = this.t(
+      `greeting.weeks.${wk}.${context.timeOfDay}.messages`,
+      lang,
+    );
+    const weekSlogans = this.t(
+      `greeting.weeks.${wk}.${context.timeOfDay}.slogans`,
+      lang,
+    );
+
+    if (!context.occasion) {
+      return {
+        message: pickRandom(weekMessages),
+        slogan: pickRandom(weekSlogans),
+      };
+    }
+
+    const holidayMessages = this.t(
+      `greeting.holidays.${context.occasion}.${context.timeOfDay}.messages`,
+      lang,
+    );
+    const holidaySlogans = this.t(
+      `greeting.holidays.${context.occasion}.${context.timeOfDay}.slogans`,
+      lang,
+    );
+
+    const allMessages = [...weekMessages, ...holidayMessages];
+    const allSlogans = [...weekSlogans, ...holidaySlogans];
+
     return {
-      message: this.buildMessage(context, lang),
-      imageUrl: pickImage(context),
+      message: allMessages.length ? pickRandom(allMessages) : '',
+      slogan: allSlogans.length ? pickRandom(allSlogans) : null,
     };
   }
 
-  getMessage(lang: string): { message: string } {
+  getGreeting(lang: string): {
+    message: string;
+    slogan: string | null;
+    imageUrl: string;
+  } {
     const context = this.greetingContextService.getContext();
-    return { message: this.buildMessage(context, lang) };
+    const { message, slogan } = this.buildGreeting(context, lang);
+    return { message, slogan, imageUrl: pickImage(context) };
+  }
+
+  getMessage(lang: string): { message: string; slogan: string | null } {
+    const context = this.greetingContextService.getContext();
+    return this.buildGreeting(context, lang);
   }
 
   getImage(): { imageUrl: string } {
     const context = this.greetingContextService.getContext();
-    const imageUrl = pickImage(context);
-
-    console.log(`Selected image URL: ${imageUrl} for context:`, context);
-    return { imageUrl };
+    return { imageUrl: pickImage(context) };
   }
 }
