@@ -11,7 +11,6 @@ import { ApiConfigService } from './configuration.service';
       validationSchema: Joi.object({
         NODE_ENV: Joi.string().valid('development', 'production').required(),
         API_PORT: Joi.number().port().default(3000),
-        JWT_SECRET: Joi.string().required(),
         CORS_WHITELIST: Joi.string().required(),
       }),
       load: [apiConfiguration],
