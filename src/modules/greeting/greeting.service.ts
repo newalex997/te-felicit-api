@@ -11,6 +11,29 @@ import {
 import { GreetingResponseDto } from './dto/greeting-response.dto';
 import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto';
 import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
+import {
+  GreetingTextConfigDto,
+  TextPosition,
+} from './dto/text-block-config.dto';
+
+interface GreetingMessageEntry {
+  text: string;
+  slogans: string[];
+  textConfig?: GreetingTextConfigDto;
+}
+
+const DEFAULT_TEXT_CONFIG: GreetingTextConfigDto = {
+  message: {
+    fontSize: 24,
+    color: '#FFFFFF',
+    position: TextPosition.CENTER,
+  },
+  slogan: {
+    fontSize: 48,
+    color: '#FFFFFFCC',
+    position: TextPosition.BOTTOM_CENTER,
+  },
+};
 
 function pickRandom<T>(arr: T[]): T {
   return arr[Math.floor(Math.random() * arr.length)];
@@ -35,8 +58,9 @@ export class GreetingService {
     private readonly i18n: I18nService,
   ) {}
 
-  private t(key: string, lang: string): string[] {
-    return this.i18n.t(key, { lang }) ?? [];
+  private getMessageEntries(key: string, lang: string): GreetingMessageEntry[] {
+    const result = this.i18n.t(key, { lang });
+    return Array.isArray(result) ? (result as GreetingMessageEntry[]) : [];
   }
 
   private buildGreeting(
@@ -44,48 +68,43 @@ export class GreetingService {
     lang: string,
   ): GreetingMessageResponseDto {
     const wk = weekKey(context.weekOfYear);
-    const weekMessages = this.t(
+    const weekEntries = this.getMessageEntries(
       `greeting.weeks.${wk}.${context.timeOfDay}.messages`,
-      lang,
-    );
-    const weekSlogans = this.t(
-      `greeting.weeks.${wk}.${context.timeOfDay}.slogans`,
       lang,
     );
 
     if (!context.occasion) {
+      const entry = pickRandom(weekEntries);
       return {
-        message: pickRandom(weekMessages),
-        slogan: pickRandom(weekSlogans),
+        message: entry.text,
+        slogan: pickRandom(entry.slogans),
+        textConfig: entry.textConfig ?? DEFAULT_TEXT_CONFIG,
       };
     }
 
-    const holidayMessages = this.t(
+    const holidayEntries = this.getMessageEntries(
       `greeting.holidays.${context.occasion}.${context.timeOfDay}.messages`,
       lang,
     );
-    const holidaySlogans = this.t(
-      `greeting.holidays.${context.occasion}.${context.timeOfDay}.slogans`,
-      lang,
-    );
 
-    const allMessages = [...weekMessages, ...holidayMessages];
-    const allSlogans = [...weekSlogans, ...holidaySlogans];
-
+    const allEntries = [...weekEntries, ...holidayEntries];
+    const entry = pickRandom(allEntries);
     return {
-      message: pickRandom(allMessages),
-      slogan: pickRandom(allSlogans),
+      message: entry.text,
+      slogan: pickRandom(entry.slogans),
+      textConfig: entry.textConfig ?? DEFAULT_TEXT_CONFIG,
     };
   }
 
   getGreeting(lang: string): GreetingResponseDto {
     const context = this.greetingContextService.getContext();
-    const { message, slogan } = this.buildGreeting(context, lang);
+    const { message, slogan, textConfig } = this.buildGreeting(context, lang);
 
     return {
       message,
       slogan,
       imageUrl: pickImage(context),
+      textConfig,
     };
   }
 

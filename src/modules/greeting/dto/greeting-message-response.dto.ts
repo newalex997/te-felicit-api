@@ -4,4 +4,5 @@ import { GreetingResponseDto } from './greeting-response.dto';
 export class GreetingMessageResponseDto extends PickType(GreetingResponseDto, [
   'message',
   'slogan',
+  'textConfig',
 ]) {}

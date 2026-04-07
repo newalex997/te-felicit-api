@@ -1,4 +1,5 @@
 import { ApiProperty } from '@nestjs/swagger';
+import { GreetingTextConfigDto } from './text-block-config.dto';
 
 export class GreetingResponseDto {
   @ApiProperty({ example: 'Astazi este joi' })
@@ -9,4 +10,7 @@ export class GreetingResponseDto {
 
   @ApiProperty({ example: 'https://picsum.photos/seed/coffee/800/1200' })
   imageUrl: string;
+
+  @ApiProperty({ type: GreetingTextConfigDto })
+  textConfig: GreetingTextConfigDto;
 }
