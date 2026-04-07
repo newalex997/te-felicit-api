@@ -1,6 +1,6 @@
-# Te Felicit API
+# mesajedinsuflet API
 
-Backend service for the Te Felicit greeting card application. Serves daily cards (background image + text) to the mobile app.
+Backend service for the 'Mesaje din suflet' greeting card application. Serves daily cards (background image + text) to the mobile app.
 
 Built with [NestJS](https://nestjs.com/).
 
