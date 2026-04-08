@@ -1,5 +1,5 @@
-import { APP_GUARD } from "@nestjs/core";
-import { ThrottlerGuard } from "@nestjs/throttler";
+import { APP_GUARD } from '@nestjs/core';
+import { ThrottlerGuard } from '@nestjs/throttler';
 
 export const RateLimitProvider = {
   provide: APP_GUARD,

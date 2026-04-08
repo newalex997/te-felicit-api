@@ -1,4 +1,9 @@
-import { CanActivate, ExecutionContext, Injectable, UnauthorizedException } from '@nestjs/common';
+import {
+  CanActivate,
+  ExecutionContext,
+  Injectable,
+  UnauthorizedException,
+} from '@nestjs/common';
 import { Reflector } from '@nestjs/core';
 import { SKIP_AUTH_KEY } from '../constants';
 
@@ -6,7 +11,7 @@ import { SKIP_AUTH_KEY } from '../constants';
 export class AuthGuard implements CanActivate {
   constructor(private readonly reflector: Reflector) {}
 
-  async canActivate(context: ExecutionContext): Promise<boolean> {
+  canActivate(context: ExecutionContext): boolean {
     const isPublic = this.reflector.getAllAndOverride<boolean>(SKIP_AUTH_KEY, [
       context.getHandler(),
       context.getClass(),

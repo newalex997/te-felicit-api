@@ -1,5 +1,5 @@
-import { Module } from "@nestjs/common";
-import { ThrottlerModule } from "@nestjs/throttler";
+import { Module } from '@nestjs/common';
+import { ThrottlerModule } from '@nestjs/throttler';
 
 @Module({
   imports: [

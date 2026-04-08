@@ -95,18 +95,10 @@ const MESSAGE_COLOR = {
   night: '#CCDEFF',
 };
 
-// Message position must not overlap with slogan position
-function messagePosition(sloganPosition) {
-  if (sloganPosition === 'center') return 'top-center';
-  if (sloganPosition === 'top-center') return 'bottom-center';
-  return 'center'; // slogan is bottom-center → message goes center
-}
-
-// Font size scaled by message text length
-function messageFontSize(text, timeOfDay) {
-  const bases = { morning: 22, afternoon: 24, evening: 22, night: 20 };
-  const base = bases[timeOfDay] ?? 22;
-  if (text.length < 70) return base + 4;
+// Font size scaled relative to slogan size and message text length
+function messageFontSize(text, sloganFontSize) {
+  const base = Math.round(sloganFontSize * 0.58);
+  if (text.length < 70) return base + 2;
   if (text.length > 110) return base - 2;
   return base;
 }
@@ -119,9 +111,9 @@ function buildTextConfig(entry, timeOfDay) {
 
   return {
     message: {
-      fontSize: messageFontSize(entry.text, timeOfDay),
+      fontSize: messageFontSize(entry.text, sloganCfg.fontSize),
       color: MESSAGE_COLOR[timeOfDay] ?? '#FFFFFF',
-      position: messagePosition(sloganCfg.position),
+      position: entry.text.length >= 70 ? 'top-center' : 'center',
     },
     slogan: {
       fontSize: sloganCfg.fontSize,
