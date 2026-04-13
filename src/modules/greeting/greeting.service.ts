@@ -44,7 +44,7 @@ function pickImage(context: GreetingContext): string {
     const occasionPool = OCCASION_IMAGE_URLS[context.occasion];
     if (occasionPool) return pickRandom(occasionPool[context.timeOfDay]);
   }
-  return pickRandom(MONTH_TIME_IMAGE_URLS[context.month][context.timeOfDay]);
+  return pickRandom(MONTH_TIME_IMAGE_URLS['april'][context.timeOfDay]);
 }
 
 function weekKey(weekOfYear: number): string {
@@ -83,7 +83,7 @@ export class GreetingService {
     }
 
     const holidayEntries = this.getMessageEntries(
-      `greeting.holidays.${context.occasion}.${context.timeOfDay}.messages`,
+      `holidays.${context.occasion}.${context.timeOfDay}.messages`,
       lang,
     );
 

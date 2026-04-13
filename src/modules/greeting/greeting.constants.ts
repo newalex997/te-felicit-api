@@ -1,7 +1,4 @@
-import {
-  Month,
-  TimeOfDay,
-} from '../../providers/greeting-context/greeting-context.service';
+import { TimeOfDay } from '../../providers/greeting-context/greeting-context.service';
 
 export type OccasionImageMap = Record<string, Record<TimeOfDay, string[]>>;
 
@@ -9,7 +6,7 @@ export type OccasionImageMap = Record<string, Record<TimeOfDay, string[]>>;
 const img = (seed: string) => `https://picsum.photos/seed/${seed}/800/1200`;
 
 export const MONTH_TIME_IMAGE_URLS: Record<
-  Month,
+  string,
   Record<TimeOfDay, string[]>
 > = {
   january: {

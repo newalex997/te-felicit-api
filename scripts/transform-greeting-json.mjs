@@ -6,9 +6,11 @@ import { resolve, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const filePath = resolve(__dirname, '../src/i18n/ro/greeting.json');
+const greetingPath = resolve(__dirname, '../src/i18n/ro/greeting.json');
+const holidaysPath = resolve(__dirname, '../src/i18n/ro/holidays.json');
 
-const data = JSON.parse(readFileSync(filePath, 'utf8'));
+const data = JSON.parse(readFileSync(greetingPath, 'utf8'));
+const holidaysData = JSON.parse(readFileSync(holidaysPath, 'utf8'));
 
 // ── Slogan category detection ──────────────────────────────────────────────
 // Order matters: more specific categories are checked first.
@@ -145,18 +147,17 @@ function processSection(section) {
   return result;
 }
 
-const updated = {
-  weeks: processSection(data.weeks),
-  holidays: processSection(data.holidays),
-};
+const updatedWeeks = { weeks: processSection(data.weeks) };
+const updatedHolidays = processSection(holidaysData);
 
-writeFileSync(filePath, JSON.stringify(updated, null, 2));
+writeFileSync(greetingPath, JSON.stringify(updatedWeeks, null, 2));
+writeFileSync(holidaysPath, JSON.stringify(updatedHolidays, null, 2));
 
 // ── Verification summary ───────────────────────────────────────────────────
 const cats = {};
-for (const section of [updated.weeks, updated.holidays]) {
+for (const section of [updatedWeeks.weeks, updatedHolidays]) {
   for (const period of Object.values(section)) {
-    for (const [time, block] of Object.entries(period)) {
+    for (const block of Object.values(period)) {
       for (const msg of block.messages) {
         const cat = detectSloganCategory(msg.slogans);
         cats[cat] = (cats[cat] ?? 0) + 1;

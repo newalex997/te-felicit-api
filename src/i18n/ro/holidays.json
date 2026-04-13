@@ -1,0 +1,4280 @@
+{
+  "new_year": {
+    "morning": {
+      "messages": [
+        {
+          "text": "S-a terminat un an întreg și iată-ne din nou la început. Îți trimit un gând cald, chiar la primul răsărit.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani!",
+            "Un an nou plin de bine!",
+            "Sănătate și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fie ca anul acesta să aducă mai puțin din ce te-a obosit și mai mult din ce te-a bucurat.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani!",
+            "An Nou Fericit!",
+            "Să fie mai bine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "S-a terminat un an întreg și iată-ne din nou la început. Îți trimit un gând cald, chiar la primul răsărit.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani!",
+            "Un an nou plin de bine!",
+            "Sănătate și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fie ca anul acesta să aducă mai puțin din ce te-a obosit și mai mult din ce te-a bucurat.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani!",
+            "An Nou Fericit!",
+            "Să fie mai bine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "S-a terminat un an întreg și iată-ne din nou la început. Îți trimit un gând cald, chiar la primul răsărit.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani!",
+            "Un an nou plin de bine!",
+            "Sănătate și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fie ca anul acesta să aducă mai puțin din ce te-a obosit și mai mult din ce te-a bucurat.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani!",
+            "An Nou Fericit!",
+            "Să fie mai bine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "S-a terminat un an întreg și iată-ne din nou la început. Îți trimit un gând cald, chiar la primul răsărit.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani!",
+            "Un an nou plin de bine!",
+            "Sănătate și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fie ca anul acesta să aducă mai puțin din ce te-a obosit și mai mult din ce te-a bucurat.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani!",
+            "An Nou Fericit!",
+            "Să fie mai bine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "union_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Pe 24 ianuarie, două principate au hotărât să fie una. Un vis împlinit cu curaj și demnitate.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani de Ziua Unirii!",
+            "Trăiască unirea!",
+            "24 Ianuarie cu mândrie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani!",
+            "Ziua Unirii Principatelor!",
+            "Trăiască unirea!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Pe 24 ianuarie, două principate au hotărât să fie una. Un vis împlinit cu curaj și demnitate.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani de Ziua Unirii!",
+            "Trăiască unirea!",
+            "24 Ianuarie cu mândrie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani!",
+            "Ziua Unirii Principatelor!",
+            "Trăiască unirea!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Pe 24 ianuarie, două principate au hotărât să fie una. Un vis împlinit cu curaj și demnitate.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani de Ziua Unirii!",
+            "Trăiască unirea!",
+            "24 Ianuarie cu mândrie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani!",
+            "Ziua Unirii Principatelor!",
+            "Trăiască unirea!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Pe 24 ianuarie, două principate au hotărât să fie una. Un vis împlinit cu curaj și demnitate.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani de Ziua Unirii!",
+            "Trăiască unirea!",
+            "24 Ianuarie cu mândrie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani!",
+            "Ziua Unirii Principatelor!",
+            "Trăiască unirea!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "easter": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+          "slogans": [
+            "Bună dimineața!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+          "slogans": [
+            "Bună dimineața!",
+            "Hristos a Înviat!",
+            "Paște Fericit!",
+            "Lumină și Înviere!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+          "slogans": [
+            "Bună ziua!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+          "slogans": [
+            "Bună ziua!",
+            "Hristos a Înviat!",
+            "Paște Fericit!",
+            "Lumină și Înviere!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+          "slogans": [
+            "Bună seara!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+          "slogans": [
+            "Bună seara!",
+            "Hristos a Înviat!",
+            "Paște Fericit!",
+            "Lumină și Înviere!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+          "slogans": [
+            "Noapte bună!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+          "slogans": [
+            "Noapte bună!",
+            "Hristos a Înviat!",
+            "Paște Fericit!",
+            "Lumină și Înviere!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "labour_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+          "slogans": [
+            "Bună dimineața!",
+            "1 Mai Fericit!",
+            "Zi cu odihnă binevenită!",
+            "Primăvară frumoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+          "slogans": [
+            "Bună dimineața!",
+            "1 Mai Fericit!",
+            "Un mai plin de soare!",
+            "Zi bine petrecută!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+          "slogans": [
+            "Bună ziua!",
+            "1 Mai Fericit!",
+            "Zi cu odihnă binevenită!",
+            "Primăvară frumoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+          "slogans": [
+            "Bună ziua!",
+            "1 Mai Fericit!",
+            "Un mai plin de soare!",
+            "Zi bine petrecută!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+          "slogans": [
+            "Bună seara!",
+            "1 Mai Fericit!",
+            "Zi cu odihnă binevenită!",
+            "Primăvară frumoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+          "slogans": [
+            "Bună seara!",
+            "1 Mai Fericit!",
+            "Un mai plin de soare!",
+            "Zi bine petrecută!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+          "slogans": [
+            "Noapte bună!",
+            "1 Mai Fericit!",
+            "Zi cu odihnă binevenită!",
+            "Primăvară frumoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+          "slogans": [
+            "Noapte bună!",
+            "1 Mai Fericit!",
+            "Un mai plin de soare!",
+            "Zi bine petrecută!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "childrens_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+          "slogans": [
+            "Bună dimineața!",
+            "Ziua Copilului Fericit!",
+            "1 Iunie cu bucurie!",
+            "Rămâi copil în suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani, copii!",
+            "1 Iunie Fericit!",
+            "Bucurie curată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+          "slogans": [
+            "Bună ziua!",
+            "Ziua Copilului Fericit!",
+            "1 Iunie cu bucurie!",
+            "Rămâi copil în suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani, copii!",
+            "1 Iunie Fericit!",
+            "Bucurie curată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+          "slogans": [
+            "Bună seara!",
+            "Ziua Copilului Fericit!",
+            "1 Iunie cu bucurie!",
+            "Rămâi copil în suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani, copii!",
+            "1 Iunie Fericit!",
+            "Bucurie curată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+          "slogans": [
+            "Noapte bună!",
+            "Ziua Copilului Fericit!",
+            "1 Iunie cu bucurie!",
+            "Rămâi copil în suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani, copii!",
+            "1 Iunie Fericit!",
+            "Bucurie curată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "assumption": {
+    "morning": {
+      "messages": [
+        {
+          "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani, Mario!",
+            "Sfânta Maria vă ocrotească!",
+            "Zi binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani de Sfânta Maria!",
+            "Maica Domnului vă ocrotească!",
+            "Zi sfântă și luminoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani, Mario!",
+            "Sfânta Maria vă ocrotească!",
+            "Zi binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani de Sfânta Maria!",
+            "Maica Domnului vă ocrotească!",
+            "Zi sfântă și luminoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani, Mario!",
+            "Sfânta Maria vă ocrotească!",
+            "Zi binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani de Sfânta Maria!",
+            "Maica Domnului vă ocrotească!",
+            "Zi sfântă și luminoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani, Mario!",
+            "Sfânta Maria vă ocrotească!",
+            "Zi binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani de Sfânta Maria!",
+            "Maica Domnului vă ocrotească!",
+            "Zi sfântă și luminoasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "saint_andrew": {
+    "morning": {
+      "messages": [
+        {
+          "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani, Andrei!",
+            "Sfântul Andrei cu bine!",
+            "Ocrotire și sănătate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani de Sfântul Andrei!",
+            "Andrei drag și ocrotit!",
+            "Noapte cu magie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani, Andrei!",
+            "Sfântul Andrei cu bine!",
+            "Ocrotire și sănătate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani de Sfântul Andrei!",
+            "Andrei drag și ocrotit!",
+            "Noapte cu magie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani, Andrei!",
+            "Sfântul Andrei cu bine!",
+            "Ocrotire și sănătate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani de Sfântul Andrei!",
+            "Andrei drag și ocrotit!",
+            "Noapte cu magie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani, Andrei!",
+            "Sfântul Andrei cu bine!",
+            "Ocrotire și sănătate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani de Sfântul Andrei!",
+            "Andrei drag și ocrotit!",
+            "Noapte cu magie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "national_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani, România!",
+            "1 Decembrie Fericit!",
+            "Trăiască România!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani!",
+            "1 Decembrie cu mândrie!",
+            "Trăiască România unită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani, România!",
+            "1 Decembrie Fericit!",
+            "Trăiască România!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani!",
+            "1 Decembrie cu mândrie!",
+            "Trăiască România unită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani, România!",
+            "1 Decembrie Fericit!",
+            "Trăiască România!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani!",
+            "1 Decembrie cu mândrie!",
+            "Trăiască România unită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani, România!",
+            "1 Decembrie Fericit!",
+            "Trăiască România!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani!",
+            "1 Decembrie cu mândrie!",
+            "Trăiască România unită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "saint_nicholas": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani, Nicolae!",
+            "Moș Nicolae să te bucure!",
+            "Daruri cu drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani de Sfântul Nicolae!",
+            "Moș Nicolae a venit!",
+            "Daruri și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani, Nicolae!",
+            "Moș Nicolae să te bucure!",
+            "Daruri cu drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani de Sfântul Nicolae!",
+            "Moș Nicolae a venit!",
+            "Daruri și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani, Nicolae!",
+            "Moș Nicolae să te bucure!",
+            "Daruri cu drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani de Sfântul Nicolae!",
+            "Moș Nicolae a venit!",
+            "Daruri și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani, Nicolae!",
+            "Moș Nicolae să te bucure!",
+            "Daruri cu drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani de Sfântul Nicolae!",
+            "Moș Nicolae a venit!",
+            "Daruri și bucurie!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "christmas": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+          "slogans": [
+            "Bună dimineața!",
+            "Crăciun Fericit!",
+            "Sărbători cu drag!",
+            "Casă caldă și oameni buni!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+          "slogans": [
+            "Bună dimineața!",
+            "Crăciun Fericit!",
+            "Sărbători Fericite!",
+            "Nașterea Domnului cu pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+          "slogans": [
+            "Bună ziua!",
+            "Crăciun Fericit!",
+            "Sărbători cu drag!",
+            "Casă caldă și oameni buni!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+          "slogans": [
+            "Bună ziua!",
+            "Crăciun Fericit!",
+            "Sărbători Fericite!",
+            "Nașterea Domnului cu pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+          "slogans": [
+            "Bună seara!",
+            "Crăciun Fericit!",
+            "Sărbători cu drag!",
+            "Casă caldă și oameni buni!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+          "slogans": [
+            "Bună seara!",
+            "Crăciun Fericit!",
+            "Sărbători Fericite!",
+            "Nașterea Domnului cu pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+          "slogans": [
+            "Noapte bună!",
+            "Crăciun Fericit!",
+            "Sărbători cu drag!",
+            "Casă caldă și oameni buni!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+          "slogans": [
+            "Noapte bună!",
+            "Crăciun Fericit!",
+            "Sărbători Fericite!",
+            "Nașterea Domnului cu pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "epiphany": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Apa sfințită de Bobotează e rece, dar sufletul celor dragi îi aduce căldură. La mulți ani, Ioane!",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani, Ioane!",
+            "Bobotează binecuvântată!",
+            "Apă sfântă, viață lungă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sfântul Ion e ocrotitorul celor cu inimă largă. Dacă îl porți în nume, îl porți și în suflet.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani, Ioane!",
+            "Sfântul Ion cu bine!",
+            "Bobotează sfântă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Apa sfințită de Bobotează e rece, dar sufletul celor dragi îi aduce căldură. La mulți ani, Ioane!",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani, Ioane!",
+            "Bobotează binecuvântată!",
+            "Apă sfântă, viață lungă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sfântul Ion e ocrotitorul celor cu inimă largă. Dacă îl porți în nume, îl porți și în suflet.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani, Ioane!",
+            "Sfântul Ion cu bine!",
+            "Bobotează sfântă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Apa sfințită de Bobotează e rece, dar sufletul celor dragi îi aduce căldură. La mulți ani, Ioane!",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani, Ioane!",
+            "Bobotează binecuvântată!",
+            "Apă sfântă, viață lungă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sfântul Ion e ocrotitorul celor cu inimă largă. Dacă îl porți în nume, îl porți și în suflet.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani, Ioane!",
+            "Sfântul Ion cu bine!",
+            "Bobotează sfântă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Apa sfințită de Bobotează e rece, dar sufletul celor dragi îi aduce căldură. La mulți ani, Ioane!",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani, Ioane!",
+            "Bobotează binecuvântată!",
+            "Apă sfântă, viață lungă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sfântul Ion e ocrotitorul celor cu inimă largă. Dacă îl porți în nume, îl porți și în suflet.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani, Ioane!",
+            "Sfântul Ion cu bine!",
+            "Bobotează sfântă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "old_new_year": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani pe Stil Vechi!",
+            "Sfântul Vasile cu bine!",
+            "Sorcova veselă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani!",
+            "Sfântul Vasile să vă ocrotească!",
+            "An nou fericit pe stil vechi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani pe Stil Vechi!",
+            "Sfântul Vasile cu bine!",
+            "Sorcova veselă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani!",
+            "Sfântul Vasile să vă ocrotească!",
+            "An nou fericit pe stil vechi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani pe Stil Vechi!",
+            "Sfântul Vasile cu bine!",
+            "Sorcova veselă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani!",
+            "Sfântul Vasile să vă ocrotească!",
+            "An nou fericit pe stil vechi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani pe Stil Vechi!",
+            "Sfântul Vasile cu bine!",
+            "Sorcova veselă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani!",
+            "Sfântul Vasile să vă ocrotească!",
+            "An nou fericit pe stil vechi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "christmas_orthodox": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+          "slogans": [
+            "Bună dimineața!",
+            "Hristos Se Naște!",
+            "Crăciun Fericit!",
+            "Slavă în ceruri!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+          "slogans": [
+            "Bună dimineața!",
+            "Crăciun Fericit pe Stil Vechi!",
+            "Hristos Se Naște!",
+            "Bucurie și pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+          "slogans": [
+            "Bună ziua!",
+            "Hristos Se Naște!",
+            "Crăciun Fericit!",
+            "Slavă în ceruri!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+          "slogans": [
+            "Bună ziua!",
+            "Crăciun Fericit pe Stil Vechi!",
+            "Hristos Se Naște!",
+            "Bucurie și pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+          "slogans": [
+            "Bună seara!",
+            "Hristos Se Naște!",
+            "Crăciun Fericit!",
+            "Slavă în ceruri!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+          "slogans": [
+            "Bună seara!",
+            "Crăciun Fericit pe Stil Vechi!",
+            "Hristos Se Naște!",
+            "Bucurie și pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+          "slogans": [
+            "Noapte bună!",
+            "Hristos Se Naște!",
+            "Crăciun Fericit!",
+            "Slavă în ceruri!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+          "slogans": [
+            "Noapte bună!",
+            "Crăciun Fericit pe Stil Vechi!",
+            "Hristos Se Naște!",
+            "Bucurie și pace!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "martisorul": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani de Mărțișor!",
+            "1 Martie cu drag!",
+            "Primăvară bine venită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+          "slogans": [
+            "Bună dimineața!",
+            "Primăvară fericită!",
+            "1 Martie fericit!",
+            "Un mărțișor din suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani de Mărțișor!",
+            "1 Martie cu drag!",
+            "Primăvară bine venită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+          "slogans": [
+            "Bună ziua!",
+            "Primăvară fericită!",
+            "1 Martie fericit!",
+            "Un mărțișor din suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani de Mărțișor!",
+            "1 Martie cu drag!",
+            "Primăvară bine venită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+          "slogans": [
+            "Bună seara!",
+            "Primăvară fericită!",
+            "1 Martie fericit!",
+            "Un mărțișor din suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani de Mărțișor!",
+            "1 Martie cu drag!",
+            "Primăvară bine venită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+          "slogans": [
+            "Noapte bună!",
+            "Primăvară fericită!",
+            "1 Martie fericit!",
+            "Un mărțișor din suflet!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "women_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+          "slogans": [
+            "Bună dimineața!",
+            "La Mulți Ani!",
+            "8 Martie cu drag!",
+            "Zi frumoasă pentru tine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+          "slogans": [
+            "Bună dimineața!",
+            "8 Martie Fericit!",
+            "La Mulți Ani, doamnelor!",
+            "Cu admirație și drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+          "slogans": [
+            "Bună ziua!",
+            "La Mulți Ani!",
+            "8 Martie cu drag!",
+            "Zi frumoasă pentru tine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+          "slogans": [
+            "Bună ziua!",
+            "8 Martie Fericit!",
+            "La Mulți Ani, doamnelor!",
+            "Cu admirație și drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+          "slogans": [
+            "Bună seara!",
+            "La Mulți Ani!",
+            "8 Martie cu drag!",
+            "Zi frumoasă pentru tine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+          "slogans": [
+            "Bună seara!",
+            "8 Martie Fericit!",
+            "La Mulți Ani, doamnelor!",
+            "Cu admirație și drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+          "slogans": [
+            "Noapte bună!",
+            "La Mulți Ani!",
+            "8 Martie cu drag!",
+            "Zi frumoasă pentru tine!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+          "slogans": [
+            "Noapte bună!",
+            "8 Martie Fericit!",
+            "La Mulți Ani, doamnelor!",
+            "Cu admirație și drag!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "palm_sunday": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+          "slogans": [
+            "Bună dimineața!",
+            "Florii binecuvântate!",
+            "Duminica Floriilor cu pace!",
+            "Suflet curat și luminos!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+          "slogans": [
+            "Bună dimineața!",
+            "Florii binecuvântate!",
+            "Lumină spre Paști!",
+            "Duminică cu har!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+          "slogans": [
+            "Bună ziua!",
+            "Florii binecuvântate!",
+            "Duminica Floriilor cu pace!",
+            "Suflet curat și luminos!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+          "slogans": [
+            "Bună ziua!",
+            "Florii binecuvântate!",
+            "Lumină spre Paști!",
+            "Duminică cu har!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+          "slogans": [
+            "Bună seara!",
+            "Florii binecuvântate!",
+            "Duminica Floriilor cu pace!",
+            "Suflet curat și luminos!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+          "slogans": [
+            "Bună seara!",
+            "Florii binecuvântate!",
+            "Lumină spre Paști!",
+            "Duminică cu har!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+          "slogans": [
+            "Noapte bună!",
+            "Florii binecuvântate!",
+            "Duminica Floriilor cu pace!",
+            "Suflet curat și luminos!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+          "slogans": [
+            "Noapte bună!",
+            "Florii binecuvântate!",
+            "Lumină spre Paști!",
+            "Duminică cu har!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "easter_monday": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! A doua zi de Paști e la fel de luminoasă și masa la fel de bogată.",
+          "slogans": [
+            "Bună dimineața!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
+          "slogans": [
+            "Bună dimineața!",
+            "Hristos a Înviat!",
+            "Paște fericite!",
+            "Bucurie și oameni dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! A doua zi de Paști e la fel de luminoasă și masa la fel de bogată.",
+          "slogans": [
+            "Bună ziua!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
+          "slogans": [
+            "Bună ziua!",
+            "Hristos a Înviat!",
+            "Paște fericite!",
+            "Bucurie și oameni dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! A doua zi de Paști e la fel de luminoasă și masa la fel de bogată.",
+          "slogans": [
+            "Bună seara!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
+          "slogans": [
+            "Bună seara!",
+            "Hristos a Înviat!",
+            "Paște fericite!",
+            "Bucurie și oameni dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Hristos a Înviat! A doua zi de Paști e la fel de luminoasă și masa la fel de bogată.",
+          "slogans": [
+            "Noapte bună!",
+            "Hristos a Înviat!",
+            "Adevărat a Înviat!",
+            "Paște luminate!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
+          "slogans": [
+            "Noapte bună!",
+            "Hristos a Înviat!",
+            "Paște fericite!",
+            "Bucurie și oameni dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "victory_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+          "slogans": [
+            "Bună dimineața!",
+            "9 Mai, Ziua Victoriei!",
+            "Pace și memorie!",
+            "Slavă celor căzuți!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+          "slogans": [
+            "Bună dimineața!",
+            "Ziua Victoriei!",
+            "Pace Europei!",
+            "9 Mai, memorie și recunoștință!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+          "slogans": [
+            "Bună ziua!",
+            "9 Mai, Ziua Victoriei!",
+            "Pace și memorie!",
+            "Slavă celor căzuți!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+          "slogans": [
+            "Bună ziua!",
+            "Ziua Victoriei!",
+            "Pace Europei!",
+            "9 Mai, memorie și recunoștință!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+          "slogans": [
+            "Bună seara!",
+            "9 Mai, Ziua Victoriei!",
+            "Pace și memorie!",
+            "Slavă celor căzuți!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+          "slogans": [
+            "Bună seara!",
+            "Ziua Victoriei!",
+            "Pace Europei!",
+            "9 Mai, memorie și recunoștință!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+          "slogans": [
+            "Noapte bună!",
+            "9 Mai, Ziua Victoriei!",
+            "Pace și memorie!",
+            "Slavă celor căzuți!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+          "slogans": [
+            "Noapte bună!",
+            "Ziua Victoriei!",
+            "Pace Europei!",
+            "9 Mai, memorie și recunoștință!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "whit_sunday": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Rusaliile vin cu verdele câmpurilor și cu suflul cald al verii. O duminică binecuvântată!",
+          "slogans": [
+            "Bună dimineața!",
+            "Rusalii fericite!",
+            "Duminica Mare cu pace!",
+            "Duhul Sfânt să vă binecuvânteze!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "De Duminica Mare, pământul e îmbrăcat în verde și sufletul în recunoștință. Rusalii binecuvântate!",
+          "slogans": [
+            "Bună dimineața!",
+            "Rusalii fericite!",
+            "Duhul Sfânt cu voi!",
+            "Duminica Mare binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Rusaliile vin cu verdele câmpurilor și cu suflul cald al verii. O duminică binecuvântată!",
+          "slogans": [
+            "Bună ziua!",
+            "Rusalii fericite!",
+            "Duminica Mare cu pace!",
+            "Duhul Sfânt să vă binecuvânteze!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "De Duminica Mare, pământul e îmbrăcat în verde și sufletul în recunoștință. Rusalii binecuvântate!",
+          "slogans": [
+            "Bună ziua!",
+            "Rusalii fericite!",
+            "Duhul Sfânt cu voi!",
+            "Duminica Mare binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Rusaliile vin cu verdele câmpurilor și cu suflul cald al verii. O duminică binecuvântată!",
+          "slogans": [
+            "Bună seara!",
+            "Rusalii fericite!",
+            "Duminica Mare cu pace!",
+            "Duhul Sfânt să vă binecuvânteze!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "De Duminica Mare, pământul e îmbrăcat în verde și sufletul în recunoștință. Rusalii binecuvântate!",
+          "slogans": [
+            "Bună seara!",
+            "Rusalii fericite!",
+            "Duhul Sfânt cu voi!",
+            "Duminica Mare binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Rusaliile vin cu verdele câmpurilor și cu suflul cald al verii. O duminică binecuvântată!",
+          "slogans": [
+            "Noapte bună!",
+            "Rusalii fericite!",
+            "Duminica Mare cu pace!",
+            "Duhul Sfânt să vă binecuvânteze!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "De Duminica Mare, pământul e îmbrăcat în verde și sufletul în recunoștință. Rusalii binecuvântate!",
+          "slogans": [
+            "Noapte bună!",
+            "Rusalii fericite!",
+            "Duhul Sfânt cu voi!",
+            "Duminica Mare binecuvântată!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "independence_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+          "slogans": [
+            "Bună dimineața!",
+            "La mulți ani, Moldova!",
+            "Ziua Independenței!",
+            "Moldova acasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+          "slogans": [
+            "Bună dimineața!",
+            "La mulți ani, Moldova!",
+            "27 August cu mândrie!",
+            "Moldova liberă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+          "slogans": [
+            "Bună ziua!",
+            "La mulți ani, Moldova!",
+            "Ziua Independenței!",
+            "Moldova acasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+          "slogans": [
+            "Bună ziua!",
+            "La mulți ani, Moldova!",
+            "27 August cu mândrie!",
+            "Moldova liberă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+          "slogans": [
+            "Bună seara!",
+            "La mulți ani, Moldova!",
+            "Ziua Independenței!",
+            "Moldova acasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+          "slogans": [
+            "Bună seara!",
+            "La mulți ani, Moldova!",
+            "27 August cu mândrie!",
+            "Moldova liberă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+          "slogans": [
+            "Noapte bună!",
+            "La mulți ani, Moldova!",
+            "Ziua Independenței!",
+            "Moldova acasă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+          "slogans": [
+            "Noapte bună!",
+            "La mulți ani, Moldova!",
+            "27 August cu mândrie!",
+            "Moldova liberă!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "limba_noastra": {
+    "morning": {
+      "messages": [
+        {
+          "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+          "slogans": [
+            "Bună dimineața!",
+            "Limba Noastră cu drag!",
+            "La mulți ani, limbă română!",
+            "31 august, Ziua Limbii!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+          "slogans": [
+            "Bună dimineața!",
+            "La mulți ani, limbă română!",
+            "Graiul nostru, comoara noastră!",
+            "Ziua Limbii fericită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+          "slogans": [
+            "Bună ziua!",
+            "Limba Noastră cu drag!",
+            "La mulți ani, limbă română!",
+            "31 august, Ziua Limbii!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+          "slogans": [
+            "Bună ziua!",
+            "La mulți ani, limbă română!",
+            "Graiul nostru, comoara noastră!",
+            "Ziua Limbii fericită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+          "slogans": [
+            "Bună seara!",
+            "Limba Noastră cu drag!",
+            "La mulți ani, limbă română!",
+            "31 august, Ziua Limbii!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+          "slogans": [
+            "Bună seara!",
+            "La mulți ani, limbă română!",
+            "Graiul nostru, comoara noastră!",
+            "Ziua Limbii fericită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+          "slogans": [
+            "Noapte bună!",
+            "Limba Noastră cu drag!",
+            "La mulți ani, limbă română!",
+            "31 august, Ziua Limbii!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+          "slogans": [
+            "Noapte bună!",
+            "La mulți ani, limbă română!",
+            "Graiul nostru, comoara noastră!",
+            "Ziua Limbii fericită!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "wine_day": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+          "slogans": [
+            "Bună dimineața!",
+            "Ziua Vinului Fericit!",
+            "Noroc!",
+            "La mulți ani, vinuri moldovenești!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+          "slogans": [
+            "Bună dimineața!",
+            "Noroc!",
+            "Ziua Vinului!",
+            "Cu drag, din Moldova!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+          "slogans": [
+            "Bună ziua!",
+            "Ziua Vinului Fericit!",
+            "Noroc!",
+            "La mulți ani, vinuri moldovenești!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+          "slogans": [
+            "Bună ziua!",
+            "Noroc!",
+            "Ziua Vinului!",
+            "Cu drag, din Moldova!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+          "slogans": [
+            "Bună seara!",
+            "Ziua Vinului Fericit!",
+            "Noroc!",
+            "La mulți ani, vinuri moldovenești!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+          "slogans": [
+            "Bună seara!",
+            "Noroc!",
+            "Ziua Vinului!",
+            "Cu drag, din Moldova!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+          "slogans": [
+            "Noapte bună!",
+            "Ziua Vinului Fericit!",
+            "Noroc!",
+            "La mulți ani, vinuri moldovenești!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+          "slogans": [
+            "Noapte bună!",
+            "Noroc!",
+            "Ziua Vinului!",
+            "Cu drag, din Moldova!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "all_saints": {
+    "morning": {
+      "messages": [
+        {
+          "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+          "slogans": [
+            "Bună dimineața!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare cu drag!",
+            "Moșii de Toamnă binecuvântați!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+          "slogans": [
+            "Bună dimineața!",
+            "Veșnică pomenire!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare pentru cei dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "afternoon": {
+      "messages": [
+        {
+          "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+          "slogans": [
+            "Bună ziua!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare cu drag!",
+            "Moșii de Toamnă binecuvântați!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFFFFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+          "slogans": [
+            "Bună ziua!",
+            "Veșnică pomenire!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare pentru cei dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFFFFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "evening": {
+      "messages": [
+        {
+          "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+          "slogans": [
+            "Bună seara!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare cu drag!",
+            "Moșii de Toamnă binecuvântați!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#FFE8D0",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+          "slogans": [
+            "Bună seara!",
+            "Veșnică pomenire!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare pentru cei dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#FFE8D0",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    },
+    "night": {
+      "messages": [
+        {
+          "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+          "slogans": [
+            "Noapte bună!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare cu drag!",
+            "Moșii de Toamnă binecuvântați!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 31,
+              "color": "#CCDEFF",
+              "position": "top-center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        },
+        {
+          "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+          "slogans": [
+            "Noapte bună!",
+            "Veșnică pomenire!",
+            "Dumnezeu să îi odihnească!",
+            "Lumânare pentru cei dragi!"
+          ],
+          "textConfig": {
+            "message": {
+              "fontSize": 33,
+              "color": "#CCDEFF",
+              "position": "center"
+            },
+            "slogan": {
+              "fontSize": 54,
+              "color": "#FFD700E6",
+              "position": "center"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
