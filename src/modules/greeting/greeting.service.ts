@@ -4,10 +4,7 @@ import {
   GreetingContext,
   GreetingContextService,
 } from '../../providers/greeting-context/greeting-context.service';
-import {
-  OCCASION_IMAGE_URLS,
-  MONTH_TIME_IMAGE_URLS,
-} from './greeting.constants';
+
 import { GreetingResponseDto } from './dto/greeting-response.dto';
 import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto';
 import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
@@ -39,14 +36,6 @@ function pickRandom<T>(arr: T[]): T {
   return arr[Math.floor(Math.random() * arr.length)];
 }
 
-function pickImage(context: GreetingContext): string {
-  if (context.occasion) {
-    const occasionPool = OCCASION_IMAGE_URLS[context.occasion];
-    if (occasionPool) return pickRandom(occasionPool[context.timeOfDay]);
-  }
-  return pickRandom(MONTH_TIME_IMAGE_URLS['april'][context.timeOfDay]);
-}
-
 function weekKey(weekOfYear: number): string {
   return `week_${String(weekOfYear).padStart(2, '0')}`;
 }
@@ -61,6 +50,20 @@ export class GreetingService {
   private getMessageEntries(key: string, lang: string): GreetingMessageEntry[] {
     const result = this.i18n.t(key, { lang });
     return Array.isArray(result) ? (result as GreetingMessageEntry[]) : [];
+  }
+
+  private getImageEntries(key: string, lang: string): string[] {
+    const result = this.i18n.t(key, { lang });
+    return Array.isArray(result) ? (result as string[]) : [];
+  }
+
+  private pickImage(context: GreetingContext, lang: string): string {
+    const imageurls = this.getImageEntries(
+      `greeting.weeks.${weekKey(context.weekOfYear)}.${context.timeOfDay}.imageUrls`,
+      lang,
+    );
+
+    return pickRandom(imageurls);
   }
 
   private buildGreeting(
@@ -103,7 +106,7 @@ export class GreetingService {
     return {
       message,
       slogan,
-      imageUrl: pickImage(context),
+      imageUrl: this.pickImage(context, lang),
       textConfig,
     };
   }
@@ -114,9 +117,9 @@ export class GreetingService {
     return this.buildGreeting(context, lang);
   }
 
-  getImage(): GreetingImageResponseDto {
+  getImage(lang: string): GreetingImageResponseDto {
     const context = this.greetingContextService.getContext();
 
-    return { imageUrl: pickImage(context) };
+    return { imageUrl: this.pickImage(context, lang) };
   }
 }

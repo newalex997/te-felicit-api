@@ -164,6 +164,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_5002524.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_7832746.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_6954155.jpg"
         ]
       },
       "afternoon": {
@@ -315,6 +324,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_7160186.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_4848909.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_8657585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_3236326.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_8657584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_315231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4112348.jpg"
         ]
       },
       "evening": {
@@ -466,6 +484,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_8316703.jpg"
         ]
       },
       "night": {
@@ -617,6 +644,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7853377.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4988318.jpg"
         ]
       }
     },
@@ -770,6 +806,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_morning_01_2225059.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_morning_02_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_morning_03_4509879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_morning_04_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_morning_05_9723861.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_morning_07_7098126.jpg"
         ]
       },
       "afternoon": {
@@ -921,6 +966,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_afternoon_02_10167099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_afternoon_03_9453064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_afternoon_04_2333385.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_afternoon_05_2574990.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_afternoon_06_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_afternoon_07_7192379.jpg"
         ]
       },
       "evening": {
@@ -1072,6 +1126,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_evening_04_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_evening_07_3970041.jpg"
         ]
       },
       "night": {
@@ -1223,6 +1286,15 @@
               }
             }
           }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_night_01_1415723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_night_02_7445243.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_night_04_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_night_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_night_06_1225188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_16_night_07_4792657.jpg"
         ]
       }
     },

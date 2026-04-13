@@ -29,7 +29,7 @@ export class GreetingController {
   @SkipAuth()
   @ApiOkResponse({ type: GreetingImageResponseDto })
   @Get('image')
-  getImage(): GreetingImageResponseDto {
-    return this.greetingService.getImage();
+  getImage(@I18nLang() lang: string): GreetingImageResponseDto {
+    return this.greetingService.getImage(lang);
   }
 }
