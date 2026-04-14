@@ -4,33 +4,18 @@ import {
   GreetingContext,
   GreetingContextService,
 } from '../../providers/greeting-context/greeting-context.service';
-
 import { GreetingResponseDto } from './dto/greeting-response.dto';
 import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto';
 import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
-import {
-  GreetingTextConfigDto,
-  TextPosition,
-} from './dto/text-block-config.dto';
+import { MoodOptionsResponseDto } from './dto/mood-option.dto';
+import { GreetingTextConfigDto } from './dto/text-block-config.dto';
+import { MOODS, DEFAULT_TEXT_CONFIG } from './greeting.constants';
 
 interface GreetingMessageEntry {
   text: string;
   slogans: string[];
   textConfig?: GreetingTextConfigDto;
 }
-
-const DEFAULT_TEXT_CONFIG: GreetingTextConfigDto = {
-  message: {
-    fontSize: 24,
-    color: '#FFFFFF',
-    position: TextPosition.CENTER,
-  },
-  slogan: {
-    fontSize: 48,
-    color: '#FFFFFFCC',
-    position: TextPosition.BOTTOM_CENTER,
-  },
-};
 
 function pickRandom<T>(arr: T[]): T {
   return arr[Math.floor(Math.random() * arr.length)];
@@ -47,51 +32,48 @@ export class GreetingService {
     private readonly i18n: I18nService,
   ) {}
 
-  private getMessageEntries(key: string, lang: string): GreetingMessageEntry[] {
+  private getI18nArray<T>(key: string, lang: string): T[] {
     const result = this.i18n.t(key, { lang });
-    return Array.isArray(result) ? (result as GreetingMessageEntry[]) : [];
-  }
-
-  private getImageEntries(key: string, lang: string): string[] {
-    const result = this.i18n.t(key, { lang });
-    return Array.isArray(result) ? (result as string[]) : [];
+    return Array.isArray(result) ? (result as T[]) : [];
   }
 
   private pickImage(context: GreetingContext, lang: string): string {
-    const imageurls = this.getImageEntries(
+    const urls = this.getI18nArray<string>(
       `greeting.weeks.${weekKey(context.weekOfYear)}.${context.timeOfDay}.imageUrls`,
       lang,
     );
-
-    return pickRandom(imageurls);
+    return pickRandom(urls);
   }
 
   private buildGreeting(
     context: GreetingContext,
     lang: string,
+    mood?: string,
   ): GreetingMessageResponseDto {
     const wk = weekKey(context.weekOfYear);
-    const weekEntries = this.getMessageEntries(
+    const weekEntries = this.getI18nArray<GreetingMessageEntry>(
       `greeting.weeks.${wk}.${context.timeOfDay}.messages`,
       lang,
     );
 
-    if (!context.occasion) {
-      const entry = pickRandom(weekEntries);
-      return {
-        message: entry.text,
-        slogan: pickRandom(entry.slogans),
-        textConfig: entry.textConfig ?? DEFAULT_TEXT_CONFIG,
-      };
-    }
+    const occasionEntries = context.occasion
+      ? this.getI18nArray<GreetingMessageEntry>(
+          `holidays.${context.occasion}.${context.timeOfDay}.messages`,
+          lang,
+        )
+      : [];
 
-    const holidayEntries = this.getMessageEntries(
-      `holidays.${context.occasion}.${context.timeOfDay}.messages`,
-      lang,
-    );
+    const moodEntries =
+      mood && mood !== 'all'
+        ? this.getI18nArray<GreetingMessageEntry>(
+            `moods.${mood}.messages`,
+            lang,
+          )
+        : [];
 
-    const allEntries = [...weekEntries, ...holidayEntries];
-    const entry = pickRandom(allEntries);
+    const pool = [...weekEntries, ...occasionEntries, ...moodEntries];
+
+    const entry = pickRandom(pool);
     return {
       message: entry.text,
       slogan: pickRandom(entry.slogans),
@@ -99,27 +81,28 @@ export class GreetingService {
     };
   }
 
-  getGreeting(lang: string): GreetingResponseDto {
+  getGreeting(lang: string, mood?: string): GreetingResponseDto {
     const context = this.greetingContextService.getContext();
-    const { message, slogan, textConfig } = this.buildGreeting(context, lang);
 
     return {
-      message,
-      slogan,
+      ...this.buildGreeting(context, lang, mood),
       imageUrl: this.pickImage(context, lang),
-      textConfig,
     };
   }
 
-  getMessage(lang: string): GreetingMessageResponseDto {
+  getMessage(lang: string, mood?: string): GreetingMessageResponseDto {
     const context = this.greetingContextService.getContext();
 
-    return this.buildGreeting(context, lang);
+    return this.buildGreeting(context, lang, mood);
   }
 
   getImage(lang: string): GreetingImageResponseDto {
     const context = this.greetingContextService.getContext();
 
     return { imageUrl: this.pickImage(context, lang) };
+  }
+
+  getMoods(): MoodOptionsResponseDto {
+    return { moods: MOODS };
   }
 }

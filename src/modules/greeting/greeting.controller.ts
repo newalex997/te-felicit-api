@@ -1,10 +1,10 @@
-import { Controller, Get } from '@nestjs/common';
+import { Controller, Get, Query } from '@nestjs/common';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
 import { I18nLang } from 'nestjs-i18n';
-import { SkipAuth } from '../../common/decorators/skip-auth.decorator';
 import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
 import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto';
 import { GreetingResponseDto } from './dto/greeting-response.dto';
+import { MoodOptionsResponseDto } from './dto/mood-option.dto';
 import { GreetingService } from './greeting.service';
 
 @ApiTags('greeting')
@@ -12,24 +12,33 @@ import { GreetingService } from './greeting.service';
 export class GreetingController {
   constructor(private readonly greetingService: GreetingService) {}
 
-  @SkipAuth()
   @ApiOkResponse({ type: GreetingResponseDto })
   @Get()
-  getGreeting(@I18nLang() lang: string): GreetingResponseDto {
-    return this.greetingService.getGreeting(lang);
+  getGreeting(
+    @I18nLang() lang: string,
+    @Query('mood') mood?: string,
+  ): GreetingResponseDto {
+    return this.greetingService.getGreeting(lang, mood);
   }
 
-  @SkipAuth()
   @ApiOkResponse({ type: GreetingMessageResponseDto })
   @Get('message')
-  getMessage(@I18nLang() lang: string): GreetingMessageResponseDto {
-    return this.greetingService.getMessage(lang);
+  getMessage(
+    @I18nLang() lang: string,
+    @Query('mood') mood?: string,
+  ): GreetingMessageResponseDto {
+    return this.greetingService.getMessage(lang, mood);
   }
 
-  @SkipAuth()
   @ApiOkResponse({ type: GreetingImageResponseDto })
   @Get('image')
   getImage(@I18nLang() lang: string): GreetingImageResponseDto {
     return this.greetingService.getImage(lang);
+  }
+
+  @ApiOkResponse({ type: MoodOptionsResponseDto })
+  @Get('moods')
+  getMoods(): MoodOptionsResponseDto {
+    return this.greetingService.getMoods();
   }
 }

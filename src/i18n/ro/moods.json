@@ -1,0 +1,396 @@
+{
+  "romantic": {
+    "messages": [
+      {
+        "text": "Există oameni care intră în viața ta și o schimbă fără să știe. Tu ești unul dintre ei.",
+        "slogans": [
+          "Cu drag pentru tine!",
+          "Din inimă!",
+          "Te prețuiesc!",
+          "Mereu alături!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 32,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 52,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Îți trimit un gând bun, pentru că unele zile merită puțin mai multă atenție față de cei dragi.",
+        "slogans": [
+          "Cu toată dragostea!",
+          "Ești special!",
+          "Din suflet!",
+          "Numai bine!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 31,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 52,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "joyful": {
+    "messages": [
+      {
+        "text": "Bucuria e molipsitoare. Sper că puțin din ea ajunge și la tine astăzi.",
+        "slogans": [
+          "O zi minunată!",
+          "Zâmbește!",
+          "Bucurie multă!",
+          "Numai bine!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 34,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 54,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Nu ai nevoie de un motiv special ca să ai o zi bună. Ajunge că ești tu.",
+        "slogans": [
+          "Zi cu voie bună!",
+          "Mult soare!",
+          "Zâmbete la tot pasul!",
+          "O zi splendidă!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 34,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 54,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "calm": {
+    "messages": [
+      {
+        "text": "Uneori cel mai curajos lucru pe care îl poți face e să respiri adânc și să lași lucrurile să curgă.",
+        "slogans": [
+          "Pace sufletească!",
+          "Liniște și bine!",
+          "Respiră!",
+          "Totul e în regulă!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 29,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 50,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Nu toate zilele trebuie să fie pline. Uneori liniștea e cel mai bun răspuns.",
+        "slogans": [
+          "Zi liniștită!",
+          "Cu seninătate!",
+          "Pace și armonie!",
+          "Totul trece!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 32,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 50,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "inspirational": {
+    "messages": [
+      {
+        "text": "Nu știi cât de departe poți ajunge dacă nu faci primul pas. Și primul pas e azi.",
+        "slogans": [
+          "Mergi înainte!",
+          "Poți face asta!",
+          "Forță și curaj!",
+          "Fă-o acum!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 32,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 54,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Progresul mic și constant bate orice salt spectaculos urmat de abandon. Continuă.",
+        "slogans": ["Pas cu pas!", "Nu te opri!", "Perseverează!", "Înainte!"],
+        "textConfig": {
+          "message": {
+            "fontSize": 33,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 54,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "playful": {
+    "messages": [
+      {
+        "text": "Viața e prea scurtă ca să o iei mereu în serios. Râzi puțin, respiră și bucură-te.",
+        "slogans": [
+          "Distracție maximă!",
+          "Hai să râdem!",
+          "Voie bună!",
+          "Trăiește clipa!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 32,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 52,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Azi e o zi bună să faci ceva care să te facă să zâmbești, fără niciun motiv serios.",
+        "slogans": [
+          "Zâmbete garantate!",
+          "Fii jucăuș!",
+          "Râs și voie bună!",
+          "Hai la distracție!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 31,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 52,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "grateful": {
+    "messages": [
+      {
+        "text": "Există în fiecare zi măcar un lucru pentru care merită să fii recunoscător. Caută-l.",
+        "slogans": [
+          "Mulțumesc!",
+          "Recunoștință!",
+          "Prețuiesc!",
+          "Inimă plină!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 31,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 52,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Recunoștința nu schimbă trecutul, dar schimbă felul în care privești ce ai astăzi.",
+        "slogans": [
+          "Cu recunoștință!",
+          "Apreciez tot!",
+          "Mulțumesc pentru tot!",
+          "Gând bun!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 31,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 52,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "warm": {
+    "messages": [
+      {
+        "text": "Îți trimit un gând cald, ca o ceașcă de ceai în dimineața unei zile lungi.",
+        "slogans": ["Cu căldură!", "Gând bun!", "Cu grijă!", "Din inimă!"],
+        "textConfig": {
+          "message": {
+            "fontSize": 33,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 52,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Unele zile au nevoie doar de puțin confort și de cineva care să-ți spună că totul va fi bine.",
+        "slogans": [
+          "Totul va fi bine!",
+          "Cu drag!",
+          "Căldură multă!",
+          "Ești îngrijit!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 30,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 50,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "bold": {
+    "messages": [
+      {
+        "text": "Astăzi e ziua în care îți permiți să fii mai curajos decât ieri. Nu îți cere nimeni mai mult.",
+        "slogans": ["Curaj!", "Fii curajos!", "Îndrăznește!", "Ești puternic!"],
+        "textConfig": {
+          "message": {
+            "fontSize": 31,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 54,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Puterea nu înseamnă să nu cazi niciodată. Înseamnă să te ridici de fiecare dată.",
+        "slogans": ["Ridică-te!", "Ești tare!", "Nu te opri!", "Forță!"],
+        "textConfig": {
+          "message": {
+            "fontSize": 32,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 54,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  },
+  "nostalgic": {
+    "messages": [
+      {
+        "text": "Uneori amintirile vin ca un parfum vechi: te opresc o clipă și îți amintesc cine ești.",
+        "slogans": [
+          "Amintiri frumoase!",
+          "Gânduri bune!",
+          "Mereu în suflet!",
+          "Cu drag de odinioară!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 31,
+            "color": "#FFFFFF",
+            "position": "top-center"
+          },
+          "slogan": {
+            "fontSize": 50,
+            "color": "#FFD700E6",
+            "position": "center"
+          }
+        }
+      },
+      {
+        "text": "Dorul de ceva din trecut e și el un semn că ai trăit ceva care a contat.",
+        "slogans": [
+          "Timp de altădată!",
+          "Cu nostalgie!",
+          "Amintiri dragi!",
+          "Frumos de altădată!"
+        ],
+        "textConfig": {
+          "message": {
+            "fontSize": 33,
+            "color": "#FFFFFF",
+            "position": "center"
+          },
+          "slogan": {
+            "fontSize": 50,
+            "color": "#FFD700E6",
+            "position": "bottom-center"
+          }
+        }
+      }
+    ]
+  }
+}
