@@ -1,0 +1,374 @@
+{
+  "morning": {
+    "messages": [
+      {
+        "id": 85,
+        "textConfigId": 1,
+        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
+        "slogans": [
+          "Bună dimineața!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi minunată de mai!"
+        ]
+      },
+      {
+        "id": 86,
+        "textConfigId": 3,
+        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
+        "slogans": [
+          "Bună dimineața!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Voie bună și soare!"
+        ]
+      },
+      {
+        "id": 87,
+        "textConfigId": 3,
+        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
+        "slogans": [
+          "Bună dimineața!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu drag și recunoștință!"
+        ]
+      },
+      {
+        "id": 88,
+        "textConfigId": 1,
+        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
+        "slogans": [
+          "Bună dimineața!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu toată dragostea!"
+        ]
+      },
+      {
+        "id": 89,
+        "textConfigId": 1,
+        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
+        "slogans": [
+          "Bună dimineața!",
+          "Zi minunată de mai!",
+          "Primăvara e a noastră!",
+          "Primăvară frumoasă!"
+        ]
+      },
+      {
+        "id": 90,
+        "textConfigId": 3,
+        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
+        "slogans": [
+          "Bună dimineața!",
+          "1 Mai Fericit!",
+          "Zi minunată de mai!",
+          "Odihnă binemeritată!"
+        ]
+      },
+      {
+        "id": 91,
+        "textConfigId": 3,
+        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
+        "slogans": [
+          "Bună dimineața!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi cu soare și bine!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
+    ]
+  },
+  "afternoon": {
+    "messages": [
+      {
+        "id": 92,
+        "textConfigId": 1,
+        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
+        "slogans": [
+          "Bună ziua!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi minunată de mai!"
+        ]
+      },
+      {
+        "id": 93,
+        "textConfigId": 3,
+        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
+        "slogans": [
+          "Bună ziua!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Voie bună și soare!"
+        ]
+      },
+      {
+        "id": 94,
+        "textConfigId": 3,
+        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
+        "slogans": [
+          "Bună ziua!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu drag și recunoștință!"
+        ]
+      },
+      {
+        "id": 95,
+        "textConfigId": 1,
+        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
+        "slogans": [
+          "Bună ziua!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu toată dragostea!"
+        ]
+      },
+      {
+        "id": 96,
+        "textConfigId": 1,
+        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
+        "slogans": [
+          "Bună ziua!",
+          "Zi minunată de mai!",
+          "Primăvara e a noastră!",
+          "Primăvară frumoasă!"
+        ]
+      },
+      {
+        "id": 97,
+        "textConfigId": 3,
+        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
+        "slogans": [
+          "Bună ziua!",
+          "1 Mai Fericit!",
+          "Zi minunată de mai!",
+          "Odihnă binemeritată!"
+        ]
+      },
+      {
+        "id": 98,
+        "textConfigId": 3,
+        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
+        "slogans": [
+          "Bună ziua!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi cu soare și bine!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
+    ]
+  },
+  "evening": {
+    "messages": [
+      {
+        "id": 99,
+        "textConfigId": 4,
+        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
+        "slogans": [
+          "Bună seara!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi minunată de mai!"
+        ]
+      },
+      {
+        "id": 100,
+        "textConfigId": 6,
+        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
+        "slogans": [
+          "Bună seara!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Voie bună și soare!"
+        ]
+      },
+      {
+        "id": 101,
+        "textConfigId": 6,
+        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
+        "slogans": [
+          "Bună seara!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu drag și recunoștință!"
+        ]
+      },
+      {
+        "id": 102,
+        "textConfigId": 4,
+        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
+        "slogans": [
+          "Bună seara!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu toată dragostea!"
+        ]
+      },
+      {
+        "id": 103,
+        "textConfigId": 4,
+        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
+        "slogans": [
+          "Bună seara!",
+          "Zi minunată de mai!",
+          "Primăvara e a noastră!",
+          "Primăvară frumoasă!"
+        ]
+      },
+      {
+        "id": 104,
+        "textConfigId": 6,
+        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
+        "slogans": [
+          "Bună seara!",
+          "1 Mai Fericit!",
+          "Zi minunată de mai!",
+          "Odihnă binemeritată!"
+        ]
+      },
+      {
+        "id": 105,
+        "textConfigId": 6,
+        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
+        "slogans": [
+          "Bună seara!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi cu soare și bine!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
+    ]
+  },
+  "night": {
+    "messages": [
+      {
+        "id": 106,
+        "textConfigId": 7,
+        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
+        "slogans": [
+          "Noapte bună!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi minunată de mai!"
+        ]
+      },
+      {
+        "id": 107,
+        "textConfigId": 9,
+        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
+        "slogans": [
+          "Noapte bună!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Voie bună și soare!"
+        ]
+      },
+      {
+        "id": 108,
+        "textConfigId": 9,
+        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
+        "slogans": [
+          "Noapte bună!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu drag și recunoștință!"
+        ]
+      },
+      {
+        "id": 109,
+        "textConfigId": 7,
+        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
+        "slogans": [
+          "Noapte bună!",
+          "La mulți ani, mamă!",
+          "Ziua Mamei Fericită!",
+          "Cu toată dragostea!"
+        ]
+      },
+      {
+        "id": 110,
+        "textConfigId": 7,
+        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
+        "slogans": [
+          "Noapte bună!",
+          "Zi minunată de mai!",
+          "Primăvara e a noastră!",
+          "Primăvară frumoasă!"
+        ]
+      },
+      {
+        "id": 111,
+        "textConfigId": 9,
+        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
+        "slogans": [
+          "Noapte bună!",
+          "1 Mai Fericit!",
+          "Zi minunată de mai!",
+          "Odihnă binemeritată!"
+        ]
+      },
+      {
+        "id": 112,
+        "textConfigId": 9,
+        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
+        "slogans": [
+          "Noapte bună!",
+          "1 Mai Fericit!",
+          "Primăvara e a noastră!",
+          "Zi cu soare și bine!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
+    ]
+  }
+}

@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_01_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_02_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_03_7762618.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_04_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_05_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_06_10154915.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_07_7098130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_08_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_09_7762619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_morning_10_9947733.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_01_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_02_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_03_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_04_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_05_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_06_220445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_07_7143756.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_08_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_09_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_afternoon_10_10211997.png"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_06_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_07_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_08_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_09_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_evening_10_6052942.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Ți-am prins un mărțișor la piept, alb pentru puritate, roșu pentru viață. Primăvară fericită!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Mărțișor!",
+              "1 Martie cu drag!",
+              "Primăvară bine venită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Mărțișorul e mic, dar poartă tot ce dorim celor dragi: sănătate, dragoste și un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară fericită!",
+              "1 Martie fericit!",
+              "Un mărțișor din suflet!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_01_6055943.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_05_4368752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_06_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_08_3265711.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_09_6052942.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/martisorul_night_10_9899712.jpg"
+        ]
+      }
+    }
+  }
+}

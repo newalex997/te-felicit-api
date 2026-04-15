@@ -1,0 +1,2124 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_01_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_02_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_03_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_04_6922150.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_05_317058.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_07_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_08_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_09_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_morning_10_3294432.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_01_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_02_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_03_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_05_4476373.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_9373246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_08_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_09_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_10_2910368.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_06_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_afternoon_07_9373246.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_03_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_05_2581737.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_07_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_09_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_evening_10_5624139.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "De Sfânta Maria, gândul meu merge spre toate Mariile din viața mea, și spre tine.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Mario!",
+              "Sfânta Maria vă ocrotească!",
+              "Zi binecuvântată!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "O sărbătoare de vară, cu lumânări și flori, și rugăciunea că cei dragi sunt sănătoși.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfânta Maria!",
+              "Maica Domnului vă ocrotească!",
+              "Zi sfântă și luminoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_07_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_08_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_09_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/assumption_night_10_6199828.jpg"
+        ]
+      }
+    }
+  }
+}

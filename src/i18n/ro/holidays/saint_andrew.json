@@ -1,0 +1,2142 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_03_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_04_7594479.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_06_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_07_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_08_8394891.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_09_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_morning_10_7562289.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_01_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_02_6815049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_06_9913086.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_07_6743130.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_1346430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_10_5826506.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_04_4400872.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_05_7562289.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_08_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_afternoon_09_1346430.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_01_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_03_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_05_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_06_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_08_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_evening_10_7165249.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "La mulți ani tuturor Andreilor din viața noastră! Sfântul Andrei veghează cu grijă asupra celor care îi poartă numele.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Andrei!",
+              "Sfântul Andrei cu bine!",
+              "Ocrotire și sănătate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Andrei!",
+              "Andrei drag și ocrotit!",
+              "Noapte cu magie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_06_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_07_7661889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_08_8020116.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_09_10074583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/st_andrew_night_10_225261.jpg"
+        ]
+      }
+    }
+  }
+}

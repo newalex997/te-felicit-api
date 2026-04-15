@@ -1,0 +1,2142 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună dimineața!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_02_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_03_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_04_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_08_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_09_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_10_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_06_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_morning_07_4154945.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună ziua!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_3387071.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_4050535.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_afternoon_10_3387071.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Bună seara!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_evening_10_1295556.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Zi cu odihnă binevenită!",
+              "Primăvară frumoasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "slogans": [
+              "Noapte bună!",
+              "1 Mai Fericit!",
+              "Un mai plin de soare!",
+              "Zi bine petrecută!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/labour_day_night_10_2409122.jpg"
+        ]
+      }
+    }
+  }
+}

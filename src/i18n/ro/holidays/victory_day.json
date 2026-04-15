@@ -1,0 +1,2142 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_01_1694293.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_02_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_03_6706182.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5928982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_06_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_07_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_08_86611.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_09_6648870.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_10_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_04_5572964.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_morning_05_5928982.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună ziua!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_01_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_02_4980246.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_03_10137982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_8995443.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_06_800752.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_07_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_08_2737970.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_09_6372410.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_10_7264042.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_04_5427048.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_afternoon_05_8995443.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Bună seara!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_02_7317683.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_04_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_05_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_06_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_07_4648356.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_evening_10_166738.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "slogans": [
+              "Noapte bună!",
+              "9 Mai, Ziua Victoriei!",
+              "Pace și memorie!",
+              "Slavă celor căzuți!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Victoriei!",
+              "Pace Europei!",
+              "9 Mai, memorie și recunoștință!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_04_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_06_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_07_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_08_4167939.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/victory_day_night_10_6363743.jpg"
+        ]
+      }
+    }
+  }
+}

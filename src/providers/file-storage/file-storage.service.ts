@@ -1,4 +1,8 @@
-import { Injectable } from '@nestjs/common';
+import {
+  Injectable,
+  InternalServerErrorException,
+  Logger,
+} from '@nestjs/common';
 import {
   S3Client,
   PutObjectCommand,
@@ -9,6 +13,7 @@ import { StorageConfigService } from '../../common/config/storage/configuration.
 
 @Injectable()
 export class FileStorageService {
+  private readonly logger = new Logger(FileStorageService.name);
   private s3: S3Client;
   private bucket: string;
   private region: string;
@@ -50,8 +55,9 @@ export class FileStorageService {
       );
 
       return `https://${this.bucket}.${this.region}.digitaloceanspaces.com/${filename}`;
-    } catch {
-      throw new Error(`File ${filename} upload failed`);
+    } catch (error) {
+      this.logger.error(`File ${filename} upload failed`, error);
+      throw new InternalServerErrorException(`File ${filename} upload failed`);
     }
   }
 
@@ -63,8 +69,9 @@ export class FileStorageService {
           Key: filePath,
         }),
       );
-    } catch {
-      throw new Error(`File ${filePath} delete failed`);
+    } catch (error) {
+      this.logger.error(`File ${filePath} delete failed`, error);
+      throw new InternalServerErrorException(`File ${filePath} delete failed`);
     }
   }
 }

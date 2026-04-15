@@ -1,0 +1,374 @@
+{
+  "morning": {
+    "messages": [
+      {
+        "id": 197,
+        "textConfigId": 1,
+        "text": "Înălțarea lui Hristos e o sărbătoare a speranței. Să-ți aducă pace și lumină.",
+        "slogans": [
+          "Bună dimineața!",
+          "Înălțare binecuvântată!",
+          "Pace și lumină!",
+          "Sărbătoare sfântă!"
+        ]
+      },
+      {
+        "id": 198,
+        "textConfigId": 1,
+        "text": "1 Iunie e ziua copilăriei. Amintește-ți de libertatea și veselia de atunci.",
+        "slogans": [
+          "Bună dimineața!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Copilărie fericită!"
+        ]
+      },
+      {
+        "id": 199,
+        "textConfigId": 1,
+        "text": "Copiii ne amintesc ce înseamnă să trăiești cu bucurie și curiozitate. La mulți ani, copii!",
+        "slogans": [
+          "Bună dimineața!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie ca în copilărie!"
+        ]
+      },
+      {
+        "id": 200,
+        "textConfigId": 1,
+        "text": "Iunie aduce primele zile de vară. Bine ai venit, sezonul cel mai așteptat!",
+        "slogans": [
+          "Bună dimineața!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi minunată de vară!"
+        ]
+      },
+      {
+        "id": 201,
+        "textConfigId": 1,
+        "text": "Înălțarea ne îndeamnă să privim mai sus, dincolo de problemele zilnice.",
+        "slogans": [
+          "Bună dimineața!",
+          "Înălțare binecuvântată!",
+          "Speranță și lumină!",
+          "Pace în suflet!"
+        ]
+      },
+      {
+        "id": 202,
+        "textConfigId": 1,
+        "text": "La fiecare copil din jur și la copilul din tine, La mulți ani! O zi plăcută.",
+        "slogans": [
+          "Bună dimineața!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 203,
+        "textConfigId": 3,
+        "text": "Primele zile de iunie vin cu o energie nouă. Vara e oficial aici.",
+        "slogans": [
+          "Bună dimineața!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi plăcută ție!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_01_5928982.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_02_4445324.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_03_8274904.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_04_5350988.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_05_8233937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_06_9947733.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_07_8420945.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_08_4591082.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_09_6706182.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_morning_10_86611.jpg"
+    ]
+  },
+  "afternoon": {
+    "messages": [
+      {
+        "id": 204,
+        "textConfigId": 1,
+        "text": "Înălțarea lui Hristos e o sărbătoare a speranței. Să-ți aducă pace și lumină.",
+        "slogans": [
+          "Bună ziua!",
+          "Înălțare binecuvântată!",
+          "Pace și lumină!",
+          "Sărbătoare sfântă!"
+        ]
+      },
+      {
+        "id": 205,
+        "textConfigId": 1,
+        "text": "1 Iunie e ziua copilăriei. Amintește-ți de libertatea și veselia de atunci.",
+        "slogans": [
+          "Bună ziua!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Copilărie fericită!"
+        ]
+      },
+      {
+        "id": 206,
+        "textConfigId": 1,
+        "text": "Copiii ne amintesc ce înseamnă să trăiești cu bucurie și curiozitate. La mulți ani, copii!",
+        "slogans": [
+          "Bună ziua!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie ca în copilărie!"
+        ]
+      },
+      {
+        "id": 207,
+        "textConfigId": 1,
+        "text": "Iunie aduce primele zile de vară. Bine ai venit, sezonul cel mai așteptat!",
+        "slogans": [
+          "Bună ziua!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi minunată de vară!"
+        ]
+      },
+      {
+        "id": 208,
+        "textConfigId": 1,
+        "text": "Înălțarea ne îndeamnă să privim mai sus, dincolo de problemele zilnice.",
+        "slogans": [
+          "Bună ziua!",
+          "Înălțare binecuvântată!",
+          "Speranță și lumină!",
+          "Pace în suflet!"
+        ]
+      },
+      {
+        "id": 209,
+        "textConfigId": 1,
+        "text": "La fiecare copil din jur și la copilul din tine, La mulți ani! O zi plăcută.",
+        "slogans": [
+          "Bună ziua!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 210,
+        "textConfigId": 3,
+        "text": "Primele zile de iunie vin cu o energie nouă. Vara e oficial aici.",
+        "slogans": [
+          "Bună ziua!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi plăcută ție!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_01_10088188.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_02_9922901.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_03_2226095.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_04_9634160.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_05_347046.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_06_7304572.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_07_811746.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_08_6620619.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_09_811745.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_afternoon_10_1392492.jpg"
+    ]
+  },
+  "evening": {
+    "messages": [
+      {
+        "id": 211,
+        "textConfigId": 4,
+        "text": "Înălțarea lui Hristos e o sărbătoare a speranței. Să-ți aducă pace și lumină.",
+        "slogans": [
+          "Bună seara!",
+          "Înălțare binecuvântată!",
+          "Pace și lumină!",
+          "Sărbătoare sfântă!"
+        ]
+      },
+      {
+        "id": 212,
+        "textConfigId": 4,
+        "text": "1 Iunie e ziua copilăriei. Amintește-ți de libertatea și veselia de atunci.",
+        "slogans": [
+          "Bună seara!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Copilărie fericită!"
+        ]
+      },
+      {
+        "id": 213,
+        "textConfigId": 4,
+        "text": "Copiii ne amintesc ce înseamnă să trăiești cu bucurie și curiozitate. La mulți ani, copii!",
+        "slogans": [
+          "Bună seara!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie ca în copilărie!"
+        ]
+      },
+      {
+        "id": 214,
+        "textConfigId": 4,
+        "text": "Iunie aduce primele zile de vară. Bine ai venit, sezonul cel mai așteptat!",
+        "slogans": [
+          "Bună seara!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi minunată de vară!"
+        ]
+      },
+      {
+        "id": 215,
+        "textConfigId": 4,
+        "text": "Înălțarea ne îndeamnă să privim mai sus, dincolo de problemele zilnice.",
+        "slogans": [
+          "Bună seara!",
+          "Înălțare binecuvântată!",
+          "Speranță și lumină!",
+          "Pace în suflet!"
+        ]
+      },
+      {
+        "id": 216,
+        "textConfigId": 4,
+        "text": "La fiecare copil din jur și la copilul din tine, La mulți ani! O zi plăcută.",
+        "slogans": [
+          "Bună seara!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 217,
+        "textConfigId": 6,
+        "text": "Primele zile de iunie vin cu o energie nouă. Vara e oficial aici.",
+        "slogans": [
+          "Bună seara!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi plăcută ție!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_01_7873231.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_02_8233937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_03_4741598.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_04_6620588.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_05_5996781.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_06_9363974.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_07_6115719.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_08_6363743.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_09_9899712.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_evening_10_4971583.jpg"
+    ]
+  },
+  "night": {
+    "messages": [
+      {
+        "id": 218,
+        "textConfigId": 7,
+        "text": "Înălțarea lui Hristos e o sărbătoare a speranței. Să-ți aducă pace și lumină.",
+        "slogans": [
+          "Noapte bună!",
+          "Înălțare binecuvântată!",
+          "Pace și lumină!",
+          "Sărbătoare sfântă!"
+        ]
+      },
+      {
+        "id": 219,
+        "textConfigId": 7,
+        "text": "1 Iunie e ziua copilăriei. Amintește-ți de libertatea și veselia de atunci.",
+        "slogans": [
+          "Noapte bună!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Copilărie fericită!"
+        ]
+      },
+      {
+        "id": 220,
+        "textConfigId": 7,
+        "text": "Copiii ne amintesc ce înseamnă să trăiești cu bucurie și curiozitate. La mulți ani, copii!",
+        "slogans": [
+          "Noapte bună!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie ca în copilărie!"
+        ]
+      },
+      {
+        "id": 221,
+        "textConfigId": 7,
+        "text": "Iunie aduce primele zile de vară. Bine ai venit, sezonul cel mai așteptat!",
+        "slogans": [
+          "Noapte bună!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi minunată de vară!"
+        ]
+      },
+      {
+        "id": 222,
+        "textConfigId": 7,
+        "text": "Înălțarea ne îndeamnă să privim mai sus, dincolo de problemele zilnice.",
+        "slogans": [
+          "Noapte bună!",
+          "Înălțare binecuvântată!",
+          "Speranță și lumină!",
+          "Pace în suflet!"
+        ]
+      },
+      {
+        "id": 223,
+        "textConfigId": 7,
+        "text": "La fiecare copil din jur și la copilul din tine, La mulți ani! O zi plăcută.",
+        "slogans": [
+          "Noapte bună!",
+          "1 Iunie Fericit!",
+          "Ziua Copilului Fericită!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 224,
+        "textConfigId": 9,
+        "text": "Primele zile de iunie vin cu o energie nouă. Vara e oficial aici.",
+        "slogans": [
+          "Noapte bună!",
+          "Bun venit, vară!",
+          "Iunie cu soare!",
+          "Zi plăcută ție!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_01_9937087.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_02_559641.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_03_9768540.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_04_6363743.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_05_5742416.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_06_4792470.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_07_8424565.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_08_6324434.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_09_7733877.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_22_night_10_4167939.jpg"
+    ]
+  }
+}

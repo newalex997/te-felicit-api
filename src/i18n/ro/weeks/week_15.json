@@ -1,0 +1,1782 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 1,
+            "textConfigId": 1,
+            "text": "Săptămâna asta are un fel aparte de liniște. E frumos să o trăiești alături de cineva drag.",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag, de Paști!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 2,
+            "textConfigId": 1,
+            "text": "Învierea aduce cu ea un sentiment de nou început. Poate și pentru noi doi.",
+            "slogans": [
+              "Bună dimineața!",
+              "Un nou început!",
+              "Paști cu dragoste!",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 3,
+            "textConfigId": 2,
+            "text": "Ouăle roșii, mirosul de cozonac, seara de Înviere. Cele mai frumoase momente sunt cele trăite în doi.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști fericiți!",
+              "Cu toată dragostea!",
+              "Alături de tine!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 4,
+            "textConfigId": 1,
+            "text": "Paștele bate la ușă! Câteva zile și lumânările se aprind, și Hristos a Înviat răsună peste tot.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști fericiți!",
+              "Bucurie mare!",
+              "Hristos a Înviat!"
+            ]
+          },
+          {
+            "id": 5,
+            "textConfigId": 1,
+            "text": "Săptămâna cea mai așteptată a anului. Pregătiri, miros de cozonac, familie adunată.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști cu bucurie!",
+              "Zi minunată!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 6,
+            "textConfigId": 2,
+            "text": "Primăvara și Paștele în același timp. Rar se întâmplă să fie atâta frumusețe într-o singură săptămână.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ce săptămână!",
+              "Paști luminoși!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 7,
+            "textConfigId": 1,
+            "text": "Săptămâna Mare are un ritm al ei, mai rar, mai adânc. E bine să mergi cu el.",
+            "slogans": [
+              "Bună dimineața!",
+              "Pace și liniște!",
+              "Săptămână sfântă!",
+              "Suflet împăcat!"
+            ]
+          },
+          {
+            "id": 8,
+            "textConfigId": 2,
+            "text": "Vinerea Mare e ziua tăcerii. Există o frumusețe aparte în a sta cu gândul la lucrurile care contează.",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște în suflet!",
+              "Zi de reculegere!",
+              "Pace deplină!"
+            ]
+          },
+          {
+            "id": 9,
+            "textConfigId": 1,
+            "text": "Înainte de bucuria Învierii vine liniștea așteptării. E un moment rar și prețios.",
+            "slogans": [
+              "Bună dimineața!",
+              "Așteptare sfântă!",
+              "Pace și credință!",
+              "Suflet liniștit!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 10,
+            "textConfigId": 1,
+            "text": "Învierea e cel mai puternic mesaj pe care îl avem: orice capăt poate fi un nou început.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Mereu un nou început!",
+              "Înainte cu credință!"
+            ]
+          },
+          {
+            "id": 11,
+            "textConfigId": 2,
+            "text": "Săptămâna Mare ne amintește că după cel mai greu moment urmează lumina. Ține minte asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Lumina urmează!",
+              "Paști cu putere!",
+              "Nu te opri!"
+            ]
+          },
+          {
+            "id": 12,
+            "textConfigId": 1,
+            "text": "Ouăle roșii simbolizează viața care învinge. Un bun memento pentru orice zi dificilă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Viața învinge!",
+              "Curaj și credință!",
+              "Înainte!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 13,
+            "textConfigId": 1,
+            "text": "Cozonacul nu se face singur. Dacă n-ai început deja, poate ar fi momentul.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști gustoși!",
+              "La treabă!",
+              "Zi productivă!"
+            ]
+          },
+          {
+            "id": 14,
+            "textConfigId": 1,
+            "text": "Ciocnitul ouălor e un sport cu reguli clare: cel care crăpă pierde. Antrenează-te.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ou tare!",
+              "Paști hazlii!",
+              "Pregătit de ciocnit!"
+            ]
+          },
+          {
+            "id": 15,
+            "textConfigId": 2,
+            "text": "Aprilie aduce Paștele și tot felul de planuri. Sper că ale tale sunt mai bune decât vremea din fereastră.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști veseli!",
+              "Planuri bune!",
+              "Zi cu surprize!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 16,
+            "textConfigId": 1,
+            "text": "Paștele ne aduce la masă împreună. Câtă lume nu are asta. Prețuiește-l.",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumire și pace!",
+              "Paști binecuvântați!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 17,
+            "textConfigId": 1,
+            "text": "Săptămâna asta e un bun moment să îți amintești de oamenii care au contat în viața ta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu recunoștință!",
+              "Paști cu mulțumire!",
+              "Prețuiește ce ai!"
+            ]
+          },
+          {
+            "id": 18,
+            "textConfigId": 1,
+            "text": "Lumânarea de Înviere, mirosul de primăvară, familia în jur. Nu e puțin lucru.",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc pentru azi!",
+              "Paști cu suflet!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 19,
+            "textConfigId": 10,
+            "text": "Paștele înseamnă acasă. Oriunde ai fi, te întoarce dacă poți.",
+            "slogans": [
+              "Bună dimineața!",
+              "Acasă de Paști!",
+              "Paști în familie!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 20,
+            "textConfigId": 2,
+            "text": "Masa de Paști e mai mult decât mâncare. E toate poveștile, toți oamenii, toți anii adunați la un loc.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști cu drag!",
+              "Alături de cei dragi!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 21,
+            "textConfigId": 2,
+            "text": "Săptămâna asta adu-ți aminte să suni pe cineva drag. Paștele e mai frumos când nu îl trăiești singur.",
+            "slogans": [
+              "Bună dimineața!",
+              "Gând cald!",
+              "Paști împreună!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 22,
+            "textConfigId": 1,
+            "text": "Învierea e cel mai curajos act din istorie. Și tu ai o săptămână înainte. Ce faci cu ea?",
+            "slogans": [
+              "Bună dimineața!",
+              "Îndrăznește!",
+              "Acum e momentul!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 23,
+            "textConfigId": 2,
+            "text": "Vinerea Mare e grea, dar duminica vine. Ține minte asta când lucrurile par fără ieșire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Duminica vine!",
+              "Fii puternic!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 24,
+            "textConfigId": 1,
+            "text": "Paștele e despre a nu te lăsa. E exact ce trebuie să faci și tu săptămâna asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Nu te opri!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 25,
+            "textConfigId": 2,
+            "text": "Slujba de Înviere de la miezul nopții, lumânarea aprinsă, drumul acasă pe întuneric. Unele lucruri rămân.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști de altădată!",
+              "Amintiri sfinte!",
+              "Ca pe vremuri!"
+            ]
+          },
+          {
+            "id": 26,
+            "textConfigId": 2,
+            "text": "Mirosul de cozonac cald și ouăle vopsite în roșu. Câte Paști n-am trăit și tot nu ne-am săturat.",
+            "slogans": [
+              "Bună dimineața!",
+              "Paști ca în copilărie!",
+              "Amintiri dragi!",
+              "Timpuri frumoase!"
+            ]
+          },
+          {
+            "id": 27,
+            "textConfigId": 2,
+            "text": "Paștele acela din copilărie, când toate erau mai simple și mai curate. Poate că unele lucruri nu s-au schimbat.",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu dor de acasă!",
+              "Paști de demult!",
+              "Gânduri frumoase!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_03_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_04_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_morning_10_4420635.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 28,
+            "textConfigId": 1,
+            "text": "Săptămâna asta are un fel aparte de liniște. E frumos să o trăiești alături de cineva drag.",
+            "slogans": [
+              "Bună ziua!",
+              "Cu drag, de Paști!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 29,
+            "textConfigId": 1,
+            "text": "Învierea aduce cu ea un sentiment de nou început. Poate și pentru noi doi.",
+            "slogans": [
+              "Bună ziua!",
+              "Un nou început!",
+              "Paști cu dragoste!",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 30,
+            "textConfigId": 2,
+            "text": "Ouăle roșii, mirosul de cozonac, seara de Înviere. Cele mai frumoase momente sunt cele trăite în doi.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști fericiți!",
+              "Cu toată dragostea!",
+              "Alături de tine!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 31,
+            "textConfigId": 1,
+            "text": "Paștele bate la ușă! Câteva zile și lumânările se aprind, și Hristos a Înviat răsună peste tot.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști fericiți!",
+              "Bucurie mare!",
+              "Hristos a Înviat!"
+            ]
+          },
+          {
+            "id": 32,
+            "textConfigId": 1,
+            "text": "Săptămâna cea mai așteptată a anului. Pregătiri, miros de cozonac, familie adunată.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști cu bucurie!",
+              "Zi minunată!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 33,
+            "textConfigId": 2,
+            "text": "Primăvara și Paștele în același timp. Rar se întâmplă să fie atâta frumusețe într-o singură săptămână.",
+            "slogans": [
+              "Bună ziua!",
+              "Ce săptămână!",
+              "Paști luminoși!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 34,
+            "textConfigId": 1,
+            "text": "Săptămâna Mare are un ritm al ei, mai rar, mai adânc. E bine să mergi cu el.",
+            "slogans": [
+              "Bună ziua!",
+              "Pace și liniște!",
+              "Săptămână sfântă!",
+              "Suflet împăcat!"
+            ]
+          },
+          {
+            "id": 35,
+            "textConfigId": 2,
+            "text": "Vinerea Mare e ziua tăcerii. Există o frumusețe aparte în a sta cu gândul la lucrurile care contează.",
+            "slogans": [
+              "Bună ziua!",
+              "Liniște în suflet!",
+              "Zi de reculegere!",
+              "Pace deplină!"
+            ]
+          },
+          {
+            "id": 36,
+            "textConfigId": 1,
+            "text": "Înainte de bucuria Învierii vine liniștea așteptării. E un moment rar și prețios.",
+            "slogans": [
+              "Bună ziua!",
+              "Așteptare sfântă!",
+              "Pace și credință!",
+              "Suflet liniștit!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 37,
+            "textConfigId": 1,
+            "text": "Învierea e cel mai puternic mesaj pe care îl avem: orice capăt poate fi un nou început.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Mereu un nou început!",
+              "Înainte cu credință!"
+            ]
+          },
+          {
+            "id": 38,
+            "textConfigId": 2,
+            "text": "Săptămâna Mare ne amintește că după cel mai greu moment urmează lumina. Ține minte asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Lumina urmează!",
+              "Paști cu putere!",
+              "Nu te opri!"
+            ]
+          },
+          {
+            "id": 39,
+            "textConfigId": 1,
+            "text": "Ouăle roșii simbolizează viața care învinge. Un bun memento pentru orice zi dificilă.",
+            "slogans": [
+              "Bună ziua!",
+              "Viața învinge!",
+              "Curaj și credință!",
+              "Înainte!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 40,
+            "textConfigId": 1,
+            "text": "Cozonacul nu se face singur. Dacă n-ai început deja, poate ar fi momentul.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști gustoși!",
+              "La treabă!",
+              "Zi productivă!"
+            ]
+          },
+          {
+            "id": 41,
+            "textConfigId": 1,
+            "text": "Ciocnitul ouălor e un sport cu reguli clare: cel care crăpă pierde. Antrenează-te.",
+            "slogans": [
+              "Bună ziua!",
+              "Ou tare!",
+              "Paști hazlii!",
+              "Pregătit de ciocnit!"
+            ]
+          },
+          {
+            "id": 42,
+            "textConfigId": 2,
+            "text": "Aprilie aduce Paștele și tot felul de planuri. Sper că ale tale sunt mai bune decât vremea din fereastră.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști veseli!",
+              "Planuri bune!",
+              "Zi cu surprize!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 43,
+            "textConfigId": 1,
+            "text": "Paștele ne aduce la masă împreună. Câtă lume nu are asta. Prețuiește-l.",
+            "slogans": [
+              "Bună ziua!",
+              "Mulțumire și pace!",
+              "Paști binecuvântați!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 44,
+            "textConfigId": 1,
+            "text": "Săptămâna asta e un bun moment să îți amintești de oamenii care au contat în viața ta.",
+            "slogans": [
+              "Bună ziua!",
+              "Cu recunoștință!",
+              "Paști cu mulțumire!",
+              "Prețuiește ce ai!"
+            ]
+          },
+          {
+            "id": 45,
+            "textConfigId": 1,
+            "text": "Lumânarea de Înviere, mirosul de primăvară, familia în jur. Nu e puțin lucru.",
+            "slogans": [
+              "Bună ziua!",
+              "Mulțumesc pentru azi!",
+              "Paști cu suflet!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 46,
+            "textConfigId": 10,
+            "text": "Paștele înseamnă acasă. Oriunde ai fi, te întoarce dacă poți.",
+            "slogans": [
+              "Bună ziua!",
+              "Acasă de Paști!",
+              "Paști în familie!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 47,
+            "textConfigId": 2,
+            "text": "Masa de Paști e mai mult decât mâncare. E toate poveștile, toți oamenii, toți anii adunați la un loc.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști cu drag!",
+              "Alături de cei dragi!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 48,
+            "textConfigId": 2,
+            "text": "Săptămâna asta adu-ți aminte să suni pe cineva drag. Paștele e mai frumos când nu îl trăiești singur.",
+            "slogans": [
+              "Bună ziua!",
+              "Gând cald!",
+              "Paști împreună!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 49,
+            "textConfigId": 1,
+            "text": "Învierea e cel mai curajos act din istorie. Și tu ai o săptămână înainte. Ce faci cu ea?",
+            "slogans": [
+              "Bună ziua!",
+              "Îndrăznește!",
+              "Acum e momentul!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 50,
+            "textConfigId": 2,
+            "text": "Vinerea Mare e grea, dar duminica vine. Ține minte asta când lucrurile par fără ieșire.",
+            "slogans": [
+              "Bună ziua!",
+              "Duminica vine!",
+              "Fii puternic!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 51,
+            "textConfigId": 1,
+            "text": "Paștele e despre a nu te lăsa. E exact ce trebuie să faci și tu săptămâna asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Nu te opri!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 52,
+            "textConfigId": 2,
+            "text": "Slujba de Înviere de la miezul nopții, lumânarea aprinsă, drumul acasă pe întuneric. Unele lucruri rămân.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști de altădată!",
+              "Amintiri sfinte!",
+              "Ca pe vremuri!"
+            ]
+          },
+          {
+            "id": 53,
+            "textConfigId": 2,
+            "text": "Mirosul de cozonac cald și ouăle vopsite în roșu. Câte Paști n-am trăit și tot nu ne-am săturat.",
+            "slogans": [
+              "Bună ziua!",
+              "Paști ca în copilărie!",
+              "Amintiri dragi!",
+              "Timpuri frumoase!"
+            ]
+          },
+          {
+            "id": 54,
+            "textConfigId": 2,
+            "text": "Paștele acela din copilărie, când toate erau mai simple și mai curate. Poate că unele lucruri nu s-au schimbat.",
+            "slogans": [
+              "Bună ziua!",
+              "Cu dor de acasă!",
+              "Paști de demult!",
+              "Gânduri frumoase!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_01_10157678.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_02_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_03_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_04_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_05_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_06_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_07_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_09_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_afternoon_10_4087220.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 55,
+            "textConfigId": 4,
+            "text": "Săptămâna asta are un fel aparte de liniște. E frumos să o trăiești alături de cineva drag.",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag, de Paști!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 56,
+            "textConfigId": 4,
+            "text": "Învierea aduce cu ea un sentiment de nou început. Poate și pentru noi doi.",
+            "slogans": [
+              "Bună seara!",
+              "Un nou început!",
+              "Paști cu dragoste!",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 57,
+            "textConfigId": 5,
+            "text": "Ouăle roșii, mirosul de cozonac, seara de Înviere. Cele mai frumoase momente sunt cele trăite în doi.",
+            "slogans": [
+              "Bună seara!",
+              "Paști fericiți!",
+              "Cu toată dragostea!",
+              "Alături de tine!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 58,
+            "textConfigId": 4,
+            "text": "Paștele bate la ușă! Câteva zile și lumânările se aprind, și Hristos a Înviat răsună peste tot.",
+            "slogans": [
+              "Bună seara!",
+              "Paști fericiți!",
+              "Bucurie mare!",
+              "Hristos a Înviat!"
+            ]
+          },
+          {
+            "id": 59,
+            "textConfigId": 4,
+            "text": "Săptămâna cea mai așteptată a anului. Pregătiri, miros de cozonac, familie adunată.",
+            "slogans": [
+              "Bună seara!",
+              "Paști cu bucurie!",
+              "Zi minunată!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 60,
+            "textConfigId": 5,
+            "text": "Primăvara și Paștele în același timp. Rar se întâmplă să fie atâta frumusețe într-o singură săptămână.",
+            "slogans": [
+              "Bună seara!",
+              "Ce săptămână!",
+              "Paști luminoși!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 61,
+            "textConfigId": 4,
+            "text": "Săptămâna Mare are un ritm al ei, mai rar, mai adânc. E bine să mergi cu el.",
+            "slogans": [
+              "Bună seara!",
+              "Pace și liniște!",
+              "Săptămână sfântă!",
+              "Suflet împăcat!"
+            ]
+          },
+          {
+            "id": 62,
+            "textConfigId": 5,
+            "text": "Vinerea Mare e ziua tăcerii. Există o frumusețe aparte în a sta cu gândul la lucrurile care contează.",
+            "slogans": [
+              "Bună seara!",
+              "Liniște în suflet!",
+              "Zi de reculegere!",
+              "Pace deplină!"
+            ]
+          },
+          {
+            "id": 63,
+            "textConfigId": 4,
+            "text": "Înainte de bucuria Învierii vine liniștea așteptării. E un moment rar și prețios.",
+            "slogans": [
+              "Bună seara!",
+              "Așteptare sfântă!",
+              "Pace și credință!",
+              "Suflet liniștit!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 64,
+            "textConfigId": 4,
+            "text": "Învierea e cel mai puternic mesaj pe care îl avem: orice capăt poate fi un nou început.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Mereu un nou început!",
+              "Înainte cu credință!"
+            ]
+          },
+          {
+            "id": 65,
+            "textConfigId": 5,
+            "text": "Săptămâna Mare ne amintește că după cel mai greu moment urmează lumina. Ține minte asta.",
+            "slogans": [
+              "Bună seara!",
+              "Lumina urmează!",
+              "Paști cu putere!",
+              "Nu te opri!"
+            ]
+          },
+          {
+            "id": 66,
+            "textConfigId": 4,
+            "text": "Ouăle roșii simbolizează viața care învinge. Un bun memento pentru orice zi dificilă.",
+            "slogans": [
+              "Bună seara!",
+              "Viața învinge!",
+              "Curaj și credință!",
+              "Înainte!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 67,
+            "textConfigId": 4,
+            "text": "Cozonacul nu se face singur. Dacă n-ai început deja, poate ar fi momentul.",
+            "slogans": [
+              "Bună seara!",
+              "Paști gustoși!",
+              "La treabă!",
+              "Zi productivă!"
+            ]
+          },
+          {
+            "id": 68,
+            "textConfigId": 4,
+            "text": "Ciocnitul ouălor e un sport cu reguli clare: cel care crăpă pierde. Antrenează-te.",
+            "slogans": [
+              "Bună seara!",
+              "Ou tare!",
+              "Paști hazlii!",
+              "Pregătit de ciocnit!"
+            ]
+          },
+          {
+            "id": 69,
+            "textConfigId": 5,
+            "text": "Aprilie aduce Paștele și tot felul de planuri. Sper că ale tale sunt mai bune decât vremea din fereastră.",
+            "slogans": [
+              "Bună seara!",
+              "Paști veseli!",
+              "Planuri bune!",
+              "Zi cu surprize!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 70,
+            "textConfigId": 4,
+            "text": "Paștele ne aduce la masă împreună. Câtă lume nu are asta. Prețuiește-l.",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumire și pace!",
+              "Paști binecuvântați!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 71,
+            "textConfigId": 4,
+            "text": "Săptămâna asta e un bun moment să îți amintești de oamenii care au contat în viața ta.",
+            "slogans": [
+              "Bună seara!",
+              "Cu recunoștință!",
+              "Paști cu mulțumire!",
+              "Prețuiește ce ai!"
+            ]
+          },
+          {
+            "id": 72,
+            "textConfigId": 4,
+            "text": "Lumânarea de Înviere, mirosul de primăvară, familia în jur. Nu e puțin lucru.",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc pentru azi!",
+              "Paști cu suflet!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 73,
+            "textConfigId": 11,
+            "text": "Paștele înseamnă acasă. Oriunde ai fi, te întoarce dacă poți.",
+            "slogans": [
+              "Bună seara!",
+              "Acasă de Paști!",
+              "Paști în familie!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 74,
+            "textConfigId": 5,
+            "text": "Masa de Paști e mai mult decât mâncare. E toate poveștile, toți oamenii, toți anii adunați la un loc.",
+            "slogans": [
+              "Bună seara!",
+              "Paști cu drag!",
+              "Alături de cei dragi!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 75,
+            "textConfigId": 5,
+            "text": "Săptămâna asta adu-ți aminte să suni pe cineva drag. Paștele e mai frumos când nu îl trăiești singur.",
+            "slogans": [
+              "Bună seara!",
+              "Gând cald!",
+              "Paști împreună!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 76,
+            "textConfigId": 4,
+            "text": "Învierea e cel mai curajos act din istorie. Și tu ai o săptămână înainte. Ce faci cu ea?",
+            "slogans": [
+              "Bună seara!",
+              "Îndrăznește!",
+              "Acum e momentul!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 77,
+            "textConfigId": 5,
+            "text": "Vinerea Mare e grea, dar duminica vine. Ține minte asta când lucrurile par fără ieșire.",
+            "slogans": [
+              "Bună seara!",
+              "Duminica vine!",
+              "Fii puternic!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 78,
+            "textConfigId": 4,
+            "text": "Paștele e despre a nu te lăsa. E exact ce trebuie să faci și tu săptămâna asta.",
+            "slogans": [
+              "Bună seara!",
+              "Nu te opri!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 79,
+            "textConfigId": 5,
+            "text": "Slujba de Înviere de la miezul nopții, lumânarea aprinsă, drumul acasă pe întuneric. Unele lucruri rămân.",
+            "slogans": [
+              "Bună seara!",
+              "Paști de altădată!",
+              "Amintiri sfinte!",
+              "Ca pe vremuri!"
+            ]
+          },
+          {
+            "id": 80,
+            "textConfigId": 5,
+            "text": "Mirosul de cozonac cald și ouăle vopsite în roșu. Câte Paști n-am trăit și tot nu ne-am săturat.",
+            "slogans": [
+              "Bună seara!",
+              "Paști ca în copilărie!",
+              "Amintiri dragi!",
+              "Timpuri frumoase!"
+            ]
+          },
+          {
+            "id": 81,
+            "textConfigId": 5,
+            "text": "Paștele acela din copilărie, când toate erau mai simple și mai curate. Poate că unele lucruri nu s-au schimbat.",
+            "slogans": [
+              "Bună seara!",
+              "Cu dor de acasă!",
+              "Paști de demult!",
+              "Gânduri frumoase!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_04_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_05_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_07_5859250.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_evening_10_2444827.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 82,
+            "textConfigId": 7,
+            "text": "Săptămâna asta are un fel aparte de liniște. E frumos să o trăiești alături de cineva drag.",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag, de Paști!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 83,
+            "textConfigId": 7,
+            "text": "Învierea aduce cu ea un sentiment de nou început. Poate și pentru noi doi.",
+            "slogans": [
+              "Noapte bună!",
+              "Un nou început!",
+              "Paști cu dragoste!",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 84,
+            "textConfigId": 8,
+            "text": "Ouăle roșii, mirosul de cozonac, seara de Înviere. Cele mai frumoase momente sunt cele trăite în doi.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști fericiți!",
+              "Cu toată dragostea!",
+              "Alături de tine!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 85,
+            "textConfigId": 7,
+            "text": "Paștele bate la ușă! Câteva zile și lumânările se aprind, și Hristos a Înviat răsună peste tot.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști fericiți!",
+              "Bucurie mare!",
+              "Hristos a Înviat!"
+            ]
+          },
+          {
+            "id": 86,
+            "textConfigId": 7,
+            "text": "Săptămâna cea mai așteptată a anului. Pregătiri, miros de cozonac, familie adunată.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști cu bucurie!",
+              "Zi minunată!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 87,
+            "textConfigId": 8,
+            "text": "Primăvara și Paștele în același timp. Rar se întâmplă să fie atâta frumusețe într-o singură săptămână.",
+            "slogans": [
+              "Noapte bună!",
+              "Ce săptămână!",
+              "Paști luminoși!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 88,
+            "textConfigId": 7,
+            "text": "Săptămâna Mare are un ritm al ei, mai rar, mai adânc. E bine să mergi cu el.",
+            "slogans": [
+              "Noapte bună!",
+              "Pace și liniște!",
+              "Săptămână sfântă!",
+              "Suflet împăcat!"
+            ]
+          },
+          {
+            "id": 89,
+            "textConfigId": 8,
+            "text": "Vinerea Mare e ziua tăcerii. Există o frumusețe aparte în a sta cu gândul la lucrurile care contează.",
+            "slogans": [
+              "Noapte bună!",
+              "Liniște în suflet!",
+              "Zi de reculegere!",
+              "Pace deplină!"
+            ]
+          },
+          {
+            "id": 90,
+            "textConfigId": 7,
+            "text": "Înainte de bucuria Învierii vine liniștea așteptării. E un moment rar și prețios.",
+            "slogans": [
+              "Noapte bună!",
+              "Așteptare sfântă!",
+              "Pace și credință!",
+              "Suflet liniștit!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 91,
+            "textConfigId": 7,
+            "text": "Învierea e cel mai puternic mesaj pe care îl avem: orice capăt poate fi un nou început.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Mereu un nou început!",
+              "Înainte cu credință!"
+            ]
+          },
+          {
+            "id": 92,
+            "textConfigId": 8,
+            "text": "Săptămâna Mare ne amintește că după cel mai greu moment urmează lumina. Ține minte asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Lumina urmează!",
+              "Paști cu putere!",
+              "Nu te opri!"
+            ]
+          },
+          {
+            "id": 93,
+            "textConfigId": 7,
+            "text": "Ouăle roșii simbolizează viața care învinge. Un bun memento pentru orice zi dificilă.",
+            "slogans": [
+              "Noapte bună!",
+              "Viața învinge!",
+              "Curaj și credință!",
+              "Înainte!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 94,
+            "textConfigId": 7,
+            "text": "Cozonacul nu se face singur. Dacă n-ai început deja, poate ar fi momentul.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști gustoși!",
+              "La treabă!",
+              "Zi productivă!"
+            ]
+          },
+          {
+            "id": 95,
+            "textConfigId": 7,
+            "text": "Ciocnitul ouălor e un sport cu reguli clare: cel care crăpă pierde. Antrenează-te.",
+            "slogans": [
+              "Noapte bună!",
+              "Ou tare!",
+              "Paști hazlii!",
+              "Pregătit de ciocnit!"
+            ]
+          },
+          {
+            "id": 96,
+            "textConfigId": 8,
+            "text": "Aprilie aduce Paștele și tot felul de planuri. Sper că ale tale sunt mai bune decât vremea din fereastră.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști veseli!",
+              "Planuri bune!",
+              "Zi cu surprize!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 97,
+            "textConfigId": 7,
+            "text": "Paștele ne aduce la masă împreună. Câtă lume nu are asta. Prețuiește-l.",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumire și pace!",
+              "Paști binecuvântați!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 98,
+            "textConfigId": 7,
+            "text": "Săptămâna asta e un bun moment să îți amintești de oamenii care au contat în viața ta.",
+            "slogans": [
+              "Noapte bună!",
+              "Cu recunoștință!",
+              "Paști cu mulțumire!",
+              "Prețuiește ce ai!"
+            ]
+          },
+          {
+            "id": 99,
+            "textConfigId": 7,
+            "text": "Lumânarea de Înviere, mirosul de primăvară, familia în jur. Nu e puțin lucru.",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc pentru azi!",
+              "Paști cu suflet!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 100,
+            "textConfigId": 12,
+            "text": "Paștele înseamnă acasă. Oriunde ai fi, te întoarce dacă poți.",
+            "slogans": [
+              "Noapte bună!",
+              "Acasă de Paști!",
+              "Paști în familie!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 101,
+            "textConfigId": 8,
+            "text": "Masa de Paști e mai mult decât mâncare. E toate poveștile, toți oamenii, toți anii adunați la un loc.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști cu drag!",
+              "Alături de cei dragi!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 102,
+            "textConfigId": 8,
+            "text": "Săptămâna asta adu-ți aminte să suni pe cineva drag. Paștele e mai frumos când nu îl trăiești singur.",
+            "slogans": [
+              "Noapte bună!",
+              "Gând cald!",
+              "Paști împreună!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 103,
+            "textConfigId": 7,
+            "text": "Învierea e cel mai curajos act din istorie. Și tu ai o săptămână înainte. Ce faci cu ea?",
+            "slogans": [
+              "Noapte bună!",
+              "Îndrăznește!",
+              "Acum e momentul!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 104,
+            "textConfigId": 8,
+            "text": "Vinerea Mare e grea, dar duminica vine. Ține minte asta când lucrurile par fără ieșire.",
+            "slogans": [
+              "Noapte bună!",
+              "Duminica vine!",
+              "Fii puternic!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 105,
+            "textConfigId": 7,
+            "text": "Paștele e despre a nu te lăsa. E exact ce trebuie să faci și tu săptămâna asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Nu te opri!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 106,
+            "textConfigId": 8,
+            "text": "Slujba de Înviere de la miezul nopții, lumânarea aprinsă, drumul acasă pe întuneric. Unele lucruri rămân.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști de altădată!",
+              "Amintiri sfinte!",
+              "Ca pe vremuri!"
+            ]
+          },
+          {
+            "id": 107,
+            "textConfigId": 8,
+            "text": "Mirosul de cozonac cald și ouăle vopsite în roșu. Câte Paști n-am trăit și tot nu ne-am săturat.",
+            "slogans": [
+              "Noapte bună!",
+              "Paști ca în copilărie!",
+              "Amintiri dragi!",
+              "Timpuri frumoase!"
+            ]
+          },
+          {
+            "id": 108,
+            "textConfigId": 8,
+            "text": "Paștele acela din copilărie, când toate erau mai simple și mai curate. Poate că unele lucruri nu s-au schimbat.",
+            "slogans": [
+              "Noapte bună!",
+              "Cu dor de acasă!",
+              "Paști de demult!",
+              "Gânduri frumoase!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_01_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_02_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_03_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_04_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_05_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_06_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_08_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_09_7143049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_15_night_10_17419.jpg"
+        ]
+      }
+    }
+  }
+}

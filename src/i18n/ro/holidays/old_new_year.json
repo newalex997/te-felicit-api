@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_01_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_02_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_03_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_04_5277954.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_05_4809785.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_06_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_07_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_morning_10_5839361.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_01_6945771.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_03_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_04_4780426.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_05_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_06_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_07_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_08_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_09_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_afternoon_10_7653431.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_01_5839366.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_02_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_03_5839361.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_05_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_08_3108425.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_evening_10_5521372.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe stil vechi, sărbătorim din nou. Sfântul Vasile aduce sorcova și urările celor cu suflet bun.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani pe Stil Vechi!",
+              "Sfântul Vasile cu bine!",
+              "Sorcova veselă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "Sfântul Vasile să vă ocrotească!",
+              "An nou fericit pe stil vechi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_01_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_03_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_04_9554109.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_05_9453143.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_06_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_07_4720178.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_09_9642627.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/old_new_year_night_10_9768540.jpg"
+        ]
+      }
+    }
+  }
+}

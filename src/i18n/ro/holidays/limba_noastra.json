@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună dimineața!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_04_5996781.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_05_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_07_10150982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_08_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_09_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_morning_10_6199828.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună ziua!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_04_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_05_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_06_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_07_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_08_6822430.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_09_5343528.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_afternoon_10_9444205.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Bună seara!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_evening_10_3970041.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "«Limba noastră-i o comoară» și noi suntem cei care o păstrăm vie. La mulți ani, limbă română!",
+            "slogans": [
+              "Noapte bună!",
+              "Limba Noastră cu drag!",
+              "La mulți ani, limbă română!",
+              "31 august, Ziua Limbii!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare cuvânt rostit cu drag în limba noastră e un act de iubire față de neamul nostru.",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, limbă română!",
+              "Graiul nostru, comoara noastră!",
+              "Ziua Limbii fericită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_03_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_07_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/limba_noastra_night_10_6194008.jpg"
+        ]
+      }
+    }
+  }
+}

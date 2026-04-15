@@ -1,0 +1,374 @@
+{
+  "morning": {
+    "messages": [
+      {
+        "id": 169,
+        "textConfigId": 2,
+        "text": "Ultimele zile de primăvară sunt și cele mai frumoase. Savurează-le înainte ca vara să preia ștafeta.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zile bune înainte!",
+          "Soare și voie bună!"
+        ]
+      },
+      {
+        "id": 170,
+        "textConfigId": 1,
+        "text": "Sezonul cald se instalează. Un moment bun să planifici concediul și să te relaxezi.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zile frumoase!",
+          "Soare și bucurie!"
+        ]
+      },
+      {
+        "id": 171,
+        "textConfigId": 1,
+        "text": "Înălțarea Domnului se apropie, o sărbătoare de pace și lumină spirituală.",
+        "slogans": [
+          "Bună dimineața!",
+          "Înălțare binecuvântată!",
+          "Pace în suflet!",
+          "Zile cu lumină!"
+        ]
+      },
+      {
+        "id": 172,
+        "textConfigId": 3,
+        "text": "Florile de mai trec ștafeta celor de vară. Natura e mereu în mișcare.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi cu voie bună!",
+          "Soare și bine!"
+        ]
+      },
+      {
+        "id": 173,
+        "textConfigId": 1,
+        "text": "O săptămână cu zile calde și seri plăcute. Unul dintre cele mai bune momente ale anului.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Timp bun înainte!"
+        ]
+      },
+      {
+        "id": 174,
+        "textConfigId": 3,
+        "text": "Ieși afară cât mai mult. Soarele, aerul și mișcarea fac minuni.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 175,
+        "textConfigId": 1,
+        "text": "Ziua e lungă, cerul e albastru. Nu ai nevoie de mai mult pentru o zi bună.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi senină ție!",
+          "Mult bine azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_01_7440132.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_02_4520513.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_03_2340408.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_04_6115719.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_05_6372410.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_06_4741598.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_07_5455265.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_08_10187366.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_09_7098126.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_morning_10_8424565.jpg"
+    ]
+  },
+  "afternoon": {
+    "messages": [
+      {
+        "id": 176,
+        "textConfigId": 2,
+        "text": "Ultimele zile de primăvară sunt și cele mai frumoase. Savurează-le înainte ca vara să preia ștafeta.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zile bune înainte!",
+          "Soare și voie bună!"
+        ]
+      },
+      {
+        "id": 177,
+        "textConfigId": 1,
+        "text": "Sezonul cald se instalează. Un moment bun să planifici concediul și să te relaxezi.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zile frumoase!",
+          "Soare și bucurie!"
+        ]
+      },
+      {
+        "id": 178,
+        "textConfigId": 1,
+        "text": "Înălțarea Domnului se apropie, o sărbătoare de pace și lumină spirituală.",
+        "slogans": [
+          "Bună ziua!",
+          "Înălțare binecuvântată!",
+          "Pace în suflet!",
+          "Zile cu lumină!"
+        ]
+      },
+      {
+        "id": 179,
+        "textConfigId": 3,
+        "text": "Florile de mai trec ștafeta celor de vară. Natura e mereu în mișcare.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi cu voie bună!",
+          "Soare și bine!"
+        ]
+      },
+      {
+        "id": 180,
+        "textConfigId": 1,
+        "text": "O săptămână cu zile calde și seri plăcute. Unul dintre cele mai bune momente ale anului.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Timp bun înainte!"
+        ]
+      },
+      {
+        "id": 181,
+        "textConfigId": 3,
+        "text": "Ieși afară cât mai mult. Soarele, aerul și mișcarea fac minuni.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 182,
+        "textConfigId": 1,
+        "text": "Ziua e lungă, cerul e albastru. Nu ai nevoie de mai mult pentru o zi bună.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi senină ție!",
+          "Mult bine azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_01_7368800.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_02_4520513.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_03_6623764.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_04_7440132.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_05_2340408.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_06_7098126.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_07_10187366.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_08_5541118.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_09_17743.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_afternoon_10_10032445.jpg"
+    ]
+  },
+  "evening": {
+    "messages": [
+      {
+        "id": 183,
+        "textConfigId": 5,
+        "text": "Ultimele zile de primăvară sunt și cele mai frumoase. Savurează-le înainte ca vara să preia ștafeta.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zile bune înainte!",
+          "Soare și voie bună!"
+        ]
+      },
+      {
+        "id": 184,
+        "textConfigId": 4,
+        "text": "Sezonul cald se instalează. Un moment bun să planifici concediul și să te relaxezi.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zile frumoase!",
+          "Soare și bucurie!"
+        ]
+      },
+      {
+        "id": 185,
+        "textConfigId": 4,
+        "text": "Înălțarea Domnului se apropie, o sărbătoare de pace și lumină spirituală.",
+        "slogans": [
+          "Bună seara!",
+          "Înălțare binecuvântată!",
+          "Pace în suflet!",
+          "Zile cu lumină!"
+        ]
+      },
+      {
+        "id": 186,
+        "textConfigId": 6,
+        "text": "Florile de mai trec ștafeta celor de vară. Natura e mereu în mișcare.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi cu voie bună!",
+          "Soare și bine!"
+        ]
+      },
+      {
+        "id": 187,
+        "textConfigId": 4,
+        "text": "O săptămână cu zile calde și seri plăcute. Unul dintre cele mai bune momente ale anului.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Timp bun înainte!"
+        ]
+      },
+      {
+        "id": 188,
+        "textConfigId": 6,
+        "text": "Ieși afară cât mai mult. Soarele, aerul și mișcarea fac minuni.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 189,
+        "textConfigId": 4,
+        "text": "Ziua e lungă, cerul e albastru. Nu ai nevoie de mai mult pentru o zi bună.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi senină ție!",
+          "Mult bine azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_01_8424565.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_02_1557110.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_03_9363974.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_04_4741598.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_05_1608549.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_06_275978.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_07_6526980.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_08_7440132.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_09_5324159.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_evening_10_6612075.jpg"
+    ]
+  },
+  "night": {
+    "messages": [
+      {
+        "id": 190,
+        "textConfigId": 8,
+        "text": "Ultimele zile de primăvară sunt și cele mai frumoase. Savurează-le înainte ca vara să preia ștafeta.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zile bune înainte!",
+          "Soare și voie bună!"
+        ]
+      },
+      {
+        "id": 191,
+        "textConfigId": 7,
+        "text": "Sezonul cald se instalează. Un moment bun să planifici concediul și să te relaxezi.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zile frumoase!",
+          "Soare și bucurie!"
+        ]
+      },
+      {
+        "id": 192,
+        "textConfigId": 7,
+        "text": "Înălțarea Domnului se apropie, o sărbătoare de pace și lumină spirituală.",
+        "slogans": [
+          "Noapte bună!",
+          "Înălțare binecuvântată!",
+          "Pace în suflet!",
+          "Zile cu lumină!"
+        ]
+      },
+      {
+        "id": 193,
+        "textConfigId": 9,
+        "text": "Florile de mai trec ștafeta celor de vară. Natura e mereu în mișcare.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi cu voie bună!",
+          "Soare și bine!"
+        ]
+      },
+      {
+        "id": 194,
+        "textConfigId": 7,
+        "text": "O săptămână cu zile calde și seri plăcute. Unul dintre cele mai bune momente ale anului.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Timp bun înainte!"
+        ]
+      },
+      {
+        "id": 195,
+        "textConfigId": 9,
+        "text": "Ieși afară cât mai mult. Soarele, aerul și mișcarea fac minuni.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie curată!"
+        ]
+      },
+      {
+        "id": 196,
+        "textConfigId": 7,
+        "text": "Ziua e lungă, cerul e albastru. Nu ai nevoie de mai mult pentru o zi bună.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi senină ție!",
+          "Mult bine azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_01_9937087.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_02_559641.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_03_9768540.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_04_4520513.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_05_5742416.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_06_2340408.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_07_7440132.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_08_4167939.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_09_8786825.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_21_night_10_10187366.jpg"
+    ]
+  }
+}

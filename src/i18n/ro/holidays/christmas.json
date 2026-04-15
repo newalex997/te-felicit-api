@@ -1,0 +1,2142 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_01_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_02_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_03_7030797.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_04_986940.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_09_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_10_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_07_1581920.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_morning_08_7116489.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_02_7845181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_03_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_04_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_05_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_06_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_07_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_08_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_09_7147073.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_afternoon_10_7670491.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_05_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_06_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_08_2936487.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_evening_10_3486261.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Crăciunul miroase a cozonac, a brad și a casă. Fie ca azi să fii unde trebuie să fii.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători cu drag!",
+              "Casă caldă și oameni buni!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit!",
+              "Sărbători Fericite!",
+              "Nașterea Domnului cu pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_04_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_05_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_07_4695973.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_08_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_09_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_night_10_2160347.jpg"
+        ]
+      }
+    }
+  }
+}

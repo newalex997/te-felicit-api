@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_01_7174839.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_04_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_05_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_06_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_07_7368800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_08_7478673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_09_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_morning_10_4591082.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună ziua!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună ziua!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_01_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_02_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_03_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_04_1731639.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_06_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_07_3084435.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_08_6951782.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_09_223805.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_afternoon_10_851205.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Bună seara!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Bună seara!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_02_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_03_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_04_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_05_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_06_2871653.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_08_6369825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_09_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_evening_10_1731295.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moldova și vinul sunt de nedespărțit. Azi ridicăm paharul pentru pământul care ne-a dat tot ce avem mai bun.",
+            "slogans": [
+              "Noapte bună!",
+              "Ziua Vinului Fericit!",
+              "Noroc!",
+              "La mulți ani, vinuri moldovenești!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Un pahar de vin bun, prieteni adevărați și un pământ binecuvântat. Asta e Moldova la ea acasă.",
+            "slogans": [
+              "Noapte bună!",
+              "Noroc!",
+              "Ziua Vinului!",
+              "Cu drag, din Moldova!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_01_4520513.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_02_3630370.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_03_8349988.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_04_2836888.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_05_2836894.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_06_1731295.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_07_492439.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_08_4353475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_09_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/wine_day_night_10_1731639.jpg"
+        ]
+      }
+    }
+  }
+}

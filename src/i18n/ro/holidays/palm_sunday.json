@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună dimineața!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_04_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_05_6208614.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_06_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_07_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_08_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_09_3268345.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_morning_10_7098125.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună ziua!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_01_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_02_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_03_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_04_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_05_4998860.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_06_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_07_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_08_10184144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_09_7078381.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_afternoon_10_8615302.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Bună seara!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_03_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_05_8626450.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_06_10184154.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_07_4949064.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_08_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_09_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_evening_10_6363743.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Duminica Floriilor, cu ramura de salcie în mână și gândul la Paști. Florii binecuvântate!",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Duminica Floriilor cu pace!",
+              "Suflet curat și luminos!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Salcia sfințită aduce binecuvântare în casă și bucurie în suflet. O duminică plină de har.",
+            "slogans": [
+              "Noapte bună!",
+              "Florii binecuvântate!",
+              "Lumină spre Paști!",
+              "Duminică cu har!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_01_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_02_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_03_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_04_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_05_8615302.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_06_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_07_7118619.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_09_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/palm_sunday_night_10_6363743.jpg"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_01_7345674.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_02_5003096.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_03_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_04_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_05_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_06_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_08_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_09_5285475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_morning_10_5944451.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună ziua!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_01_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_03_7487776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_04_7673572.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_05_4715695.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_06_5016422.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_07_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_09_8433815.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_afternoon_10_4651978.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Bună seara!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_02_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_03_6612075.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_04_5521372.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_05_7566206.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_06_4651978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_07_7860012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_08_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_09_5834898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_evening_10_3486261.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 7 ianuarie, Crăciunul se întoarce pe stil vechi. Hristos S-a Născut și bucuria e la fel de mare.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos Se Naște!",
+              "Crăciun Fericit!",
+              "Slavă în ceruri!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Colindele răsună din nou. De Crăciunul pe stil vechi, inimile se deschid a doua oară.",
+            "slogans": [
+              "Noapte bună!",
+              "Crăciun Fericit pe Stil Vechi!",
+              "Hristos Se Naște!",
+              "Bucurie și pace!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_01_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_02_3486261.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_03_6194008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_04_2160347.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_05_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_06_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_07_8464100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/christmas_orthodox_night_10_7487776.jpg"
+        ]
+      }
+    }
+  }
+}

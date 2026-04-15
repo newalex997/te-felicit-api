@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_02_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_03_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_04_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_08_2957819.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_morning_10_3863108.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_02_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_03_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_05_589504.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_06_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_07_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_08_628144.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_09_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_afternoon_10_3863108.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_04_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_05_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_06_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_07_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_08_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_09_7551415.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_evening_10_7873231.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Moș Nicolae a venit! Sper că ai pus cizmulița la loc bun și că sufletul tău e plin de fapte bune.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, Nicolae!",
+              "Moș Nicolae să te bucure!",
+              "Daruri cu drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "La 6 decembrie, copiii se trezesc cu ochii mari. Dar bucuria asta n-are vârstă.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani de Sfântul Nicolae!",
+              "Moș Nicolae a venit!",
+              "Daruri și bucurie!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_02_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_04_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_05_618879.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_06_4715124.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_07_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_08_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_09_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/saint_nicholas_night_10_1992274.jpg"
+        ]
+      }
+    }
+  }
+}

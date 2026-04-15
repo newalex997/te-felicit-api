@@ -1,4 +1,4 @@
-import { Injectable } from '@nestjs/common';
+import { Injectable, InternalServerErrorException } from '@nestjs/common';
 import { I18nService } from 'nestjs-i18n';
 import {
   GreetingContext,
@@ -37,9 +37,19 @@ export class GreetingService {
     return Array.isArray(result) ? (result as T[]) : [];
   }
 
-  private pickImage(context: GreetingContext, lang: string): string {
+  private effectiveMood(mood?: string): string {
+    const validMoods = MOODS.filter((m) => m.id !== 'all').map((m) => m.id);
+    return mood && validMoods.includes(mood) ? mood : 'joyful';
+  }
+
+  private pickImage(
+    context: GreetingContext,
+    lang: string,
+    mood?: string,
+  ): string {
+    const effectiveMood = this.effectiveMood(mood);
     const urls = this.getI18nArray<string>(
-      `greeting.weeks.${weekKey(context.weekOfYear)}.${context.timeOfDay}.imageUrls`,
+      `weeks.${weekKey(context.weekOfYear)}.${context.timeOfDay}.moods.${effectiveMood}.imageUrls`,
       lang,
     );
     return pickRandom(urls);
@@ -51,27 +61,27 @@ export class GreetingService {
     mood?: string,
   ): GreetingMessageResponseDto {
     const wk = weekKey(context.weekOfYear);
+    const effectiveMood = this.effectiveMood(mood);
+
     const weekEntries = this.getI18nArray<GreetingMessageEntry>(
-      `greeting.weeks.${wk}.${context.timeOfDay}.messages`,
+      `weeks.${wk}.${context.timeOfDay}.moods.${effectiveMood}.messages`,
       lang,
     );
 
     const occasionEntries = context.occasion
       ? this.getI18nArray<GreetingMessageEntry>(
-          `holidays.${context.occasion}.${context.timeOfDay}.messages`,
+          `holidays.${context.occasion}.${context.timeOfDay}.moods.${effectiveMood}.messages`,
           lang,
         )
       : [];
 
-    const moodEntries =
-      mood && mood !== 'all'
-        ? this.getI18nArray<GreetingMessageEntry>(
-            `moods.${mood}.messages`,
-            lang,
-          )
-        : [];
+    const pool = [...weekEntries, ...occasionEntries];
 
-    const pool = [...weekEntries, ...occasionEntries, ...moodEntries];
+    if (pool.length === 0) {
+      throw new InternalServerErrorException(
+        `No greeting content found for week=${wk}, timeOfDay=${context.timeOfDay}, mood=${effectiveMood}`,
+      );
+    }
 
     const entry = pickRandom(pool);
     return {
@@ -86,7 +96,7 @@ export class GreetingService {
 
     return {
       ...this.buildGreeting(context, lang, mood),
-      imageUrl: this.pickImage(context, lang),
+      imageUrl: this.pickImage(context, lang, mood),
     };
   }
 

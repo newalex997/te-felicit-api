@@ -1,0 +1,374 @@
+{
+  "morning": {
+    "messages": [
+      {
+        "id": 141,
+        "textConfigId": 3,
+        "text": "Zilele de mai sunt un cadou. Profită de lumina lungă și aerul curat.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Mai cu soare!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 142,
+        "textConfigId": 3,
+        "text": "Petalele cad ușor, dar parfumul rămâne. O zi frumoasă e înaintea ta.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      },
+      {
+        "id": 143,
+        "textConfigId": 1,
+        "text": "Primăvara ne amintește că lucrurile bune nu durează pentru totdeauna. Bucură-te azi.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi cu bucurie!",
+          "Trăiește clipa!"
+        ]
+      },
+      {
+        "id": 144,
+        "textConfigId": 1,
+        "text": "O cafea pe terasă la soare. Diminețile de mai sunt dintre cele mai plăcute.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie simplă!"
+        ]
+      },
+      {
+        "id": 145,
+        "textConfigId": 2,
+        "text": "Verdele crud al frunzelor și albastrul cerului. E una dintre combinațiile cele mai frumoase.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Mai splendid!",
+          "Zi luminoasă!"
+        ]
+      },
+      {
+        "id": 146,
+        "textConfigId": 3,
+        "text": "Fiecare zi de mai e o invitație să ieși din casă și să trăiești.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Mai plin de viață!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 147,
+        "textConfigId": 1,
+        "text": "Soarele răsare devreme și apune târziu. Mai ne oferă zile lungi și generoase.",
+        "slogans": [
+          "Bună dimineața!",
+          "Primăvară frumoasă!",
+          "Zi minunată de mai!",
+          "Zi cu soare!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_01_4536354.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_02_7531346.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_03_5376.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_04_6147050.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_05_7146757.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_06_7665747.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_07_6240485.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_08_7098125.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_09_444402.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_morning_10_5109481.jpg"
+    ]
+  },
+  "afternoon": {
+    "messages": [
+      {
+        "id": 148,
+        "textConfigId": 3,
+        "text": "Zilele de mai sunt un cadou. Profită de lumina lungă și aerul curat.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Mai cu soare!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 149,
+        "textConfigId": 3,
+        "text": "Petalele cad ușor, dar parfumul rămâne. O zi frumoasă e înaintea ta.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      },
+      {
+        "id": 150,
+        "textConfigId": 1,
+        "text": "Primăvara ne amintește că lucrurile bune nu durează pentru totdeauna. Bucură-te azi.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi cu bucurie!",
+          "Trăiește clipa!"
+        ]
+      },
+      {
+        "id": 151,
+        "textConfigId": 1,
+        "text": "O cafea pe terasă la soare. Diminețile de mai sunt dintre cele mai plăcute.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie simplă!"
+        ]
+      },
+      {
+        "id": 152,
+        "textConfigId": 2,
+        "text": "Verdele crud al frunzelor și albastrul cerului. E una dintre combinațiile cele mai frumoase.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Mai splendid!",
+          "Zi luminoasă!"
+        ]
+      },
+      {
+        "id": 153,
+        "textConfigId": 3,
+        "text": "Fiecare zi de mai e o invitație să ieși din casă și să trăiești.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Mai plin de viață!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 154,
+        "textConfigId": 1,
+        "text": "Soarele răsare devreme și apune târziu. Mai ne oferă zile lungi și generoase.",
+        "slogans": [
+          "Bună ziua!",
+          "Primăvară frumoasă!",
+          "Zi minunată de mai!",
+          "Zi cu soare!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_01_4536354.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_02_7531346.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_03_5376.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_04_7966076.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_05_6147050.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_06_7146757.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_07_7665747.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_08_8595521.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_09_6240485.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_afternoon_10_9373246.jpg"
+    ]
+  },
+  "evening": {
+    "messages": [
+      {
+        "id": 155,
+        "textConfigId": 6,
+        "text": "Zilele de mai sunt un cadou. Profită de lumina lungă și aerul curat.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Mai cu soare!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 156,
+        "textConfigId": 6,
+        "text": "Petalele cad ușor, dar parfumul rămâne. O zi frumoasă e înaintea ta.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      },
+      {
+        "id": 157,
+        "textConfigId": 4,
+        "text": "Primăvara ne amintește că lucrurile bune nu durează pentru totdeauna. Bucură-te azi.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi cu bucurie!",
+          "Trăiește clipa!"
+        ]
+      },
+      {
+        "id": 158,
+        "textConfigId": 4,
+        "text": "O cafea pe terasă la soare. Diminețile de mai sunt dintre cele mai plăcute.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie simplă!"
+        ]
+      },
+      {
+        "id": 159,
+        "textConfigId": 5,
+        "text": "Verdele crud al frunzelor și albastrul cerului. E una dintre combinațiile cele mai frumoase.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Mai splendid!",
+          "Zi luminoasă!"
+        ]
+      },
+      {
+        "id": 160,
+        "textConfigId": 6,
+        "text": "Fiecare zi de mai e o invitație să ieși din casă și să trăiești.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Mai plin de viață!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 161,
+        "textConfigId": 4,
+        "text": "Soarele răsare devreme și apune târziu. Mai ne oferă zile lungi și generoase.",
+        "slogans": [
+          "Bună seara!",
+          "Primăvară frumoasă!",
+          "Zi minunată de mai!",
+          "Zi cu soare!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_01_8424565.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_02_1557110.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_03_4536354.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_04_10032445.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_05_6199828.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_06_3970041.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_07_6363743.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_08_275978.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_09_7531346.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_evening_10_5376.jpg"
+    ]
+  },
+  "night": {
+    "messages": [
+      {
+        "id": 162,
+        "textConfigId": 9,
+        "text": "Zilele de mai sunt un cadou. Profită de lumina lungă și aerul curat.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Mai cu soare!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 163,
+        "textConfigId": 9,
+        "text": "Petalele cad ușor, dar parfumul rămâne. O zi frumoasă e înaintea ta.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      },
+      {
+        "id": 164,
+        "textConfigId": 7,
+        "text": "Primăvara ne amintește că lucrurile bune nu durează pentru totdeauna. Bucură-te azi.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi cu bucurie!",
+          "Trăiește clipa!"
+        ]
+      },
+      {
+        "id": 165,
+        "textConfigId": 7,
+        "text": "O cafea pe terasă la soare. Diminețile de mai sunt dintre cele mai plăcute.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi cu soare!",
+          "Bucurie simplă!"
+        ]
+      },
+      {
+        "id": 166,
+        "textConfigId": 8,
+        "text": "Verdele crud al frunzelor și albastrul cerului. E una dintre combinațiile cele mai frumoase.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Mai splendid!",
+          "Zi luminoasă!"
+        ]
+      },
+      {
+        "id": 167,
+        "textConfigId": 9,
+        "text": "Fiecare zi de mai e o invitație să ieși din casă și să trăiești.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Mai plin de viață!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 168,
+        "textConfigId": 7,
+        "text": "Soarele răsare devreme și apune târziu. Mai ne oferă zile lungi și generoase.",
+        "slogans": [
+          "Noapte bună!",
+          "Primăvară frumoasă!",
+          "Zi minunată de mai!",
+          "Zi cu soare!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_01_4536354.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_02_7531346.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_03_5376.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_04_6147050.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_05_7146757.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_06_7665747.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_07_6240485.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_08_559641.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_09_2934138.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_20_night_10_2933992.jpg"
+    ]
+  }
+}

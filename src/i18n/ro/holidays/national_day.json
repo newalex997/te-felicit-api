@@ -1,0 +1,2124 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_01_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_03_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_04_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_05_9322222.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_06_5649827.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_07_270160.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_08_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_09_7665740.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_morning_10_8445565.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_01_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_02_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_03_4707542.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_04_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_05_5954732.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_06_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_07_8072698.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_5867982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_10_7653431.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_08_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_afternoon_09_5867982.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_02_5942468.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_03_10134653.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_04_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_05_6118187.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_06_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_07_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_08_6886672.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_09_7030163.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_evening_10_3108425.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 1 Decembrie a luat naștere România Mare. Un vis cât un popor, împlinit cu sânge și demnitate.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani, România!",
+              "1 Decembrie Fericit!",
+              "Trăiască România!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "1 Decembrie cu mândrie!",
+              "Trăiască România unită!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_01_1082511.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_02_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_03_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_04_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_05_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_06_4678359.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_07_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_08_9296118.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_09_8445565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/national_day_night_10_5501384.jpg"
+        ]
+      }
+    }
+  }
+}

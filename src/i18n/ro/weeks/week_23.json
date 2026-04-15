@@ -1,0 +1,374 @@
+{
+  "morning": {
+    "messages": [
+      {
+        "id": 225,
+        "textConfigId": 1,
+        "text": "Rusaliile aduc bucurie și comuniune. O sărbătoare de suflet pentru întreaga familie.",
+        "slogans": [
+          "Bună dimineața!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Pace și binecuvântare!"
+        ]
+      },
+      {
+        "id": 226,
+        "textConfigId": 1,
+        "text": "Vara e în plină desfășurare. Soarele răsare devreme și zilele sunt lungi și calde.",
+        "slogans": [
+          "Bună dimineața!",
+          "Vară frumoasă!",
+          "Iunie cu soare!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 227,
+        "textConfigId": 2,
+        "text": "Dimineața de vară e liniștită și răcoroasă. Unul dintre cele mai plăcute momente ale zilei.",
+        "slogans": [
+          "Bună dimineața!",
+          "Vară frumoasă!",
+          "Soare și voie bună!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 228,
+        "textConfigId": 1,
+        "text": "Rusaliile marchează 50 de zile de la Paști. O sărbătoare a vieții și a bucuriei.",
+        "slogans": [
+          "Bună dimineața!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Lumină și bucurie!"
+        ]
+      },
+      {
+        "id": 229,
+        "textConfigId": 1,
+        "text": "Sezonul vacanțelor se apropie. Fă-ți planuri și abia așteaptă să le realizezi.",
+        "slogans": [
+          "Bună dimineața!",
+          "Vară frumoasă!",
+          "Vacanță în curând!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 230,
+        "textConfigId": 1,
+        "text": "Florile de vară sunt mai vii, mai îndrăznețe. Ca și ziua care te așteaptă.",
+        "slogans": [
+          "Bună dimineața!",
+          "Vară frumoasă!",
+          "Iunie splendid!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 231,
+        "textConfigId": 10,
+        "text": "O zi de vară e un dar. Trăiește-o din plin.",
+        "slogans": [
+          "Bună dimineața!",
+          "Vară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_01_7440132.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_02_5649827.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_03_4520513.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_04_9723861.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_05_7464192.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_06_7414288.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_07_3268345.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_08_7545064.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_09_7379994.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_morning_10_5175091.jpg"
+    ]
+  },
+  "afternoon": {
+    "messages": [
+      {
+        "id": 232,
+        "textConfigId": 1,
+        "text": "Rusaliile aduc bucurie și comuniune. O sărbătoare de suflet pentru întreaga familie.",
+        "slogans": [
+          "Bună ziua!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Pace și binecuvântare!"
+        ]
+      },
+      {
+        "id": 233,
+        "textConfigId": 1,
+        "text": "Vara e în plină desfășurare. Soarele răsare devreme și zilele sunt lungi și calde.",
+        "slogans": [
+          "Bună ziua!",
+          "Vară frumoasă!",
+          "Iunie cu soare!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 234,
+        "textConfigId": 2,
+        "text": "Dimineața de vară e liniștită și răcoroasă. Unul dintre cele mai plăcute momente ale zilei.",
+        "slogans": [
+          "Bună ziua!",
+          "Vară frumoasă!",
+          "Soare și voie bună!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 235,
+        "textConfigId": 1,
+        "text": "Rusaliile marchează 50 de zile de la Paști. O sărbătoare a vieții și a bucuriei.",
+        "slogans": [
+          "Bună ziua!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Lumină și bucurie!"
+        ]
+      },
+      {
+        "id": 236,
+        "textConfigId": 1,
+        "text": "Sezonul vacanțelor se apropie. Fă-ți planuri și abia așteaptă să le realizezi.",
+        "slogans": [
+          "Bună ziua!",
+          "Vară frumoasă!",
+          "Vacanță în curând!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 237,
+        "textConfigId": 1,
+        "text": "Florile de vară sunt mai vii, mai îndrăznețe. Ca și ziua care te așteaptă.",
+        "slogans": [
+          "Bună ziua!",
+          "Vară frumoasă!",
+          "Iunie splendid!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 238,
+        "textConfigId": 10,
+        "text": "O zi de vară e un dar. Trăiește-o din plin.",
+        "slogans": [
+          "Bună ziua!",
+          "Vară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_01_1572814.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_02_8995443.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_03_730446.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_04_9444205.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_05_9373246.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_06_4648356.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_07_10211997.png",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_08_8128803.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_09_8595521.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_afternoon_10_7317683.jpg"
+    ]
+  },
+  "evening": {
+    "messages": [
+      {
+        "id": 239,
+        "textConfigId": 4,
+        "text": "Rusaliile aduc bucurie și comuniune. O sărbătoare de suflet pentru întreaga familie.",
+        "slogans": [
+          "Bună seara!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Pace și binecuvântare!"
+        ]
+      },
+      {
+        "id": 240,
+        "textConfigId": 4,
+        "text": "Vara e în plină desfășurare. Soarele răsare devreme și zilele sunt lungi și calde.",
+        "slogans": [
+          "Bună seara!",
+          "Vară frumoasă!",
+          "Iunie cu soare!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 241,
+        "textConfigId": 5,
+        "text": "Dimineața de vară e liniștită și răcoroasă. Unul dintre cele mai plăcute momente ale zilei.",
+        "slogans": [
+          "Bună seara!",
+          "Vară frumoasă!",
+          "Soare și voie bună!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 242,
+        "textConfigId": 4,
+        "text": "Rusaliile marchează 50 de zile de la Paști. O sărbătoare a vieții și a bucuriei.",
+        "slogans": [
+          "Bună seara!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Lumină și bucurie!"
+        ]
+      },
+      {
+        "id": 243,
+        "textConfigId": 4,
+        "text": "Sezonul vacanțelor se apropie. Fă-ți planuri și abia așteaptă să le realizezi.",
+        "slogans": [
+          "Bună seara!",
+          "Vară frumoasă!",
+          "Vacanță în curând!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 244,
+        "textConfigId": 4,
+        "text": "Florile de vară sunt mai vii, mai îndrăznețe. Ca și ziua care te așteaptă.",
+        "slogans": [
+          "Bună seara!",
+          "Vară frumoasă!",
+          "Iunie splendid!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 245,
+        "textConfigId": 11,
+        "text": "O zi de vară e un dar. Trăiește-o din plin.",
+        "slogans": [
+          "Bună seara!",
+          "Vară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_01_9363974.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_02_8275964.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_03_6526980.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_04_8424565.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_05_1557110.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_06_9373246.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_07_4741598.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_08_1608549.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_09_730446.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_evening_10_6620588.jpg"
+    ]
+  },
+  "night": {
+    "messages": [
+      {
+        "id": 246,
+        "textConfigId": 7,
+        "text": "Rusaliile aduc bucurie și comuniune. O sărbătoare de suflet pentru întreaga familie.",
+        "slogans": [
+          "Noapte bună!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Pace și binecuvântare!"
+        ]
+      },
+      {
+        "id": 247,
+        "textConfigId": 7,
+        "text": "Vara e în plină desfășurare. Soarele răsare devreme și zilele sunt lungi și calde.",
+        "slogans": [
+          "Noapte bună!",
+          "Vară frumoasă!",
+          "Iunie cu soare!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 248,
+        "textConfigId": 8,
+        "text": "Dimineața de vară e liniștită și răcoroasă. Unul dintre cele mai plăcute momente ale zilei.",
+        "slogans": [
+          "Noapte bună!",
+          "Vară frumoasă!",
+          "Soare și voie bună!",
+          "Zi minunată!"
+        ]
+      },
+      {
+        "id": 249,
+        "textConfigId": 7,
+        "text": "Rusaliile marchează 50 de zile de la Paști. O sărbătoare a vieții și a bucuriei.",
+        "slogans": [
+          "Noapte bună!",
+          "Rusalii fericite!",
+          "Duminica Mare!",
+          "Lumină și bucurie!"
+        ]
+      },
+      {
+        "id": 250,
+        "textConfigId": 7,
+        "text": "Sezonul vacanțelor se apropie. Fă-ți planuri și abia așteaptă să le realizezi.",
+        "slogans": [
+          "Noapte bună!",
+          "Vară frumoasă!",
+          "Vacanță în curând!",
+          "Zi cu bine!"
+        ]
+      },
+      {
+        "id": 251,
+        "textConfigId": 7,
+        "text": "Florile de vară sunt mai vii, mai îndrăznețe. Ca și ziua care te așteaptă.",
+        "slogans": [
+          "Noapte bună!",
+          "Vară frumoasă!",
+          "Iunie splendid!",
+          "Zi cu voie bună!"
+        ]
+      },
+      {
+        "id": 252,
+        "textConfigId": 12,
+        "text": "O zi de vară e un dar. Trăiește-o din plin.",
+        "slogans": [
+          "Noapte bună!",
+          "Vară frumoasă!",
+          "Zi minunată!",
+          "Mult soare azi!"
+        ]
+      }
+    ],
+    "imageUrls": [
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_01_9937087.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_02_559641.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_03_9768540.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_04_5742416.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_05_8233937.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_06_9899712.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_07_6194008.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_08_6272108.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_09_4167939.jpg",
+      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_23_night_10_7873231.jpg"
+    ]
+  }
+}

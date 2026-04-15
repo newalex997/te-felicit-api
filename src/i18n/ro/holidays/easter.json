@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună dimineața!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_01_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_02_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_03_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_04_7098125.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_05_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_06_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_07_3294432.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_08_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_09_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_morning_10_2444827.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună ziua!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_01_1283982.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_02_2211953.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_03_4087219.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_04_9530796.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_05_3281856.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_06_4093362.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_07_3676707.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_08_1221991.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_09_4087220.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_afternoon_10_1221987.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Bună seara!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_03_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_05_2818905.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_06_2659951.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_07_2818908.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_08_4800099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_09_2818912.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_evening_10_7860012.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Hristos a Înviat! Că a mai trecut un an și ne găsim din nou la Paști, recunoscători și vii.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Adevărat a Înviat!",
+              "Paște luminate!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Lumânarea de Paști arde și în suflet, nu doar în palmă. Sărbători cu pace și oameni dragi alături.",
+            "slogans": [
+              "Noapte bună!",
+              "Hristos a Înviat!",
+              "Paște Fericit!",
+              "Lumină și Înviere!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_01_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_02_17419.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_03_4846855.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_04_4089729.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_05_7319151.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_06_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_07_7081935.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_08_4904816.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_09_7081934.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/easter_night_10_7098125.jpg"
+        ]
+      }
+    }
+  }
+}

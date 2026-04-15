@@ -1,10 +1,9 @@
 import { Injectable } from '@nestjs/common';
-
-export type TimeOfDay = 'morning' | 'afternoon' | 'evening' | 'night';
+import { HolidayKey, TimeOfDay } from '../../common/typings/greeting.types';
 
 export interface GreetingContext {
   timeOfDay: TimeOfDay;
-  occasion: string | null;
+  occasion: HolidayKey | null;
   timezone: string;
   weekOfYear: number;
 }
@@ -12,7 +11,7 @@ export interface GreetingContext {
 const DEFAULT_TIMEZONE = 'Europe/Chisinau';
 
 // Fixed holidays: [month, day, occasionKey]
-const FIXED_OCCASIONS: [number, number, string][] = [
+const FIXED_OCCASIONS: [number, number, HolidayKey][] = [
   [1, 1, 'new_year'],
   [1, 2, 'new_year'],
   [1, 6, 'epiphany'],
@@ -98,7 +97,7 @@ export class GreetingContextService {
     year: number,
     month: number,
     day: number,
-  ): string | null {
+  ): HolidayKey | null {
     const fixed = FIXED_OCCASIONS.find(([m, d]) => m === month && d === day);
     if (fixed) return fixed[2];
 

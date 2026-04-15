@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_01_9631245.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_02_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_03_6790127.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_04_7555693.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_05_6586339.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_06_6594102.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_07_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_08_7098126.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_09_8331199.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_morning_10_7116489.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_01_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_02_8356402.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_03_4905065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_04_9826181.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_05_9477457.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_06_8324499.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_07_1281536.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_08_9531049.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_09_7853389.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_afternoon_10_10140688.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Bună seara!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_02_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_04_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_05_8057248.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_06_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_07_3970041.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_08_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_09_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_evening_10_9913930.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi aprindem o lumânare pentru cei care nu mai sunt cu noi, dar trăiesc în amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare cu drag!",
+              "Moșii de Toamnă binecuvântați!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Memoria celor dragi e cel mai curat semn al dragostei. Să îi cinstim cu rugăciune și recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Veșnică pomenire!",
+              "Dumnezeu să îi odihnească!",
+              "Lumânare pentru cei dragi!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_02_8508889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_03_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_04_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_05_2441776.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_06_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_07_5291453.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_08_5624139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_09_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/all_saints_night_10_8057248.jpg"
+        ]
+      }
+    }
+  }
+}

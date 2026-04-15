@@ -34,8 +34,8 @@ async function bootstrap(): Promise<void> {
   app.enableVersioning({ type: VersioningType.URI, defaultVersion: '1' });
 
   const config = new DocumentBuilder()
-    .setTitle('Amaloc Partner CRM API')
-    .setDescription('API documentation for Amaloc Partner CRM')
+    .setTitle('Te Felicit API')
+    .setDescription('API documentation for the Te Felicit greeting service')
     .setVersion('1.0')
     .build();
 

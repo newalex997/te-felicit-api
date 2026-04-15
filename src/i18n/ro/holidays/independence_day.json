@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună dimineața!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_01_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_03_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_05_4420635.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_06_6954155.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_07_6620588.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_08_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_09_5455265.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_morning_10_10032445.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună ziua!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_01_9444205.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_02_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_03_593194.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_04_10211997.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_05_177330.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_06_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_07_177329.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_08_7344626.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_09_9899712.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_afternoon_10_70952.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Bună seara!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_03_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_05_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_06_10032445.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_07_166738.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_08_6199828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_09_8316703.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_evening_10_3970041.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Pe 27 august, Moldova a spus da viitorului ei. La mulți ani, Moldova dragă!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "Ziua Independenței!",
+              "Moldova acasă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Independența nu e doar o dată în calendar. E ce construim în fiecare zi. La mulți ani, Republica Moldova!",
+            "slogans": [
+              "Noapte bună!",
+              "La mulți ani, Moldova!",
+              "27 August cu mândrie!",
+              "Moldova liberă!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_01_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_02_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_04_6363743.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_06_4792470.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_07_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_08_6324434.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_09_7733877.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/independence_day_night_10_56930.jpg"
+        ]
+      }
+    }
+  }
+}

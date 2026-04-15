@@ -1,0 +1,2106 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună dimineața!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_01_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_02_7860907.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_04_4916584.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_05_4072540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_06_6315800.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_07_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_08_9802950.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_09_7046030.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_morning_10_9922901.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFFFFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună ziua!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFFFFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_01_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_02_6995691.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_03_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_04_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_05_3983898.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_06_4297647.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_07_10214251.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_08_177889.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_09_366661.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_afternoon_10_7884877.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#FFE8D0",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Bună seara!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#FFE8D0",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_01_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_02_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_03_3209128.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_04_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_06_4886604.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_07_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_08_635266.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_09_7950568.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_evening_10_8516916.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Azi e ziua ta, dar tu faci fiecare zi mai frumoasă. La mulți ani, cu flori și recunoștință!",
+            "slogans": [
+              "Noapte bună!",
+              "La Mulți Ani!",
+              "8 Martie cu drag!",
+              "Zi frumoasă pentru tine!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 31,
+                "color": "#CCDEFF",
+                "position": "top-center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          },
+          {
+            "text": "Nu e nevoie de o zi specială ca să apreciezi o femeie minunată, dar e bine că există și una.",
+            "slogans": [
+              "Noapte bună!",
+              "8 Martie Fericit!",
+              "La Mulți Ani, doamnelor!",
+              "Cu admirație și drag!"
+            ],
+            "textConfig": {
+              "message": {
+                "fontSize": 33,
+                "color": "#CCDEFF",
+                "position": "center"
+              },
+              "slogan": {
+                "fontSize": 54,
+                "color": "#FFD700E6",
+                "position": "center"
+              }
+            }
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_01_559641.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_02_9937087.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_03_9768540.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_04_4971583.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_05_5742416.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_06_2553958.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_07_7813838.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_08_4956533.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_09_4366825.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/women_day_night_10_4165137.jpg"
+        ]
+      }
+    }
+  }
+}

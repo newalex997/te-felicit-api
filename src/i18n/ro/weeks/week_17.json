@@ -1,0 +1,1782 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 1,
+            "textConfigId": 2,
+            "text": "Sfârșitul lui aprilie e unul dintre cele mai frumoase momente din an. Liliacul înflorește și seara e caldă. Bine ar fi să fie cineva drag lângă tine.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară cu drag!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 2,
+            "textConfigId": 1,
+            "text": "Serile de aprilie târziu sunt lungi și blânde. Exact tipul de seri în care vrei să nu te grăbești nicăieri.",
+            "slogans": [
+              "Bună dimineața!",
+              "Seară de neuitat!",
+              "Cu drag,",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 3,
+            "textConfigId": 1,
+            "text": "Primăvara asta e generoasă. Flori, soare, aer cald. Și tu ai pe cineva cu care să o împarți.",
+            "slogans": [
+              "Bună dimineața!",
+              "Împreună e mai bine!",
+              "Cu toată dragostea!",
+              "Zi frumoasă!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 4,
+            "textConfigId": 1,
+            "text": "Liliacul a înflorit. Dacă nu ai ieșit să-l miroși, ai o misiune clară pentru azi.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară în floare!",
+              "Ieși afară!",
+              "Zi minunată!"
+            ]
+          },
+          {
+            "id": 5,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie vine cu energie bună. Zilele sunt lungi, soarele e cald, lumea e afară.",
+            "slogans": [
+              "Bună dimineața!",
+              "Aprilie în forță!",
+              "Zi cu voie bună!",
+              "Mult soare azi!"
+            ]
+          },
+          {
+            "id": 6,
+            "textConfigId": 1,
+            "text": "Mai e puțin și vine mai. Până atunci, bucură-te de fiecare zi de aprilie care mai rămâne.",
+            "slogans": [
+              "Bună dimineața!",
+              "Zi cu zâmbet!",
+              "Primăvară frumoasă!",
+              "Bucurie mare!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 7,
+            "textConfigId": 1,
+            "text": "Aprilie târziu are o liniște aparte. Natura e deja înflorită, graba s-a mai domolit.",
+            "slogans": [
+              "Bună dimineața!",
+              "Pace și liniște!",
+              "Zi blândă!",
+              "Suflet liniștit!"
+            ]
+          },
+          {
+            "id": 8,
+            "textConfigId": 1,
+            "text": "O plimbare printre copaci înfloriți e tot ce ai nevoie uneori ca să îți așezi gândurile.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvară blândă!",
+              "Liniște în suflet!",
+              "Zi senină!"
+            ]
+          },
+          {
+            "id": 9,
+            "textConfigId": 2,
+            "text": "Seara de primăvară târzie e caldă și lungă. Nu trebuie să faci nimic special cu ea. E suficient să o trăiești.",
+            "slogans": [
+              "Bună dimineața!",
+              "Pace deplină!",
+              "Seară senină!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 10,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie e un bun moment să te uiți înapoi la ce ai început în primăvară. Ai avansat?",
+            "slogans": [
+              "Bună dimineața!",
+              "Fă bilanțul!",
+              "Mergi înainte!",
+              "Zi cu rost!"
+            ]
+          },
+          {
+            "id": 11,
+            "textConfigId": 1,
+            "text": "Natura e acum la maximă productivitate. Fiecare zi aduce ceva nou. Tu ce aduci nou azi?",
+            "slogans": [
+              "Bună dimineața!",
+              "Zi cu putere!",
+              "Fă ceva bun azi!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 12,
+            "textConfigId": 1,
+            "text": "Copacii care au înflorit cel mai frumos sunt cei care au trecut iarna fără să se rupă. Ține minte asta.",
+            "slogans": [
+              "Bună dimineața!",
+              "Rezistența dă roade!",
+              "Înainte cu curaj!",
+              "Crești frumos!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 13,
+            "textConfigId": 1,
+            "text": "Liliacul înflorește și toată lumea devine deodată poet. E contagios.",
+            "slogans": [
+              "Bună dimineața!",
+              "Poet de ocazie!",
+              "Primăvară inspirată!",
+              "Zi hazlie!"
+            ]
+          },
+          {
+            "id": 14,
+            "textConfigId": 1,
+            "text": "Aprilie se pregătește să plece și lasă în urmă flori, parfum și câteva zile de ploaie ca amintire.",
+            "slogans": [
+              "Bună dimineața!",
+              "La revedere, aprilie!",
+              "Zi cu surprize!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 15,
+            "textConfigId": 1,
+            "text": "Dacă simți că îți e greu să te concentrezi azi, dă vina pe primăvară. E perfect acceptabil.",
+            "slogans": [
+              "Bună dimineața!",
+              "Vina e a primăverii!",
+              "Zi veselă!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 16,
+            "textConfigId": 1,
+            "text": "Liliacul înflorește o dată pe an și nu mult timp. Dacă îl prinzi, e un mic privilegiu.",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc pentru azi!",
+              "Prețuiește clipa!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 17,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie e plin de frumusețe discretă. Merită să o observi înainte să treacă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Prețuiește ce ai!",
+              "Mulțumire în suflet!",
+              "Zi cu sens!"
+            ]
+          },
+          {
+            "id": 18,
+            "textConfigId": 1,
+            "text": "Primăvara asta a fost generoasă. Nu toate sunt la fel. Ține minte asta cu recunoștință.",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu recunoștință!",
+              "Primăvară binecuvântată!",
+              "Prețuiește viața!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 19,
+            "textConfigId": 1,
+            "text": "Serile de sfârșit de aprilie sunt exact bune pentru o terasă, oameni dragi și timp fără grabă.",
+            "slogans": [
+              "Bună dimineața!",
+              "Seară cu drag!",
+              "Alături de cei dragi!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 20,
+            "textConfigId": 1,
+            "text": "Primăvara asta merită trăită cu oamenii care contează. Mai ai timp pentru ei?",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Împreună e mai bine!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 21,
+            "textConfigId": 1,
+            "text": "Parfumul de liliac te duce cu gândul la casă, la oameni dragi, la lucruri simple și frumoase.",
+            "slogans": [
+              "Bună dimineața!",
+              "Gând cald!",
+              "Ca acasă!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 22,
+            "textConfigId": 1,
+            "text": "Aprilie se termină în câteva zile. Ce ai de făcut în el mai ai timp să faci.",
+            "slogans": [
+              "Bună dimineața!",
+              "Acum sau niciodată!",
+              "Fii hotărât!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 23,
+            "textConfigId": 1,
+            "text": "Mai vine în câteva zile cu toată energia lui. Ești pregătit?",
+            "slogans": [
+              "Bună dimineața!",
+              "Pregătit pentru mai!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          },
+          {
+            "id": 24,
+            "textConfigId": 1,
+            "text": "Primăvara asta e în toi. Nu sta pe margine și privești. Intră în ea.",
+            "slogans": [
+              "Bună dimineața!",
+              "Intră în joc!",
+              "Îndrăznește!",
+              "Zi cu putere!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 25,
+            "textConfigId": 1,
+            "text": "Liliacul înflorind te duce mereu undeva înapoi. La o curte, la o poartă, la cineva care nu mai e.",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri dragi!",
+              "Gânduri de demult!",
+              "Cu dor!"
+            ]
+          },
+          {
+            "id": 26,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie din copilărie: școala aproape de final, zilele lungi, libertatea care se simțea aproape.",
+            "slogans": [
+              "Bună dimineața!",
+              "Ca pe vremuri!",
+              "Timpuri frumoase!",
+              "Amintiri frumoase!"
+            ]
+          },
+          {
+            "id": 27,
+            "textConfigId": 1,
+            "text": "Unii ani de primăvară rămân în memorie. Nu știi de ce exact, dar știi că a fost bine.",
+            "slogans": [
+              "Bună dimineața!",
+              "Primăvara veche!",
+              "Cu dor de acasă!",
+              "Timpuri bune!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_06_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_07_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_08_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_09_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_morning_10_4139034.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 28,
+            "textConfigId": 2,
+            "text": "Sfârșitul lui aprilie e unul dintre cele mai frumoase momente din an. Liliacul înflorește și seara e caldă. Bine ar fi să fie cineva drag lângă tine.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară cu drag!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 29,
+            "textConfigId": 1,
+            "text": "Serile de aprilie târziu sunt lungi și blânde. Exact tipul de seri în care vrei să nu te grăbești nicăieri.",
+            "slogans": [
+              "Bună ziua!",
+              "Seară de neuitat!",
+              "Cu drag,",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 30,
+            "textConfigId": 1,
+            "text": "Primăvara asta e generoasă. Flori, soare, aer cald. Și tu ai pe cineva cu care să o împarți.",
+            "slogans": [
+              "Bună ziua!",
+              "Împreună e mai bine!",
+              "Cu toată dragostea!",
+              "Zi frumoasă!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 31,
+            "textConfigId": 1,
+            "text": "Liliacul a înflorit. Dacă nu ai ieșit să-l miroși, ai o misiune clară pentru azi.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară în floare!",
+              "Ieși afară!",
+              "Zi minunată!"
+            ]
+          },
+          {
+            "id": 32,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie vine cu energie bună. Zilele sunt lungi, soarele e cald, lumea e afară.",
+            "slogans": [
+              "Bună ziua!",
+              "Aprilie în forță!",
+              "Zi cu voie bună!",
+              "Mult soare azi!"
+            ]
+          },
+          {
+            "id": 33,
+            "textConfigId": 1,
+            "text": "Mai e puțin și vine mai. Până atunci, bucură-te de fiecare zi de aprilie care mai rămâne.",
+            "slogans": [
+              "Bună ziua!",
+              "Zi cu zâmbet!",
+              "Primăvară frumoasă!",
+              "Bucurie mare!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 34,
+            "textConfigId": 1,
+            "text": "Aprilie târziu are o liniște aparte. Natura e deja înflorită, graba s-a mai domolit.",
+            "slogans": [
+              "Bună ziua!",
+              "Pace și liniște!",
+              "Zi blândă!",
+              "Suflet liniștit!"
+            ]
+          },
+          {
+            "id": 35,
+            "textConfigId": 1,
+            "text": "O plimbare printre copaci înfloriți e tot ce ai nevoie uneori ca să îți așezi gândurile.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvară blândă!",
+              "Liniște în suflet!",
+              "Zi senină!"
+            ]
+          },
+          {
+            "id": 36,
+            "textConfigId": 2,
+            "text": "Seara de primăvară târzie e caldă și lungă. Nu trebuie să faci nimic special cu ea. E suficient să o trăiești.",
+            "slogans": [
+              "Bună ziua!",
+              "Pace deplină!",
+              "Seară senină!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 37,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie e un bun moment să te uiți înapoi la ce ai început în primăvară. Ai avansat?",
+            "slogans": [
+              "Bună ziua!",
+              "Fă bilanțul!",
+              "Mergi înainte!",
+              "Zi cu rost!"
+            ]
+          },
+          {
+            "id": 38,
+            "textConfigId": 1,
+            "text": "Natura e acum la maximă productivitate. Fiecare zi aduce ceva nou. Tu ce aduci nou azi?",
+            "slogans": [
+              "Bună ziua!",
+              "Zi cu putere!",
+              "Fă ceva bun azi!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 39,
+            "textConfigId": 1,
+            "text": "Copacii care au înflorit cel mai frumos sunt cei care au trecut iarna fără să se rupă. Ține minte asta.",
+            "slogans": [
+              "Bună ziua!",
+              "Rezistența dă roade!",
+              "Înainte cu curaj!",
+              "Crești frumos!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 40,
+            "textConfigId": 1,
+            "text": "Liliacul înflorește și toată lumea devine deodată poet. E contagios.",
+            "slogans": [
+              "Bună ziua!",
+              "Poet de ocazie!",
+              "Primăvară inspirată!",
+              "Zi hazlie!"
+            ]
+          },
+          {
+            "id": 41,
+            "textConfigId": 1,
+            "text": "Aprilie se pregătește să plece și lasă în urmă flori, parfum și câteva zile de ploaie ca amintire.",
+            "slogans": [
+              "Bună ziua!",
+              "La revedere, aprilie!",
+              "Zi cu surprize!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 42,
+            "textConfigId": 1,
+            "text": "Dacă simți că îți e greu să te concentrezi azi, dă vina pe primăvară. E perfect acceptabil.",
+            "slogans": [
+              "Bună ziua!",
+              "Vina e a primăverii!",
+              "Zi veselă!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 43,
+            "textConfigId": 1,
+            "text": "Liliacul înflorește o dată pe an și nu mult timp. Dacă îl prinzi, e un mic privilegiu.",
+            "slogans": [
+              "Bună ziua!",
+              "Mulțumesc pentru azi!",
+              "Prețuiește clipa!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 44,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie e plin de frumusețe discretă. Merită să o observi înainte să treacă.",
+            "slogans": [
+              "Bună ziua!",
+              "Prețuiește ce ai!",
+              "Mulțumire în suflet!",
+              "Zi cu sens!"
+            ]
+          },
+          {
+            "id": 45,
+            "textConfigId": 1,
+            "text": "Primăvara asta a fost generoasă. Nu toate sunt la fel. Ține minte asta cu recunoștință.",
+            "slogans": [
+              "Bună ziua!",
+              "Cu recunoștință!",
+              "Primăvară binecuvântată!",
+              "Prețuiește viața!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 46,
+            "textConfigId": 1,
+            "text": "Serile de sfârșit de aprilie sunt exact bune pentru o terasă, oameni dragi și timp fără grabă.",
+            "slogans": [
+              "Bună ziua!",
+              "Seară cu drag!",
+              "Alături de cei dragi!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 47,
+            "textConfigId": 1,
+            "text": "Primăvara asta merită trăită cu oamenii care contează. Mai ai timp pentru ei?",
+            "slogans": [
+              "Bună ziua!",
+              "Cu drag!",
+              "Împreună e mai bine!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 48,
+            "textConfigId": 1,
+            "text": "Parfumul de liliac te duce cu gândul la casă, la oameni dragi, la lucruri simple și frumoase.",
+            "slogans": [
+              "Bună ziua!",
+              "Gând cald!",
+              "Ca acasă!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 49,
+            "textConfigId": 1,
+            "text": "Aprilie se termină în câteva zile. Ce ai de făcut în el mai ai timp să faci.",
+            "slogans": [
+              "Bună ziua!",
+              "Acum sau niciodată!",
+              "Fii hotărât!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 50,
+            "textConfigId": 1,
+            "text": "Mai vine în câteva zile cu toată energia lui. Ești pregătit?",
+            "slogans": [
+              "Bună ziua!",
+              "Pregătit pentru mai!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          },
+          {
+            "id": 51,
+            "textConfigId": 1,
+            "text": "Primăvara asta e în toi. Nu sta pe margine și privești. Intră în ea.",
+            "slogans": [
+              "Bună ziua!",
+              "Intră în joc!",
+              "Îndrăznește!",
+              "Zi cu putere!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 52,
+            "textConfigId": 1,
+            "text": "Liliacul înflorind te duce mereu undeva înapoi. La o curte, la o poartă, la cineva care nu mai e.",
+            "slogans": [
+              "Bună ziua!",
+              "Amintiri dragi!",
+              "Gânduri de demult!",
+              "Cu dor!"
+            ]
+          },
+          {
+            "id": 53,
+            "textConfigId": 1,
+            "text": "Sfârșitul lui aprilie din copilărie: școala aproape de final, zilele lungi, libertatea care se simțea aproape.",
+            "slogans": [
+              "Bună ziua!",
+              "Ca pe vremuri!",
+              "Timpuri frumoase!",
+              "Amintiri frumoase!"
+            ]
+          },
+          {
+            "id": 54,
+            "textConfigId": 1,
+            "text": "Unii ani de primăvară rămân în memorie. Nu știi de ce exact, dar știi că a fost bine.",
+            "slogans": [
+              "Bună ziua!",
+              "Primăvara veche!",
+              "Cu dor de acasă!",
+              "Timpuri bune!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_02_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_03_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_04_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_05_5366065.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_06_8595521.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_07_116369.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_08_1364613.png",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_09_4981876.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_afternoon_10_2023400.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 55,
+            "textConfigId": 5,
+            "text": "Sfârșitul lui aprilie e unul dintre cele mai frumoase momente din an. Liliacul înflorește și seara e caldă. Bine ar fi să fie cineva drag lângă tine.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară cu drag!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 56,
+            "textConfigId": 4,
+            "text": "Serile de aprilie târziu sunt lungi și blânde. Exact tipul de seri în care vrei să nu te grăbești nicăieri.",
+            "slogans": [
+              "Bună seara!",
+              "Seară de neuitat!",
+              "Cu drag,",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 57,
+            "textConfigId": 4,
+            "text": "Primăvara asta e generoasă. Flori, soare, aer cald. Și tu ai pe cineva cu care să o împarți.",
+            "slogans": [
+              "Bună seara!",
+              "Împreună e mai bine!",
+              "Cu toată dragostea!",
+              "Zi frumoasă!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 58,
+            "textConfigId": 4,
+            "text": "Liliacul a înflorit. Dacă nu ai ieșit să-l miroși, ai o misiune clară pentru azi.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară în floare!",
+              "Ieși afară!",
+              "Zi minunată!"
+            ]
+          },
+          {
+            "id": 59,
+            "textConfigId": 4,
+            "text": "Sfârșitul lui aprilie vine cu energie bună. Zilele sunt lungi, soarele e cald, lumea e afară.",
+            "slogans": [
+              "Bună seara!",
+              "Aprilie în forță!",
+              "Zi cu voie bună!",
+              "Mult soare azi!"
+            ]
+          },
+          {
+            "id": 60,
+            "textConfigId": 4,
+            "text": "Mai e puțin și vine mai. Până atunci, bucură-te de fiecare zi de aprilie care mai rămâne.",
+            "slogans": [
+              "Bună seara!",
+              "Zi cu zâmbet!",
+              "Primăvară frumoasă!",
+              "Bucurie mare!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 61,
+            "textConfigId": 4,
+            "text": "Aprilie târziu are o liniște aparte. Natura e deja înflorită, graba s-a mai domolit.",
+            "slogans": [
+              "Bună seara!",
+              "Pace și liniște!",
+              "Zi blândă!",
+              "Suflet liniștit!"
+            ]
+          },
+          {
+            "id": 62,
+            "textConfigId": 4,
+            "text": "O plimbare printre copaci înfloriți e tot ce ai nevoie uneori ca să îți așezi gândurile.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvară blândă!",
+              "Liniște în suflet!",
+              "Zi senină!"
+            ]
+          },
+          {
+            "id": 63,
+            "textConfigId": 5,
+            "text": "Seara de primăvară târzie e caldă și lungă. Nu trebuie să faci nimic special cu ea. E suficient să o trăiești.",
+            "slogans": [
+              "Bună seara!",
+              "Pace deplină!",
+              "Seară senină!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 64,
+            "textConfigId": 4,
+            "text": "Sfârșitul lui aprilie e un bun moment să te uiți înapoi la ce ai început în primăvară. Ai avansat?",
+            "slogans": [
+              "Bună seara!",
+              "Fă bilanțul!",
+              "Mergi înainte!",
+              "Zi cu rost!"
+            ]
+          },
+          {
+            "id": 65,
+            "textConfigId": 4,
+            "text": "Natura e acum la maximă productivitate. Fiecare zi aduce ceva nou. Tu ce aduci nou azi?",
+            "slogans": [
+              "Bună seara!",
+              "Zi cu putere!",
+              "Fă ceva bun azi!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 66,
+            "textConfigId": 4,
+            "text": "Copacii care au înflorit cel mai frumos sunt cei care au trecut iarna fără să se rupă. Ține minte asta.",
+            "slogans": [
+              "Bună seara!",
+              "Rezistența dă roade!",
+              "Înainte cu curaj!",
+              "Crești frumos!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 67,
+            "textConfigId": 4,
+            "text": "Liliacul înflorește și toată lumea devine deodată poet. E contagios.",
+            "slogans": [
+              "Bună seara!",
+              "Poet de ocazie!",
+              "Primăvară inspirată!",
+              "Zi hazlie!"
+            ]
+          },
+          {
+            "id": 68,
+            "textConfigId": 4,
+            "text": "Aprilie se pregătește să plece și lasă în urmă flori, parfum și câteva zile de ploaie ca amintire.",
+            "slogans": [
+              "Bună seara!",
+              "La revedere, aprilie!",
+              "Zi cu surprize!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 69,
+            "textConfigId": 4,
+            "text": "Dacă simți că îți e greu să te concentrezi azi, dă vina pe primăvară. E perfect acceptabil.",
+            "slogans": [
+              "Bună seara!",
+              "Vina e a primăverii!",
+              "Zi veselă!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 70,
+            "textConfigId": 4,
+            "text": "Liliacul înflorește o dată pe an și nu mult timp. Dacă îl prinzi, e un mic privilegiu.",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc pentru azi!",
+              "Prețuiește clipa!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 71,
+            "textConfigId": 4,
+            "text": "Sfârșitul lui aprilie e plin de frumusețe discretă. Merită să o observi înainte să treacă.",
+            "slogans": [
+              "Bună seara!",
+              "Prețuiește ce ai!",
+              "Mulțumire în suflet!",
+              "Zi cu sens!"
+            ]
+          },
+          {
+            "id": 72,
+            "textConfigId": 4,
+            "text": "Primăvara asta a fost generoasă. Nu toate sunt la fel. Ține minte asta cu recunoștință.",
+            "slogans": [
+              "Bună seara!",
+              "Cu recunoștință!",
+              "Primăvară binecuvântată!",
+              "Prețuiește viața!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 73,
+            "textConfigId": 4,
+            "text": "Serile de sfârșit de aprilie sunt exact bune pentru o terasă, oameni dragi și timp fără grabă.",
+            "slogans": [
+              "Bună seara!",
+              "Seară cu drag!",
+              "Alături de cei dragi!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 74,
+            "textConfigId": 4,
+            "text": "Primăvara asta merită trăită cu oamenii care contează. Mai ai timp pentru ei?",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Împreună e mai bine!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 75,
+            "textConfigId": 4,
+            "text": "Parfumul de liliac te duce cu gândul la casă, la oameni dragi, la lucruri simple și frumoase.",
+            "slogans": [
+              "Bună seara!",
+              "Gând cald!",
+              "Ca acasă!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 76,
+            "textConfigId": 4,
+            "text": "Aprilie se termină în câteva zile. Ce ai de făcut în el mai ai timp să faci.",
+            "slogans": [
+              "Bună seara!",
+              "Acum sau niciodată!",
+              "Fii hotărât!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 77,
+            "textConfigId": 4,
+            "text": "Mai vine în câteva zile cu toată energia lui. Ești pregătit?",
+            "slogans": [
+              "Bună seara!",
+              "Pregătit pentru mai!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          },
+          {
+            "id": 78,
+            "textConfigId": 4,
+            "text": "Primăvara asta e în toi. Nu sta pe margine și privești. Intră în ea.",
+            "slogans": [
+              "Bună seara!",
+              "Intră în joc!",
+              "Îndrăznește!",
+              "Zi cu putere!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 79,
+            "textConfigId": 4,
+            "text": "Liliacul înflorind te duce mereu undeva înapoi. La o curte, la o poartă, la cineva care nu mai e.",
+            "slogans": [
+              "Bună seara!",
+              "Amintiri dragi!",
+              "Gânduri de demult!",
+              "Cu dor!"
+            ]
+          },
+          {
+            "id": 80,
+            "textConfigId": 4,
+            "text": "Sfârșitul lui aprilie din copilărie: școala aproape de final, zilele lungi, libertatea care se simțea aproape.",
+            "slogans": [
+              "Bună seara!",
+              "Ca pe vremuri!",
+              "Timpuri frumoase!",
+              "Amintiri frumoase!"
+            ]
+          },
+          {
+            "id": 81,
+            "textConfigId": 4,
+            "text": "Unii ani de primăvară rămân în memorie. Nu știi de ce exact, dar știi că a fost bine.",
+            "slogans": [
+              "Bună seara!",
+              "Primăvara veche!",
+              "Cu dor de acasă!",
+              "Timpuri bune!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_01_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_03_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_04_7252980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_05_4741598.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_06_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_07_275978.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_08_6526980.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_09_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_evening_10_5404010.jpg"
+        ]
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "id": 82,
+            "textConfigId": 8,
+            "text": "Sfârșitul lui aprilie e unul dintre cele mai frumoase momente din an. Liliacul înflorește și seara e caldă. Bine ar fi să fie cineva drag lângă tine.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară cu drag!",
+              "Alături de tine!",
+              "Gânduri calde!"
+            ]
+          },
+          {
+            "id": 83,
+            "textConfigId": 7,
+            "text": "Serile de aprilie târziu sunt lungi și blânde. Exact tipul de seri în care vrei să nu te grăbești nicăieri.",
+            "slogans": [
+              "Noapte bună!",
+              "Seară de neuitat!",
+              "Cu drag,",
+              "Mereu împreună!"
+            ]
+          },
+          {
+            "id": 84,
+            "textConfigId": 7,
+            "text": "Primăvara asta e generoasă. Flori, soare, aer cald. Și tu ai pe cineva cu care să o împarți.",
+            "slogans": [
+              "Noapte bună!",
+              "Împreună e mai bine!",
+              "Cu toată dragostea!",
+              "Zi frumoasă!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "id": 85,
+            "textConfigId": 7,
+            "text": "Liliacul a înflorit. Dacă nu ai ieșit să-l miroși, ai o misiune clară pentru azi.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară în floare!",
+              "Ieși afară!",
+              "Zi minunată!"
+            ]
+          },
+          {
+            "id": 86,
+            "textConfigId": 7,
+            "text": "Sfârșitul lui aprilie vine cu energie bună. Zilele sunt lungi, soarele e cald, lumea e afară.",
+            "slogans": [
+              "Noapte bună!",
+              "Aprilie în forță!",
+              "Zi cu voie bună!",
+              "Mult soare azi!"
+            ]
+          },
+          {
+            "id": 87,
+            "textConfigId": 7,
+            "text": "Mai e puțin și vine mai. Până atunci, bucură-te de fiecare zi de aprilie care mai rămâne.",
+            "slogans": [
+              "Noapte bună!",
+              "Zi cu zâmbet!",
+              "Primăvară frumoasă!",
+              "Bucurie mare!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "id": 88,
+            "textConfigId": 7,
+            "text": "Aprilie târziu are o liniște aparte. Natura e deja înflorită, graba s-a mai domolit.",
+            "slogans": [
+              "Noapte bună!",
+              "Pace și liniște!",
+              "Zi blândă!",
+              "Suflet liniștit!"
+            ]
+          },
+          {
+            "id": 89,
+            "textConfigId": 7,
+            "text": "O plimbare printre copaci înfloriți e tot ce ai nevoie uneori ca să îți așezi gândurile.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvară blândă!",
+              "Liniște în suflet!",
+              "Zi senină!"
+            ]
+          },
+          {
+            "id": 90,
+            "textConfigId": 8,
+            "text": "Seara de primăvară târzie e caldă și lungă. Nu trebuie să faci nimic special cu ea. E suficient să o trăiești.",
+            "slogans": [
+              "Noapte bună!",
+              "Pace deplină!",
+              "Seară senină!",
+              "Zi cu sens!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "id": 91,
+            "textConfigId": 7,
+            "text": "Sfârșitul lui aprilie e un bun moment să te uiți înapoi la ce ai început în primăvară. Ai avansat?",
+            "slogans": [
+              "Noapte bună!",
+              "Fă bilanțul!",
+              "Mergi înainte!",
+              "Zi cu rost!"
+            ]
+          },
+          {
+            "id": 92,
+            "textConfigId": 7,
+            "text": "Natura e acum la maximă productivitate. Fiecare zi aduce ceva nou. Tu ce aduci nou azi?",
+            "slogans": [
+              "Noapte bună!",
+              "Zi cu putere!",
+              "Fă ceva bun azi!",
+              "Înainte!"
+            ]
+          },
+          {
+            "id": 93,
+            "textConfigId": 7,
+            "text": "Copacii care au înflorit cel mai frumos sunt cei care au trecut iarna fără să se rupă. Ține minte asta.",
+            "slogans": [
+              "Noapte bună!",
+              "Rezistența dă roade!",
+              "Înainte cu curaj!",
+              "Crești frumos!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "id": 94,
+            "textConfigId": 7,
+            "text": "Liliacul înflorește și toată lumea devine deodată poet. E contagios.",
+            "slogans": [
+              "Noapte bună!",
+              "Poet de ocazie!",
+              "Primăvară inspirată!",
+              "Zi hazlie!"
+            ]
+          },
+          {
+            "id": 95,
+            "textConfigId": 7,
+            "text": "Aprilie se pregătește să plece și lasă în urmă flori, parfum și câteva zile de ploaie ca amintire.",
+            "slogans": [
+              "Noapte bună!",
+              "La revedere, aprilie!",
+              "Zi cu surprize!",
+              "Voie bună!"
+            ]
+          },
+          {
+            "id": 96,
+            "textConfigId": 7,
+            "text": "Dacă simți că îți e greu să te concentrezi azi, dă vina pe primăvară. E perfect acceptabil.",
+            "slogans": [
+              "Noapte bună!",
+              "Vina e a primăverii!",
+              "Zi veselă!",
+              "Zi cu zâmbet!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "id": 97,
+            "textConfigId": 7,
+            "text": "Liliacul înflorește o dată pe an și nu mult timp. Dacă îl prinzi, e un mic privilegiu.",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc pentru azi!",
+              "Prețuiește clipa!",
+              "Recunoștință!"
+            ]
+          },
+          {
+            "id": 98,
+            "textConfigId": 7,
+            "text": "Sfârșitul lui aprilie e plin de frumusețe discretă. Merită să o observi înainte să treacă.",
+            "slogans": [
+              "Noapte bună!",
+              "Prețuiește ce ai!",
+              "Mulțumire în suflet!",
+              "Zi cu sens!"
+            ]
+          },
+          {
+            "id": 99,
+            "textConfigId": 7,
+            "text": "Primăvara asta a fost generoasă. Nu toate sunt la fel. Ține minte asta cu recunoștință.",
+            "slogans": [
+              "Noapte bună!",
+              "Cu recunoștință!",
+              "Primăvară binecuvântată!",
+              "Prețuiește viața!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "id": 100,
+            "textConfigId": 7,
+            "text": "Serile de sfârșit de aprilie sunt exact bune pentru o terasă, oameni dragi și timp fără grabă.",
+            "slogans": [
+              "Noapte bună!",
+              "Seară cu drag!",
+              "Alături de cei dragi!",
+              "Căldură sufletească!"
+            ]
+          },
+          {
+            "id": 101,
+            "textConfigId": 7,
+            "text": "Primăvara asta merită trăită cu oamenii care contează. Mai ai timp pentru ei?",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Împreună e mai bine!",
+              "Zi cu inimă!"
+            ]
+          },
+          {
+            "id": 102,
+            "textConfigId": 7,
+            "text": "Parfumul de liliac te duce cu gândul la casă, la oameni dragi, la lucruri simple și frumoase.",
+            "slogans": [
+              "Noapte bună!",
+              "Gând cald!",
+              "Ca acasă!",
+              "Cu toată căldura!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "bold": {
+        "messages": [
+          {
+            "id": 103,
+            "textConfigId": 7,
+            "text": "Aprilie se termină în câteva zile. Ce ai de făcut în el mai ai timp să faci.",
+            "slogans": [
+              "Noapte bună!",
+              "Acum sau niciodată!",
+              "Fii hotărât!",
+              "Zi cu curaj!"
+            ]
+          },
+          {
+            "id": 104,
+            "textConfigId": 7,
+            "text": "Mai vine în câteva zile cu toată energia lui. Ești pregătit?",
+            "slogans": [
+              "Noapte bună!",
+              "Pregătit pentru mai!",
+              "Energie maximă!",
+              "Pornit în forță!"
+            ]
+          },
+          {
+            "id": 105,
+            "textConfigId": 7,
+            "text": "Primăvara asta e în toi. Nu sta pe margine și privești. Intră în ea.",
+            "slogans": [
+              "Noapte bună!",
+              "Intră în joc!",
+              "Îndrăznește!",
+              "Zi cu putere!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "id": 106,
+            "textConfigId": 7,
+            "text": "Liliacul înflorind te duce mereu undeva înapoi. La o curte, la o poartă, la cineva care nu mai e.",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri dragi!",
+              "Gânduri de demult!",
+              "Cu dor!"
+            ]
+          },
+          {
+            "id": 107,
+            "textConfigId": 7,
+            "text": "Sfârșitul lui aprilie din copilărie: școala aproape de final, zilele lungi, libertatea care se simțea aproape.",
+            "slogans": [
+              "Noapte bună!",
+              "Ca pe vremuri!",
+              "Timpuri frumoase!",
+              "Amintiri frumoase!"
+            ]
+          },
+          {
+            "id": 108,
+            "textConfigId": 7,
+            "text": "Unii ani de primăvară rămân în memorie. Nu știi de ce exact, dar știi că a fost bine.",
+            "slogans": [
+              "Noapte bună!",
+              "Primăvara veche!",
+              "Cu dor de acasă!",
+              "Timpuri bune!"
+            ]
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_01_2023401.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_02_1952999.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_03_7783131.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_04_814025.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_05_2023400.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_06_1425137.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_07_6650585.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_08_4208594.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_09_5764429.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_17_night_10_559641.jpg"
+        ]
+      }
+    }
+  }
+}
