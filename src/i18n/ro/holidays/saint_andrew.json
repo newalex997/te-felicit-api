@@ -11,18 +11,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -32,18 +21,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -69,18 +47,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -90,18 +57,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -127,18 +83,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -148,18 +93,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -185,18 +119,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -206,18 +129,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -243,18 +155,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -264,18 +165,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -301,18 +191,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -322,18 +201,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -359,18 +227,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -380,18 +237,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -417,18 +263,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -438,18 +273,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -475,18 +299,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -496,18 +309,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -537,18 +339,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -558,18 +349,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -599,18 +379,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -620,18 +389,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -661,18 +419,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -682,18 +429,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -723,18 +459,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -744,18 +469,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -785,18 +499,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -806,18 +509,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -847,18 +539,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -868,18 +549,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -909,18 +579,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -930,18 +589,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -971,18 +619,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -992,18 +629,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1033,18 +659,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1054,18 +669,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1099,18 +703,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1120,18 +713,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1157,18 +739,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1178,18 +749,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1215,18 +775,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1236,18 +785,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1273,18 +811,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1294,18 +821,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1331,18 +847,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1352,18 +857,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1389,18 +883,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1410,18 +893,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1447,18 +919,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1468,18 +929,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1505,18 +955,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1526,18 +965,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1563,18 +991,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1584,18 +1001,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1625,18 +1031,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1646,18 +1041,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1683,18 +1067,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1704,18 +1077,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1741,18 +1103,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1762,18 +1113,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1799,18 +1139,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1820,18 +1149,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1857,18 +1175,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1878,18 +1185,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1915,18 +1211,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1936,18 +1221,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1973,18 +1247,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -1994,18 +1257,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2031,18 +1283,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -2052,18 +1293,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2089,18 +1319,7 @@
               "Sfântul Andrei cu bine!",
               "Ocrotire și sănătate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Noaptea de Sfântul Andrei are o magie aparte. O seară de povești, tradiții și oameni dragi.",
@@ -2110,18 +1329,7 @@
               "Andrei drag și ocrotit!",
               "Noapte cu magie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [

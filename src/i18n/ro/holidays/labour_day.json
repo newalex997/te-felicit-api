@@ -11,18 +11,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -32,18 +21,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -71,18 +49,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -92,18 +59,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -131,18 +87,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -152,18 +97,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -191,18 +125,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -212,18 +135,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -251,18 +163,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -272,18 +173,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -311,18 +201,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -332,18 +211,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -371,18 +239,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -392,18 +249,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -431,18 +277,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -452,18 +287,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -491,18 +315,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -512,18 +325,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -555,18 +357,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -576,18 +367,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -615,18 +395,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -636,18 +405,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -675,18 +433,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -696,18 +443,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -735,18 +471,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -756,18 +481,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -795,18 +509,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -816,18 +519,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -855,18 +547,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -876,18 +557,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -915,18 +585,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -936,18 +595,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -975,18 +623,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -996,18 +633,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1035,18 +661,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1056,18 +671,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1099,18 +703,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1120,18 +713,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1157,18 +739,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1178,18 +749,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1215,18 +775,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1236,18 +785,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1273,18 +811,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1294,18 +821,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1331,18 +847,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1352,18 +857,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1389,18 +883,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1410,18 +893,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1447,18 +919,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1468,18 +929,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1505,18 +955,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1526,18 +965,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1563,18 +991,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1584,18 +1001,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1625,18 +1031,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1646,18 +1041,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1683,18 +1067,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1704,18 +1077,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1741,18 +1103,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1762,18 +1113,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1799,18 +1139,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1820,18 +1149,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1857,18 +1175,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1878,18 +1185,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1915,18 +1211,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1936,18 +1221,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1973,18 +1247,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -1994,18 +1257,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2031,18 +1283,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -2052,18 +1293,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2089,18 +1319,7 @@
               "Zi cu odihnă binevenită!",
               "Primăvară frumoasă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
@@ -2110,18 +1329,7 @@
               "Un mai plin de soare!",
               "Zi bine petrecută!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [

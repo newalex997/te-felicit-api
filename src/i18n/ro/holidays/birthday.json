@@ -1,0 +1,777 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Dimineața aceasta e specială, pentru că azi lumea și-a primit cel mai frumos dar — pe tine. La mulți ani din inimă!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Cu drag și iubire!",
+              "O zi plină de magie!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fie ca ziua ta de naștere să înceapă cu tot ce ai mai drag și să se termine cu amintiri de neuitat.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Multă iubire!",
+              "Zi luminoasă!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_02_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_03_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_04_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_05_8437008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_06_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_07_8437012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_08_8437005.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_09_8437010.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_8472657.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Trezește-te zâmbind — e ziua ta și tot universul e pregătit să te sărbătorească!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Voie bună și bucurie!",
+              "Petrecere mare!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Azi dimineața soarele a răsărit special pentru tine. Bucură-te de fiecare clipă a zilei tale!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "O zi minunată!",
+              "Multă fericire!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_02_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_03_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_04_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_05_8437008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_06_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_07_8437012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_08_8437005.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_09_8437010.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_8472657.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "O nouă dimineață, un nou an în viața ta. Fie să fie plin de liniște, sănătate și clipe frumoase.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Sănătate și pace!",
+              "Toate cele bune!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Azi e ziua ta. Respiră adânc, bucură-te de fiecare moment și lasă lumea să te răsfețe puțin.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Multă sănătate!",
+              "Cu drag!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_02_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_03_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_04_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_05_8437008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_06_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_07_8437012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_08_8437005.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_09_8437010.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_8472657.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Un nou an din viața ta vine cu noi posibilități. Curajul tău e cel mai frumos dar pe care îl poți oferi lumii.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Îndrăznește să visezi!",
+              "Un an de succes!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare zi de naștere e o dovadă că ai reușit, ai crescut și ai meritat fiecare moment. La mulți ani!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Fii cel mai bun tu!",
+              "Mult succes!"
+            ],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_02_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_03_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_04_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_05_8437008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_06_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_07_8437012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_08_8437005.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_09_8437010.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_8472657.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Trezește-te repede — tortul nu te va aștepta toată ziua și lumânările se răcesc!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Spor la tort!",
+              "Să fie bine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ai mai îmbătrânit cu un an, dar sincer? Arăți mai bine ca niciodată. Felicitări pentru asta!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Câți ani? Nu contează!",
+              "Veselie mare!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_02_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_03_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_04_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_05_8437008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_06_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_07_8437012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_08_8437005.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_09_8437010.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_8472657.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Îți mulțumesc că exiști și că ești în viața mea. Ziua ta de naștere e un motiv de bucurie pentru toți cei care te iubesc.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Cu recunoștință!",
+              "Din toată inima!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Azi e ziua ta și inima mea e plină de recunoștință că te am alături. Fie să fii fericit și împlinit!",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Multă iubire!",
+              "Cu drag și prețuire!"
+            ],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_02_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_03_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_04_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_05_8437008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_06_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_07_8437012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_08_8437005.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_09_8437010.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_8472657.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "O îmbrățișare caldă pentru dimineața zilei tale de naștere. Fie să fii înconjurat de oameni buni și momente frumoase.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Căldură și iubire!",
+              "Zi fericită!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Azi dimineața îți trimit toate gândurile bune din inima mea. Fie ca ziua ta să fie la fel de caldă ca sufletul tău.",
+            "slogans": [
+              "Bună dimineața!",
+              "La Mulți Ani!",
+              "Cu toată dragostea!",
+              "O zi de neuitat!"
+            ],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_02_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_03_7116489.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_04_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_05_8437008.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_06_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_07_8437012.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_08_8437005.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_09_8437010.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_morning_10_8472657.jpg"
+        ]
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Ziua ta de naștere e ca o floare rară — apare o dată pe an și înfrumusețează tot ce e în jur. La mulți ani!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Cu drag și iubire!",
+              "Zi minunată!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "La mijlocul zilei tale speciale, îți trimit cel mai sincer gând: ești iubit și apreciat. La mulți ani!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Multă iubire!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_02_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_03_3974099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_05_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_06_8472657.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_07_8429723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_08_8472673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_09_5834188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_10_8437013.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Sper că ziua ta e plină de surprize frumoase, râsete și oameni dragi în jurul tău!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Bucurie mare!",
+              "Petrecere memorabilă!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "La mulți ani! Fie ca această zi să fie tot atât de minunată pe cât ești tu!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "O zi de vis!",
+              "Multă fericire!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_02_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_03_3974099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_05_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_06_8472657.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_07_8429723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_08_8472673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_09_5834188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_10_8437013.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Fie ca această după-amiază să îți aducă pace, liniște și momente de neuitat alături de cei dragi.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Sănătate și liniște!",
+              "Toate cele bune!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Azi e ziua ta. Lasă grijile deoparte și bucură-te de fiecare clipă a acestei zile speciale.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Multă sănătate!",
+              "Cu drag!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_02_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_03_3974099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_05_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_06_8472657.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_07_8429723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_08_8472673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_09_5834188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_10_8437013.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Fiecare an te aduce mai aproape de versiunea ta cea mai împlinită. Mergi înainte cu curaj! La mulți ani!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Curaj și determinare!",
+              "Un an de succes!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ziua ta de naștere e un reminder că ești capabil de lucruri mari. Nu te opri din visuri!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Visele devin realitate!",
+              "Mult succes!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_02_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_03_3974099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_05_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_06_8472657.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_07_8429723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_08_8472673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_09_5834188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_10_8437013.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Spor la tort! Știu că ai așteptat toată dimineața să ajungi la el. Acum e momentul!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Spor la tort!",
+              "Să fie bine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Câți ani? Nu contează — important e că azi e ziua ta și petrecem cu toții!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Veselie și bună dispoziție!",
+              "Hai că se poate!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_02_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_03_3974099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_05_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_06_8472657.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_07_8429723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_08_8472673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_09_5834188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_10_8437013.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Ești un om de valoare și azi e ziua ta. Meriti tot ce e mai bun în această lume!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Cu recunoștință!",
+              "Din toată inima!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Recunoștință pentru fiecare an petrecut alături de tine. Fie să ai parte de tot ce meriti!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Prețuire și drag!",
+              "Toate cele bune!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_02_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_03_3974099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_05_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_06_8472657.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_07_8429723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_08_8472673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_09_5834188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_10_8437013.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Un gând cald de ziua ta, din inimă și cu drag. Fie ca această zi să îți aducă numai bucurii!",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Căldură și iubire!",
+              "O zi fericită!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Fie ca această după-amiază să te găsească zâmbind și înconjurat de oamenii pe care îi iubești.",
+            "slogans": [
+              "Bună ziua!",
+              "La Mulți Ani!",
+              "Cu toată dragostea!",
+              "Clipe de neuitat!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_02_10015835.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_03_3974099.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_04_5834193.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_05_3974100.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_06_8472657.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_07_8429723.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_08_8472673.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_09_5834188.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_afternoon_10_8437013.jpg"
+        ]
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Seara zilei tale de naștere — fie să se închidă cu iubire, recunoștință și amintiri frumoase.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Cu drag și iubire!",
+              "O seară de vis!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Un apus special pentru o zi specială. Fie ca amintirile de azi să îți încălzească inima multă vreme.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Multă iubire!",
+              "Noapte bună, suflet drag!"
+            ],
+            "textConfigId": 4
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_03_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_04_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_06_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_07_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_08_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_09_6172736.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_10_17082.jpg"
+        ]
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Sper că ziua ta a fost plină de bucurie! Fie ca seara să aducă și mai multă veselie și fericire!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Bucurie și veselie!",
+              "O seară memorabilă!"
+            ],
+            "textConfigId": 4
+          },
+          {
+            "text": "La mulți ani! Fie ca această seară să fie cea mai fericită din tot anul tău!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Voie bună!",
+              "Petrecere de neuitat!"
+            ],
+            "textConfigId": 11
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_03_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_04_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_06_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_07_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_08_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_09_6172736.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_10_17082.jpg"
+        ]
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Seara aceasta îți aduc un gând de pace și liniște. Fie ca noul tău an să fie plin de frumusețe.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Sănătate și pace!",
+              "Noapte bună!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Închide ziua ta de naștere cu sufletul plin și recunoștință pentru tot ce a fost frumos.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Liniște și bucurie!",
+              "Cu drag!"
+            ],
+            "textConfigId": 11
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_03_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_04_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_06_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_07_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_08_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_09_6172736.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_10_17082.jpg"
+        ]
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "La sfârșitul acestei zile speciale, reamintește-ți cât de departe ai ajuns. Ești mai puternic decât crezi!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Îndrăznește să crezi în tine!",
+              "Un an remarcabil!"
+            ],
+            "textConfigId": 4
+          },
+          {
+            "text": "Seara aceasta e a ta — reflectează la ce ai realizat și visează la ce urmează. La mulți ani!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Visele mari devin realitate!",
+              "Mult succes!"
+            ],
+            "textConfigId": 4
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_03_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_04_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_06_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_07_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_08_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_09_6172736.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_10_17082.jpg"
+        ]
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Tortul s-a terminat, dar ziua ta rămâne specială. La mulți ani și spor la amintiri bune!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Spor la distracție!",
+              "Să fie bine!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Seara zilei tale și tu ești tot vedeta! Felicitări pentru că ai supraviețuit încă un an!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Veselie!",
+              "Încă un an reușit!"
+            ],
+            "textConfigId": 11
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_03_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_04_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_06_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_07_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_08_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_09_6172736.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_10_17082.jpg"
+        ]
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Îți mulțumesc pentru tot ce ești. Fie ca noul tău an să fie plin de binecuvântări și clipe frumoase.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Cu recunoștință!",
+              "Din suflet!"
+            ],
+            "textConfigId": 4
+          },
+          {
+            "text": "Recunoscător pentru ziua ta și pentru că exiști în viața mea. La mulți ani cu sănătate!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Prețuire și drag!",
+              "Toate cele bune!"
+            ],
+            "textConfigId": 11
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_03_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_04_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_06_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_07_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_08_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_09_6172736.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_10_17082.jpg"
+        ]
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Îți trimit o îmbrățișare caldă la finalul zilei tale speciale. La mulți ani cu drag și iubire!",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Căldură și iubire!",
+              "Noapte bună!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Fie ca seara aceasta să te găsească fericit, sănătos și înconjurat de oamenii pe care îi iubești.",
+            "slogans": [
+              "Bună seara!",
+              "La Mulți Ani!",
+              "Cu toată dragostea!",
+              "O seară de neuitat!"
+            ],
+            "textConfigId": 11
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_01_8437007.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_02_1557110.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_03_1608549.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_04_5324159.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_05_8424565.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_06_8437013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_07_9363974.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_08_8437006.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_09_6172736.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/new_year_evening_10_17082.jpg"
+        ]
+      }
+    }
+  }
+}

@@ -11,18 +11,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -32,18 +21,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -69,18 +47,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -90,18 +57,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -127,18 +83,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -148,18 +93,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -185,18 +119,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -206,18 +129,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -243,18 +155,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -264,18 +165,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -301,18 +191,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -322,18 +201,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -359,18 +227,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -380,18 +237,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -417,18 +263,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -438,18 +273,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -475,18 +299,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -496,18 +309,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -537,18 +339,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -558,18 +349,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -597,18 +377,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -618,18 +387,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -657,18 +415,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -678,18 +425,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -717,18 +453,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -738,18 +463,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -777,18 +491,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -798,18 +501,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -837,18 +529,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -858,18 +539,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -897,18 +567,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -918,18 +577,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -957,18 +605,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -978,18 +615,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1017,18 +643,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1038,18 +653,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1081,18 +685,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1102,18 +695,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1139,18 +721,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1160,18 +731,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1197,18 +757,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1218,18 +767,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1255,18 +793,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1276,18 +803,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1313,18 +829,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1334,18 +839,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1371,18 +865,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1392,18 +875,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1429,18 +901,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1450,18 +911,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1487,18 +937,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1508,18 +947,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1545,18 +973,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1566,18 +983,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1607,18 +1013,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1628,18 +1023,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1665,18 +1049,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1686,18 +1059,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1723,18 +1085,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1744,18 +1095,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1781,18 +1121,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1802,18 +1131,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1839,18 +1157,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1860,18 +1167,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1897,18 +1193,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1918,18 +1203,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1955,18 +1229,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -1976,18 +1239,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2013,18 +1265,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -2034,18 +1275,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2071,18 +1301,7 @@
               "1 Decembrie Fericit!",
               "Trăiască România!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Fiecare 1 Decembrie e un motiv să fim recunoscători pentru ce avem și mândri de cine suntem.",
@@ -2092,18 +1311,7 @@
               "1 Decembrie cu mândrie!",
               "Trăiască România unită!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [

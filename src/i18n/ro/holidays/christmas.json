@@ -11,18 +11,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -32,18 +21,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -71,18 +49,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -92,18 +59,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -131,18 +87,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -152,18 +97,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -191,18 +125,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -212,18 +135,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -251,18 +163,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -272,18 +173,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -311,18 +201,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -332,18 +211,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -371,18 +239,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -392,18 +249,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -431,18 +277,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -452,18 +287,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -491,18 +315,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -512,18 +325,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -555,18 +357,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -576,18 +367,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -613,18 +393,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -634,18 +403,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -671,18 +429,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -692,18 +439,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -729,18 +465,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -750,18 +475,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -787,18 +501,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -808,18 +511,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -845,18 +537,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -866,18 +547,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -903,18 +573,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -924,18 +583,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -961,18 +609,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -982,18 +619,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1019,18 +645,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1040,18 +655,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1081,18 +685,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1102,18 +695,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1141,18 +723,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1162,18 +733,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1201,18 +761,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1222,18 +771,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1261,18 +799,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1282,18 +809,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1321,18 +837,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1342,18 +847,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1381,18 +875,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1402,18 +885,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1441,18 +913,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1462,18 +923,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1501,18 +951,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1522,18 +961,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1561,18 +989,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1582,18 +999,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1625,18 +1031,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1646,18 +1041,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1683,18 +1067,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1704,18 +1077,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1741,18 +1103,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1762,18 +1113,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1799,18 +1139,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1820,18 +1149,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1857,18 +1175,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1878,18 +1185,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1915,18 +1211,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1936,18 +1221,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1973,18 +1247,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -1994,18 +1257,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2031,18 +1283,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -2052,18 +1293,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2089,18 +1319,7 @@
               "Sărbători cu drag!",
               "Casă caldă și oameni buni!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           },
           {
             "text": "Un singur Crăciun pe an e prea puțin pentru atâta căldură. Să fie un Crăciun de neuitat!",
@@ -2110,18 +1329,7 @@
               "Sărbători Fericite!",
               "Nașterea Domnului cu pace!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [

@@ -11,18 +11,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -32,18 +21,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -69,18 +47,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -90,18 +57,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -127,18 +83,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -148,18 +93,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -185,18 +119,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -206,18 +129,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -243,18 +155,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -264,18 +165,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -301,18 +191,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -322,18 +201,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -359,18 +227,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -380,18 +237,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -417,18 +263,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -438,18 +273,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -475,18 +299,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -496,18 +309,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -537,18 +339,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -558,18 +349,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -595,18 +375,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -616,18 +385,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -653,18 +411,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -674,18 +421,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -711,18 +447,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -732,18 +457,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -769,18 +483,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -790,18 +493,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -827,18 +519,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -848,18 +529,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -885,18 +555,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -906,18 +565,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -943,18 +591,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -964,18 +601,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1001,18 +627,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1022,18 +637,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1063,18 +667,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1084,18 +677,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1121,18 +703,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1142,18 +713,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1179,18 +739,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1200,18 +749,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1237,18 +775,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1258,18 +785,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1295,18 +811,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1316,18 +821,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1353,18 +847,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1374,18 +857,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1411,18 +883,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1432,18 +893,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1469,18 +919,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1490,18 +929,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1527,18 +955,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1548,18 +965,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1589,18 +995,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1610,18 +1005,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1647,18 +1031,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1668,18 +1041,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1705,18 +1067,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1726,18 +1077,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1763,18 +1103,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1784,18 +1113,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1821,18 +1139,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1842,18 +1149,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1879,18 +1175,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1900,18 +1185,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1937,18 +1211,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -1958,18 +1221,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1995,18 +1247,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -2016,18 +1257,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2053,18 +1283,7 @@
               "Sfântul Vasile cu bine!",
               "Sorcova veselă!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Două rânduri de urări pe an nu strică nimănui. La mulți ani, pe stil vechi și pe stil nou!",
@@ -2074,18 +1293,7 @@
               "Sfântul Vasile să vă ocrotească!",
               "An nou fericit pe stil vechi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [

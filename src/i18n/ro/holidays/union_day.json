@@ -11,18 +11,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -32,18 +21,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -69,18 +47,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -90,18 +57,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -127,18 +83,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -148,18 +93,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -185,18 +119,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -206,18 +129,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -243,18 +155,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -264,18 +165,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -301,18 +191,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -322,18 +201,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -359,18 +227,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -380,18 +237,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -417,18 +263,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -438,18 +273,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -475,18 +299,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -496,18 +309,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -537,18 +339,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -558,18 +349,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -597,18 +377,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -618,18 +387,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -657,18 +415,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -678,18 +425,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -717,18 +453,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -738,18 +463,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -777,18 +491,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -798,18 +501,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -837,18 +529,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -858,18 +539,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -897,18 +567,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -918,18 +577,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -957,18 +605,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -978,18 +615,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1017,18 +643,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1038,18 +653,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1081,18 +685,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1102,18 +695,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1141,18 +723,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1162,18 +733,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1201,18 +761,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1222,18 +771,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1261,18 +799,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1282,18 +809,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1321,18 +837,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1342,18 +847,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1381,18 +875,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1402,18 +885,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1441,18 +913,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1462,18 +923,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1501,18 +951,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1522,18 +961,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1561,18 +989,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1582,18 +999,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1625,18 +1031,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1646,18 +1041,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1685,18 +1069,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1706,18 +1079,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1745,18 +1107,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1766,18 +1117,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1805,18 +1145,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1826,18 +1155,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1865,18 +1183,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1886,18 +1193,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1925,18 +1221,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -1946,18 +1231,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1985,18 +1259,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -2006,18 +1269,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2045,18 +1297,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -2066,18 +1307,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2105,18 +1335,7 @@
               "Trăiască unirea!",
               "24 Ianuarie cu mândrie!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Unirea e mai mult decât o dată în calendar. E o lecție despre ce putem face când mergem împreună.",
@@ -2126,18 +1345,7 @@
               "Ziua Unirii Principatelor!",
               "Trăiască unirea!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [

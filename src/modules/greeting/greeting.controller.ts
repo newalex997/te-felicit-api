@@ -17,8 +17,9 @@ export class GreetingController {
   getGreeting(
     @I18nLang() lang: string,
     @Query('mood') mood?: string,
+    @Query('holiday') holiday?: string,
   ): GreetingResponseDto {
-    return this.greetingService.getGreeting(lang, mood);
+    return this.greetingService.getGreeting(lang, mood, holiday);
   }
 
   @ApiOkResponse({ type: GreetingMessageResponseDto })
@@ -26,8 +27,9 @@ export class GreetingController {
   getMessage(
     @I18nLang() lang: string,
     @Query('mood') mood?: string,
+    @Query('holiday') holiday?: string,
   ): GreetingMessageResponseDto {
-    return this.greetingService.getMessage(lang, mood);
+    return this.greetingService.getMessage(lang, mood, holiday);
   }
 
   @ApiOkResponse({ type: GreetingImageResponseDto })

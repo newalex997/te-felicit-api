@@ -37,6 +37,69 @@ const FIXED_OCCASIONS: [number, number, HolidayKey][] = [
 
 @Injectable()
 export class GreetingContextService {
+  getUpcomingOccasions(count: number, timezone?: string): HolidayKey[] {
+    const resolvedTimezone = this.resolveTimezone(timezone);
+    const { year, month, day } = this.getLocalDateParts(resolvedTimezone);
+
+    const today = Date.UTC(year, month - 1, day);
+
+    const candidates: { key: HolidayKey; daysFromNow: number }[] = [];
+    const seenKeys = new Set<HolidayKey>();
+
+    // Fixed occasions — deduplicate by key, keep soonest occurrence
+    for (const [m, d, key] of FIXED_OCCASIONS) {
+      if (seenKeys.has(key)) continue;
+      seenKeys.add(key);
+      let occDate = Date.UTC(year, m - 1, d);
+      if (occDate < today) occDate = Date.UTC(year + 1, m - 1, d);
+      candidates.push({
+        key,
+        daysFromNow: Math.round((occDate - today) / 86400000),
+      });
+    }
+
+    // Dynamic occasions: Easter-related + Wine Day
+    for (const y of [year, year + 1]) {
+      const easter = this.orthodoxEasterGregorian(y);
+      const easterUtc = Date.UTC(y, easter.month - 1, easter.day);
+
+      const easterOffsets: { offset: number; key: HolidayKey }[] = [
+        { offset: -7, key: 'palm_sunday' },
+        { offset: 0, key: 'easter' },
+        { offset: 2, key: 'easter_monday' },
+        { offset: 49, key: 'whit_sunday' },
+      ];
+
+      for (const { offset, key } of easterOffsets) {
+        if (seenKeys.has(key)) continue;
+        const occDate = easterUtc + offset * 86400000;
+        if (occDate < today) continue;
+        seenKeys.add(key);
+        candidates.push({
+          key,
+          daysFromNow: Math.round((occDate - today) / 86400000),
+        });
+      }
+
+      if (!seenKeys.has('wine_day')) {
+        const wineDay = this.nthWeekdayOfMonth(y, 10, 0, 2);
+        const wineDayUtc = Date.UTC(y, 9, wineDay);
+        if (wineDayUtc >= today) {
+          seenKeys.add('wine_day');
+          candidates.push({
+            key: 'wine_day',
+            daysFromNow: Math.round((wineDayUtc - today) / 86400000),
+          });
+        }
+      }
+    }
+
+    return candidates
+      .sort((a, b) => a.daysFromNow - b.daysFromNow)
+      .slice(0, count)
+      .map((c) => c.key);
+  }
+
   getContext(timezone?: string): GreetingContext {
     const resolvedTimezone = this.resolveTimezone(timezone);
     const local = this.getLocalDateParts(resolvedTimezone);

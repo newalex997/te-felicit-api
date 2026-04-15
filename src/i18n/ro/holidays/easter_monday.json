@@ -11,18 +11,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -32,18 +21,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -69,18 +47,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -90,18 +57,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -127,18 +83,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -148,18 +93,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -185,18 +119,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -206,18 +129,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -243,18 +155,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -264,18 +165,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -301,18 +191,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -322,18 +201,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -359,18 +227,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -380,18 +237,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -417,18 +263,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -438,18 +273,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -475,18 +299,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -496,18 +309,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -537,18 +339,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -558,18 +349,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -595,18 +375,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -616,18 +385,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -653,18 +411,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -674,18 +421,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -711,18 +447,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -732,18 +457,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -769,18 +483,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -790,18 +493,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -827,18 +519,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -848,18 +529,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -885,18 +555,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -906,18 +565,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -943,18 +591,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -964,18 +601,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1001,18 +627,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFFFFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 1
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1022,18 +637,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFFFFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 10
           }
         ],
         "imageUrls": [
@@ -1063,18 +667,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1084,18 +677,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1122,18 +704,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1143,18 +714,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1181,18 +741,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1202,18 +751,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1240,18 +778,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1261,18 +788,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1299,18 +815,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1320,18 +825,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1358,18 +852,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1379,18 +862,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1417,18 +889,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1438,18 +899,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1476,18 +926,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1497,18 +936,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1535,18 +963,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#FFE8D0",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 4
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1556,18 +973,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#FFE8D0",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 11
           }
         ],
         "imageUrls": [
@@ -1598,18 +1004,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1619,18 +1014,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1656,18 +1040,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1677,18 +1050,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1714,18 +1076,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1735,18 +1086,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1772,18 +1112,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1793,18 +1122,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1830,18 +1148,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1851,18 +1158,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1888,18 +1184,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1909,18 +1194,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -1946,18 +1220,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -1967,18 +1230,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2004,18 +1256,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -2025,18 +1266,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [
@@ -2062,18 +1292,7 @@
               "Adevărat a Înviat!",
               "Paște luminate!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 31,
-                "color": "#CCDEFF",
-                "position": "top-center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 7
           },
           {
             "text": "Sărbătoarea continuă și sufletul e plin. Paște fericite, cu oameni dragi și inimă ușoară.",
@@ -2083,18 +1302,7 @@
               "Paște fericite!",
               "Bucurie și oameni dragi!"
             ],
-            "textConfig": {
-              "message": {
-                "fontSize": 33,
-                "color": "#CCDEFF",
-                "position": "center"
-              },
-              "slogan": {
-                "fontSize": 54,
-                "color": "#FFD700E6",
-                "position": "center"
-              }
-            }
+            "textConfigId": 12
           }
         ],
         "imageUrls": [

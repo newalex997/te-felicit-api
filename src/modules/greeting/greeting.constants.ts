@@ -92,6 +92,129 @@ export const MOODS: Omit<MoodOptionDto, 'label'>[] = [
   { id: 'nostalgic', emoji: '🍂', gradient: ['#8e9eab', '#c8d6df'] },
 ];
 
+export const HOLIDAY_META: Omit<MoodOptionDto, 'label'>[] = [
+  {
+    id: 'birthday',
+    emoji: '🎂',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'new_year',
+    emoji: '🎆',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'epiphany',
+    emoji: '✨',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'christmas_orthodox',
+    emoji: '⭐',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'old_new_year',
+    emoji: '🎊',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'union_day',
+    emoji: '🤝',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'martisorul',
+    emoji: '🌺',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'women_day',
+    emoji: '💐',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'labour_day',
+    emoji: '🌿',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'victory_day',
+    emoji: '🕊️',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'childrens_day',
+    emoji: '🧒',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'assumption',
+    emoji: '🙏',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'independence_day',
+    emoji: '🇲🇩',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'limba_noastra',
+    emoji: '📖',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'all_saints',
+    emoji: '🕯️',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'saint_andrew',
+    emoji: '🐺',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'national_day',
+    emoji: '🎖️',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'saint_nicholas',
+    emoji: '🎅',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'christmas',
+    emoji: '🎄',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'palm_sunday',
+    emoji: '🌿',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'easter',
+    emoji: '🥚',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'easter_monday',
+    emoji: '🌸',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'whit_sunday',
+    emoji: '🕊️',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'wine_day',
+    emoji: '🍷',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+];
+
 export const DEFAULT_TEXT_CONFIG: GreetingTextConfigDto = {
   message: {
     fontSize: 24,
