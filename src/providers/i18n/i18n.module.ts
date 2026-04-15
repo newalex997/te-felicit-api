@@ -13,7 +13,7 @@ import {
       fallbackLanguage: 'ro',
       loaderOptions: {
         path: path.join(__dirname, '../../i18n/'),
-        includeSubdirs: true,
+        includeSubfolders: true,
         watch: process.env.NODE_ENV !== 'production',
       },
       resolvers: [
