@@ -38,7 +38,7 @@ export class GreetingController {
 
   @ApiOkResponse({ type: MoodOptionsResponseDto })
   @Get('moods')
-  getMoods(): MoodOptionsResponseDto {
-    return this.greetingService.getMoods();
+  getMoods(@I18nLang() lang: string): MoodOptionsResponseDto {
+    return this.greetingService.getMoods(lang);
   }
 }

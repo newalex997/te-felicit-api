@@ -9,11 +9,12 @@ import { GreetingMessageResponseDto } from './dto/greeting-message-response.dto'
 import { GreetingImageResponseDto } from './dto/greeting-image-response.dto';
 import { MoodOptionsResponseDto } from './dto/mood-option.dto';
 import { GreetingTextConfigDto } from './dto/text-block-config.dto';
-import { MOODS, DEFAULT_TEXT_CONFIG } from './greeting.constants';
+import { MOODS, DEFAULT_TEXT_CONFIG, TEXT_CONFIGS } from './greeting.constants';
 
 interface GreetingMessageEntry {
   text: string;
   slogans: string[];
+  textConfigId?: number;
   textConfig?: GreetingTextConfigDto;
 }
 
@@ -35,6 +36,19 @@ export class GreetingService {
   private getI18nArray<T>(key: string, lang: string): T[] {
     const result = this.i18n.t(key, { lang });
     return Array.isArray(result) ? (result as T[]) : [];
+  }
+
+  private resolveTextConfig(
+    entry: GreetingMessageEntry,
+  ): GreetingTextConfigDto {
+    if (entry.textConfig) return entry.textConfig;
+    if (entry.textConfigId != null) {
+      const config: GreetingTextConfigDto | undefined = (
+        TEXT_CONFIGS as Record<number, GreetingTextConfigDto | undefined>
+      )[entry.textConfigId];
+      if (config) return config;
+    }
+    return DEFAULT_TEXT_CONFIG;
   }
 
   private effectiveMood(mood?: string): string {
@@ -87,7 +101,7 @@ export class GreetingService {
     return {
       message: entry.text,
       slogan: pickRandom(entry.slogans),
-      textConfig: entry.textConfig ?? DEFAULT_TEXT_CONFIG,
+      textConfig: this.resolveTextConfig(entry),
     };
   }
 
@@ -112,7 +126,11 @@ export class GreetingService {
     return { imageUrl: this.pickImage(context, lang) };
   }
 
-  getMoods(): MoodOptionsResponseDto {
-    return { moods: MOODS };
+  getMoods(lang: string): MoodOptionsResponseDto {
+    const moods = MOODS.map((mood) => ({
+      ...mood,
+      label: String(this.i18n.t(`moods.${mood.id}`, { lang })),
+    }));
+    return { moods };
   }
 }
