@@ -34,8 +34,12 @@ export class GreetingController {
 
   @ApiOkResponse({ type: GreetingImageResponseDto })
   @Get('image')
-  getImage(@I18nLang() lang: string): GreetingImageResponseDto {
-    return this.greetingService.getImage(lang);
+  getImage(
+    @I18nLang() lang: string,
+    @Query('mood') mood?: string,
+    @Query('holiday') holiday?: string,
+  ): GreetingImageResponseDto {
+    return this.greetingService.getImage(lang, mood, holiday);
   }
 
   @ApiOkResponse({ type: MoodOptionsResponseDto })

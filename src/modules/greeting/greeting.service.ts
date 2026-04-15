@@ -187,10 +187,18 @@ export class GreetingService {
     );
   }
 
-  getImage(lang: string): GreetingImageResponseDto {
+  getImage(
+    lang: string,
+    mood?: string,
+    holiday?: string,
+  ): GreetingImageResponseDto {
     const context = this.greetingContextService.getContext();
-    const mood = this.resolveMood();
-    return { imageUrl: this.pickImage(context, lang, mood, null) };
+    const resolvedMood = this.resolveMood(mood);
+    const resolvedHoliday = this.resolveHoliday(holiday);
+
+    return {
+      imageUrl: this.pickImage(context, lang, resolvedMood, resolvedHoliday),
+    };
   }
 
   getMoods(lang: string): MoodOptionsResponseDto {
