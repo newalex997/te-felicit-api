@@ -1,5 +1,6 @@
 import {
   GreetingTextConfigDto,
+  TextEffect,
   TextPosition,
 } from './dto/text-block-config.dto';
 import { MoodOptionDto } from './dto/mood-option.dto';
@@ -29,29 +30,52 @@ export const TEXT_CONFIGS: Record<number, GreetingTextConfigDto> = {
     message: {
       color: '#FFE8D0',
       fontSize: 31,
+      textEffect: TextEffect.BORDER,
       position: TextPosition.TOP_CENTER,
     },
-    slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
   },
   5: {
     message: {
       color: '#FFE8D0',
       fontSize: 29,
+      textEffect: TextEffect.BORDER,
       position: TextPosition.TOP_CENTER,
     },
-    slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
   },
   6: {
     message: { color: '#FFE8D0', fontSize: 31, position: TextPosition.CENTER },
-    slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
   },
   7: {
     message: {
       color: '#CCDEFF',
       fontSize: 31,
+      textEffect: TextEffect.BORDER,
       position: TextPosition.TOP_CENTER,
     },
-    slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
   },
   8: {
     message: {
@@ -66,16 +90,46 @@ export const TEXT_CONFIGS: Record<number, GreetingTextConfigDto> = {
     slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
   },
   10: {
-    message: { color: '#FFFFFF', fontSize: 33, position: TextPosition.CENTER },
-    slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
+    message: {
+      color: '#FFFFFF',
+      fontSize: 33,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
   },
   11: {
-    message: { color: '#FFE8D0', fontSize: 33, position: TextPosition.CENTER },
-    slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
+    message: {
+      color: '#FFE8D0',
+      fontSize: 33,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
   },
   12: {
-    message: { color: '#CCDEFF', fontSize: 33, position: TextPosition.CENTER },
-    slogan: { color: '#FFD700E6', fontSize: 54, position: TextPosition.CENTER },
+    message: {
+      color: '#CCDEFF',
+      fontSize: 33,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
   },
 };
 

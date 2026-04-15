@@ -12,6 +12,13 @@ export enum TextPosition {
   BOTTOM_RIGHT = 'bottom-right',
 }
 
+export enum TextEffect {
+  NONE = 'none',
+  SHADOW = 'shadow',
+  OUTLINE = 'outline',
+  BORDER = 'border',
+}
+
 export class TextBlockConfigDto {
   @ApiProperty({ example: 24, description: 'Font size in sp/pt' })
   fontSize: number;
@@ -21,6 +28,9 @@ export class TextBlockConfigDto {
 
   @ApiProperty({ enum: TextPosition, example: TextPosition.CENTER })
   position: TextPosition;
+
+  @ApiProperty({ enum: TextEffect, example: TextEffect.NONE, required: false })
+  textEffect?: TextEffect;
 }
 
 export class GreetingTextConfigDto {
