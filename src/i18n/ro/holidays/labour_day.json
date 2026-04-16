@@ -4,22 +4,22 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi muncii i-ai dat o zi liberă. Petrece-o cu cineva drag, că asta contează cel mai mult.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Alături de tine!",
+              "Primăvară cu dragoste!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Primăvara asta are ceva special. Poate că e liliacul, poate că ești tu alături.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "O zi frumoasă!",
+              "Cu drag și iubire!"
             ],
             "textConfigId": 10
           }
@@ -42,22 +42,22 @@
       "joyful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca poate să aștepte. Azi e 1 Mai și singura ta datorie e să te bucuri.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Voie bună și soare!",
+              "Trăiască 1 Mai!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Grătarul e gata, muzica pornită, prietenii vin. Exact ce trebuia.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Petrecere mare!",
+              "Zi cu chef!"
             ],
             "textConfigId": 10
           }
@@ -80,22 +80,22 @@
       "calm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e invitația de a te opri din alergat și să te bucuri de ce ai în jur.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă binemeritată!",
+              "Primăvară liniștită!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Aerul de mai are un miros aparte. Ieși afară și respiră-l în voie.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Zi de liniște!",
+              "Primăvară frumoasă!"
             ],
             "textConfigId": 10
           }
@@ -118,22 +118,22 @@
       "inspirational": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca ta contează, dar și odihna. Azi e ziua în care ai voie să nu faci nimic cu sens deplin.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Muncă cu sens!",
+              "Odihnă meritată!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Fiecare zi liberă îți reîncarcă puterea să faci ce contează mâine. Bucură-te de azi.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Reîncarcă-te!",
+              "Un mai productiv!"
             ],
             "textConfigId": 10
           }
@@ -156,22 +156,22 @@
       "playful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Alarma a sunat, ai oprit-o și ai adormit la loc. Azi se poate.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Fără șef azi!",
+              "Zi cu chef!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Dacă azi nu ai adus nimic de lucru acasă, ai înțeles perfect spiritul zilei.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Laptop închis!",
+              "Trăiască ziua liberă!"
             ],
             "textConfigId": 10
           }
@@ -194,22 +194,22 @@
       "grateful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi e ziua celor care muncesc cu demnitate. Meriti odihna asta.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Respect pentru muncă!",
+              "Zi binemeritată!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Recunoscător pentru fiecare mână care muncește și pentru zilele libere care ne amintesc de ce o facem.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Cu respect!",
+              "Muncă și demnitate!"
             ],
             "textConfigId": 10
           }
@@ -232,21 +232,21 @@
       "warm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e o zi bună să stai lângă oamenii care contează, fără grabă și fără ceas.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Zi cu oameni dragi!",
+              "Primăvară caldă!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Soarele de mai intră pe fereastră și aduce cu el exact ce aveai nevoie: o zi liberă.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
+              "Căldură și soare!",
               "Zi bine petrecută!"
             ],
             "textConfigId": 10
@@ -270,22 +270,22 @@
       "bold": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Muncești tare tot anul. Azi e ziua ta să nu te scuzi față de nimeni pentru odihna asta.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă câștigată!",
+              "Fără compromis!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Cei care muncesc serios știu cel mai bine cum să se odihnească serios. Bucură-te de azi pe deplin.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Tare la muncă!",
+              "Și la odihnă!"
             ],
             "textConfigId": 10
           }
@@ -308,22 +308,22 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai aduce cu el mirosul de liliac și amintirea acelor zile când sărbătoarea asta era mai mare.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Amintiri de mai!",
+              "Primăveri trecute!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "E ceva în aerul de 1 Mai care te face să-ți amintești de copilărie, de curți, de grătare.",
             "slogans": [
               "Bună dimineața!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Mai de altădată!",
+              "Amintiri frumoase!"
             ],
             "textConfigId": 10
           }
@@ -350,22 +350,22 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi muncii i-ai dat o zi liberă. Petrece-o cu cineva drag, că asta contează cel mai mult.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Alături de tine!",
+              "Primăvară cu dragoste!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Primăvara asta are ceva special. Poate că e liliacul, poate că ești tu alături.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "O zi frumoasă!",
+              "Cu drag și iubire!"
             ],
             "textConfigId": 10
           }
@@ -388,22 +388,22 @@
       "joyful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca poate să aștepte. Azi e 1 Mai și singura ta datorie e să te bucuri.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Voie bună și soare!",
+              "Trăiască 1 Mai!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Grătarul e gata, muzica pornită, prietenii vin. Exact ce trebuia.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Petrecere mare!",
+              "Zi cu chef!"
             ],
             "textConfigId": 10
           }
@@ -426,22 +426,22 @@
       "calm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e invitația de a te opri din alergat și să te bucuri de ce ai în jur.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă binemeritată!",
+              "Primăvară liniștită!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Aerul de mai are un miros aparte. Ieși afară și respiră-l în voie.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Zi de liniște!",
+              "Primăvară frumoasă!"
             ],
             "textConfigId": 10
           }
@@ -464,22 +464,22 @@
       "inspirational": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca ta contează, dar și odihna. Azi e ziua în care ai voie să nu faci nimic cu sens deplin.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Muncă cu sens!",
+              "Odihnă meritată!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Fiecare zi liberă îți reîncarcă puterea să faci ce contează mâine. Bucură-te de azi.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Reîncarcă-te!",
+              "Un mai productiv!"
             ],
             "textConfigId": 10
           }
@@ -502,22 +502,22 @@
       "playful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Alarma a sunat, ai oprit-o și ai adormit la loc. Azi se poate.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Fără șef azi!",
+              "Zi cu chef!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Dacă azi nu ai adus nimic de lucru acasă, ai înțeles perfect spiritul zilei.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Laptop închis!",
+              "Trăiască ziua liberă!"
             ],
             "textConfigId": 10
           }
@@ -540,22 +540,22 @@
       "grateful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi e ziua celor care muncesc cu demnitate. Meriti odihna asta.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Respect pentru muncă!",
+              "Zi binemeritată!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Recunoscător pentru fiecare mână care muncește și pentru zilele libere care ne amintesc de ce o facem.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Cu respect!",
+              "Muncă și demnitate!"
             ],
             "textConfigId": 10
           }
@@ -578,21 +578,21 @@
       "warm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e o zi bună să stai lângă oamenii care contează, fără grabă și fără ceas.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Zi cu oameni dragi!",
+              "Primăvară caldă!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Soarele de mai intră pe fereastră și aduce cu el exact ce aveai nevoie: o zi liberă.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
+              "Căldură și soare!",
               "Zi bine petrecută!"
             ],
             "textConfigId": 10
@@ -616,22 +616,22 @@
       "bold": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Muncești tare tot anul. Azi e ziua ta să nu te scuzi față de nimeni pentru odihna asta.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă câștigată!",
+              "Fără compromis!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Cei care muncesc serios știu cel mai bine cum să se odihnească serios. Bucură-te de azi pe deplin.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Tare la muncă!",
+              "Și la odihnă!"
             ],
             "textConfigId": 10
           }
@@ -654,22 +654,22 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai aduce cu el mirosul de liliac și amintirea acelor zile când sărbătoarea asta era mai mare.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Amintiri de mai!",
+              "Primăveri trecute!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "E ceva în aerul de 1 Mai care te face să-ți amintești de copilărie, de curți, de grătare.",
             "slogans": [
               "Bună ziua!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Mai de altădată!",
+              "Amintiri frumoase!"
             ],
             "textConfigId": 10
           }
@@ -696,22 +696,22 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi muncii i-ai dat o zi liberă. Petrece-o cu cineva drag, că asta contează cel mai mult.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Alături de tine!",
+              "Primăvară cu dragoste!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Primăvara asta are ceva special. Poate că e liliacul, poate că ești tu alături.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "O zi frumoasă!",
+              "Cu drag și iubire!"
             ],
             "textConfigId": 11
           }
@@ -732,22 +732,22 @@
       "joyful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca poate să aștepte. Azi e 1 Mai și singura ta datorie e să te bucuri.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Voie bună și soare!",
+              "Trăiască 1 Mai!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Grătarul e gata, muzica pornită, prietenii vin. Exact ce trebuia.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Petrecere mare!",
+              "Zi cu chef!"
             ],
             "textConfigId": 11
           }
@@ -768,22 +768,22 @@
       "calm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e invitația de a te opri din alergat și să te bucuri de ce ai în jur.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă binemeritată!",
+              "Primăvară liniștită!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Aerul de mai are un miros aparte. Ieși afară și respiră-l în voie.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Zi de liniște!",
+              "Primăvară frumoasă!"
             ],
             "textConfigId": 11
           }
@@ -804,22 +804,22 @@
       "inspirational": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca ta contează, dar și odihna. Azi e ziua în care ai voie să nu faci nimic cu sens deplin.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Muncă cu sens!",
+              "Odihnă meritată!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Fiecare zi liberă îți reîncarcă puterea să faci ce contează mâine. Bucură-te de azi.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Reîncarcă-te!",
+              "Un mai productiv!"
             ],
             "textConfigId": 11
           }
@@ -840,22 +840,22 @@
       "playful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Alarma a sunat, ai oprit-o și ai adormit la loc. Azi se poate.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Fără șef azi!",
+              "Zi cu chef!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Dacă azi nu ai adus nimic de lucru acasă, ai înțeles perfect spiritul zilei.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Laptop închis!",
+              "Trăiască ziua liberă!"
             ],
             "textConfigId": 11
           }
@@ -876,22 +876,22 @@
       "grateful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi e ziua celor care muncesc cu demnitate. Meriti odihna asta.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Respect pentru muncă!",
+              "Zi binemeritată!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Recunoscător pentru fiecare mână care muncește și pentru zilele libere care ne amintesc de ce o facem.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Cu respect!",
+              "Muncă și demnitate!"
             ],
             "textConfigId": 11
           }
@@ -912,21 +912,21 @@
       "warm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e o zi bună să stai lângă oamenii care contează, fără grabă și fără ceas.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Zi cu oameni dragi!",
+              "Primăvară caldă!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Soarele de mai intră pe fereastră și aduce cu el exact ce aveai nevoie: o zi liberă.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
+              "Căldură și soare!",
               "Zi bine petrecută!"
             ],
             "textConfigId": 11
@@ -948,22 +948,22 @@
       "bold": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Muncești tare tot anul. Azi e ziua ta să nu te scuzi față de nimeni pentru odihna asta.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă câștigată!",
+              "Fără compromis!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Cei care muncesc serios știu cel mai bine cum să se odihnească serios. Bucură-te de azi pe deplin.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Tare la muncă!",
+              "Și la odihnă!"
             ],
             "textConfigId": 11
           }
@@ -984,22 +984,22 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai aduce cu el mirosul de liliac și amintirea acelor zile când sărbătoarea asta era mai mare.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Amintiri de mai!",
+              "Primăveri trecute!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "E ceva în aerul de 1 Mai care te face să-ți amintești de copilărie, de curți, de grătare.",
             "slogans": [
               "Bună seara!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Mai de altădată!",
+              "Amintiri frumoase!"
             ],
             "textConfigId": 11
           }
@@ -1024,24 +1024,24 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi muncii i-ai dat o zi liberă. Petrece-o cu cineva drag, că asta contează cel mai mult.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Alături de tine!",
+              "Primăvară cu dragoste!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Primăvara asta are ceva special. Poate că e liliacul, poate că ești tu alături.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "O zi frumoasă!",
+              "Cu drag și iubire!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1060,24 +1060,24 @@
       "joyful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca poate să aștepte. Azi e 1 Mai și singura ta datorie e să te bucuri.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Voie bună și soare!",
+              "Trăiască 1 Mai!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Grătarul e gata, muzica pornită, prietenii vin. Exact ce trebuia.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Petrecere mare!",
+              "Zi cu chef!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1096,24 +1096,24 @@
       "calm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e invitația de a te opri din alergat și să te bucuri de ce ai în jur.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă binemeritată!",
+              "Primăvară liniștită!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Aerul de mai are un miros aparte. Ieși afară și respiră-l în voie.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Zi de liniște!",
+              "Primăvară frumoasă!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1132,24 +1132,24 @@
       "inspirational": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Munca ta contează, dar și odihna. Azi e ziua în care ai voie să nu faci nimic cu sens deplin.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Muncă cu sens!",
+              "Odihnă meritată!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Fiecare zi liberă îți reîncarcă puterea să faci ce contează mâine. Bucură-te de azi.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Reîncarcă-te!",
+              "Un mai productiv!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1168,24 +1168,24 @@
       "playful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Alarma a sunat, ai oprit-o și ai adormit la loc. Azi se poate.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Fără șef azi!",
+              "Zi cu chef!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Dacă azi nu ai adus nimic de lucru acasă, ai înțeles perfect spiritul zilei.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Laptop închis!",
+              "Trăiască ziua liberă!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1204,24 +1204,24 @@
       "grateful": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Azi e ziua celor care muncesc cu demnitate. Meriti odihna asta.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Respect pentru muncă!",
+              "Zi binemeritată!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Recunoscător pentru fiecare mână care muncește și pentru zilele libere care ne amintesc de ce o facem.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Cu respect!",
+              "Muncă și demnitate!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1240,24 +1240,24 @@
       "warm": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai e o zi bună să stai lângă oamenii care contează, fără grabă și fără ceas.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Zi cu oameni dragi!",
+              "Primăvară caldă!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Soarele de mai intră pe fereastră și aduce cu el exact ce aveai nevoie: o zi liberă.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
+              "Căldură și soare!",
               "Zi bine petrecută!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1276,24 +1276,24 @@
       "bold": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "Muncești tare tot anul. Azi e ziua ta să nu te scuzi față de nimeni pentru odihna asta.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Odihnă câștigată!",
+              "Fără compromis!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "Cei care muncesc serios știu cel mai bine cum să se odihnească serios. Bucură-te de azi pe deplin.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Tare la muncă!",
+              "Și la odihnă!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [
@@ -1312,24 +1312,24 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Mai e ziua în care munca ia o zi liberă. Odihnește-te bine, ai meritat-o.",
+            "text": "1 Mai aduce cu el mirosul de liliac și amintirea acelor zile când sărbătoarea asta era mai mare.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Zi cu odihnă binevenită!",
-              "Primăvară frumoasă!"
+              "Amintiri de mai!",
+              "Primăveri trecute!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7
           },
           {
-            "text": "Primăvara e în toi și azi nu se lucrează. E ziua ta să faci ce-ți place.",
+            "text": "E ceva în aerul de 1 Mai care te face să-ți amintești de copilărie, de curți, de grătare.",
             "slogans": [
               "Noapte bună!",
               "1 Mai Fericit!",
-              "Un mai plin de soare!",
-              "Zi bine petrecută!"
+              "Mai de altădată!",
+              "Amintiri frumoase!"
             ],
-            "textConfigId": 12
+            "textConfigId": 9
           }
         ],
         "imageUrls": [

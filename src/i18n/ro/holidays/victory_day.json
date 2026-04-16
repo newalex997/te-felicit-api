@@ -4,22 +4,20 @@
       "romantic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea nu e un dar primit gratuit. A costat vieți, ani, suferință. Astăzi comemorăm pe cei care au plătit pentru liniștea în care trăim.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "În amintirea lor.",
+              "Pace și recunoștință."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Într-un timp al războiului, oamenii au visat la liniște, la familii reunite, la un viitor fără frică. Visul acela e lumea de azi.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua Victoriei.",
+              "Libertate câștigată cu greu."
             ],
             "textConfigId": 10
           }
@@ -42,22 +40,20 @@
       "joyful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "9 Mai e și Ziua Europei, un proiect de pace al unui continent care a știut ce înseamnă războiul. Facem parte din această poveste.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, Ziua Europei!",
+              "Unitate și pace!"
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Europa de azi nu s-a întâmplat de la sine. A fost construită cu intenție, după decenii de conflict, de oameni care au ales altă cale.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Europa unită!",
+              "Construită pe sacrificiu."
             ],
             "textConfigId": 10
           }
@@ -80,22 +76,20 @@
       "calm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Astăzi e o zi pentru a tăcea puțin și a gândi la ce s-a întâmplat acum 80 de ani. La oamenii care au trăit acel sfârșit de război.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, în tăcere.",
+              "Memorie și respect."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Există zile în care nu trebuie să celebrăm cu gălăgie. 9 Mai e o zi a amintirii, a recunoștinței, a liniștii interioare.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua amintirii.",
+              "Pace în inimă."
             ],
             "textConfigId": 10
           }
@@ -118,22 +112,20 @@
       "inspirational": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Cei care au luptat au crezut că merită să existe un viitor mai bun. Noi suntem acel viitor. E în mâinile noastre să îl păstrăm.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Moștenitori ai păcii.",
+              "Să nu uităm niciodată."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Curajul lor a schimbat cursul istoriei. Curajul nostru e să construim o lume în care sacrificiul lor nu a fost în zadar.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, un nou început.",
+              "Curaj și memorie."
             ],
             "textConfigId": 10
           }
@@ -156,22 +148,20 @@
       "playful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea e ceva cu care ne-am obișnuit atât de mult încât uneori o luăm ca pe un dat. Astăzi e ziua să ne amintim că nu a fost întotdeauna așa.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, nu uita!",
+              "Pacea, cel mai de preț dar."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu toți știu că 9 Mai e și Ziua Europei. E un motiv bun să afli, să îl povestești și să marcăm împreună.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, poveste mare!",
+              "Europa ne unește."
             ],
             "textConfigId": 10
           }
@@ -194,22 +184,20 @@
       "grateful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Dacă astăzi putem trăi în pace, e și pentru că generații întregi au ales să lupte, să reziste, să sacrifice. Recunoștința e cel mai puțin ce le datorăm.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Mulțumim celor căzuți.",
+              "Slavă eroilor!"
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Veteranii care mai sunt în viață poartă cu ei o poveste pe care puțini o înțeleg. Astăzi e ziua să îi onorăm, nu doar să îi amintim.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Onoare veteranilor!",
+              "Ziua Victoriei."
             ],
             "textConfigId": 10
           }
@@ -232,22 +220,20 @@
       "warm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Când s-a terminat războiul, oamenii s-au îmbrățișat pe stradă, au plâns, au scris scrisori. Sentimentul acela de ușurare e ceea ce comemorăm azi.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Pacea, în sfârșit.",
+              "9 Mai, ziua eliberării."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Generația care a trăit războiul ne-a lăsat ceva mai prețios decât orice: o Europă care preferă dialogul armelor. Nu uita cât a costat.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Moștenirea lor.",
+              "Pace pentru totdeauna."
             ],
             "textConfigId": 10
           }
@@ -270,22 +256,20 @@
       "bold": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea de azi nu s-a negociat de la bun început. A fost cucerită pe câmpuri de luptă, de oameni care știau că nu se mai întorc, și au mers mai departe.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Victorie câștigată cu sânge.",
+              "9 Mai, victorie!"
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu există pace fără oameni care să lupte pentru ea. Fiecare zi de libertate pe care o trăim are un nume, o față, o poveste în spate.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Libertate cu preț.",
+              "Nu uita niciodată."
             ],
             "textConfigId": 10
           }
@@ -308,22 +292,20 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Imaginile în alb-negru cu soldați, cu oameni pe străzi, cu lacrimi de bucurie și de dor, sunt mai mult decât istorie. Sunt familia cuiva.",
             "slogans": [
               "Bună dimineața!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Amintiri în alb-negru.",
+              "Ei nu se uită."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Bunicii noștri au crescut cu povești despre război. Noi am crescut cu pace. Diferența dintre cele două lumi are un preț pe care nu ar trebui să îl uităm.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, povești de neuitat.",
+              "Memorie vie."
             ],
             "textConfigId": 10
           }
@@ -350,22 +332,20 @@
       "romantic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea nu e un dar primit gratuit. A costat vieți, ani, suferință. Astăzi comemorăm pe cei care au plătit pentru liniștea în care trăim.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "În amintirea lor.",
+              "Pace și recunoștință."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Într-un timp al războiului, oamenii au visat la liniște, la familii reunite, la un viitor fără frică. Visul acela e lumea de azi.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua Victoriei.",
+              "Libertate câștigată cu greu."
             ],
             "textConfigId": 10
           }
@@ -388,22 +368,20 @@
       "joyful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "9 Mai e și Ziua Europei, un proiect de pace al unui continent care a știut ce înseamnă războiul. Facem parte din această poveste.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, Ziua Europei!",
+              "Unitate și pace!"
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Europa de azi nu s-a întâmplat de la sine. A fost construită cu intenție, după decenii de conflict, de oameni care au ales altă cale.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Europa unită!",
+              "Construită pe sacrificiu."
             ],
             "textConfigId": 10
           }
@@ -426,22 +404,20 @@
       "calm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Astăzi e o zi pentru a tăcea puțin și a gândi la ce s-a întâmplat acum 80 de ani. La oamenii care au trăit acel sfârșit de război.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, în tăcere.",
+              "Memorie și respect."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Există zile în care nu trebuie să celebrăm cu gălăgie. 9 Mai e o zi a amintirii, a recunoștinței, a liniștii interioare.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua amintirii.",
+              "Pace în inimă."
             ],
             "textConfigId": 10
           }
@@ -464,22 +440,20 @@
       "inspirational": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Cei care au luptat au crezut că merită să existe un viitor mai bun. Noi suntem acel viitor. E în mâinile noastre să îl păstrăm.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Moștenitori ai păcii.",
+              "Să nu uităm niciodată."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Curajul lor a schimbat cursul istoriei. Curajul nostru e să construim o lume în care sacrificiul lor nu a fost în zadar.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, un nou început.",
+              "Curaj și memorie."
             ],
             "textConfigId": 10
           }
@@ -502,22 +476,20 @@
       "playful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea e ceva cu care ne-am obișnuit atât de mult încât uneori o luăm ca pe un dat. Astăzi e ziua să ne amintim că nu a fost întotdeauna așa.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, nu uita!",
+              "Pacea, cel mai de preț dar."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu toți știu că 9 Mai e și Ziua Europei. E un motiv bun să afli, să îl povestești și să marcăm împreună.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, poveste mare!",
+              "Europa ne unește."
             ],
             "textConfigId": 10
           }
@@ -540,22 +512,20 @@
       "grateful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Dacă astăzi putem trăi în pace, e și pentru că generații întregi au ales să lupte, să reziste, să sacrifice. Recunoștința e cel mai puțin ce le datorăm.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Mulțumim celor căzuți.",
+              "Slavă eroilor!"
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Veteranii care mai sunt în viață poartă cu ei o poveste pe care puțini o înțeleg. Astăzi e ziua să îi onorăm, nu doar să îi amintim.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Onoare veteranilor!",
+              "Ziua Victoriei."
             ],
             "textConfigId": 10
           }
@@ -578,22 +548,20 @@
       "warm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Când s-a terminat războiul, oamenii s-au îmbrățișat pe stradă, au plâns, au scris scrisori. Sentimentul acela de ușurare e ceea ce comemorăm azi.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Pacea, în sfârșit.",
+              "9 Mai, ziua eliberării."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Generația care a trăit războiul ne-a lăsat ceva mai prețios decât orice: o Europă care preferă dialogul armelor. Nu uita cât a costat.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Moștenirea lor.",
+              "Pace pentru totdeauna."
             ],
             "textConfigId": 10
           }
@@ -616,22 +584,20 @@
       "bold": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea de azi nu s-a negociat de la bun început. A fost cucerită pe câmpuri de luptă, de oameni care știau că nu se mai întorc, și au mers mai departe.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Victorie câștigată cu sânge.",
+              "9 Mai, victorie!"
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu există pace fără oameni care să lupte pentru ea. Fiecare zi de libertate pe care o trăim are un nume, o față, o poveste în spate.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Libertate cu preț.",
+              "Nu uita niciodată."
             ],
             "textConfigId": 10
           }
@@ -654,22 +620,20 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Imaginile în alb-negru cu soldați, cu oameni pe străzi, cu lacrimi de bucurie și de dor, sunt mai mult decât istorie. Sunt familia cuiva.",
             "slogans": [
               "Bună ziua!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Amintiri în alb-negru.",
+              "Ei nu se uită."
             ],
             "textConfigId": 1
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Bunicii noștri au crescut cu povești despre război. Noi am crescut cu pace. Diferența dintre cele două lumi are un preț pe care nu ar trebui să îl uităm.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, povești de neuitat.",
+              "Memorie vie."
             ],
             "textConfigId": 10
           }
@@ -696,22 +660,20 @@
       "romantic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea nu e un dar primit gratuit. A costat vieți, ani, suferință. Astăzi comemorăm pe cei care au plătit pentru liniștea în care trăim.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "În amintirea lor.",
+              "Pace și recunoștință."
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Într-un timp al războiului, oamenii au visat la liniște, la familii reunite, la un viitor fără frică. Visul acela e lumea de azi.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua Victoriei.",
+              "Libertate câștigată cu greu."
             ],
             "textConfigId": 11
           }
@@ -732,22 +694,20 @@
       "joyful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "9 Mai e și Ziua Europei, un proiect de pace al unui continent care a știut ce înseamnă războiul. Facem parte din această poveste.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, Ziua Europei!",
+              "Unitate și pace!"
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Europa de azi nu s-a întâmplat de la sine. A fost construită cu intenție, după decenii de conflict, de oameni care au ales altă cale.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Europa unită!",
+              "Construită pe sacrificiu."
             ],
             "textConfigId": 11
           }
@@ -768,22 +728,20 @@
       "calm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Astăzi e o zi pentru a tăcea puțin și a gândi la ce s-a întâmplat acum 80 de ani. La oamenii care au trăit acel sfârșit de război.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, în tăcere.",
+              "Memorie și respect."
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Există zile în care nu trebuie să celebrăm cu gălăgie. 9 Mai e o zi a amintirii, a recunoștinței, a liniștii interioare.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua amintirii.",
+              "Pace în inimă."
             ],
             "textConfigId": 11
           }
@@ -804,22 +762,20 @@
       "inspirational": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Cei care au luptat au crezut că merită să existe un viitor mai bun. Noi suntem acel viitor. E în mâinile noastre să îl păstrăm.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Moștenitori ai păcii.",
+              "Să nu uităm niciodată."
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Curajul lor a schimbat cursul istoriei. Curajul nostru e să construim o lume în care sacrificiul lor nu a fost în zadar.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, un nou început.",
+              "Curaj și memorie."
             ],
             "textConfigId": 11
           }
@@ -840,22 +796,20 @@
       "playful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea e ceva cu care ne-am obișnuit atât de mult încât uneori o luăm ca pe un dat. Astăzi e ziua să ne amintim că nu a fost întotdeauna așa.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, nu uita!",
+              "Pacea, cel mai de preț dar."
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu toți știu că 9 Mai e și Ziua Europei. E un motiv bun să afli, să îl povestești și să marcăm împreună.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, poveste mare!",
+              "Europa ne unește."
             ],
             "textConfigId": 11
           }
@@ -876,22 +830,20 @@
       "grateful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Dacă astăzi putem trăi în pace, e și pentru că generații întregi au ales să lupte, să reziste, să sacrifice. Recunoștința e cel mai puțin ce le datorăm.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Mulțumim celor căzuți.",
+              "Slavă eroilor!"
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Veteranii care mai sunt în viață poartă cu ei o poveste pe care puțini o înțeleg. Astăzi e ziua să îi onorăm, nu doar să îi amintim.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Onoare veteranilor!",
+              "Ziua Victoriei."
             ],
             "textConfigId": 11
           }
@@ -912,22 +864,20 @@
       "warm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Când s-a terminat războiul, oamenii s-au îmbrățișat pe stradă, au plâns, au scris scrisori. Sentimentul acela de ușurare e ceea ce comemorăm azi.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Pacea, în sfârșit.",
+              "9 Mai, ziua eliberării."
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Generația care a trăit războiul ne-a lăsat ceva mai prețios decât orice: o Europă care preferă dialogul armelor. Nu uita cât a costat.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Moștenirea lor.",
+              "Pace pentru totdeauna."
             ],
             "textConfigId": 11
           }
@@ -948,22 +898,20 @@
       "bold": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea de azi nu s-a negociat de la bun început. A fost cucerită pe câmpuri de luptă, de oameni care știau că nu se mai întorc, și au mers mai departe.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Victorie câștigată cu sânge.",
+              "9 Mai, victorie!"
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu există pace fără oameni care să lupte pentru ea. Fiecare zi de libertate pe care o trăim are un nume, o față, o poveste în spate.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Libertate cu preț.",
+              "Nu uita niciodată."
             ],
             "textConfigId": 11
           }
@@ -984,22 +932,20 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Imaginile în alb-negru cu soldați, cu oameni pe străzi, cu lacrimi de bucurie și de dor, sunt mai mult decât istorie. Sunt familia cuiva.",
             "slogans": [
               "Bună seara!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Amintiri în alb-negru.",
+              "Ei nu se uită."
             ],
             "textConfigId": 4
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Bunicii noștri au crescut cu povești despre război. Noi am crescut cu pace. Diferența dintre cele două lumi are un preț pe care nu ar trebui să îl uităm.",
             "slogans": [
               "Bună seara!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, povești de neuitat.",
+              "Memorie vie."
             ],
             "textConfigId": 11
           }
@@ -1024,22 +970,20 @@
       "romantic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea nu e un dar primit gratuit. A costat vieți, ani, suferință. Astăzi comemorăm pe cei care au plătit pentru liniștea în care trăim.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "În amintirea lor.",
+              "Pace și recunoștință."
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Într-un timp al războiului, oamenii au visat la liniște, la familii reunite, la un viitor fără frică. Visul acela e lumea de azi.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua Victoriei.",
+              "Libertate câștigată cu greu."
             ],
             "textConfigId": 12
           }
@@ -1060,22 +1004,20 @@
       "joyful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "9 Mai e și Ziua Europei, un proiect de pace al unui continent care a știut ce înseamnă războiul. Facem parte din această poveste.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, Ziua Europei!",
+              "Unitate și pace!"
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Europa de azi nu s-a întâmplat de la sine. A fost construită cu intenție, după decenii de conflict, de oameni care au ales altă cale.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Europa unită!",
+              "Construită pe sacrificiu."
             ],
             "textConfigId": 12
           }
@@ -1096,22 +1038,20 @@
       "calm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Astăzi e o zi pentru a tăcea puțin și a gândi la ce s-a întâmplat acum 80 de ani. La oamenii care au trăit acel sfârșit de război.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, în tăcere.",
+              "Memorie și respect."
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Există zile în care nu trebuie să celebrăm cu gălăgie. 9 Mai e o zi a amintirii, a recunoștinței, a liniștii interioare.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Ziua amintirii.",
+              "Pace în inimă."
             ],
             "textConfigId": 12
           }
@@ -1132,22 +1072,20 @@
       "inspirational": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Cei care au luptat au crezut că merită să existe un viitor mai bun. Noi suntem acel viitor. E în mâinile noastre să îl păstrăm.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Moștenitori ai păcii.",
+              "Să nu uităm niciodată."
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Curajul lor a schimbat cursul istoriei. Curajul nostru e să construim o lume în care sacrificiul lor nu a fost în zadar.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, un nou început.",
+              "Curaj și memorie."
             ],
             "textConfigId": 12
           }
@@ -1168,22 +1106,20 @@
       "playful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea e ceva cu care ne-am obișnuit atât de mult încât uneori o luăm ca pe un dat. Astăzi e ziua să ne amintim că nu a fost întotdeauna așa.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "9 Mai, nu uita!",
+              "Pacea, cel mai de preț dar."
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu toți știu că 9 Mai e și Ziua Europei. E un motiv bun să afli, să îl povestești și să marcăm împreună.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, poveste mare!",
+              "Europa ne unește."
             ],
             "textConfigId": 12
           }
@@ -1204,22 +1140,20 @@
       "grateful": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Dacă astăzi putem trăi în pace, e și pentru că generații întregi au ales să lupte, să reziste, să sacrifice. Recunoștința e cel mai puțin ce le datorăm.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Mulțumim celor căzuți.",
+              "Slavă eroilor!"
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Veteranii care mai sunt în viață poartă cu ei o poveste pe care puțini o înțeleg. Astăzi e ziua să îi onorăm, nu doar să îi amintim.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Onoare veteranilor!",
+              "Ziua Victoriei."
             ],
             "textConfigId": 12
           }
@@ -1240,22 +1174,20 @@
       "warm": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Când s-a terminat războiul, oamenii s-au îmbrățișat pe stradă, au plâns, au scris scrisori. Sentimentul acela de ușurare e ceea ce comemorăm azi.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Pacea, în sfârșit.",
+              "9 Mai, ziua eliberării."
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Generația care a trăit războiul ne-a lăsat ceva mai prețios decât orice: o Europă care preferă dialogul armelor. Nu uita cât a costat.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Moștenirea lor.",
+              "Pace pentru totdeauna."
             ],
             "textConfigId": 12
           }
@@ -1276,22 +1208,20 @@
       "bold": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Pacea de azi nu s-a negociat de la bun început. A fost cucerită pe câmpuri de luptă, de oameni care știau că nu se mai întorc, și au mers mai departe.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Victorie câștigată cu sânge.",
+              "9 Mai, victorie!"
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Nu există pace fără oameni care să lupte pentru ea. Fiecare zi de libertate pe care o trăim are un nume, o față, o poveste în spate.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "Libertate cu preț.",
+              "Nu uita niciodată."
             ],
             "textConfigId": 12
           }
@@ -1312,22 +1242,20 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "9 Mai ne amintește că pacea nu e de la sine înțeleasă. O cinstim cu recunoștință față de cei care au plătit pentru ea.",
+            "text": "Imaginile în alb-negru cu soldați, cu oameni pe străzi, cu lacrimi de bucurie și de dor, sunt mai mult decât istorie. Sunt familia cuiva.",
             "slogans": [
               "Noapte bună!",
-              "9 Mai, Ziua Victoriei!",
-              "Pace și memorie!",
-              "Slavă celor căzuți!"
+              "Amintiri în alb-negru.",
+              "Ei nu se uită."
             ],
             "textConfigId": 7
           },
           {
-            "text": "Libertatea pe care o trăim azi a costat mult. Ziua Victoriei e un moment să ne amintim asta.",
+            "text": "Bunicii noștri au crescut cu povești despre război. Noi am crescut cu pace. Diferența dintre cele două lumi are un preț pe care nu ar trebui să îl uităm.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Victoriei!",
-              "Pace Europei!",
-              "9 Mai, memorie și recunoștință!"
+              "9 Mai, povești de neuitat.",
+              "Memorie vie."
             ],
             "textConfigId": 12
           }
