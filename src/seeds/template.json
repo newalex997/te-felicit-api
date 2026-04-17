@@ -1,0 +1,54 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": [],
+      "joyful": [],
+      "calm": [],
+      "inspirational": [],
+      "playful": [],
+      "grateful": [],
+      "warm": [],
+      "bold": [],
+      "nostalgic": []
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": [],
+      "joyful": [],
+      "calm": [],
+      "inspirational": [],
+      "playful": [],
+      "grateful": [],
+      "warm": [],
+      "bold": [],
+      "nostalgic": []
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": [],
+      "joyful": [],
+      "calm": [],
+      "inspirational": [],
+      "playful": [],
+      "grateful": [],
+      "warm": [],
+      "bold": [],
+      "nostalgic": []
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": [],
+      "joyful": [],
+      "calm": [],
+      "inspirational": [],
+      "playful": [],
+      "grateful": [],
+      "warm": [],
+      "bold": [],
+      "nostalgic": []
+    }
+  }
+}

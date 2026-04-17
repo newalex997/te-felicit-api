@@ -7,9 +7,7 @@ async function bootstrap() {
     logger: ['log', 'error', 'warn'],
   });
 
-  const count = parseInt(process.argv[2] ?? '1', 10);
-
-  await app.get(BgImagesSeedService).run(count);
+  await app.get(BgImagesSeedService).run();
 
   await app.close();
 }
