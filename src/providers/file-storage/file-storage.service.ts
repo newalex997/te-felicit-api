@@ -8,7 +8,6 @@ import {
   PutObjectCommand,
   DeleteObjectCommand,
 } from '@aws-sdk/client-s3';
-import sharp from 'sharp';
 import { StorageConfigService } from '../../common/config/storage/configuration.service';
 
 @Injectable()
@@ -39,16 +38,11 @@ export class FileStorageService {
     contentType: string,
   ): Promise<string> {
     try {
-      const optimisedImageBuffer = await sharp(buffer)
-        .resize(600)
-        .jpeg()
-        .toBuffer();
-
       await this.s3.send(
         new PutObjectCommand({
           Bucket: this.bucket,
           Key: filename,
-          Body: optimisedImageBuffer,
+          Body: buffer,
           ContentType: contentType,
           ACL: 'public-read',
         }),

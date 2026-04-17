@@ -4,325 +4,217 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Astăzi e ziua celor mici, dar tu îmi aduci aminte că și eu am rămas puțin copil. Mulțumesc că te joci cu mine.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Rămânem copii împreună!",
+              "1 Iunie cu tine!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cel mai frumos lucru pe care ți l-a dat copilăria e că știi să iubești cu toată inima, fără rezerve.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Iubire fără rezerve!",
+              "1 Iunie Fericit!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "joyful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie e ziua în care toată lumea are permisiunea să fie copil. Profită din plin!",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Bucurie la maxim!",
+              "Hai la joacă!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Astăzi copiii conduc lumea, și sincer, sunt cei mai buni lideri pe care i-am avut.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Trăiască copilăria!",
+              "1 Iunie cu voie bună!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "calm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie ne reamintește că unele lucruri simple, o zi însorită, un loc de joacă, o înghețată, contează mai mult decât credeam.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Simplitate și bucurie!",
+              "O zi frumoasă!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copilăria nu e doar o vârstă, e un mod de a privi lumea. Unii nu îl pierd niciodată.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Priviri curate!",
+              "1 Iunie liniștit!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "inspirational": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Ziua Copilului există pentru că fiecare copil merită să crească în siguranță, cu dragoste și cu șanse reale.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Pentru fiecare copil!",
+              "Un viitor mai bun!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei care protejează copiii astăzi construiesc lumea de mâine. E cel mai important lucru pe care îl putem face.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Construim viitorul!",
+              "1 Iunie cu sens!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "playful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Oficial, astăzi e interzis să fii serios. Regulile au zis-o copiii și sunt cele mai bune reguli.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Joacă obligatorie!",
+              "Seriozitatea e suspendată!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Știi care e diferența dintre adulți și copii? Copiii nu se prefac că se distrează.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Autentic și vesel!",
+              "1 Iunie fără ifose!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "grateful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Mulțumim copiilor din viața noastră că ne amintesc zilnic ce contează cu adevărat.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Mulțumim, copii!",
+              "Voi ne faceți mai buni!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Fiecare copil care intră în viața ta lasă o bucată din lume mai bună. Azi le mulțumim.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Cu recunoștință!",
+              "1 Iunie cu mulțumire!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "warm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Cel mai bun lucru din 1 Iunie e că toată familia are un motiv să fie împreună și să zâmbească.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Împreună e mai bine!",
+              "Familie și bucurie!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copiii nu vor amintiri scumpe. Vor timp cu tine. Astăzi e ziua perfectă să le dai tocmai asta.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timp pentru cei mici!",
+              "1 Iunie alături!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "bold": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Copiii nu au nevoie de discursuri despre copilărie. Au nevoie de adulți care să apere dreptul lor la ea.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Apărăm copilăria!",
+              "Fapte, nu vorbe!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "1 Iunie nu e o sărbătoare decorativă. E un angajament: fiecare copil merită mai mult.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Un angajament real!",
+              "Merită mai mult!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       },
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie miroase a vară lungă, a vacanță care abia începea și a zile care nu se mai terminau.",
             "slogans": [
               "Bună dimineața!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Amintiri de neuitat!",
+              "Copilăria nu uită!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei mai frumoși ani sunt cei pe care nu i-ai apreciat destul atunci. Acum știi.",
             "slogans": [
               "Bună dimineața!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timpuri de aur!",
+              "1 Iunie nostalgic!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_01_5069014.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_02_7192773.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_03_5069060.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_04_7192772.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_06_5929995.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_07_3524000.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_08_7192771.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_09_5069059.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_morning_10_773024.jpg"
         ]
       }
     }
@@ -332,325 +224,217 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Astăzi e ziua celor mici, dar tu îmi aduci aminte că și eu am rămas puțin copil. Mulțumesc că te joci cu mine.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Rămânem copii împreună!",
+              "1 Iunie cu tine!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cel mai frumos lucru pe care ți l-a dat copilăria e că știi să iubești cu toată inima, fără rezerve.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Iubire fără rezerve!",
+              "1 Iunie Fericit!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "joyful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie e ziua în care toată lumea are permisiunea să fie copil. Profită din plin!",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Bucurie la maxim!",
+              "Hai la joacă!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Astăzi copiii conduc lumea, și sincer, sunt cei mai buni lideri pe care i-am avut.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Trăiască copilăria!",
+              "1 Iunie cu voie bună!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "calm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie ne reamintește că unele lucruri simple, o zi însorită, un loc de joacă, o înghețată, contează mai mult decât credeam.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Simplitate și bucurie!",
+              "O zi frumoasă!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copilăria nu e doar o vârstă, e un mod de a privi lumea. Unii nu îl pierd niciodată.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Priviri curate!",
+              "1 Iunie liniștit!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "inspirational": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Ziua Copilului există pentru că fiecare copil merită să crească în siguranță, cu dragoste și cu șanse reale.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Pentru fiecare copil!",
+              "Un viitor mai bun!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei care protejează copiii astăzi construiesc lumea de mâine. E cel mai important lucru pe care îl putem face.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Construim viitorul!",
+              "1 Iunie cu sens!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "playful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Oficial, astăzi e interzis să fii serios. Regulile au zis-o copiii și sunt cele mai bune reguli.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Joacă obligatorie!",
+              "Seriozitatea e suspendată!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Știi care e diferența dintre adulți și copii? Copiii nu se prefac că se distrează.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Autentic și vesel!",
+              "1 Iunie fără ifose!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "grateful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Mulțumim copiilor din viața noastră că ne amintesc zilnic ce contează cu adevărat.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Mulțumim, copii!",
+              "Voi ne faceți mai buni!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Fiecare copil care intră în viața ta lasă o bucată din lume mai bună. Azi le mulțumim.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Cu recunoștință!",
+              "1 Iunie cu mulțumire!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "warm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Cel mai bun lucru din 1 Iunie e că toată familia are un motiv să fie împreună și să zâmbească.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Împreună e mai bine!",
+              "Familie și bucurie!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copiii nu vor amintiri scumpe. Vor timp cu tine. Astăzi e ziua perfectă să le dai tocmai asta.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timp pentru cei mici!",
+              "1 Iunie alături!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "bold": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Copiii nu au nevoie de discursuri despre copilărie. Au nevoie de adulți care să apere dreptul lor la ea.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Apărăm copilăria!",
+              "Fapte, nu vorbe!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "1 Iunie nu e o sărbătoare decorativă. E un angajament: fiecare copil merită mai mult.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Un angajament real!",
+              "Merită mai mult!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       },
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie miroase a vară lungă, a vacanță care abia începea și a zile care nu se mai terminau.",
             "slogans": [
               "Bună ziua!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Amintiri de neuitat!",
+              "Copilăria nu uită!"
             ],
-            "textConfigId": 10
+            "textConfigId": 1,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei mai frumoși ani sunt cei pe care nu i-ai apreciat destul atunci. Acum știi.",
             "slogans": [
               "Bună ziua!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timpuri de aur!",
+              "1 Iunie nostalgic!"
             ],
-            "textConfigId": 10
+            "textConfigId": 10,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_01_10088188.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_02_5197826.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_03_5392907.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_04_7288798.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_05_7288801.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_06_8555108.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_07_1392492.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_08_7288787.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_09_7288796.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_afternoon_10_8203156.jpg"
         ]
       }
     }
@@ -660,325 +444,217 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Astăzi e ziua celor mici, dar tu îmi aduci aminte că și eu am rămas puțin copil. Mulțumesc că te joci cu mine.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Rămânem copii împreună!",
+              "1 Iunie cu tine!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cel mai frumos lucru pe care ți l-a dat copilăria e că știi să iubești cu toată inima, fără rezerve.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Iubire fără rezerve!",
+              "1 Iunie Fericit!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "joyful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie e ziua în care toată lumea are permisiunea să fie copil. Profită din plin!",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Bucurie la maxim!",
+              "Hai la joacă!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Astăzi copiii conduc lumea, și sincer, sunt cei mai buni lideri pe care i-am avut.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Trăiască copilăria!",
+              "1 Iunie cu voie bună!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "calm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie ne reamintește că unele lucruri simple, o zi însorită, un loc de joacă, o înghețată, contează mai mult decât credeam.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Simplitate și bucurie!",
+              "O zi frumoasă!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copilăria nu e doar o vârstă, e un mod de a privi lumea. Unii nu îl pierd niciodată.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Priviri curate!",
+              "1 Iunie liniștit!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "inspirational": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Ziua Copilului există pentru că fiecare copil merită să crească în siguranță, cu dragoste și cu șanse reale.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Pentru fiecare copil!",
+              "Un viitor mai bun!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei care protejează copiii astăzi construiesc lumea de mâine. E cel mai important lucru pe care îl putem face.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Construim viitorul!",
+              "1 Iunie cu sens!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "playful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Oficial, astăzi e interzis să fii serios. Regulile au zis-o copiii și sunt cele mai bune reguli.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Joacă obligatorie!",
+              "Seriozitatea e suspendată!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Știi care e diferența dintre adulți și copii? Copiii nu se prefac că se distrează.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Autentic și vesel!",
+              "1 Iunie fără ifose!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "grateful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Mulțumim copiilor din viața noastră că ne amintesc zilnic ce contează cu adevărat.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Mulțumim, copii!",
+              "Voi ne faceți mai buni!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Fiecare copil care intră în viața ta lasă o bucată din lume mai bună. Azi le mulțumim.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Cu recunoștință!",
+              "1 Iunie cu mulțumire!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "warm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Cel mai bun lucru din 1 Iunie e că toată familia are un motiv să fie împreună și să zâmbească.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Împreună e mai bine!",
+              "Familie și bucurie!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copiii nu vor amintiri scumpe. Vor timp cu tine. Astăzi e ziua perfectă să le dai tocmai asta.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timp pentru cei mici!",
+              "1 Iunie alături!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "bold": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Copiii nu au nevoie de discursuri despre copilărie. Au nevoie de adulți care să apere dreptul lor la ea.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Apărăm copilăria!",
+              "Fapte, nu vorbe!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "1 Iunie nu e o sărbătoare decorativă. E un angajament: fiecare copil merită mai mult.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Un angajament real!",
+              "Merită mai mult!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       },
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie miroase a vară lungă, a vacanță care abia începea și a zile care nu se mai terminau.",
             "slogans": [
               "Bună seara!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Amintiri de neuitat!",
+              "Copilăria nu uită!"
             ],
-            "textConfigId": 11
+            "textConfigId": 4,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei mai frumoși ani sunt cei pe care nu i-ai apreciat destul atunci. Acum știi.",
             "slogans": [
               "Bună seara!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timpuri de aur!",
+              "1 Iunie nostalgic!"
             ],
-            "textConfigId": 11
+            "textConfigId": 11,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_01_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_02_1557110.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_03_275978.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_04_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_05_8233937.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_06_2581737.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_07_10032445.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_08_773024.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_09_7860012.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_evening_10_6199828.jpg"
         ]
       }
     }
@@ -988,325 +664,217 @@
       "romantic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Astăzi e ziua celor mici, dar tu îmi aduci aminte că și eu am rămas puțin copil. Mulțumesc că te joci cu mine.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Rămânem copii împreună!",
+              "1 Iunie cu tine!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cel mai frumos lucru pe care ți l-a dat copilăria e că știi să iubești cu toată inima, fără rezerve.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Iubire fără rezerve!",
+              "1 Iunie Fericit!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "joyful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie e ziua în care toată lumea are permisiunea să fie copil. Profită din plin!",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Bucurie la maxim!",
+              "Hai la joacă!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Astăzi copiii conduc lumea, și sincer, sunt cei mai buni lideri pe care i-am avut.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Trăiască copilăria!",
+              "1 Iunie cu voie bună!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "calm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie ne reamintește că unele lucruri simple, o zi însorită, un loc de joacă, o înghețată, contează mai mult decât credeam.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Simplitate și bucurie!",
+              "O zi frumoasă!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copilăria nu e doar o vârstă, e un mod de a privi lumea. Unii nu îl pierd niciodată.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Priviri curate!",
+              "1 Iunie liniștit!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "inspirational": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Ziua Copilului există pentru că fiecare copil merită să crească în siguranță, cu dragoste și cu șanse reale.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Pentru fiecare copil!",
+              "Un viitor mai bun!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei care protejează copiii astăzi construiesc lumea de mâine. E cel mai important lucru pe care îl putem face.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Construim viitorul!",
+              "1 Iunie cu sens!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "playful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Oficial, astăzi e interzis să fii serios. Regulile au zis-o copiii și sunt cele mai bune reguli.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Joacă obligatorie!",
+              "Seriozitatea e suspendată!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Știi care e diferența dintre adulți și copii? Copiii nu se prefac că se distrează.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Autentic și vesel!",
+              "1 Iunie fără ifose!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "grateful": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Mulțumim copiilor din viața noastră că ne amintesc zilnic ce contează cu adevărat.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Mulțumim, copii!",
+              "Voi ne faceți mai buni!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Fiecare copil care intră în viața ta lasă o bucată din lume mai bună. Azi le mulțumim.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Cu recunoștință!",
+              "1 Iunie cu mulțumire!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "warm": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Cel mai bun lucru din 1 Iunie e că toată familia are un motiv să fie împreună și să zâmbească.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Împreună e mai bine!",
+              "Familie și bucurie!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Copiii nu vor amintiri scumpe. Vor timp cu tine. Astăzi e ziua perfectă să le dai tocmai asta.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timp pentru cei mici!",
+              "1 Iunie alături!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "bold": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "Copiii nu au nevoie de discursuri despre copilărie. Au nevoie de adulți care să apere dreptul lor la ea.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Apărăm copilăria!",
+              "Fapte, nu vorbe!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "1 Iunie nu e o sărbătoare decorativă. E un angajament: fiecare copil merită mai mult.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Un angajament real!",
+              "Merită mai mult!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       },
       "nostalgic": {
         "messages": [
           {
-            "text": "1 Iunie e ziua copiilor, dar și a noastră, a celor care n-am uitat să ne jucăm.",
+            "text": "1 Iunie miroase a vară lungă, a vacanță care abia începea și a zile care nu se mai terminau.",
             "slogans": [
               "Noapte bună!",
-              "Ziua Copilului Fericit!",
-              "1 Iunie cu bucurie!",
-              "Rămâi copil în suflet!"
+              "Amintiri de neuitat!",
+              "Copilăria nu uită!"
             ],
-            "textConfigId": 12
+            "textConfigId": 7,
+            "imageUrls": null
           },
           {
-            "text": "Copilăria e cel mai scurt anotimp. Să o trăim cu toată inima, cât mai avem de unde.",
+            "text": "Cei mai frumoși ani sunt cei pe care nu i-ai apreciat destul atunci. Acum știi.",
             "slogans": [
               "Noapte bună!",
-              "La Mulți Ani, copii!",
-              "1 Iunie Fericit!",
-              "Bucurie curată!"
+              "Timpuri de aur!",
+              "1 Iunie nostalgic!"
             ],
-            "textConfigId": 12
+            "textConfigId": 12,
+            "imageUrls": null
           }
-        ],
-        "imageUrls": [
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_01_9937087.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_02_559641.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_03_6363743.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_04_9768540.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_05_5742416.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_06_4792470.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_07_8424565.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_08_6324434.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_09_7733877.jpg",
-          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/childrens_day_night_10_56930.jpg"
         ]
       }
     }
