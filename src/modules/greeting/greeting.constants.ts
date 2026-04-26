@@ -134,9 +134,9 @@ export const TEXT_CONFIGS: Record<number, GreetingTextConfigDto> = {
 };
 
 export const MOODS: Omit<MoodOptionDto, 'label'>[] = [
-  { id: 'all', emoji: '✨', gradient: ['#667eea', '#764ba2'] },
+  { id: 'all', emoji: '🌐', gradient: ['#667eea', '#764ba2'] },
   { id: 'romantic', emoji: '❤️', gradient: ['#e8175d', '#ff6b6b'] },
-  { id: 'joyful', emoji: '😄', gradient: ['#f7971e', '#ffd200'] },
+  { id: 'joyful', emoji: '🤩', gradient: ['#f7971e', '#ffd200'] },
   { id: 'calm', emoji: '🌿', gradient: ['#43b89c', '#2c7873'] },
   { id: 'inspirational', emoji: '🌟', gradient: ['#f093fb', '#f5576c'] },
   { id: 'playful', emoji: '🎉', gradient: ['#fc5c7d', '#6a3093'] },
@@ -150,6 +150,16 @@ export const HOLIDAY_META: Omit<MoodOptionDto, 'label'>[] = [
   {
     id: 'birthday',
     emoji: '🎂',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'for_loved_one',
+    emoji: '💖',
+    gradient: ['#fbc2eb', '#a6c1ee'],
+  },
+  {
+    id: 'missing_you',
+    emoji: '😢',
     gradient: ['#fbc2eb', '#a6c1ee'],
   },
   {
@@ -267,6 +277,12 @@ export const HOLIDAY_META: Omit<MoodOptionDto, 'label'>[] = [
     emoji: '🍷',
     gradient: ['#fbc2eb', '#a6c1ee'],
   },
+];
+
+export const PERMANENT_HOLIDAY_OPTIONS = [
+  'birthday',
+  'for_loved_one',
+  'missing_you',
 ];
 
 export const DEFAULT_TEXT_CONFIG: GreetingTextConfigDto = {

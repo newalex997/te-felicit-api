@@ -35,6 +35,8 @@ export type HolidayKey =
   | 'whit_sunday'
   | 'wine_day';
 
+export type OcasionKey = 'birthday' | 'for_loved_one' | 'missing_you';
+
 export type TimeOfDay = 'morning' | 'afternoon' | 'evening' | 'night';
 
 /** References an entry in greeting_text_configs.json */

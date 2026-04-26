@@ -15,6 +15,7 @@ import {
   DEFAULT_TEXT_CONFIG,
   TEXT_CONFIGS,
   HOLIDAY_META,
+  PERMANENT_HOLIDAY_OPTIONS,
 } from './greeting.constants';
 
 interface GreetingMessageEntry {
@@ -41,6 +42,7 @@ export class GreetingService {
 
   private getI18nArray<T>(key: string, lang: string): T[] {
     const result = this.i18n.t(key, { lang });
+
     return Array.isArray(result) ? (result as T[]) : [];
   }
 
@@ -48,20 +50,22 @@ export class GreetingService {
     entry: GreetingMessageEntry,
   ): GreetingTextConfigDto {
     if (entry.textConfig) return entry.textConfig;
+
     if (entry.textConfigId != null) {
-      const config = (
-        TEXT_CONFIGS as Record<number, GreetingTextConfigDto | undefined>
-      )[entry.textConfigId];
+      const config = TEXT_CONFIGS[entry.textConfigId];
+
       if (config) return config;
     }
+
     return DEFAULT_TEXT_CONFIG;
   }
 
   private resolveMood(mood?: string): string | null {
     const valid = MOODS.filter((m) => m.id !== 'all').map((m) => m.id);
-    if (!mood || mood === 'all' || !valid.includes(mood as MoodKey))
-      return null;
-    return mood;
+
+    return !mood || mood === 'all' || !valid.includes(mood as MoodKey)
+      ? null
+      : mood;
   }
 
   private allMoodIds(): string[] {
@@ -70,6 +74,7 @@ export class GreetingService {
 
   private resolveHoliday(holiday?: string): HolidayKey | null {
     const valid = HOLIDAY_META.map((h) => h.id as HolidayKey);
+
     return holiday && valid.includes(holiday as HolidayKey)
       ? (holiday as HolidayKey)
       : null;
@@ -100,6 +105,7 @@ export class GreetingService {
           lang,
         ),
       );
+
       return pickRandom(urls);
     }
 
@@ -132,12 +138,14 @@ export class GreetingService {
     }
 
     const wk = weekKey(context.weekOfYear);
+
     const weekEntries = moodIds.flatMap((m) =>
       this.getI18nArray<GreetingMessageEntry>(
         `weeks.${wk}.${context.timeOfDay}.moods.${m}.messages`,
         lang,
       ),
     );
+
     const occasionEntries = context.occasion
       ? moodIds.flatMap((m) =>
           this.getI18nArray<GreetingMessageEntry>(
@@ -210,7 +218,9 @@ export class GreetingService {
     }));
 
     const holidayMoods = HOLIDAY_META.filter(
-      (h) => holidayKeys.includes(h.id as HolidayKey) || h.id === 'birthday',
+      (h) =>
+        holidayKeys.includes(h.id as HolidayKey) ||
+        PERMANENT_HOLIDAY_OPTIONS.includes(h.id),
     ).map((h) => ({
       ...h,
       label: String(this.i18n.t(`holiday_labels.${h.id}`, { lang })),

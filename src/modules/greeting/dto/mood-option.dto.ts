@@ -1,9 +1,13 @@
 import { ApiProperty } from '@nestjs/swagger';
-import { HolidayKey, MoodKey } from '../../../common/typings/greeting.types';
+import {
+  HolidayKey,
+  MoodKey,
+  OcasionKey,
+} from '../../../common/typings/greeting.types';
 
 export class MoodOptionDto {
   @ApiProperty({ example: 'romantic' })
-  id: HolidayKey | MoodKey | 'birthday' | 'all';
+  id: HolidayKey | MoodKey | OcasionKey | 'all';
 
   @ApiProperty({ example: 'Romantic' })
   label: string;
