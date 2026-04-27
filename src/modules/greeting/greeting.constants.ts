@@ -131,6 +131,107 @@ export const TEXT_CONFIGS: Record<number, GreetingTextConfigDto> = {
       textEffect: TextEffect.BORDER,
     },
   },
+  13: {
+    message: {
+      color: '#FFFFFF',
+      fontSize: 29,
+      position: TextPosition.BOTTOM_CENTER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 54,
+      position: TextPosition.TOP_CENTER,
+    },
+  },
+  14: {
+    message: {
+      color: '#FFFFFF',
+      fontSize: 26,
+      position: TextPosition.TOP_CENTER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 50,
+      position: TextPosition.CENTER,
+    },
+  },
+  15: {
+    message: {
+      color: '#FFFFFF',
+      fontSize: 31,
+      position: TextPosition.CENTER,
+    },
+    slogan: {
+      color: '#FFFFFFCC',
+      fontSize: 48,
+      position: TextPosition.TOP_CENTER,
+    },
+  },
+  16: {
+    message: {
+      color: '#FFFFFF',
+      fontSize: 26,
+      position: TextPosition.BOTTOM_CENTER,
+    },
+    slogan: {
+      color: '#FFD700',
+      fontSize: 64,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+  },
+  17: {
+    message: {
+      color: '#FFFFFF',
+      fontSize: 35,
+      position: TextPosition.CENTER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 50,
+      position: TextPosition.BOTTOM_CENTER,
+    },
+  },
+  18: {
+    message: {
+      color: '#FFE8D0',
+      fontSize: 27,
+      position: TextPosition.TOP_CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 52,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+  },
+  19: {
+    message: {
+      color: '#CCDEFF',
+      fontSize: 27,
+      position: TextPosition.BOTTOM_CENTER,
+    },
+    slogan: {
+      color: '#FFD700E6',
+      fontSize: 52,
+      position: TextPosition.TOP_CENTER,
+    },
+  },
+  20: {
+    message: {
+      color: '#FFFFFF',
+      fontSize: 34,
+      position: TextPosition.CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+    slogan: {
+      color: '#FFD700',
+      fontSize: 60,
+      position: TextPosition.TOP_CENTER,
+      textEffect: TextEffect.BORDER,
+    },
+  },
 };
 
 export const MOODS: Omit<MoodOptionDto, 'label'>[] = [
