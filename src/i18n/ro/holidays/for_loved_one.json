@@ -4,13 +4,153 @@
       "romantic": {
         "messages": [
           {
-            "text": "M-am trezit cu gândul la tine și ziua deja pare mai frumoasă",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "Dimineața mea începe cu gândul la tine și cu iubire în suflet",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Dimineața mea începe mai bine când te simt aproape chiar și de departe",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Ești primul gând frumos al fiecărei dimineți",
+            "slogans": [
+              "Bună dimineața!",
+              "Din suflet!",
+              "Te iubesc!",
+              "Doar noi!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Cu tine în gând, ziua mea începe mai frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Pentru tine!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit o dimineață plină de iubire și dor",
+            "slogans": [
+              "Bună dimineața!",
+              "Multă iubire!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Să începi ziua știind cât de mult însemni pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la tine îmi luminează fiecare dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit iubirea mea încă de la prima oră",
+            "slogans": [
+              "Bună dimineața!",
+              "Multă iubire!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Dimineața e mai frumoasă când te știu în viața mea",
+            "slogans": [
+              "Bună dimineața!",
+              "Pentru tine!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să începi ziua cu liniște și cu iubirea mea aproape",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești motivul pentru care zâmbesc dimineața",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Cu drag!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți doresc o dimineață caldă, așa cum ești tu pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Din inimă!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine, fiecare dimineață are mai mult sens",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând plin de iubire pentru începutul zilei",
+            "slogans": [
+              "Bună dimineața!",
+              "Multă iubire!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dimineața asta începe cu dor de tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Mi-e dor!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață frumoasă și să simți cât de mult te iubesc",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Din inimă!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -19,13 +159,138 @@
       "joyful": {
         "messages": [
           {
-            "text": "Să începi ziua cu zâmbet și energie bună",
-            "slogans": ["Cu drag!", "O zi frumoasă!", "Pentru tine!"],
+            "text": "Să începi ziua cu zâmbet, pentru că te am și mă bucur de tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "O dimineață luminoasă și plină de voie bună",
-            "slogans": ["Din suflet!", "Gânduri bune!", "Cu drag!"],
+            "text": "Gândul la tine îmi aduce bucurie încă de dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Fericire!",
+              "Cu drag!",
+              "Zâmbește!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești bucuria mea în fiecare zi",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață frumoasă și plină de zâmbete",
+            "slogans": ["Bună dimineața!", "Zâmbește!", "Bucurie!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Cu tine, fiecare zi începe cu bucurie",
+            "slogans": [
+              "Bună dimineața!",
+              "Fericire!",
+              "Pentru tine!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi faci diminețile mai luminoase și mai vesele",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Din inimă!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să începi ziua cu aceeași bucurie pe care mi-o dai mie",
+            "slogans": [
+              "Bună dimineața!",
+              "Fericire!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Zâmbetul tău îmi face ziua mai frumoasă",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață plină de energie bună și zâmbete",
+            "slogans": ["Bună dimineața!", "Bucurie!", "Fericire!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Cu tine, totul e mai vesel și mai frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un zâmbet pentru începutul zilei",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață în care să te bucuri de tot",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Fericire!",
+              "Din inimă!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o zi care începe cu zâmbet și continuă la fel",
+            "slogans": ["Bună dimineața!", "Zâmbește!", "Bucurie!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești motivul bucuriei mele zilnice",
+            "slogans": [
+              "Bună dimineața!",
+              "Fericire!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să începi ziua cu lumină și bucurie în suflet",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -34,13 +299,138 @@
       "calm": {
         "messages": [
           {
-            "text": "Să ai o dimineață liniștită și un început de zi senin",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Îți doresc o dimineață liniștită și să simți cât de drag îmi ești",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Îți doresc o zi care să curgă ușor și frumos",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Cu tine în gând, totul pare mai calm și mai frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Calm!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să începi ziua cu liniște și cu mine aproape în gând",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit liniște și un gând bun pentru începutul zilei",
+            "slogans": ["Bună dimineața!", "Calm!", "Din inimă!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Să ai o dimineață senină, cu sufletul împăcat",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la tine îmi aduce liniște încă de dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Calm!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să începi ziua cu pace în suflet și cu mine aproape",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o dimineață blândă și liniștită",
+            "slogans": [
+              "Bună dimineața!",
+              "Calm!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Cu tine, totul e mai liniștit și mai frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând calm și plin de afecțiune",
+            "slogans": [
+              "Bună dimineața!",
+              "Calm!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o dimineață în care să te simți bine și liniștit",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești liniștea mea chiar și de la distanță",
+            "slogans": [
+              "Bună dimineața!",
+              "Calm!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți doresc o zi care începe cu pace și căldură",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să simți liniște și gândurile mele bune",
+            "slogans": ["Bună dimineața!", "Calm!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dimineața asta vine cu liniște și dor de tine",
+            "slogans": ["Bună dimineața!", "Liniște!", "Mi-e dor!", "Cu drag!"],
             "textConfigId": 1
           }
         ],
@@ -49,13 +439,123 @@
       "inspirational": {
         "messages": [
           {
-            "text": "Astăzi e o nouă șansă să faci lucrurile să meargă bine",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Ai tot ce îți trebuie pentru o zi frumoasă, eu cred în tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Ai în tine tot ce îți trebuie pentru o zi reușită",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Să începi ziua cu încredere și cu mine alături de tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Curaj!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit energie bună și încredere pentru azi",
+            "slogans": ["Bună dimineața!", "Energie!", "Succes!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Să ai curaj și să știi că sunt mereu lângă tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Curaj!",
+              "Pentru tine!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine, orice zi pare mai ușoară și mai frumoasă",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Cu drag!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să începi ziua cu gânduri bune și încredere în tine",
+            "slogans": ["Bună dimineața!", "Succes!", "Curaj!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți sunt alături în fiecare pas pe care îl faci",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ai puterea să faci ziua asta frumoasă",
+            "slogans": ["Bună dimineața!", "Putere!", "Succes!", "Din suflet!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o zi în care să te simți încrezător și puternic",
+            "slogans": ["Bună dimineața!", "Curaj!", "Succes!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Începe ziua cu încredere și mergi înainte",
+            "slogans": ["Bună dimineața!", "Înainte!", "Succes!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit încredere și gânduri bune pentru azi",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o zi în care să îți iasă tot ce îți propui",
+            "slogans": ["Bună dimineața!", "Succes!", "Curaj!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești mai puternic decât crezi",
+            "slogans": [
+              "Bună dimineața!",
+              "Putere!",
+              "Încredere!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să începi ziua cu energie și gânduri bune",
+            "slogans": [
+              "Bună dimineața!",
+              "Energie!",
+              "Succes!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți sunt aproape și cred în tine în fiecare zi",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -64,13 +564,153 @@
       "playful": {
         "messages": [
           {
-            "text": "Sper că te-ai trezit cu chef de mine și de lucruri frumoase",
-            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "text": "Sper că te-ai trezit cu gândul la mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dacă nu zâmbești, mă supăr puțin",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Doar noi!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dimineața e mai frumoasă când mă gândesc la tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Dimineața asta parcă cere un zâmbet și un gând la mine",
-            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "text": "Hai, zâmbește, știu că poți",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit un zâmbet, să vezi dacă îl prinzi",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai voie azi doar la lucruri frumoase",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dacă nu te gândești la mine, îți reamintesc eu",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Doar noi!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să începi ziua cu chef de mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dimineața asta vine cu un pic de mine pentru tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Zâmbește, altfel vin să verific",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Doar noi!",
+              "Cu drag!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Te-ai trezit sau mai ai nevoie de mine?",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți dau voie să începi ziua cu zâmbet",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai primit porția de gânduri de la mine?",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dimineața fără tine e mai plictisitoare",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Hai să facem ziua asta frumoasă împreună",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Doar noi!",
+              "Te iubesc!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -79,13 +719,153 @@
       "grateful": {
         "messages": [
           {
-            "text": "Sunt recunoscător că te am în viața mea în fiecare zi",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Îți mulțumesc că ești în viața mea în fiecare zi",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Prezența ta face fiecare dimineață mai bună",
-            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "text": "Mă trezesc recunoscător că te am",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc pentru tot ce însemni pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt recunoscător pentru fiecare moment cu tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că faci zilele mai frumoase",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă bucur că te am și îți sunt recunoscător",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că ești exact așa cum ești",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru tine și pentru tot ce trăim împreună",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Doar noi!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că îmi ești aproape",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare dimineață cu tine în viața mea e un dar",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți sunt recunoscător pentru liniștea pe care mi-o dai",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Liniște!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că faci totul mai frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Bucurie!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Recunoștință pentru tine în fiecare zi",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc că îmi ești sprijin și bucurie",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă bucur că te am și nu încetez să îți mulțumesc",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -94,13 +874,153 @@
       "warm": {
         "messages": [
           {
-            "text": "Îți trimit o îmbrățișare caldă pentru începutul zilei",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "Îți trimit gânduri calde pentru începutul zilei",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Un gând bun pentru tine să-ți fie ziua mai ușoară",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Să începi ziua cu liniște și căldură în suflet",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Liniște!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit o îmbrățișare și un gând bun",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață frumoasă și liniștită",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Toate cele bune!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândurile mele bune sunt cu tine azi",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o dimineață caldă și plină de bine",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o zi care începe frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Zi frumoasă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit liniște și gânduri bune",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Liniște!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să începi ziua cu zâmbet și căldură",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Bucurie!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o dimineață plină de lucruri frumoase",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri calde pentru tine în această dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață în care să te simți bine",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Liniște!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit cele mai calde urări",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "O dimineață frumoasă pentru tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să începi ziua cu bine și liniște",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Liniște!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -109,13 +1029,153 @@
       "bold": {
         "messages": [
           {
-            "text": "Astăzi cucerești tot ce ți-ai propus",
-            "slogans": ["Hai înainte!", "Cu drag!", "Pentru tine!"],
-            "textConfigId": 10
+            "text": "Azi vreau să știi cât de important ești pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
           },
           {
-            "text": "Ai forța să faci ziua asta exact cum îți dorești",
-            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "text": "Nu uita cât de mult însemni pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Putere!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Cu tine, viața mea are sens",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Te iubesc!",
+              "Doar noi!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești una dintre cele mai bune alegeri din viața mea",
+            "slogans": [
+              "Bună dimineața!",
+              "Putere!",
+              "Te iubesc!",
+              "Din inimă!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu mă satur să îți spun cât de mult contezi",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Încredere!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești parte din mine și din tot ce sunt",
+            "slogans": [
+              "Bună dimineața!",
+              "Putere!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu există zi fără să mă gândesc la tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu ești locul unde mă simt cel mai bine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din inimă!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu îmi imaginez viața fără tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Încredere!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești mai important decât crezi pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Putere!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu faci totul să merite",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești motivul pentru care merg mai departe",
+            "slogans": [
+              "Bună dimineața!",
+              "Putere!",
+              "Te iubesc!",
+              "Din inimă!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fără tine, nimic nu ar fi la fel",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Încredere!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești tot ce contează pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Nu mă opresc din a te iubi în fiecare zi",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -124,13 +1184,153 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "Mi-am amintit de diminețile petrecute împreună și mi s-a făcut dor",
-            "slogans": ["Cu drag!", "Din suflet!", "Pentru tine!"],
+            "text": "Mă gândesc la toate momentele frumoase cu tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Dorul de tine îmi face dimineața mai tăcută",
-            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "text": "Fiecare amintire cu tine îmi aduce zâmbet",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și dimineața începe mai frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare clipă cu tine rămâne în suflet",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă bucur de fiecare amintire pe care o avem",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău din atâtea momente",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Trecutul cu tine e plin de lucruri frumoase",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare zi cu tine devine o amintire de păstrat",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și zâmbesc fără motiv",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Zâmbește!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine sunt cele mai frumoase",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare dimineață îmi amintește de tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți port amintirea în fiecare zi",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Din inimă!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gândul la noi îmi face dimineața mai frumoasă",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Doar noi!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele cu tine sunt cele mai de preț",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi place să retrăiesc în gând clipele noastre",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -143,14 +1343,119 @@
       "romantic": {
         "messages": [
           {
-            "text": "Seara asta ar fi perfectă dacă ai fi aici lângă mine",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "Seara vine cu gândul la tine și cu dor liniștit",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Mă gândesc la tine și ziua se încheie mai frumos",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Mă gândesc la tine și totul devine mai liniștit",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Mi-e dor de tine mai ales acum, când e liniște",
+            "slogans": ["Bună seara!", "Mi-e dor!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Seara asta e mai caldă cu tine în gând",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
+          },
+          {
+            "text": "Aș vrea să fii aici, aproape de mine",
+            "slogans": ["Bună seara!", "Mi-e dor!", "Te iubesc!", "Doar noi!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Ziua se termină, dar gândul la tine rămâne",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine în gând, totul pare mai liniștit",
+            "slogans": ["Bună seara!", "Te iubesc!", "Liniște!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând plin de iubire pentru seară",
+            "slogans": [
+              "Bună seara!",
+              "Multă iubire!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Tu ești partea mea preferată din orice zi",
+            "slogans": ["Bună seara!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 11
+          },
+          {
+            "text": "Seara asta mă găsește tot cu tine în gând",
+            "slogans": ["Bună seara!", "Te iubesc!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi lipsești mai mult când ziua se liniștește",
+            "slogans": [
+              "Bună seara!",
+              "Mi-e dor!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine, orice zi se termină mai frumos",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "E liniște afară și dor de tine în suflet",
+            "slogans": ["Bună seara!", "Mi-e dor!", "Te iubesc!", "Din inimă!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Mă gândesc la tine și zâmbesc în liniște",
+            "slogans": ["Bună seara!", "Te iubesc!", "Zâmbește!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Seara asta e despre tine și gândul la noi",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
           }
         ],
         "imageUrls": []
@@ -158,13 +1463,88 @@
       "joyful": {
         "messages": [
           {
-            "text": "Sper că ziua ta a fost plină de lucruri bune",
-            "slogans": ["Cu drag!", "O seară frumoasă!", "Pentru tine!"],
+            "text": "Ziua a fost mai frumoasă pentru că te am",
+            "slogans": ["Bună seara!", "Bucurie!", "Zâmbește!", "Pentru tine!"],
             "textConfigId": 1
           },
           {
-            "text": "Să ai o seară plină de liniște și zâmbete",
-            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "text": "Îți trimit un zâmbet pentru seara asta",
+            "slogans": ["Bună seara!", "Zâmbește!", "Fericire!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Sper că închei ziua cu zâmbetul pe buze",
+            "slogans": ["Bună seara!", "Zâmbește!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine în viața mea, totul e mai vesel",
+            "slogans": ["Bună seara!", "Bucurie!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o seară frumoasă și plină de zâmbete",
+            "slogans": [
+              "Bună seara!",
+              "Zâmbește!",
+              "Fericire!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți doresc o seară liniștită și cu voie bună",
+            "slogans": ["Bună seara!", "Bucurie!", "Voie bună!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ziua se termină, dar bucuria rămâne",
+            "slogans": [
+              "Bună seara!",
+              "Zâmbește!",
+              "Fericire!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând vesel pentru seară",
+            "slogans": ["Bună seara!", "Bucurie!", "Zâmbește!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o seară în care să te simți bine",
+            "slogans": ["Bună seara!", "Fericire!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Zâmbetul tău face totul mai frumos",
+            "slogans": ["Bună seara!", "Zâmbește!", "Bucurie!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți doresc o seară plină de momente frumoase",
+            "slogans": ["Bună seara!", "Fericire!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine în gând, ziua s-a încheiat perfect",
+            "slogans": ["Bună seara!", "Bucurie!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Seara asta vine cu un zâmbet pentru tine",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit voie bună pentru restul serii",
+            "slogans": ["Bună seara!", "Voie bună!", "Bucurie!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o seară caldă și plină de bucurie",
+            "slogans": ["Bună seara!", "Fericire!", "Cu drag!", "Pentru tine!"],
             "textConfigId": 1
           }
         ],
@@ -173,13 +1553,83 @@
       "calm": {
         "messages": [
           {
-            "text": "Lasă seara să te liniștească și să-ți aducă pace",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Îți doresc o seară liniștită și odihnitoare",
+            "slogans": ["Bună seara!", "Liniște!", "Cu drag!", "Pentru tine!"],
             "textConfigId": 1
           },
           {
-            "text": "Odihnește-te și bucură-te de liniștea serii",
-            "slogans": ["Cu drag!", "Numai bine!", "Pentru tine!"],
+            "text": "Seara asta să îți aducă liniște și pace",
+            "slogans": ["Bună seara!", "Calm!", "Din suflet!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să închei ziua cu sufletul liniștit",
+            "slogans": ["Bună seara!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit liniște și gânduri bune pentru seară",
+            "slogans": ["Bună seara!", "Calm!", "Din inimă!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Să ai o seară fără griji și cu sufletul ușor",
+            "slogans": ["Bună seara!", "Liniște!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine în gând, totul devine mai liniștit",
+            "slogans": ["Bună seara!", "Calm!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o seară calmă și plină de bine",
+            "slogans": ["Bună seara!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să te bucuri de liniștea acestei seri",
+            "slogans": ["Bună seara!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gânduri liniștite pentru tine în această seară",
+            "slogans": [
+              "Bună seara!",
+              "Liniște!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Seara asta să îți aducă odihnă și calm",
+            "slogans": ["Bună seara!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând calm și plin de liniște",
+            "slogans": ["Bună seara!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să închei ziua cu liniște și echilibru",
+            "slogans": ["Bună seara!", "Calm!", "Din inimă!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o seară blândă și liniștită",
+            "slogans": ["Bună seara!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Liniștea serii să te învăluie frumos",
+            "slogans": ["Bună seara!", "Calm!", "Din suflet!", "Pentru tine!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Să ai o seară în care să te simți bine și liniștit",
+            "slogans": ["Bună seara!", "Liniște!", "Cu drag!", "Pentru tine!"],
             "textConfigId": 1
           }
         ],
@@ -188,13 +1638,98 @@
       "inspirational": {
         "messages": [
           {
-            "text": "Chiar și o zi grea merită încheiată cu speranță",
-            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "text": "Ziua se încheie frumos, iar tu ai făcut tot ce ai putut",
+            "slogans": [
+              "Bună seara!",
+              "Încredere!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Ai făcut destul astăzi și e bine",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Îți sunt alături și cred în tine în fiecare zi",
+            "slogans": ["Bună seara!", "Curaj!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să închei ziua cu încredere în tine și liniște",
+            "slogans": ["Bună seara!", "Încredere!", "Calm!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ai făcut bine azi, fii mândru de tine",
+            "slogans": [
+              "Bună seara!",
+              "Respect!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mâine e o nouă zi, dar eu sunt mereu lângă tine",
+            "slogans": ["Bună seara!", "Curaj!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare pas contează și tu mergi înainte",
+            "slogans": ["Bună seara!", "Succes!", "Înainte!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit încredere pentru tot ce urmează",
+            "slogans": [
+              "Bună seara!",
+              "Încredere!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să închei ziua cu liniște și gânduri bune",
+            "slogans": ["Bună seara!", "Calm!", "Încredere!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ai în tine tot ce îți trebuie",
+            "slogans": ["Bună seara!", "Putere!", "Încredere!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Sunt mândru de tine și de tot ce faci",
+            "slogans": ["Bună seara!", "Respect!", "Te iubesc!", "Din inimă!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Odihnește-te și pregătește-te pentru o zi nouă",
+            "slogans": ["Bună seara!", "Liniște!", "Succes!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ai făcut pași importanți azi",
+            "slogans": ["Bună seara!", "Succes!", "Încredere!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Încheie ziua cu liniște și încredere",
+            "slogans": ["Bună seara!", "Calm!", "Încredere!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Eu sunt aici pentru tine mereu",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Totul va fi bine, ai încredere",
+            "slogans": ["Bună seara!", "Încredere!", "Curaj!", "Cu drag!"],
             "textConfigId": 17
           }
         ],
@@ -203,13 +1738,98 @@
       "playful": {
         "messages": [
           {
-            "text": "Seara asta parcă cere un pic de răsfăț și un gând la mine",
-            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "text": "Ai terminat ziua sau mai păstrezi energie pentru mine?",
+            "slogans": ["Bună seara!", "Zâmbește!", "Te iubesc!", "Doar noi!"],
             "textConfigId": 1
           },
           {
-            "text": "Dacă eram acolo, sigur te făceam să zâmbești",
-            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "text": "Sper că nu ai uitat de mine azi",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dacă nu zâmbești, vin să verific",
+            "slogans": ["Bună seara!", "Zâmbește!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua a trecut, dar eu tot la tine mă gândesc",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Zâmbește!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un zâmbet pentru seară",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mai ai chef de mine diseară?",
+            "slogans": ["Bună seara!", "Te iubesc!", "Doar noi!", "Zâmbește!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să nu te culci fără să te gândești la mine",
+            "slogans": ["Bună seara!", "Zâmbește!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți dau voie să te relaxezi… dar cu mine în gând",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ziua a fost ok, dar eu sunt partea mai bună",
+            "slogans": ["Bună seara!", "Bucurie!", "Te iubesc!", "Doar noi!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Te-ai gândit la mine destul azi?",
+            "slogans": [
+              "Bună seara!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Seara asta vine cu un pic de mine",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dacă te plictisești, știi pe cine să suni",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Hai să încheiem ziua frumos",
+            "slogans": ["Bună seara!", "Bucurie!", "Doar noi!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând… ghici de la cine",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Nu uita, eu sunt partea bună a zilei",
+            "slogans": [
+              "Bună seara!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -218,13 +1838,138 @@
       "grateful": {
         "messages": [
           {
-            "text": "Îți mulțumesc că faci parte din viața mea",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Închei ziua cu recunoștință pentru tine",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Sunt recunoscător pentru fiecare moment cu tine",
-            "slogans": ["Cu drag!", "Din suflet!", "Pentru tine!"],
+            "text": "Îți mulțumesc că faci fiecare zi mai frumoasă",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt recunoscător că te am în viața mea",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc pentru tot ce însemni pentru mine",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri de mulțumire pentru tine în această seară",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că îmi ești aproape",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Recunoștință pentru toate momentele noastre",
+            "slogans": ["Bună seara!", "Mulțumesc!", "Doar noi!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că faci totul mai ușor",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt recunoscător pentru fiecare clipă cu tine",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că ești exact așa cum ești",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Închei ziua gândindu-mă la tine cu recunoștință",
+            "slogans": ["Bună seara!", "Mulțumesc!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc pentru liniștea pe care mi-o dai",
+            "slogans": ["Bună seara!", "Recunoștință!", "Liniște!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru tine azi și mereu",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc că îmi ești sprijin",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mă bucur că te am și îți mulțumesc pentru tot",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din inimă!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -233,14 +1978,104 @@
       "warm": {
         "messages": [
           {
-            "text": "Îți trimit o îmbrățișare caldă pentru seara asta",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "Îți trimit gânduri calde pentru o seară liniștită",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Să ai o seară liniștită și plină de bine",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Să ai o seară frumoasă și liniștită",
+            "slogans": ["Bună seara!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gândurile mele sunt cu tine în această seară",
+            "slogans": ["Bună seara!", "Cu drag!", "Din inimă!", "Te iubesc!"],
             "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit o îmbrățișare pentru seară",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să închei ziua cu liniște și căldură în suflet",
+            "slogans": ["Bună seara!", "Cu drag!", "Liniște!", "Te iubesc!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți doresc o seară plină de bine",
+            "slogans": ["Bună seara!", "Cu drag!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gânduri bune pentru tine înainte de noapte",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o seară în care să te simți bine",
+            "slogans": ["Bună seara!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit liniște și un gând bun",
+            "slogans": ["Bună seara!", "Cu drag!", "Liniște!", "Din inimă!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "O seară frumoasă pentru tine",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să închei ziua cu zâmbet și liniște",
+            "slogans": ["Bună seara!", "Cu drag!", "Zâmbește!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit cele mai calde gânduri",
+            "slogans": ["Bună seara!", "Cu drag!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o seară liniștită și plăcută",
+            "slogans": ["Bună seara!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri calde și liniște pentru tine diseară",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți doresc o seară în care să te simți împăcat",
+            "slogans": ["Bună seara!", "Cu drag!", "Liniște!", "Din inimă!"],
+            "textConfigId": 3
           }
         ],
         "imageUrls": []
@@ -248,13 +2083,128 @@
       "bold": {
         "messages": [
           {
-            "text": "Ai dus ziua până la capăt și asta contează",
-            "slogans": ["Respect!", "Cu drag!", "Pentru tine!"],
+            "text": "Nu uita cât de mult însemni pentru mine",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Mâine poți și mai mult",
-            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "text": "Ești parte din tot ce contează pentru mine",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu există zi fără tine în gândul meu",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu faci totul să aibă sens",
+            "slogans": ["Bună seara!", "Te iubesc!", "Putere!", "Din inimă!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești mai important decât orice altceva",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu mă opresc din a te alege în fiecare zi",
+            "slogans": ["Bună seara!", "Te iubesc!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești locul meu preferat, mereu",
+            "slogans": ["Bună seara!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Fără tine, nimic nu ar fi la fel",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești tot ce contează pentru mine",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din suflet!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Nu există nimic mai important decât noi",
+            "slogans": ["Bună seara!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești motivul pentru care zâmbesc zilnic",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu mă satur să te iubesc",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești alegerea mea în fiecare zi",
+            "slogans": ["Bună seara!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Tot ce contează pentru mine ești tu",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești parte din mine",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 17
           }
         ],
@@ -263,14 +2213,99 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "Mi-e dor de serile în care stăteam împreună fără grabă",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Mă gândesc la momentele noastre și zâmbesc",
+            "slogans": ["Bună seara!", "Amintiri!", "Cu drag!", "Te iubesc!"],
             "textConfigId": 1
           },
           {
-            "text": "Seara asta mi-a adus aminte de tine",
-            "slogans": ["Cu drag!", "Din suflet!", "Gânduri bune!"],
+            "text": "Fiecare amintire cu tine îmi încălzește seara",
+            "slogans": [
+              "Bună seara!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și totul devine mai frumos",
+            "slogans": ["Bună seara!", "Amintiri!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele cu tine sunt cele mai de preț",
+            "slogans": ["Bună seara!", "Amintiri!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Gândul la noi îmi face seara mai liniștită",
+            "slogans": ["Bună seara!", "Amintiri!", "Doar noi!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău",
+            "slogans": ["Bună seara!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
             "textConfigId": 17
+          },
+          {
+            "text": "Fiecare clipă cu tine rămâne cu mine",
+            "slogans": [
+              "Bună seara!",
+              "Amintiri!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine sunt cele mai frumoase",
+            "slogans": ["Bună seara!", "Amintiri!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îmi place să retrăiesc clipele noastre",
+            "slogans": ["Bună seara!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare zi cu tine devine o amintire frumoasă",
+            "slogans": ["Bună seara!", "Amintiri!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți port amintirea în fiecare seară",
+            "slogans": ["Bună seara!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gândul la tine nu mă părăsește",
+            "slogans": [
+              "Bună seara!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile noastre sunt cele mai frumoase",
+            "slogans": ["Bună seara!", "Amintiri!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și zâmbesc în liniște",
+            "slogans": ["Bună seara!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Fiecare moment cu tine contează pentru mine",
+            "slogans": [
+              "Bună seara!",
+              "Amintiri!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
           }
         ],
         "imageUrls": []
@@ -282,13 +2317,108 @@
       "romantic": {
         "messages": [
           {
-            "text": "Mă gândesc la tine și ziua parcă merge mai ușor",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "În mijlocul zilei, gândul meu tot la tine se întoarce",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Pentru tine!", "Cu drag!"],
             "textConfigId": 1
           },
           {
-            "text": "Abia aștept să ne vedem după ce trece ziua",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Oricât de ocupată e ziua, tu rămâi în gândul meu",
+            "slogans": [
+              "Bună ziua!",
+              "Din suflet!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mi-e dor de tine chiar și în mijlocul zilei",
+            "slogans": ["Bună ziua!", "Mi-e dor!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua e mai frumoasă când mă gândesc la tine",
+            "slogans": [
+              "Bună ziua!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând plin de iubire în această după-amiază",
+            "slogans": [
+              "Bună ziua!",
+              "Multă iubire!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Chiar și acum, tu ești partea mea preferată din zi",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la tine îmi face ziua mai ușoară",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Cu drag!", "Din inimă!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Aș vrea să fii aici, să împărțim ziua împreună",
+            "slogans": [
+              "Bună ziua!",
+              "Mi-e dor!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți simt lipsa mai ales în momentele liniștite ale zilei",
+            "slogans": ["Bună ziua!", "Mi-e dor!", "Din suflet!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ziua trece mai frumos când știu că te am",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un strop de iubire pentru restul zilei",
+            "slogans": [
+              "Bună ziua!",
+              "Multă iubire!",
+              "Din inimă!",
+              "Cu drag!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Mă gândesc la tine și zâmbesc fără motiv",
+            "slogans": [
+              "Bună ziua!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu faci fiecare moment mai frumos, chiar și de la distanță",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi lipsești și asta spune tot",
+            "slogans": ["Bună ziua!", "Mi-e dor!", "Te iubesc!", "Din inimă!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gândul la noi îmi ține ziua mai caldă",
+            "slogans": ["Bună ziua!", "Doar noi!", "Te iubesc!", "Cu drag!"],
             "textConfigId": 1
           }
         ],
@@ -297,13 +2427,78 @@
       "joyful": {
         "messages": [
           {
-            "text": "Să ai o după-amiază plină de energie bună",
-            "slogans": ["Cu drag!", "O zi frumoasă!", "Pentru tine!"],
+            "text": "Ziua e mai veselă pentru că te am în viața mea",
+            "slogans": ["Bună ziua!", "Bucurie!", "Zâmbește!", "Pentru tine!"],
             "textConfigId": 1
           },
           {
-            "text": "Sper că ziua ta continuă cu lucruri frumoase",
-            "slogans": ["Din suflet!", "Gânduri bune!", "Cu drag!"],
+            "text": "Gândul la tine îmi aduce zâmbet chiar și acum",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Fericire!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești bucuria mea în fiecare moment al zilei",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sper că ziua ta merge la fel de frumos ca gândurile mele despre tine",
+            "slogans": ["Bună ziua!", "Fericire!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un zâmbet pentru restul zilei",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Bucurie!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Cu tine, totul pare mai ușor și mai vesel",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o zi plină de zâmbete și energie bună",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Fericire!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îmi faci ziua mai frumoasă doar existând",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Din inimă!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Zâmbetul tău îmi luminează și după-amiaza",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Bucurie!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai parte de momente frumoase până la finalul zilei",
+            "slogans": ["Bună ziua!", "Fericire!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ziua e mai bună când mă gândesc la tine",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit voie bună și un gând frumos",
+            "slogans": ["Bună ziua!", "Voie bună!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o zi care să te facă să zâmbești des",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Fericire!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine în gând, totul pare mai luminos",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o după-amiază plină de lucruri frumoase",
+            "slogans": ["Bună ziua!", "Fericire!", "Cu drag!", "Pentru tine!"],
             "textConfigId": 1
           }
         ],
@@ -312,14 +2507,79 @@
       "calm": {
         "messages": [
           {
-            "text": "Ia-ți un moment de liniște și respiră ușor",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Îți doresc o după-amiază liniștită și gânduri senine",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Pentru tine!"],
             "textConfigId": 1
           },
           {
-            "text": "Să-ți fie după-amiaza calmă și fără griji",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Gândul la tine îmi aduce liniște în mijlocul zilei",
+            "slogans": ["Bună ziua!", "Calm!", "Te iubesc!", "Din suflet!"],
             "textConfigId": 1
+          },
+          {
+            "text": "Să ai parte de momente liniștite și frumoase",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un strop de liniște pentru restul zilei",
+            "slogans": ["Bună ziua!", "Calm!", "Din inimă!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Cu tine în gând, totul devine mai calm",
+            "slogans": ["Bună ziua!", "Liniște!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o după-amiază fără griji și cu sufletul ușor",
+            "slogans": ["Bună ziua!", "Calm!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc liniște și echilibru în tot ce faci azi",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândurile mele bune sunt cu tine acum",
+            "slogans": ["Bună ziua!", "Calm!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să te bucuri de liniștea acestei după-amiezi",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cu tine, totul pare mai așezat și mai frumos",
+            "slogans": ["Bună ziua!", "Calm!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând calm și plin de afecțiune",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o după-amiază în care să te simți bine",
+            "slogans": ["Bună ziua!", "Calm!", "Din suflet!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc pace în suflet și momente liniștite",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești liniștea mea chiar și de la distanță",
+            "slogans": ["Bună ziua!", "Calm!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o după-amiază blândă și frumoasă",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
           }
         ],
         "imageUrls": []
@@ -327,13 +2587,83 @@
       "inspirational": {
         "messages": [
           {
-            "text": "Ești pe drumul bun, continuă cu încredere",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Ești pe drumul tău și faci bine",
+            "slogans": ["Bună ziua!", "Încredere!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit încredere pentru restul zilei",
+            "slogans": ["Bună ziua!", "Curaj!", "Succes!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să continui ziua cu încredere în tine",
+            "slogans": ["Bună ziua!", "Încredere!", "Succes!", "Pentru tine!"],
             "textConfigId": 1
           },
           {
-            "text": "Mai e puțin și duci totul la capăt",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Ai tot ce îți trebuie ca să reușești",
+            "slogans": ["Bună ziua!", "Putere!", "Succes!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți sunt alături și cred în tine",
+            "slogans": ["Bună ziua!", "Încredere!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai curaj și să mergi înainte",
+            "slogans": ["Bună ziua!", "Curaj!", "Succes!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești mai puternic decât crezi",
+            "slogans": ["Bună ziua!", "Putere!", "Încredere!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare pas contează și tu mergi bine",
+            "slogans": ["Bună ziua!", "Succes!", "Înainte!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit energie bună pentru restul zilei",
+            "slogans": ["Bună ziua!", "Energie!", "Succes!", "Pentru tine!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Continuă cu încredere și răbdare",
+            "slogans": ["Bună ziua!", "Încredere!", "Succes!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Sunt lângă tine în tot ce faci",
+            "slogans": [
+              "Bună ziua!",
+              "Încredere!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o după-amiază productivă și liniștită",
+            "slogans": ["Bună ziua!", "Succes!", "Calm!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ai în tine tot ce îți trebuie",
+            "slogans": ["Bună ziua!", "Încredere!", "Putere!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mergi înainte, eu sunt cu tine",
+            "slogans": ["Bună ziua!", "Curaj!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să continui ziua cu energie bună",
+            "slogans": ["Bună ziua!", "Energie!", "Succes!", "Pentru tine!"],
             "textConfigId": 17
           }
         ],
@@ -342,13 +2672,88 @@
       "playful": {
         "messages": [
           {
-            "text": "Sper că nu ai uitat să zâmbești azi",
-            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "text": "Te mai gândești la mine sau te ocupi prea mult?",
+            "slogans": [
+              "Bună ziua!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Parcă merge o pauză și un gând la mine",
-            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "text": "Azi ai voie doar la lucruri frumoase",
+            "slogans": ["Bună ziua!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dacă nu zâmbești, verific mai târziu",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit un zâmbet, vezi dacă îl prinzi",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să nu uiți de mine azi",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai primit porția de gânduri de la mine?",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mai ai chef de mine azi?",
+            "slogans": [
+              "Bună ziua!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua e mai bună când mă gândesc la tine",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu uita să zâmbești, te verific",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți dau voie să te gândești la mine",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Doar noi!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dacă te plictisești, știi unde mă găsești",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Hai să facem ziua asta mai interesantă",
+            "slogans": ["Bună ziua!", "Bucurie!", "Doar noi!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un pic de mine pentru azi",
+            "slogans": ["Bună ziua!", "Cu drag!", "Te iubesc!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să nu te ia ziua fără mine în gând",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți țin companie măcar în gând",
+            "slogans": ["Bună ziua!", "Bucurie!", "Te iubesc!", "Pentru tine!"],
             "textConfigId": 1
           }
         ],
@@ -357,13 +2762,118 @@
       "grateful": {
         "messages": [
           {
-            "text": "Mă bucur că ești în viața mea în fiecare zi",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Îți mulțumesc că ești parte din fiecare zi a mea",
+            "slogans": [
+              "Bună ziua!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Prezența ta face totul mai frumos chiar și într-o zi obișnuită",
-            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "text": "Mă gândesc la tine cu recunoștință",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc pentru tot ce însemni pentru mine",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt recunoscător că te am în viața mea",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că faci totul mai frumos",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru tine în fiecare moment",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că îmi ești aproape",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mă bucur că te am și îți sunt recunoscător",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc pentru fiecare clipă cu tine",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri de mulțumire pentru tine",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți sunt recunoscător pentru tot ce trăim împreună",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Te iubesc!", "Doar noi!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mulțumesc că ești exact așa cum ești",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că îmi faci zilele mai frumoase",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru tine azi și mereu",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc că faci parte din viața mea",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Te iubesc!", "Din inimă!"],
             "textConfigId": 1
           }
         ],
@@ -372,13 +2882,98 @@
       "warm": {
         "messages": [
           {
-            "text": "Îți trimit un gând cald pentru restul zilei",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "Îți trimit gânduri calde pentru această după-amiază",
+            "slogans": [
+              "Bună ziua!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Să-ți fie după-amiaza ușoară și plină de bine",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Să ai o după-amiază frumoasă și liniștită",
+            "slogans": ["Bună ziua!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândurile mele bune sunt cu tine",
+            "slogans": ["Bună ziua!", "Cu drag!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit o îmbrățișare pentru restul zilei",
+            "slogans": [
+              "Bună ziua!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai parte de momente frumoase și liniște",
+            "slogans": ["Bună ziua!", "Cu drag!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o după-amiază plină de bine",
+            "slogans": ["Bună ziua!", "Cu drag!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri bune pentru tine în această zi",
+            "slogans": ["Bună ziua!", "Cu drag!", "Din suflet!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să continui ziua cu liniște și căldură",
+            "slogans": ["Bună ziua!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit cele mai calde urări",
+            "slogans": ["Bună ziua!", "Cu drag!", "Din inimă!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "O după-amiază frumoasă pentru tine",
+            "slogans": [
+              "Bună ziua!",
+              "Cu drag!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o zi care merge mai departe frumos",
+            "slogans": ["Bună ziua!", "Cu drag!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc liniște și momente plăcute",
+            "slogans": ["Bună ziua!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri calde și liniște pentru tine",
+            "slogans": [
+              "Bună ziua!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o după-amiază în care să te simți bine",
+            "slogans": ["Bună ziua!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit bine și liniște pentru restul zilei",
+            "slogans": ["Bună ziua!", "Cu drag!", "Liniște!", "Pentru tine!"],
             "textConfigId": 1
           }
         ],
@@ -387,13 +2982,98 @@
       "bold": {
         "messages": [
           {
-            "text": "Ține ritmul, ești pe val",
-            "slogans": ["Hai înainte!", "Cu drag!", "Pentru tine!"],
-            "textConfigId": 10
+            "text": "Nu uita cât de important ești pentru mine",
+            "slogans": [
+              "Bună ziua!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
           },
           {
-            "text": "Nu te opri acum, mergi până la capăt",
-            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "text": "Ești parte din tot ce contează pentru mine",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu există zi fără tine în gândul meu",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Încredere!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu faci totul să aibă sens",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Putere!", "Din inimă!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești mai important decât orice altceva",
+            "slogans": [
+              "Bună ziua!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu mă opresc din a mă gândi la tine",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești alegerea mea în fiecare zi",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Tu ești locul meu preferat",
+            "slogans": [
+              "Bună ziua!",
+              "Te iubesc!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fără tine, ziua nu ar fi la fel",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești tot ce contează pentru mine",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Din suflet!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Nu există nimic mai important decât noi",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești motivul pentru care zâmbesc",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Nu mă satur să te aleg în fiecare zi",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Încredere!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești parte din mine",
+            "slogans": [
+              "Bună ziua!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Tot ce contează pentru mine ești tu",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Cu drag!"],
             "textConfigId": 1
           }
         ],
@@ -402,13 +3082,88 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "Mi-am amintit de momentele noastre și am zâmbit",
-            "slogans": ["Cu drag!", "Din suflet!", "Pentru tine!"],
+            "text": "Mă gândesc la momentele noastre și zâmbesc",
+            "slogans": ["Bună ziua!", "Amintiri!", "Cu drag!", "Te iubesc!"],
             "textConfigId": 1
           },
           {
-            "text": "Dorul de tine apare chiar și în mijlocul zilei",
-            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "text": "Fiecare amintire cu tine îmi face ziua mai frumoasă",
+            "slogans": [
+              "Bună ziua!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și totul devine mai cald",
+            "slogans": ["Bună ziua!", "Amintiri!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele cu tine sunt cele mai de preț",
+            "slogans": ["Bună ziua!", "Amintiri!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la noi îmi face ziua mai bună",
+            "slogans": ["Bună ziua!", "Amintiri!", "Doar noi!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău",
+            "slogans": ["Bună ziua!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare clipă cu tine rămâne cu mine",
+            "slogans": ["Bună ziua!", "Amintiri!", "Din suflet!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine sunt cele mai frumoase",
+            "slogans": ["Bună ziua!", "Amintiri!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îmi place să retrăiesc clipele noastre",
+            "slogans": ["Bună ziua!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare zi cu tine devine o amintire frumoasă",
+            "slogans": ["Bună ziua!", "Amintiri!", "Din inimă!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți port amintirea în fiecare moment",
+            "slogans": ["Bună ziua!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gândul la tine nu mă părăsește",
+            "slogans": [
+              "Bună ziua!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile noastre sunt cele mai frumoase",
+            "slogans": ["Bună ziua!", "Amintiri!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și zâmbesc",
+            "slogans": ["Bună ziua!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare moment cu tine contează",
+            "slogans": ["Bună ziua!", "Amintiri!", "Din suflet!", "Te iubesc!"],
             "textConfigId": 1
           }
         ],
@@ -421,13 +3176,133 @@
       "romantic": {
         "messages": [
           {
-            "text": "Noaptea e mai liniștită când mă gândesc la tine",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "Noaptea vine cu dor de tine și cu gânduri care nu se opresc",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Adorm cu gândul la tine și mă simt mai aproape",
+            "slogans": [
+              "Noapte bună!",
+              "Din suflet!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Aș vrea să adorm lângă tine în seara asta",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Mi-e dor de tine mai ales în liniștea nopții",
+            "slogans": ["Noapte bună!", "Mi-e dor!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Să adormi liniștit știind cât de mult te iubesc",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Gândul la tine îmi însoțește fiecare noapte",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Aș vrea să fii aici, aproape de mine",
+            "slogans": ["Noapte bună!", "Mi-e dor!", "Te iubesc!", "Doar noi!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "În liniștea nopții, tu ești tot ce simt",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Adorm mai ușor când mă gândesc la tine",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu ești liniștea mea chiar și de la distanță",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Liniște!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Noaptea asta e mai caldă cu tine în gând",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând plin de iubire înainte de somn",
+            "slogans": [
+              "Noapte bună!",
+              "Multă iubire!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Chiar și în somn, tot la tine mă gândesc",
+            "slogans": ["Noapte bună!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Ești ultimul meu gând din fiecare zi",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Să adormi cu liniște și cu mine în gând",
+            "slogans": ["Noapte bună!", "Liniște!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Noaptea devine mai frumoasă când te simt aproape",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -436,13 +3311,113 @@
       "joyful": {
         "messages": [
           {
-            "text": "Să închei ziua cu liniște și un zâmbet",
-            "slogans": ["Cu drag!", "Noapte bună!", "Pentru tine!"],
+            "text": "Sper că adormi cu zâmbetul pe buze",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua a fost mai frumoasă pentru că te am",
+            "slogans": ["Noapte bună!", "Bucurie!", "Te iubesc!", "Cu drag!"],
             "textConfigId": 1
           },
           {
-            "text": "Noaptea să-ți aducă odihnă și gânduri frumoase",
-            "slogans": ["Din suflet!", "Gânduri bune!", "Cu drag!"],
+            "text": "Îți trimit un zâmbet pentru vise frumoase",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Fericire!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să visezi frumos după o zi bună",
+            "slogans": [
+              "Noapte bună!",
+              "Bucurie!",
+              "Somn ușor!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Cu tine, fiecare zi se termină mai frumos",
+            "slogans": [
+              "Noapte bună!",
+              "Fericire!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sper că ziua ta s-a încheiat cu zâmbet",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Bucurie!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc vise la fel de frumoase ca tine",
+            "slogans": [
+              "Noapte bună!",
+              "Fericire!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Adormi cu gânduri bune și liniște",
+            "slogans": ["Noapte bună!", "Bucurie!", "Liniște!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ziua se încheie, dar zâmbetul rămâne",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Fericire!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o noapte liniștită și plină de bine",
+            "slogans": ["Noapte bună!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit voie bună și pentru vise",
+            "slogans": ["Noapte bună!", "Voie bună!", "Zâmbește!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Cu tine în gând, ziua s-a încheiat perfect",
+            "slogans": [
+              "Noapte bună!",
+              "Fericire!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să adormi cu zâmbet și liniște",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Liniște!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți doresc o noapte cu vise frumoase",
+            "slogans": [
+              "Noapte bună!",
+              "Fericire!",
+              "Somn ușor!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua a fost mai bună cu tine în ea",
+            "slogans": ["Noapte bună!", "Bucurie!", "Te iubesc!", "Cu drag!"],
             "textConfigId": 1
           }
         ],
@@ -451,13 +3426,88 @@
       "calm": {
         "messages": [
           {
-            "text": "Lasă totul deoparte și odihnește-te în liniște",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Îți doresc o noapte liniștită și odihnitoare",
+            "slogans": ["Noapte bună!", "Liniște!", "Cu drag!", "Pentru tine!"],
             "textConfigId": 1
           },
           {
-            "text": "Să ai o noapte liniștită și somn odihnitor",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Să adormi cu liniște și pace în suflet",
+            "slogans": ["Noapte bună!", "Calm!", "Din suflet!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Noaptea să îți aducă odihnă și liniște",
+            "slogans": ["Noapte bună!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit liniște și gânduri bune înainte de somn",
+            "slogans": ["Noapte bună!", "Calm!", "Din inimă!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Să ai o noapte fără griji și cu sufletul ușor",
+            "slogans": ["Noapte bună!", "Liniște!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la tine îmi aduce liniște",
+            "slogans": ["Noapte bună!", "Calm!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să te odihnești bine și liniștit",
+            "slogans": [
+              "Noapte bună!",
+              "Liniște!",
+              "Somn ușor!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți doresc o noapte calmă și plină de pace",
+            "slogans": ["Noapte bună!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să închei ziua cu liniște și gânduri bune",
+            "slogans": ["Noapte bună!", "Liniște!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând calm pentru noapte",
+            "slogans": ["Noapte bună!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o noapte în care să te simți bine",
+            "slogans": ["Noapte bună!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Liniștea nopții să te învăluie frumos",
+            "slogans": ["Noapte bună!", "Calm!", "Din suflet!", "Pentru tine!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți doresc odihnă și liniște deplină",
+            "slogans": ["Noapte bună!", "Liniște!", "Somn ușor!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să adormi ușor și liniștit",
+            "slogans": ["Noapte bună!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Noaptea să îți aducă pace și odihnă",
+            "slogans": [
+              "Noapte bună!",
+              "Liniște!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           }
         ],
@@ -466,14 +3516,99 @@
       "inspirational": {
         "messages": [
           {
-            "text": "Mâine e o nouă zi cu alte șanse",
-            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "text": "Ai făcut destul azi, acum e timpul să te odihnești",
+            "slogans": [
+              "Noapte bună!",
+              "Încredere!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mâine e o nouă zi, dar eu sunt mereu lângă tine",
+            "slogans": ["Noapte bună!", "Curaj!", "Te iubesc!", "Din suflet!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Totul se așază, ai încredere",
+            "slogans": ["Noapte bună!", "Încredere!", "Calm!", "Cu drag!"],
             "textConfigId": 17
           },
           {
-            "text": "Odihnește-te bine, vei avea putere pentru tot ce urmează",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Ai făcut bine azi, fii liniștit",
+            "slogans": [
+              "Noapte bună!",
+              "Respect!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Sunt lângă tine în tot ce faci, chiar și acum",
+            "slogans": ["Noapte bună!", "Te iubesc!", "Încredere!", "Cu drag!"],
             "textConfigId": 1
+          },
+          {
+            "text": "Lasă ziua în urmă și odihnește-te",
+            "slogans": ["Noapte bună!", "Liniște!", "Succes!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai tot ce îți trebuie pentru ce urmează",
+            "slogans": ["Noapte bună!", "Încredere!", "Putere!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mergi mai departe în ritmul tău, e bine așa",
+            "slogans": ["Noapte bună!", "Încredere!", "Înainte!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Eu cred în tine, să nu uiți asta",
+            "slogans": [
+              "Noapte bună!",
+              "Încredere!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Odihnește-te, mâine continui mai ușor",
+            "slogans": ["Noapte bună!", "Calm!", "Succes!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești pe drumul tău și mergi bine",
+            "slogans": [
+              "Noapte bună!",
+              "Succes!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Totul va fi bine, sunt aici",
+            "slogans": ["Noapte bună!", "Încredere!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai făcut suficient pentru azi",
+            "slogans": ["Noapte bună!", "Calm!", "Încredere!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mâine e o nouă șansă, fără grabă",
+            "slogans": ["Noapte bună!", "Încredere!", "Curaj!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt mândru de tine, chiar și pentru lucrurile mici",
+            "slogans": ["Noapte bună!", "Respect!", "Te iubesc!", "Din inimă!"],
+            "textConfigId": 10
           }
         ],
         "imageUrls": []
@@ -481,14 +3616,109 @@
       "playful": {
         "messages": [
           {
-            "text": "Să nu adormi fără să te gândești un pic la mine",
-            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "text": "Te culci sau mai stai puțin cu gândul la mine?",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Te iubesc!", "Doar noi!"],
             "textConfigId": 1
           },
           {
-            "text": "Dacă eram acolo, îți furam un zâmbet înainte de somn",
-            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "text": "Să nu adormi fără să te gândești la mine",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dacă visezi, sper să apar și eu acolo",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Te iubesc!", "Cu drag!"],
             "textConfigId": 1
+          },
+          {
+            "text": "Hai, închide ochii… dar nu uita de mine",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dacă nu dormi încă, clar te gândești la mine",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Vezi să nu visezi prea frumos fără mine",
+            "slogans": ["Noapte bună!", "Bucurie!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Somn ușor… sau mai stai puțin?",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai grijă ce visezi, poate vin și eu",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Te iubesc!", "Doar noi!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dacă te trezești, să știi că mă gândesc la tine",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu trișa, trebuie să visezi la mine",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să nu uiți de mine nici în somn",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Zâmbește!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dacă nu dormi, înseamnă că îți lipsește ceva… eu",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Noaptea e mai interesantă cu mine în gând",
+            "slogans": [
+              "Noapte bună!",
+              "Bucurie!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Somn ușor, dar nu prea adânc fără mine",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Vezi că vin și în vise",
+            "slogans": ["Noapte bună!", "Zâmbește!", "Te iubesc!", "Doar noi!"],
+            "textConfigId": 17
           }
         ],
         "imageUrls": []
@@ -496,14 +3726,144 @@
       "grateful": {
         "messages": [
           {
-            "text": "Sunt recunoscător pentru tine în fiecare zi care trece",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Închei ziua mulțumindu-ți pentru tot ce ești pentru mine",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți mulțumesc că faci zilele mele mai ușoare",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Prezența ta îmi aduce liniște chiar și noaptea",
-            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "text": "Mă gândesc la tine cu recunoștință înainte de somn",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că ești lângă mine, chiar și așa",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt recunoscător pentru fiecare moment cu tine",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că faci totul să conteze mai mult",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă bucur că te am, asta e tot ce contează",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din inimă!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți mulțumesc că ești parte din viața mea",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru tine și pentru noi",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Doar noi!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc pentru liniștea pe care mi-o dai",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Liniște!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Închid ziua cu gândul la tine și cu mulțumire",
+            "slogans": ["Noapte bună!", "Mulțumesc!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că faci totul mai frumos",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Bucurie!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Sunt recunoscător că te am aproape",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc pentru fiecare zi cu tine",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă culc liniștit pentru că te am",
+            "slogans": ["Noapte bună!", "Mulțumesc!", "Liniște!", "Te iubesc!"],
+            "textConfigId": 10
           }
         ],
         "imageUrls": []
@@ -511,14 +3871,119 @@
       "warm": {
         "messages": [
           {
-            "text": "Îți trimit o îmbrățișare caldă înainte de somn",
-            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "text": "Îți trimit un gând bun înainte să adormi",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
           },
           {
-            "text": "Să te învelească liniștea și gândurile bune",
-            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "text": "Să ai o noapte liniștită și frumoasă",
+            "slogans": ["Noapte bună!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gândurile mele sunt cu tine acum",
+            "slogans": ["Noapte bună!", "Cu drag!", "Din inimă!", "Te iubesc!"],
             "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit o îmbrățișare pentru noapte",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să adormi liniștit și cu sufletul ușor",
+            "slogans": ["Noapte bună!", "Cu drag!", "Liniște!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc o noapte plină de liniște",
+            "slogans": ["Noapte bună!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să închei ziua cu bine și liniște",
+            "slogans": ["Noapte bună!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri calde pentru tine înainte de somn",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit liniște și un pic de mine",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o noapte în care să te simți bine",
+            "slogans": ["Noapte bună!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți doresc somn ușor și liniște",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Somn ușor!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gânduri bune și liniște pentru tine",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să adormi cu bine și fără griji",
+            "slogans": ["Noapte bună!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit căldură și liniște pentru noapte",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "O noapte liniștită pentru tine",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 17
           }
         ],
         "imageUrls": []
@@ -526,14 +3991,134 @@
       "bold": {
         "messages": [
           {
-            "text": "Ai dus ziua până la capăt, asta contează",
-            "slogans": ["Respect!", "Cu drag!", "Pentru tine!"],
+            "text": "Nu există noapte în care să nu mă gândesc la tine",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești ultimul meu gând, mereu",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din suflet!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Fără tine, nimic nu ar avea același sens",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești tot ce contează pentru mine, chiar și acum",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din inimă!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu mă satur să te aleg, zi de zi",
+            "slogans": ["Noapte bună!", "Te iubesc!", "Încredere!", "Cu drag!"],
             "textConfigId": 1
           },
           {
-            "text": "Mâine o iei de la capăt cu forță",
-            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "text": "Tu ești locul unde mă liniștesc",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Liniște!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 3
+          },
+          {
+            "text": "Ești parte din mine și din tot ce simt",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu există zi sau noapte fără tine în gând",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești alegerea mea în fiecare zi",
+            "slogans": ["Noapte bună!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Tot ce contează pentru mine ești tu",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu mă opresc din a te iubi",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 17
+          },
+          {
+            "text": "Ești motivul pentru care ziua mea începe și se termină bine",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești tot ce îmi doresc",
+            "slogans": ["Noapte bună!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Nu există nimic mai important decât noi",
+            "slogans": ["Noapte bună!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești locul meu preferat, mereu",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 3
           }
         ],
         "imageUrls": []
@@ -541,14 +4126,114 @@
       "nostalgic": {
         "messages": [
           {
-            "text": "Noaptea aduce dorul mai aproape de tine",
-            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "text": "Mă gândesc la noi înainte să adorm",
+            "slogans": ["Noapte bună!", "Amintiri!", "Cu drag!", "Te iubesc!"],
             "textConfigId": 1
           },
           {
-            "text": "Mi-e dor de nopțile în care eram împreună",
-            "slogans": ["Cu drag!", "Din suflet!", "Gânduri bune!"],
+            "text": "Fiecare amintire cu tine îmi liniștește noaptea",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
             "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și adorm mai ușor",
+            "slogans": ["Noapte bună!", "Amintiri!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele cu tine rămân cu mine și acum",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la noi îmi face noaptea mai caldă",
+            "slogans": ["Noapte bună!", "Amintiri!", "Doar noi!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău",
+            "slogans": ["Noapte bună!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare clipă cu tine contează și acum",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine sunt cele mai dragi",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îmi place să mă gândesc la noi înainte de somn",
+            "slogans": ["Noapte bună!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare zi cu tine devine o amintire frumoasă",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Din inimă!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți port amintirea cu mine în fiecare noapte",
+            "slogans": ["Noapte bună!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la tine nu mă lasă nici acum",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile noastre îmi aduc liniște",
+            "slogans": ["Noapte bună!", "Amintiri!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi amintesc de tine și zâmbesc în liniște",
+            "slogans": ["Noapte bună!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Tot ce am trăit împreună rămâne cu mine",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Din suflet!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 10
           }
         ],
         "imageUrls": []
