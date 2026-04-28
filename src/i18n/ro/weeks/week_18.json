@@ -1,374 +1,2001 @@
 {
   "morning": {
-    "messages": [
-      {
-        "id": 85,
-        "textConfigId": 1,
-        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
-        "slogans": [
-          "Bună dimineața!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi minunată de mai!"
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "O dimineață de primăvară cu tine în gând",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Primăvară!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dimineața asta începe mai frumos cu gândul la tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mi-e dor de tine încă de dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Mi-e dor!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "O dimineață liniștită și un gând cald pentru tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Primăvară!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dimineața asta e mai frumoasă cu tine în gând",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Zile frumoase!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
         ]
       },
-      {
-        "id": 86,
-        "textConfigId": 3,
-        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
-        "slogans": [
-          "Bună dimineața!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Voie bună și soare!"
+
+      "joyful": {
+        "messages": [
+          {
+            "text": "O dimineață cu zâmbet și energie bună",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să începi ziua cu voie bună și lumină",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Primăvară!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un început de zi plin de bucurie",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Fericire!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dimineața asta vine cu un zâmbet pentru tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață frumoasă și plină de energie",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
         ]
       },
-      {
-        "id": 87,
-        "textConfigId": 3,
-        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
-        "slogans": [
-          "Bună dimineața!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu drag și recunoștință!"
+
+      "calm": {
+        "messages": [
+          {
+            "text": "O dimineață liniștită și echilibrată pentru tine",
+            "slogans": ["Bună dimineața!", "Liniște!", "Calm!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să începi ziua cu liniște și gânduri senine",
+            "slogans": ["Bună dimineața!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dimineața asta să îți aducă liniște",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Un început de zi calm și frumos",
+            "slogans": ["Bună dimineața!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o dimineață fără griji",
+            "slogans": [
+              "Bună dimineața!",
+              "Liniște!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
         ]
       },
-      {
-        "id": 88,
-        "textConfigId": 1,
-        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
-        "slogans": [
-          "Bună dimineața!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu toată dragostea!"
+
+      "inspirational": {
+        "messages": [
+          {
+            "text": "O nouă zi, un nou început",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Succes!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Începe ziua cu încredere în tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Încredere!",
+              "Înainte!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare dimineață e o nouă șansă",
+            "slogans": [
+              "Bună dimineața!",
+              "Succes!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai în tine tot ce îți trebuie pentru azi",
+            "slogans": ["Bună dimineața!", "Putere!", "Încredere!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Începe ziua în ritmul tău",
+            "slogans": [
+              "Bună dimineața!",
+              "Calm!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
         ]
       },
-      {
-        "id": 89,
-        "textConfigId": 1,
-        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
-        "slogans": [
-          "Bună dimineața!",
-          "Zi minunată de mai!",
-          "Primăvara e a noastră!",
-          "Primăvară frumoasă!"
+
+      "playful": {
+        "messages": [
+          {
+            "text": "Te-ai trezit sau mai stai puțin?",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Dimineața asta vine cu mine în gând",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sper că începi ziua cu un zâmbet",
+            "slogans": ["Bună dimineața!", "Zâmbește!", "Bucurie!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Hai, începe ziua frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Bucurie!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Vezi că ziua asta e pentru tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
         ]
       },
-      {
-        "id": 90,
-        "textConfigId": 3,
-        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
-        "slogans": [
-          "Bună dimineața!",
-          "1 Mai Fericit!",
-          "Zi minunată de mai!",
-          "Odihnă binemeritată!"
+
+      "grateful": {
+        "messages": [
+          {
+            "text": "Încep ziua cu gândul la tine și recunoștință",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Îți mulțumesc că ești parte din viața mea",
+            "slogans": [
+              "Bună dimineața!",
+              "Recunoștință!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un gând de mulțumire pentru tine în această dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru tine și pentru noi",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Doar noi!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mă bucur că te am",
+            "slogans": [
+              "Bună dimineața!",
+              "Mulțumesc!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
         ]
       },
-      {
-        "id": 91,
-        "textConfigId": 3,
-        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
-        "slogans": [
-          "Bună dimineața!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi cu soare și bine!"
+
+      "warm": {
+        "messages": [
+          {
+            "text": "O dimineață frumoasă și gânduri calde pentru tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând bun pentru începutul zilei",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o dimineață liniștită și frumoasă",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Liniște!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gânduri bune pentru tine în această dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Pentru tine!",
+              "Primăvară!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un început de zi blând și frumos",
+            "slogans": [
+              "Bună dimineața!",
+              "Cu drag!",
+              "Zile frumoase!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
+        ]
+      },
+
+      "bold": {
+        "messages": [
+          {
+            "text": "Ești primul gând din ziua mea",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 11
+          },
+          {
+            "text": "Ziua mea începe cu tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Cu drag!"
+            ],
+            "textConfigId": 3
+          },
+          {
+            "text": "Nu există dimineață fără tine în gând",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu faci fiecare zi să conteze",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești tot ce contează pentru mine",
+            "slogans": [
+              "Bună dimineața!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
+        ]
+      },
+
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mă gândesc la noi încă de dimineață",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi fac dimineața mai frumoasă",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Zâmbește!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare zi începe cu gândul la tine",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele noastre îmi rămân în gând",
+            "slogans": [
+              "Bună dimineața!",
+              "Amintiri!",
+              "Cu drag!",
+              "Te iubesc!"
+            ],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
         ]
       }
-    ],
-    "imageUrls": [
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_01_5149013.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_02_591311.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_03_5216139.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_04_9947733.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_05_10215937.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_06_4154945.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_07_5114686.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_08_8420945.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_09_4591082.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_morning_10_6706182.jpg"
-    ]
+    }
   },
   "afternoon": {
-    "messages": [
-      {
-        "id": 92,
-        "textConfigId": 1,
-        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
-        "slogans": [
-          "Bună ziua!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi minunată de mai!"
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "După-amiaza asta mă găsește tot cu tine în gând",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gândul la tine îmi face ziua mai frumoasă",
+            "slogans": [
+              "Bună ziua!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mi-e dor de tine chiar și în mijlocul zilei",
+            "slogans": ["Bună ziua!", "Mi-e dor!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Ziua merge mai frumos cu tine în gând",
+            "slogans": [
+              "Bună ziua!",
+              "Te iubesc!",
+              "Zile frumoase!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un gând cald pentru tine în această după-amiază",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Primăvară!", "Cu drag!"],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
         ]
       },
-      {
-        "id": 93,
-        "textConfigId": 3,
-        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
-        "slogans": [
-          "Bună ziua!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Voie bună și soare!"
+
+      "joyful": {
+        "messages": [
+          {
+            "text": "Să ai o după-amiază plină de zâmbete",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un pic de bucurie pentru restul zilei",
+            "slogans": ["Bună ziua!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua continuă frumos, bucură-te de ea",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Fericire!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să te bucuri de lucrurile simple azi",
+            "slogans": ["Bună ziua!", "Bucurie!", "Primăvară!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "După-amiaza asta vine cu energie bună",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
         ]
       },
-      {
-        "id": 94,
-        "textConfigId": 3,
-        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
-        "slogans": [
-          "Bună ziua!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu drag și recunoștință!"
+
+      "calm": {
+        "messages": [
+          {
+            "text": "O după-amiază liniștită și echilibrată pentru tine",
+            "slogans": ["Bună ziua!", "Liniște!", "Calm!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o zi care merge mai departe în liniște",
+            "slogans": ["Bună ziua!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Gânduri liniștite pentru restul zilei",
+            "slogans": ["Bună ziua!", "Liniște!", "Primăvară!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "După-amiaza asta să îți aducă calm",
+            "slogans": ["Bună ziua!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să te bucuri de liniștea acestei zile",
+            "slogans": ["Bună ziua!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
         ]
       },
-      {
-        "id": 95,
-        "textConfigId": 1,
-        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
-        "slogans": [
-          "Bună ziua!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu toată dragostea!"
+
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Continuă ziua cu încredere",
+            "slogans": ["Bună ziua!", "Încredere!", "Succes!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ești pe drumul tău și mergi bine",
+            "slogans": ["Bună ziua!", "Succes!", "Încredere!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare pas contează",
+            "slogans": ["Bună ziua!", "Încredere!", "Înainte!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua încă poate aduce lucruri frumoase",
+            "slogans": ["Bună ziua!", "Încredere!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mergi înainte în ritmul tău",
+            "slogans": ["Bună ziua!", "Calm!", "Încredere!", "Cu drag!"],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
         ]
       },
-      {
-        "id": 96,
-        "textConfigId": 1,
-        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
-        "slogans": [
-          "Bună ziua!",
-          "Zi minunată de mai!",
-          "Primăvara e a noastră!",
-          "Primăvară frumoasă!"
+
+      "playful": {
+        "messages": [
+          {
+            "text": "Mai ai energie pentru restul zilei?",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Nu uita să zâmbești azi",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "După-amiaza asta vine cu un gând pentru tine",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Hai, ziua încă nu s-a terminat",
+            "slogans": ["Bună ziua!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Vezi să nu uiți de tine azi",
+            "slogans": ["Bună ziua!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
         ]
       },
-      {
-        "id": 97,
-        "textConfigId": 3,
-        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
-        "slogans": [
-          "Bună ziua!",
-          "1 Mai Fericit!",
-          "Zi minunată de mai!",
-          "Odihnă binemeritată!"
+
+      "grateful": {
+        "messages": [
+          {
+            "text": "Recunoștință pentru tot ce e în ziua de azi",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți mulțumesc că faci parte din viața mea",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un gând de mulțumire pentru tine",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mă bucur de tine în fiecare zi",
+            "slogans": [
+              "Bună ziua!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru momentele simple",
+            "slogans": ["Bună ziua!", "Mulțumesc!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
         ]
       },
-      {
-        "id": 98,
-        "textConfigId": 3,
-        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
-        "slogans": [
-          "Bună ziua!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi cu soare și bine!"
+
+      "warm": {
+        "messages": [
+          {
+            "text": "Gânduri bune pentru tine în această după-amiază",
+            "slogans": ["Bună ziua!", "Cu drag!", "Pentru tine!", "Primăvară!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "O după-amiază frumoasă și liniștită",
+            "slogans": ["Bună ziua!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți trimit un gând cald pentru restul zilei",
+            "slogans": [
+              "Bună ziua!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai parte de momente frumoase azi",
+            "slogans": ["Bună ziua!", "Cu drag!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un pic de liniște pentru după-amiaza asta",
+            "slogans": ["Bună ziua!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
+        ]
+      },
+
+      "bold": {
+        "messages": [
+          {
+            "text": "Tu faci ziua asta să conteze",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești parte din fiecare moment al zilei mele",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Din suflet!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu există zi fără tine în gând",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ești tot ce contează pentru mine",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Doar noi!", "Din inimă!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ziua mea e mai bună datorită ție",
+            "slogans": ["Bună ziua!", "Te iubesc!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
+        ]
+      },
+
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mă gândesc la noi și ziua devine mai frumoasă",
+            "slogans": ["Bună ziua!", "Amintiri!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi luminează ziua",
+            "slogans": [
+              "Bună ziua!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău",
+            "slogans": ["Bună ziua!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare zi îmi amintește de tine",
+            "slogans": [
+              "Bună ziua!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele noastre rămân cu mine",
+            "slogans": ["Bună ziua!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
         ]
       }
-    ],
-    "imageUrls": [
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_01_4193079.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_02_4112348.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_03_9453063.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_04_10215937.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_05_7192379.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_06_5114686.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_07_5149013.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_08_1295556.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_09_4513060.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_afternoon_10_3387071.jpg"
-    ]
+    }
   },
   "evening": {
-    "messages": [
-      {
-        "id": 99,
-        "textConfigId": 4,
-        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
-        "slogans": [
-          "Bună seara!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi minunată de mai!"
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Seara asta vine cu tine în gând și liniște",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Mă gândesc la tine și ziua se încheie mai frumos",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mi-e dor de tine în liniștea serii",
+            "slogans": ["Bună seara!", "Mi-e dor!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Cu tine în gând, totul pare mai cald",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Seara asta e mai frumoasă datorită ție",
+            "slogans": ["Bună seara!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 11
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
         ]
       },
-      {
-        "id": 100,
-        "textConfigId": 6,
-        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
-        "slogans": [
-          "Bună seara!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Voie bună și soare!"
+
+      "joyful": {
+        "messages": [
+          {
+            "text": "Să ai o seară plină de zâmbete",
+            "slogans": ["Bună seara!", "Zâmbește!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ziua s-a încheiat frumos, bucură-te de seară",
+            "slogans": ["Bună seara!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un zâmbet pentru seara asta",
+            "slogans": ["Bună seara!", "Zâmbește!", "Fericire!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Seara asta vine cu voie bună",
+            "slogans": ["Bună seara!", "Bucurie!", "Zâmbește!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o seară relaxată și plină de bucurie",
+            "slogans": ["Bună seara!", "Fericire!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
         ]
       },
-      {
-        "id": 101,
-        "textConfigId": 6,
-        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
-        "slogans": [
-          "Bună seara!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu drag și recunoștință!"
+
+      "calm": {
+        "messages": [
+          {
+            "text": "O seară liniștită și echilibrată pentru tine",
+            "slogans": ["Bună seara!", "Liniște!", "Calm!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să închei ziua cu liniște și pace",
+            "slogans": ["Bună seara!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Seara asta să îți aducă odihnă",
+            "slogans": [
+              "Bună seara!",
+              "Liniște!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Un moment de liniște pentru tine acum",
+            "slogans": ["Bună seara!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Lasă ziua să se încheie în liniște",
+            "slogans": ["Bună seara!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
         ]
       },
-      {
-        "id": 102,
-        "textConfigId": 4,
-        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
-        "slogans": [
-          "Bună seara!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu toată dragostea!"
+
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Ai făcut destul azi, odihnește-te",
+            "slogans": ["Bună seara!", "Încredere!", "Calm!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua se încheie, dar drumul continuă",
+            "slogans": ["Bună seara!", "Încredere!", "Înainte!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Fiecare zi contează, și asta a contat",
+            "slogans": ["Bună seara!", "Succes!", "Încredere!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Odihnește-te și mergi mai departe mâine",
+            "slogans": ["Bună seara!", "Calm!", "Succes!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai făcut bine azi",
+            "slogans": [
+              "Bună seara!",
+              "Încredere!",
+              "Respect!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
         ]
       },
-      {
-        "id": 103,
-        "textConfigId": 4,
-        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
-        "slogans": [
-          "Bună seara!",
-          "Zi minunată de mai!",
-          "Primăvara e a noastră!",
-          "Primăvară frumoasă!"
+
+      "playful": {
+        "messages": [
+          {
+            "text": "Ziua s-a terminat, dar eu încă sunt aici",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Ai terminat ziua sau mai continui?",
+            "slogans": ["Bună seara!", "Zâmbește!", "Bucurie!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Sper că nu ai uitat să zâmbești azi",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Seara asta vine cu un gând pentru tine",
+            "slogans": ["Bună seara!", "Zâmbește!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Hai, relaxează-te puțin",
+            "slogans": ["Bună seara!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
         ]
       },
-      {
-        "id": 104,
-        "textConfigId": 6,
-        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
-        "slogans": [
-          "Bună seara!",
-          "1 Mai Fericit!",
-          "Zi minunată de mai!",
-          "Odihnă binemeritată!"
+
+      "grateful": {
+        "messages": [
+          {
+            "text": "Recunoștință pentru ziua de azi",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc că faci parte din viața mea",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un gând de mulțumire pentru tine în această seară",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă bucur de tine în fiecare zi",
+            "slogans": [
+              "Bună seara!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru lucrurile simple",
+            "slogans": [
+              "Bună seara!",
+              "Mulțumesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
         ]
       },
-      {
-        "id": 105,
-        "textConfigId": 6,
-        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
-        "slogans": [
-          "Bună seara!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi cu soare și bine!"
+
+      "warm": {
+        "messages": [
+          {
+            "text": "O seară frumoasă și gânduri calde pentru tine",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând bun pentru seară",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o seară liniștită și plăcută",
+            "slogans": ["Bună seara!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gânduri bune pentru tine în această seară",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Pentru tine!",
+              "Primăvară!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un final de zi blând și frumos",
+            "slogans": [
+              "Bună seara!",
+              "Cu drag!",
+              "Zile frumoase!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
+        ]
+      },
+
+      "bold": {
+        "messages": [
+          {
+            "text": "Ești parte din tot ce contează pentru mine",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ziua mea e mai bună datorită ție",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Nu există zi fără tine în gând",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu faci totul să conteze",
+            "slogans": [
+              "Bună seara!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești tot ce contează pentru mine",
+            "slogans": ["Bună seara!", "Te iubesc!", "Doar noi!", "Din inimă!"],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
+        ]
+      },
+
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mă gândesc la noi și ziua se încheie mai frumos",
+            "slogans": ["Bună seara!", "Amintiri!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi luminează seara",
+            "slogans": [
+              "Bună seara!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău",
+            "slogans": ["Bună seara!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare zi îmi amintește de tine",
+            "slogans": [
+              "Bună seara!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele noastre rămân cu mine",
+            "slogans": ["Bună seara!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
         ]
       }
-    ],
-    "imageUrls": [
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_01_4193079.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_02_5149013.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_03_7873231.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_04_8233937.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_05_5114686.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_06_10215937.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_07_7192379.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_08_4299828.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_09_5090810.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_evening_10_1295556.jpg"
-    ]
+    }
   },
   "night": {
-    "messages": [
-      {
-        "id": 106,
-        "textConfigId": 7,
-        "text": "1 Mai e ziua în care primăvara se serbează. Ieși afară, respiră aer curat, relaxează-te.",
-        "slogans": [
-          "Noapte bună!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi minunată de mai!"
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Noaptea asta vine cu tine în gând și liniște",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Adorm gândindu-mă la tine",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 3
+          },
+          {
+            "text": "Mi-e dor de tine în liniștea nopții",
+            "slogans": ["Noapte bună!", "Mi-e dor!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 3
+          },
+          {
+            "text": "Cu tine în gând, noaptea e mai liniștită",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Liniște!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să adormi liniștit știind cât de mult însemni",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Din inimă!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
         ]
       },
-      {
-        "id": 107,
-        "textConfigId": 9,
-        "text": "Liliacul înflorit și prietenii buni. 1 Mai aduce oamenii împreună.",
-        "slogans": [
-          "Noapte bună!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Voie bună și soare!"
+
+      "joyful": {
+        "messages": [
+          {
+            "text": "Să adormi cu zâmbetul pe buze",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ziua s-a încheiat frumos, somn ușor",
+            "slogans": ["Noapte bună!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un gând bun pentru vise frumoase",
+            "slogans": ["Noapte bună!", "Fericire!", "Zâmbește!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să ai o noapte liniștită și plină de bine",
+            "slogans": ["Noapte bună!", "Bucurie!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Noaptea asta vine cu liniște și un zâmbet",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
         ]
       },
-      {
-        "id": 108,
-        "textConfigId": 9,
-        "text": "Mamelor le datorăm tot ce suntem. Ziua ei merită să fie specială.",
-        "slogans": [
-          "Noapte bună!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu drag și recunoștință!"
+
+      "calm": {
+        "messages": [
+          {
+            "text": "O noapte liniștită și odihnitoare pentru tine",
+            "slogans": ["Noapte bună!", "Liniște!", "Calm!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să adormi cu liniște și pace",
+            "slogans": ["Noapte bună!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Noaptea asta să îți aducă odihnă",
+            "slogans": [
+              "Noapte bună!",
+              "Liniște!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Un moment de liniște înainte de somn",
+            "slogans": ["Noapte bună!", "Calm!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Lasă ziua să se încheie în liniște",
+            "slogans": ["Noapte bună!", "Liniște!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
         ]
       },
-      {
-        "id": 109,
-        "textConfigId": 7,
-        "text": "Mama e prima persoană care te-a iubit fără condiții. Spune-i azi ce simți.",
-        "slogans": [
-          "Noapte bună!",
-          "La mulți ani, mamă!",
-          "Ziua Mamei Fericită!",
-          "Cu toată dragostea!"
+
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Ai făcut destul azi, odihnește-te",
+            "slogans": ["Noapte bună!", "Încredere!", "Calm!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Mâine e o nouă zi",
+            "slogans": ["Noapte bună!", "Încredere!", "Înainte!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare zi contează, și asta a contat",
+            "slogans": [
+              "Noapte bună!",
+              "Succes!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Odihnește-te și mergi mai departe mâine",
+            "slogans": ["Noapte bună!", "Calm!", "Succes!", "Cu drag!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Ai făcut bine azi",
+            "slogans": [
+              "Noapte bună!",
+              "Încredere!",
+              "Respect!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
         ]
       },
-      {
-        "id": 110,
-        "textConfigId": 7,
-        "text": "Florile de mai parfumează aerul. O săptămână frumoasă și plăcută e înaintea ta.",
-        "slogans": [
-          "Noapte bună!",
-          "Zi minunată de mai!",
-          "Primăvara e a noastră!",
-          "Primăvară frumoasă!"
+
+      "playful": {
+        "messages": [
+          {
+            "text": "Somn ușor sau mai stai puțin?",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Să nu uiți să zâmbești înainte de somn",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Bucurie!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Noaptea asta vine cu un gând pentru tine",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Hai, închide ziua frumos",
+            "slogans": ["Noapte bună!", "Bucurie!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Vezi să ai vise frumoase",
+            "slogans": [
+              "Noapte bună!",
+              "Zâmbește!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
         ]
       },
-      {
-        "id": 111,
-        "textConfigId": 9,
-        "text": "O zi de odihnă bine meritată. Profită de ea cu oamenii dragi.",
-        "slogans": [
-          "Noapte bună!",
-          "1 Mai Fericit!",
-          "Zi minunată de mai!",
-          "Odihnă binemeritată!"
+
+      "grateful": {
+        "messages": [
+          {
+            "text": "Recunoștință pentru ziua de azi",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          },
+          {
+            "text": "Îți mulțumesc că faci parte din viața mea",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un gând de mulțumire înainte de somn",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă bucur de tine în fiecare zi",
+            "slogans": [
+              "Noapte bună!",
+              "Recunoștință!",
+              "Te iubesc!",
+              "Din suflet!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Recunoștință pentru lucrurile simple",
+            "slogans": [
+              "Noapte bună!",
+              "Mulțumesc!",
+              "Cu drag!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
         ]
       },
-      {
-        "id": 112,
-        "textConfigId": 9,
-        "text": "Mai aduce cu el primele zile cu adevărat calde. Bucură-te de ele.",
-        "slogans": [
-          "Noapte bună!",
-          "1 Mai Fericit!",
-          "Primăvara e a noastră!",
-          "Zi cu soare și bine!"
+
+      "warm": {
+        "messages": [
+          {
+            "text": "O noapte frumoasă și gânduri calde pentru tine",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Primăvară!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îți trimit un gând bun pentru noapte",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Să ai o noapte liniștită și plăcută",
+            "slogans": ["Noapte bună!", "Cu drag!", "Liniște!", "Pentru tine!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Gânduri bune pentru tine înainte de somn",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Pentru tine!",
+              "Primăvară!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Un final de zi blând și liniștit",
+            "slogans": [
+              "Noapte bună!",
+              "Cu drag!",
+              "Zile frumoase!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
+        ]
+      },
+
+      "bold": {
+        "messages": [
+          {
+            "text": "Ești parte din tot ce contează pentru mine",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Din suflet!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ziua mea începe și se termină cu tine",
+            "slogans": ["Noapte bună!", "Te iubesc!", "Doar noi!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu există zi fără tine în gând",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Pentru tine!",
+              "Cu drag!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Tu faci totul să conteze",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Încredere!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 10
+          },
+          {
+            "text": "Ești tot ce contează pentru mine",
+            "slogans": [
+              "Noapte bună!",
+              "Te iubesc!",
+              "Doar noi!",
+              "Din inimă!"
+            ],
+            "textConfigId": 10
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
+        ]
+      },
+
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mă gândesc la noi înainte de somn",
+            "slogans": ["Noapte bună!", "Amintiri!", "Te iubesc!", "Cu drag!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi liniștesc noaptea",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Din suflet!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi vine în minte zâmbetul tău",
+            "slogans": ["Noapte bună!", "Amintiri!", "Zâmbește!", "Te iubesc!"],
+            "textConfigId": 17
+          },
+          {
+            "text": "Fiecare zi îmi amintește de tine",
+            "slogans": [
+              "Noapte bună!",
+              "Amintiri!",
+              "Te iubesc!",
+              "Pentru tine!"
+            ],
+            "textConfigId": 1
+          },
+          {
+            "text": "Momentele noastre rămân cu mine",
+            "slogans": ["Noapte bună!", "Amintiri!", "Cu drag!", "Te iubesc!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": [
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
+          "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
         ]
       }
-    ],
-    "imageUrls": [
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_01_449475.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_02_4193079.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_03_5149013.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_04_5114686.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_05_10215937.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_06_1295556.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_07_5032679.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_08_4513060.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_09_4154945.jpg",
-      "https://truba-storage.nyc3.cdn.digitaloceanspaces.com/greetings-app/week_18_night_10_2409122.jpg"
-    ]
+    }
   }
 }

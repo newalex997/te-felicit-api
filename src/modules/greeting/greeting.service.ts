@@ -40,45 +40,50 @@ export class GreetingService {
     private readonly i18n: I18nService,
   ) {}
 
+  // ─── i18n helpers ────────────────────────────────────────────────────────────
+
   private getI18nArray<T>(key: string, lang: string): T[] {
     const result = this.i18n.t(key, { lang });
-
     return Array.isArray(result) ? (result as T[]) : [];
+  }
+
+  private collectFromMoods<T>(
+    moodIds: string[],
+    keyFor: (moodId: string) => string,
+    lang: string,
+  ): T[] {
+    return moodIds.flatMap((m) => this.getI18nArray<T>(keyFor(m), lang));
+  }
+
+  // ─── resolution helpers ───────────────────────────────────────────────────────
+
+  private resolveMoodIds(mood?: string): string[] {
+    const all = MOODS.filter((m) => m.id !== 'all').map((m) => m.id as MoodKey);
+    if (mood && mood !== 'all' && all.includes(mood as MoodKey)) {
+      return [mood];
+    }
+    return all;
+  }
+
+  private resolveHoliday(holiday?: string): HolidayKey | null {
+    const valid = HOLIDAY_META.map((h) => h.id as HolidayKey);
+    return holiday && valid.includes(holiday as HolidayKey)
+      ? (holiday as HolidayKey)
+      : null;
   }
 
   private resolveTextConfig(
     entry: GreetingMessageEntry,
   ): GreetingTextConfigDto {
     if (entry.textConfig) return entry.textConfig;
-
     if (entry.textConfigId != null) {
       const config = TEXT_CONFIGS[entry.textConfigId];
-
       if (config) return config;
     }
-
     return DEFAULT_TEXT_CONFIG;
   }
 
-  private resolveMood(mood?: string): string | null {
-    const valid = MOODS.filter((m) => m.id !== 'all').map((m) => m.id);
-
-    return !mood || mood === 'all' || !valid.includes(mood as MoodKey)
-      ? null
-      : mood;
-  }
-
-  private allMoodIds(): string[] {
-    return MOODS.filter((m) => m.id !== 'all').map((m) => m.id);
-  }
-
-  private resolveHoliday(holiday?: string): HolidayKey | null {
-    const valid = HOLIDAY_META.map((h) => h.id as HolidayKey);
-
-    return holiday && valid.includes(holiday as HolidayKey)
-      ? (holiday as HolidayKey)
-      : null;
-  }
+  // ─── content builders ─────────────────────────────────────────────────────────
 
   private toMessageResponse(
     entry: GreetingMessageEntry,
@@ -90,48 +95,17 @@ export class GreetingService {
     };
   }
 
-  private pickImage(
-    context: GreetingContext,
-    lang: string,
-    mood: string | null,
-    holiday: HolidayKey | null,
-  ): string {
-    const moodIds = mood ? [mood] : this.allMoodIds();
-
-    if (holiday) {
-      const urls = moodIds.flatMap((m) =>
-        this.getI18nArray<string>(
-          `holidays.${holiday}.${context.timeOfDay}.moods.${m}.imageUrls`,
-          lang,
-        ),
-      );
-
-      return pickRandom(urls);
-    }
-
-    const urls = moodIds.flatMap((m) =>
-      this.getI18nArray<string>(
-        `weeks.${weekKey(context.weekOfYear)}.${context.timeOfDay}.moods.${m}.imageUrls`,
-        lang,
-      ),
-    );
-    return pickRandom(urls);
-  }
-
   private buildGreeting(
     context: GreetingContext,
     lang: string,
-    mood: string | null,
+    moodIds: string[],
     holiday: HolidayKey | null,
   ): GreetingMessageResponseDto {
-    const moodIds = mood ? [mood] : this.allMoodIds();
-
     if (holiday) {
-      const entries = moodIds.flatMap((m) =>
-        this.getI18nArray<GreetingMessageEntry>(
-          `holidays.${holiday}.${context.timeOfDay}.moods.${m}.messages`,
-          lang,
-        ),
+      const entries = this.collectFromMoods<GreetingMessageEntry>(
+        moodIds,
+        (m) => `holidays.${holiday}.${context.timeOfDay}.moods.${m}.messages`,
+        lang,
       );
       if (entries.length > 0)
         return this.toMessageResponse(pickRandom(entries));
@@ -139,19 +113,18 @@ export class GreetingService {
 
     const wk = weekKey(context.weekOfYear);
 
-    const weekEntries = moodIds.flatMap((m) =>
-      this.getI18nArray<GreetingMessageEntry>(
-        `weeks.${wk}.${context.timeOfDay}.moods.${m}.messages`,
-        lang,
-      ),
+    const weekEntries = this.collectFromMoods<GreetingMessageEntry>(
+      moodIds,
+      (m) => `weeks.${wk}.${context.timeOfDay}.moods.${m}.messages`,
+      lang,
     );
 
     const occasionEntries = context.occasion
-      ? moodIds.flatMap((m) =>
-          this.getI18nArray<GreetingMessageEntry>(
+      ? this.collectFromMoods<GreetingMessageEntry>(
+          moodIds,
+          (m) =>
             `holidays.${context.occasion}.${context.timeOfDay}.moods.${m}.messages`,
-            lang,
-          ),
+          lang,
         )
       : [];
 
@@ -159,12 +132,39 @@ export class GreetingService {
 
     if (pool.length === 0) {
       throw new InternalServerErrorException(
-        `No greeting content found for week=${wk}, timeOfDay=${context.timeOfDay}, mood=${mood ?? 'all'}`,
+        `No greeting content found for week=${wk}, timeOfDay=${context.timeOfDay}, moods=${moodIds.join(',')}`,
       );
     }
 
     return this.toMessageResponse(pickRandom(pool));
   }
+
+  private pickImage(
+    context: GreetingContext,
+    lang: string,
+    moodIds: string[],
+    holiday: HolidayKey | null,
+  ): string {
+    if (holiday) {
+      const urls = this.collectFromMoods<string>(
+        moodIds,
+        (m) => `holidays.${holiday}.${context.timeOfDay}.moods.${m}.imageUrls`,
+        lang,
+      );
+      return pickRandom(urls);
+    }
+
+    const wk = weekKey(context.weekOfYear);
+
+    const urls = this.collectFromMoods<string>(
+      moodIds,
+      (m) => `weeks.${wk}.${context.timeOfDay}.moods.${m}.imageUrls`,
+      lang,
+    );
+    return pickRandom(urls);
+  }
+
+  // ─── public API ───────────────────────────────────────────────────────────────
 
   getGreeting(
     lang: string,
@@ -172,12 +172,12 @@ export class GreetingService {
     holiday?: string,
   ): GreetingResponseDto {
     const context = this.greetingContextService.getContext();
-    const resolvedMood = this.resolveMood(mood);
+    const moodIds = this.resolveMoodIds(mood);
     const resolvedHoliday = this.resolveHoliday(holiday);
 
     return {
-      ...this.buildGreeting(context, lang, resolvedMood, resolvedHoliday),
-      imageUrl: this.pickImage(context, lang, resolvedMood, resolvedHoliday),
+      ...this.buildGreeting(context, lang, moodIds, resolvedHoliday),
+      imageUrl: this.pickImage(context, lang, moodIds, resolvedHoliday),
     };
   }
 
@@ -190,7 +190,7 @@ export class GreetingService {
     return this.buildGreeting(
       context,
       lang,
-      this.resolveMood(mood),
+      this.resolveMoodIds(mood),
       this.resolveHoliday(holiday),
     );
   }
@@ -201,11 +201,13 @@ export class GreetingService {
     holiday?: string,
   ): GreetingImageResponseDto {
     const context = this.greetingContextService.getContext();
-    const resolvedMood = this.resolveMood(mood);
-    const resolvedHoliday = this.resolveHoliday(holiday);
-
     return {
-      imageUrl: this.pickImage(context, lang, resolvedMood, resolvedHoliday),
+      imageUrl: this.pickImage(
+        context,
+        lang,
+        this.resolveMoodIds(mood),
+        this.resolveHoliday(holiday),
+      ),
     };
   }
 
