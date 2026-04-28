@@ -1,0 +1,558 @@
+{
+  "morning": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "M-am trezit cu dor de tine și gândul mi-a rămas la noi",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dimineața e mai goală fără tine lângă mine",
+            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Chiar dacă mi-e dor de tine, gândul la noi îmi aduce zâmbet",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mi-e dor de tine, dar ziua începe cu amintiri frumoase",
+            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Dorul de tine vine liniștit odată cu dimineața",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă gândesc la tine în liniștea dimineții",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Dorul de tine îmi dă putere să merg mai departe azi",
+            "slogans": ["Pentru tine!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Chiar dacă nu ești aici, te port cu mine toată ziua",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "M-am trezit cu dor de tine, nu e corect deloc",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cred că trebuie să vii să rezolvi dorul ăsta",
+            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Chiar și dorul de tine îmi arată cât de mult însemni",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt recunoscător pentru tine în fiecare dimineață",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Îți trimit un gând cald chiar dacă mi-e dor de tine",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dorul de tine vine cu multă căldură în suflet",
+            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Mi-e dor de tine și vreau să te văd cât mai repede",
+            "slogans": ["Hai mai repede!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu-mi place deloc să fim departe",
+            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 17
+          }
+        ],
+        "imageUrls": []
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mi-e dor de diminețile în care eram împreună",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Îmi lipsesc momentele simple cu tine",
+            "slogans": ["Cu drag!", "Din suflet!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      }
+    }
+  },
+  "afternoon": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "În mijlocul zilei, dorul de tine se simte și mai tare",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă gândesc la tine și mi se face dor din nou",
+            "slogans": ["Pentru tine!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Dorul de tine vine cu amintiri care mă fac să zâmbesc",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Chiar și cu dor, gândul la tine îmi face ziua mai bună",
+            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Dorul de tine stă liniștit în sufletul meu",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă gândesc la tine în liniștea unei clipe",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Dorul de tine mă face mai puternic azi",
+            "slogans": ["Pentru tine!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Chiar și departe, legătura dintre noi rămâne",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Mi-e dor de tine și nu-mi place deloc situația",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cred că ar trebui să apari și să rezolvi dorul ăsta",
+            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Dorul de tine îmi arată cât de norocos sunt",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Sunt recunoscător pentru tine chiar și când ne desparte distanța",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Îți trimit un gând cald și dorul meu",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dorul de tine vine cu multă căldură",
+            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Mi-e dor de tine și vreau să te văd curând",
+            "slogans": ["Hai mai repede!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu-mi place să fim departe nici măcar o zi",
+            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mi-am amintit de noi și dorul a venit imediat",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi lipsesc azi mai mult",
+            "slogans": ["Cu drag!", "Din suflet!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      }
+    }
+  },
+  "evening": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Seara asta ar fi mai frumoasă dacă ai fi aici",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dorul de tine se simte cel mai tare acum",
+            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Chiar dacă mi-e dor, gândul la tine îmi încălzește seara",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine fac seara mai plăcută",
+            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Dorul de tine vine liniștit odată cu seara",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă gândesc la tine în liniștea serii",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Dorul de tine îmi amintește ce contează cu adevărat",
+            "slogans": ["Pentru tine!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Chiar și departe, rămânem aproape în felul nostru",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Mi-e dor de tine și nu e deloc distractiv",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Cred că seara asta are nevoie de tine",
+            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Sunt recunoscător pentru tine chiar și când mi-e dor",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dorul de tine îmi arată cât de mult însemni",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Îți trimit o îmbrățișare caldă și dorul meu",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dorul de tine vine cu multă căldură în seara asta",
+            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Mi-e dor de tine și vreau să te văd acum",
+            "slogans": ["Hai mai repede!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu-mi place deloc distanța dintre noi",
+            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mi-e dor de serile noastre liniștite împreună",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi umplu seara",
+            "slogans": ["Cu drag!", "Din suflet!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      }
+    }
+  },
+  "night": {
+    "moods": {
+      "romantic": {
+        "messages": [
+          {
+            "text": "Adorm cu dor de tine și cu gândul la noi",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Noaptea e mai grea fără tine lângă mine",
+            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "joyful": {
+        "messages": [
+          {
+            "text": "Chiar și cu dor, adorm cu un zâmbet gândindu-mă la tine",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi fac noaptea mai ușoară",
+            "slogans": ["Din suflet!", "Cu drag!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "calm": {
+        "messages": [
+          {
+            "text": "Dorul de tine se așază liniștit înainte de somn",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Mă gândesc la tine în liniștea nopții",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "inspirational": {
+        "messages": [
+          {
+            "text": "Dorul de tine îmi dă speranță pentru ziua de mâine",
+            "slogans": ["Pentru tine!", "Cu drag!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Chiar dacă suntem departe, ceea ce avem rămâne",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "playful": {
+        "messages": [
+          {
+            "text": "Mi-e dor de tine și nu pot adormi ușor",
+            "slogans": ["Cu drag!", "Pentru tine!", "Zâmbește!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dacă erai aici, somnul venea mai repede",
+            "slogans": ["Pentru tine!", "Cu drag!", "Hai să zâmbim!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "grateful": {
+        "messages": [
+          {
+            "text": "Sunt recunoscător pentru tine chiar și când mi-e dor",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dorul de tine îmi arată cât de mult contezi",
+            "slogans": ["Cu drag!", "Pentru tine!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "warm": {
+        "messages": [
+          {
+            "text": "Îți trimit o îmbrățișare caldă înainte de somn",
+            "slogans": ["Cu drag!", "Pentru tine!", "Din suflet!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Dorul de tine vine cu liniște și căldură",
+            "slogans": ["Din suflet!", "Cu drag!", "Numai bine!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "bold": {
+        "messages": [
+          {
+            "text": "Mi-e dor de tine și vreau să te văd cât mai curând",
+            "slogans": ["Hai mai repede!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 10
+          },
+          {
+            "text": "Nu-mi place deloc să adorm fără tine",
+            "slogans": ["Cu încredere!", "Pentru tine!", "Cu drag!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      },
+      "nostalgic": {
+        "messages": [
+          {
+            "text": "Mi-e dor de nopțile în care eram împreună",
+            "slogans": ["Din suflet!", "Cu drag!", "Pentru tine!"],
+            "textConfigId": 1
+          },
+          {
+            "text": "Amintirile cu tine îmi țin companie în noapte",
+            "slogans": ["Cu drag!", "Din suflet!", "Gânduri bune!"],
+            "textConfigId": 1
+          }
+        ],
+        "imageUrls": []
+      }
+    }
+  }
+}
